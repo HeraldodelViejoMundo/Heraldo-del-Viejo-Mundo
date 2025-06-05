@@ -16,7 +16,7 @@ import openai                        # Resumen IA
 
 # --- Configuración ---------------------------------------------------------
 
-FEED_URL = "https://www.warhammer-community.com/category/old-world/feed/"
+https://rss.app/feeds/0ClZr3gjLfQF269Y.xml
 POSTS_DIR = pathlib.Path("_posts")
 CATEGORY  = "noticias"
 MODEL     = "gpt-3.5-turbo-1106"
