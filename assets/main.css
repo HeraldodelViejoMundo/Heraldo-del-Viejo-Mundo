@@ -1,0 +1,47 @@
+/* =============  TEMA  “VIEJO MUNDO”  ============= */
+
+/* 1. Tipografía medieval */
+@import url("https://fonts.googleapis.com/css2?family=IM+Fell+English+SC&display=swap");
+
+/* 2. Fondo de madera (imagen local) */
+body{
+  margin:0;
+  background:url("/Heraldo-del-Viejo-Mundo/assets/img/madera1.jpg") repeat;
+  font-family:"IM Fell English SC",serif;
+  color:#2e1d0e;
+}
+
+/* 3. Cabecera metálica */
+.page-header{
+  background:url("https://images.unsplash.com/photo-1580577276628-93829dfd1ed4?auto=format&fit=crop&w=1200&q=60") center/cover no-repeat;
+  border-bottom:4px solid #6b4c31;
+  padding:1.2rem 0;
+  text-align:center;
+}
+.page-header h1{color:#f5e6c8;margin:0;}
+
+/* 4. Zona de lectura sobre pergamino claro */
+.wrapper{
+  max-width:900px;
+  margin:2rem auto;
+  background:#fdf8e2ee;
+  padding:2rem 2.5rem;
+  border:1px solid #d9c48c;
+  box-shadow:0 0 8px rgba(0,0,0,.3);
+}
+
+/* 5. Pie de página madera oscura */
+.footer{
+  background:#6b4c31cc;
+  color:#f5e6c8;
+  text-align:center;
+  padding:1rem 0;
+}
+
+/* 6. Enlaces cobre */
+a{color:#b87333;}
+a:hover{color:#d1945c;}
+
+/* 7. Detalles tipográficos */
+h1,h2,h3,h4,h5{margin:1.2em 0 .5em;}
+p{line-height:1.5;margin:.8em 0;}
