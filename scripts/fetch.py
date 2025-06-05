@@ -16,7 +16,7 @@ import openai                        # Resumen IA
 
 # --- Configuración ---------------------------------------------------------
 
-https://rss.app/feeds/0ClZr3gjLfQF269Y.xml
+FEED_URL = "https://rss.app/feeds/0C2EjrlQF269Y.xml"
 POSTS_DIR = pathlib.Path("_posts")
 CATEGORY  = "noticias"
 MODEL     = "gpt-3.5-turbo-1106"
