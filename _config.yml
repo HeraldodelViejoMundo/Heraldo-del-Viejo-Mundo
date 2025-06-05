@@ -1,8 +1,7 @@
-theme: jekyll-theme-cayman
+theme: minima
 
 title: "El Heraldo del Viejo Mundo"
 description: "Noticias, rumores y estrategia de Warhammer: The Old World en español."
-
 
 url: "https://heraldodelviejomundo.github.io"
 baseurl: "/Heraldo-del-Viejo-Mundo"
