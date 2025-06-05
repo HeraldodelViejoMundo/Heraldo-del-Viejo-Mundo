@@ -1,0 +1,9 @@
+/* Fuente con aire medieval */
+@import url("https://fonts.googleapis.com/css2?family=IM+Fell+English+SC&display=swap");
+
+/* Fondo de madera (la imagen madera1.jpg está en la raíz del repo) */
+body{
+  background: url("/Heraldo-del-Viejo-Mundo/madera1.jpg") repeat;
+  font-family: "IM Fell English SC", serif;
+  color: #2e1d0e;
+}
