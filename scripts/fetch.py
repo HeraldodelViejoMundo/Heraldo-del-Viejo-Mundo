@@ -79,16 +79,18 @@ for entry in feed.entries:
     # Conversión HTML→Markdown del cuerpo (fallback si IA falla)
     body_md = html2md(entry.summary)
 
-    # --- Front-matter Jekyll ---
+       # --- Front-matter Jekyll ---
+    safe_title = entry.title.replace('"', "'")  # evita comillas dobles
     header = textwrap.dedent(f"""\
         ---
         layout: post
-        title: "{entry.title.replace('"','\\"')}"
+        title: "{safe_title}"
         date: {published.isoformat()}
         categories: {CATEGORY}
         original_url: {entry.link}
         ---
     """)
+
 
     content = "\n\n".join([header, bullet_md, "\n---\n", body_md])
 
