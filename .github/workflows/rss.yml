@@ -1,0 +1,16 @@
+name: Auto-fetch Old World RSS
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'   # cada 6 h
+  workflow_dispatch:        # permite lanzarlo a mano
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: echo "Workflow creado, script se añadirá después"
