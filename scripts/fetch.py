@@ -7,20 +7,22 @@ Requisitos en el workflow:
 """
 from __future__ import annotations
 import os, re, datetime, textwrap, pathlib, sys
-from urllib.parse import urlparse
 
 import feedparser
 from markdownify import markdownify as html2md
 import openai
 
-# ---------- CONFIG ----------------------------------------------------------
-FEED_URL = ("https://news.google.com/rss/search?"
-            "q=%22The+Old+World%22+Warhammer&hl=en&gl=US&ceid=US:en")
 
-POSTS_DIR   = pathlib.Path("_posts")
-MODEL       = "gpt-3.5-turbo-1106"
-DAYS_LIMIT  = 7               # sólo noticias ≤ 7 días
-PARAS       = 3               # nº de párrafos del resumen
+# ---------- CONFIG ----------------------------------------------------------
+FEED_URL = (
+    "https://news.google.com/rss/search?"
+    "q=%22The+Old+World%22+Warhammer&hl=en&gl=US&ceid=US:en"
+)
+
+POSTS_DIR  = pathlib.Path("_posts")
+MODEL      = "gpt-3.5-turbo-1106"
+DAYS_LIMIT = 7        # sólo noticias ≤ 7 días
+PARAS      = 3        # nº de párrafos del resumen
 
 openai.api_key = os.getenv("OPENAI_API_KEY") or sys.exit("Falta OPENAI_API_KEY")
 # ---------------------------------------------------------------------------
@@ -43,6 +45,7 @@ def summarize(html: str) -> str:
         Empieza con un párrafo (2-3 líneas) de resumen. Después desarrolla la
         noticia en {paras} párrafos (máx. 120 palabras cada uno), enlazando con
         noticias antiguas si procede.
+
         ---
         CONTENIDO HTML (recortado):
         {html}
@@ -57,7 +60,6 @@ def summarize(html: str) -> str:
     return resp.choices[0].message.content.strip()
 
 
-
 # ---------- MAIN ------------------------------------------------------------
 POSTS_DIR.mkdir(exist_ok=True)
 feed = feedparser.parse(FEED_URL)
@@ -70,19 +72,19 @@ for e in feed.entries:
         continue
 
     fname = POSTS_DIR / md_name(pub_dt, e.title)
-    if fname.exists():
-        continue  # ya publicado
+    if fname.exists():          # ya publicado
         continue
 
     print("➕ Nuevo post:", fname.name)
 
     body_md   = summarize(e.summary)
     backup_md = html2md(e.summary)
+    safe_title = e.title.replace('"', '\\"')
 
     md = textwrap.dedent(f"""\
         ---
         layout: post
-        title: "{e.title.replace('"', '\\"')}"
+        title: "{safe_title}"
         date: {pub_dt.isoformat()}
         last_modified_at: {datetime.datetime.utcnow().isoformat()}
         categories: noticias
@@ -100,4 +102,5 @@ for e in feed.entries:
     """)
 
     fname.write_text(md, encoding="utf-8")
+
 print("🔥 Terminado")
