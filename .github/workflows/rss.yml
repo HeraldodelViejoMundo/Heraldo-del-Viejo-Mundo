@@ -1,4 +1,6 @@
 name: Auto-fetch Old World RSS
+permissions:
+  contents: write
 
 on:
   schedule:
