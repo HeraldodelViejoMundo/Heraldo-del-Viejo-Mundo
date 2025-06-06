@@ -3,6 +3,14 @@ layout: default
 title: El Heraldo del Viejo Mundo
 ---
 
-*Bienvenido a nuestro cuartel general para todo lo relacionado con **Warhammer: The Old World***.
+## Últimas noticias de *The Old World*
 
-Aquí encontrarás noticias oficiales, rumores verificados, análisis de reglas y guías de estrategia.  
+{% for post in site.posts limit:10 %}
+### [{{ post.title }}]({{ post.url | relative_url }})
+<small>{{ post.date | date: "%d /%m/%Y" }}</small>
+
+{{ post.excerpt }}
+
+---
+
+{% endfor %}
