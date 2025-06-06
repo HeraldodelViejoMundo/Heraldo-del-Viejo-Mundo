@@ -27,22 +27,26 @@ def md_name(dt, title):
     return f"{dt:%Y-%m-%d}-{slugify(title)}.md"
 
 def summarize(html: str) -> str:
-    prompt = textwrap.dedent(f"""
+    """Devuelve un resumen reescrito en español."""
+    prompt = textwrap.dedent("""
         Eres redactor de un blog de Warhammer.
-        Reescribe de nuevo la noticia en español y resúmela. No debes Traducir los nombres `The Old World`, `Arcane Journal`, ni `Legacy`. 
+        Reescribe de nuevo la noticia en español y resúmela un poco. No debes traducir los nombres The Old World, Arcane Journal ni Legacy.
         El texto debe empezar con un párrafo con la información más importante condensada en dos o tres líneas, de forma que sirva de resumen de la noticia.
-        El resto de párrafos desarrolla la noticia con tus propias palabras. Usa como contexto la información proporcionada previamente en este blog y, si tiene sentido y fuera relevanrte, relaciona esta noticia con noticias antiguas.
-        Máximo 90 palabras por párrafo. Y máximo {PARAS} párrafos.
+        El resto de párrafos desarrolla la noticia con tus propias palabras. Usa como contexto la información proporcionada previamente en este blog y, si tiene sentido y fuera relevante, relaciona esta noticia con noticias antiguas.
+        Máximo 120 palabras por párrafo.
+        ---
+        CONTENIDO HTML ORIGINAL (recortado):
+        {html}
+        ---
+    """).format(html=html[:4000])
 
-        CONTENIDO HTML:
-        {html[:4000]}
-    """)
-    r = openai.chat.completions.create(
+    resp = openai.chat.completions.create(
         model=MODEL,
         messages=[{"role": "user", "content": prompt}],
         temperature=0.4,
     )
-    return r.choices[0].message.content.strip()
+    return resp.choices[0].message.content.strip()
+
 
 # ---------- MAIN ------------------------------------------------------------
 POSTS_DIR.mkdir(exist_ok=True)
