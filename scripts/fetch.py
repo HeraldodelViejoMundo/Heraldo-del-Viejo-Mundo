@@ -70,7 +70,8 @@ for entry in feed.entries:
     if pub_dt < lim_date:
         continue
 
-    fname = POSTS_DIR / md_name(pub_dt, entry.)
+    fname = POSTS_DIR / md_name(pub_dt, e.title)
+
     if fname.exists():
         continue  # ya publicado
 
