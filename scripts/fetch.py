@@ -30,7 +30,7 @@ def summarize(html: str) -> str:
     """Devuelve un resumen reescrito en español."""
     prompt = textwrap.dedent("""
         Eres redactor de un blog de Warhammer.
-        Reescribe de nuevo la noticia en español y resúmela un poco. No debes traducir los nombres The Old World, Arcane Journal ni Legacy.
+        Reescribe de nuevo la noticia en español y resúmela un poco. No debes traducir los nombres `The Old World`, `Arcane Journal`, ni `Legacy`.
         El texto debe empezar con un párrafo con la información más importante condensada en dos o tres líneas, de forma que sirva de resumen de la noticia.
         El resto de párrafos desarrolla la noticia con tus propias palabras. Usa como contexto la información proporcionada previamente en este blog y, si tiene sentido y fuera relevante, relaciona esta noticia con noticias antiguas.
         Máximo 120 palabras por párrafo.
