@@ -34,6 +34,7 @@ def summarize(html: str) -> str:
         El texto debe empezar con un párrafo con la información más importante condensada en dos o tres líneas, de forma que sirva de resumen de la noticia.
         El resto de párrafos desarrolla la noticia con tus propias palabras. Usa como contexto la información proporcionada previamente en este blog y, si tiene sentido y fuera relevante, relaciona esta noticia con noticias antiguas.
         Máximo 120 palabras por párrafo.
+
         ---
         CONTENIDO HTML ORIGINAL (recortado):
         {html}
@@ -46,6 +47,7 @@ def summarize(html: str) -> str:
         temperature=0.4,
     )
     return resp.choices[0].message.content.strip()
+
 
 
 # ---------- MAIN ------------------------------------------------------------
