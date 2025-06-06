@@ -16,7 +16,8 @@ import openai                        # Resumen IA
 
 # --- Configuración ---------------------------------------------------------
 
-FEED_URL = "https://rss.app/feeds/0C2EjrlQF269Y.xml"
+FEED_URL = "https://news.google.com/rss/search?q=%22The+Old+World%22+Warhammer&hl=en&gl=US&ceid=US:en"
+
 POSTS_DIR = pathlib.Path("_posts")
 CATEGORY  = "noticias"
 MODEL     = "gpt-3.5-turbo-1106"
