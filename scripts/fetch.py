@@ -19,7 +19,7 @@ FEED_URL = ("https://news.google.com/rss/search?"
 
 POSTS_DIR   = pathlib.Path("_posts")
 MODEL       = "gpt-3.5-turbo-1106"
-DAYS_LIMIT  = 7               # sólo noticias de la última semana
+DAYS_LIMIT  = 7               # sólo noticias ≤ 7 días
 PARAS       = 3               # nº de párrafos del resumen
 
 openai.api_key = os.getenv("OPENAI_API_KEY") or sys.exit("Falta OPENAI_API_KEY")
@@ -57,49 +57,47 @@ def summarize(html: str) -> str:
     return resp.choices[0].message.content.strip()
 
 
+
 # ---------- MAIN ------------------------------------------------------------
 POSTS_DIR.mkdir(exist_ok=True)
-feed     = feedparser.parse(FEED_URL)
-now_utc  = datetime.datetime.utcnow()
-lim_date = now_utc - datetime.timedelta(days=DAYS_LIMIT)
+feed = feedparser.parse(FEED_URL)
 
-for entry in feed.entries:
-    pub_dt = datetime.datetime(*entry.published_parsed[:6])
+for e in feed.entries:
+    pub_dt = datetime.datetime(*e.published_parsed[:6])
 
-    # sólo última semana
-    if pub_dt < lim_date:
+    # descarta lo que sea demasiado viejo
+    if (datetime.datetime.utcnow() - pub_dt).days > DAYS_LIMIT:
         continue
 
     fname = POSTS_DIR / md_name(pub_dt, e.title)
-
     if fname.exists():
         continue  # ya publicado
+        continue
 
     print("➕ Nuevo post:", fname.name)
 
-    body    = summarize(entry.summary)
-    backup  = html2md(entry.summary)
-    safe_ = entry..replace('"', "'")
-    source   = urlparse(entry.link).netloc.replace("www.", "")
+    body_md   = summarize(e.summary)
+    backup_md = html2md(e.summary)
 
     md = textwrap.dedent(f"""\
----          # ← primera línea
-layout: post
-title: "{e.title.replace('"', '\\"')}"
-date: {dt.isoformat()}
-last_modified_at: {datetime.datetime.utcnow().isoformat()}
-categories: noticias
-original_url: {e.link}
----
+        ---
+        layout: post
+        title: "{e.title.replace('"', '\\"')}"
+        date: {pub_dt.isoformat()}
+        last_modified_at: {datetime.datetime.utcnow().isoformat()}
+        categories: noticias
+        original_url: {e.link}
+        ---
 
-{body}
+        {body_md}
 
-[Leer la noticia completa ↗]({e.link})
+        [Leer más en la fuente ➜]({e.link})
 
-<!-- Copia de seguridad (HTML → Markdown) -->
-{backup}
-""")
+        ---
+        *Copia de seguridad en markdown (auto-generada)*
+
+        {backup_md}
+    """)
 
     fname.write_text(md, encoding="utf-8")
-
 print("🔥 Terminado")
