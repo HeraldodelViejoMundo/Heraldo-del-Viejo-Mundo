@@ -70,7 +70,7 @@ for entry in feed.entries:
     if pub_dt < lim_date:
         continue
 
-    fname = POSTS_DIR / md_name(pub_dt, entry.title)
+    fname = POSTS_DIR / md_name(pub_dt, entry.)
     if fname.exists():
         continue  # ya publicado
 
@@ -78,28 +78,26 @@ for entry in feed.entries:
 
     body    = summarize(entry.summary)
     backup  = html2md(entry.summary)
-    safe_title = entry.title.replace('"', "'")
+    safe_ = entry..replace('"', "'")
     source   = urlparse(entry.link).netloc.replace("www.", "")
 
     md = textwrap.dedent(f"""\
-        ---
-        layout: post
-        title: "{safe_title}"
-        date: {pub_dt.isoformat()}
-        last_modified_at: {now_utc.isoformat()}
-        categories: noticias
-        original_url: {entry.link}
-        ---
+---          # ← primera línea
+layout: post
+title: "{e.title.replace('"', '\\"')}"
+date: {dt.isoformat()}
+last_modified_at: {datetime.datetime.utcnow().isoformat()}
+categories: noticias
+original_url: {e.link}
+---
 
-        {body}
+{body}
 
-        [Leer la noticia completa en **{source}** ➜]({entry.link})
+[Leer la noticia completa ↗]({e.link})
 
-        ---
-        *Copia de seguridad en markdown (auto-generada)*
-
-        {backup}
-    """)
+<!-- Copia de seguridad (HTML → Markdown) -->
+{backup}
+""")
 
     fname.write_text(md, encoding="utf-8")
 
