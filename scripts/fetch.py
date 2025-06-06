@@ -3,40 +3,45 @@ Genera posts de Google News para Warhammer The Old World
 Resumen IA → markdown en _posts/
 Requisitos: pip install feedparser markdownify openai requests
 """
-
 from __future__ import annotations
-import os, re, textwrap, datetime, hashlib, pathlib, sys
+import os, re, textwrap, datetime, pathlib, sys
 
 import feedparser
 from markdownify import markdownify as html2md
-import openai                                   # ← usa tu API key
+import openai                        # ← usa tu API-key
 
 # ---------- CONFIG ----------------------------------------------------------
-FEED_URL  = "https://news.google.com/rss/search?q=%22The+Old+World%22+Warhammer&hl=en&gl=US&ceid=US:en"
+FEED_URL  = (
+    "https://news.google.com/rss/search?q=%22The+Old+World%22+Warhammer"
+    "&hl=en&gl=US&ceid=US:en"
+)
 POSTS_DIR = pathlib.Path("_posts")
 MODEL     = "gpt-3.5-turbo-1106"
-PARAS     = 3        # nº de párrafos que queremos en el resumen
+
 openai.api_key = os.getenv("OPENAI_API_KEY") or sys.exit("Falta OPENAI_API_KEY")
 # ---------------------------------------------------------------------------
 
-def slugify(txt):               # «mi-titulo» para el nombre de archivo
+
+def slugify(txt: str) -> str:
     txt = re.sub(r"[^\w\s-]", "", txt.lower())
     return re.sub(r"[\s_-]+", "-", txt).strip("-")[:50]
 
-def md_name(dt, title):
+
+def md_name(dt: datetime.datetime, title: str) -> str:
     return f"{dt:%Y-%m-%d}-{slugify(title)}.md"
 
+
+# ---------- IA --------------------------------------------------------------
 def summarize(html: str) -> str:
-    """Devuelve un resumen reescrito en español."""
     prompt = textwrap.dedent("""
         Eres redactor de un blog de Warhammer.
-        Reescribe de nuevo la noticia en español y resúmela un poco. No debes traducir los nombres `The Old World`, `Arcane Journal`, ni `Legacy`.
-        El texto debe empezar con un párrafo con la información más importante condensada en dos o tres líneas, de forma que sirva de resumen de la noticia.
-        El resto de párrafos desarrolla la noticia con tus propias palabras. Usa como contexto la información proporcionada previamente en este blog y, si tiene sentido y fuera relevante, relaciona esta noticia con noticias antiguas.
-        Máximo 120 palabras por párrafo.
-
+        Reescribe la noticia en español y resúmela un poco. No traduzcas los nombres
+        `The Old World`, `Arcane Journal` ni `Legacy`.
+        Empieza con un párrafo resumen (2–3 líneas). Desarrolla luego la noticia
+        con tus palabras (máx. 120 palabras por párrafo), enlazando con posts
+        anteriores si procede.
         ---
-        CONTENIDO HTML ORIGINAL (recortado):
+        CONTENIDO HTML (recortado):
         {html}
         ---
     """).format(html=html[:4000])
@@ -49,34 +54,35 @@ def summarize(html: str) -> str:
     return resp.choices[0].message.content.strip()
 
 
-
 # ---------- MAIN ------------------------------------------------------------
 POSTS_DIR.mkdir(exist_ok=True)
 feed = feedparser.parse(FEED_URL)
 
-for e in feed.entries:
-    dt = datetime.datetime(*e.published_parsed[:6])
-    fname = POSTS_DIR / md_name(dt, e.title)
-
-    if fname.exists():          # ya publicado
-        continue
+for entry in feed.entries:
+    dt     = datetime.datetime(*entry.published_parsed[:6])
+    fname  = POSTS_DIR / md_name(dt, entry.title)
+    if fname.exists():
+        continue  # ya publicado
 
     print("➕ Nuevo post:", fname.name)
-    body   = summarize(e.summary)
-    backup = html2md(e.summary)
+
+    body    = summarize(entry.summary)
+    backup  = html2md(entry.summary)
+    # ⚠️ SIN barras invertidas: sustituimos " por '
+    safe_title = entry.title.replace('"', "'")
 
     md = textwrap.dedent(f"""\
         ---
         layout: post
-        title: "{e.title.replace('"', '\\"')}"
+        title: "{safe_title}"
         date: {dt.isoformat()}
         categories: noticias
-        original_url: {e.link}
+        original_url: {entry.link}
         ---
 
         {body}
 
-        [Leer más en la fuente ➜]({e.link})
+        [Leer más en la fuente ➜]({entry.link})
 
         ---
         *Copia de seguridad en markdown (auto-generada)*
@@ -85,4 +91,5 @@ for e in feed.entries:
     """)
 
     fname.write_text(md, encoding="utf-8")
+
 print("🔥 Terminado")
