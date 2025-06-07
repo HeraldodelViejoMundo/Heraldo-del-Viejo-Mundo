@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Old World Almanack – What lurks within the Wildwood? - Warhammer Community"
-date: 2025-06-07T12:28:44.954195
+title: "Hoy en Warhammer Community"
+date: 2025-06-07T12:16:28+00:00
 source_date: 2025-06-07
 categories: noticias
 title_original: "Old World Almanack – What lurks Within the Wildwood?"
@@ -9,7 +9,7 @@ title_translated: "Almanaque del Viejo Mundo – Qué se esconde en el Bosque Sa
 original_url: https://www.warhammer-community.com/en-gb/articles/qlwqfahu/old-world-almanack-what-lurks-within-the-wildwood/
 ---
 
-Los Elfos Silvanos se preparan para su gran regreso en Warhammer: The Old World, con nuevas unidades y habilidades que prometen revolucionar el campo de batalla. Este emocionante renacer de los guardianes del bosque promete traer consigo una mezcla de estrategia y magia que desafiará a los jugadores.
+Los Elfos SilvanoS se preparan para su gran regreso en Warhammer: The Old World, con nuevas unidades y habilidades que prometen revolucionar el campo de batalla. Este emocionante renacer de los guardianes del bosque promete traer consigo una mezcla de estrategia y magia que desafiará a los jugadores.
 
 El esperado retorno de los Elfos Silvanos en Warhammer: The Old World está programado para el 16 de mayo de 2025. Este lanzamiento marca una nueva era para esta facción, conocida por su conexión con la naturaleza y su habilidad para emboscar a sus enemigos. Los Elfos Silvanos, habitantes ancestrales de los bosques de Athel Loren, están listos para desplegar sus tácticas de guerrilla y habilidades mágicas en el campo de batalla.
 
