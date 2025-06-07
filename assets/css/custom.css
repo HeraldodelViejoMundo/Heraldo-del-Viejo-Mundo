@@ -41,3 +41,21 @@ body {
   color: #4b2600;       /* marrón oscuro */
   margin-top: 1.2em;
 }
+
+/* -------- Cartela clara para el contenido -------- */
+.page-content {
+  background: rgba(255, 252, 240, 0.92);   /* beige semitransparente */
+  padding: 2rem 2.5rem;
+  border-radius: 10px;
+  max-width: 900px;
+  margin: 2.5rem auto;          /* centrada y con aire */
+  box-shadow: 0 0 8px rgba(0,0,0,0.4);  /* leve sombra */
+}
+
+/* Títulos dentro de la cartela, más contraste */
+.page-content h1,
+.page-content h2,
+.page-content h3 {
+  color: #3b1d00;   /* marrón oscuro */
+}
+
