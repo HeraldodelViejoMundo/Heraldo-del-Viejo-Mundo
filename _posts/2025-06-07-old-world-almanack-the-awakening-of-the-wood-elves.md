@@ -1,6 +1,8 @@
 ---
 layout: post
-title: "Old World Almanack – The awakening of the Wood Elves - Warhammer Community"
+title: "Hoy en Warhammer Community"
+title_original: "Old World Almanack – The awakening of the Wood Elves - Warhammer Community"
+title_translated: "{{pendiente}}"
 date: 2025-06-07T12:29:09.966517
 source_date: 2025-06-07
 categories: noticias

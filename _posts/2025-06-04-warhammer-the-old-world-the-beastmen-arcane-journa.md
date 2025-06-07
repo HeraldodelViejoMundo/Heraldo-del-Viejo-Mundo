@@ -1,6 +1,8 @@
 ---
 layout: post
-title: "‘Warhammer: The Old World’- The Beastmen Arcane Journal Is A Homerun - Bell of Lost Souls"
+title: "Hoy en Warhammer Community"
+title_original: "‘Warhammer: The Old World’- The Beastmen Arcane Journal Is A Homerun - Bell of Lost Souls"
+title_translated: "{{pendiente}}"
 date: 2025-06-04T07:02:33
 last_modified_at: 2025-06-06T12:07:17.628308
 categories: noticias

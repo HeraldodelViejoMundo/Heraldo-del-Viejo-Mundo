@@ -1,6 +1,8 @@
 ---
 layout: post
-title: "Bring harmony to the Old World with the armies of Grand Cathay - Warhammer Community"
+title: "Hoy en Warhammer Community"
+title_original: "Bring harmony to the Old World with the armies of Grand Cathay - Warhammer Community"
+title_translated: "{{pendiente}}"
 date: 2025-06-07T12:28:51.946400
 source_date: 2025-06-07
 categories: noticias

@@ -1,6 +1,8 @@
 ---
 layout: post
-title: "‘Warhammer: The Old World’- Beastmen Got the Best Magic Items In An Arcane Journal - Bell of Lost Souls"
+title: "Hoy en Warhammer Community"
+title_original: "‘Warhammer: The Old World’- Beastmen Got the Best Magic Items In An Arcane Journal - Bell of Lost Souls"
+title_translated: "{{pendiente}}"
 date: 2025-06-05T07:00:39
 last_modified_at: 2025-06-06T12:07:19.203362
 categories: noticias

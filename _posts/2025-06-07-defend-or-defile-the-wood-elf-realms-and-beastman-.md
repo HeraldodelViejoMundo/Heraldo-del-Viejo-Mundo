@@ -1,6 +1,8 @@
 ---
 layout: post
-title: "Defend or defile – The Wood Elf Realms and Beastman Brayherds battle for the forests of the Old World - Warhammer Community"
+title: "Hoy en Warhammer Community"
+title_original: "Defend or defile – The Wood Elf Realms and Beastman Brayherds battle for the forests of the Old World - Warhammer Community"
+title_translated: "{{pendiente}}"
 date: 2025-06-07T12:28:59.887312
 source_date: 2025-06-07
 categories: noticias

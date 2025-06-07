@@ -1,6 +1,8 @@
 ---
 layout: post
-title: "Games Workshop Pre-Orders: Beastmen & Spearhead Weekend - belloflostsouls.net"
+title: "Hoy en Warhammer Community"
+title_original: "Games Workshop Pre-Orders: Beastmen & Spearhead Weekend - belloflostsouls.net"
+title_translated: "{{pendiente}}"
 date: 2025-06-01T02:01:26
 last_modified_at: 2025-06-07T03:32:56.144586
 categories: noticias
