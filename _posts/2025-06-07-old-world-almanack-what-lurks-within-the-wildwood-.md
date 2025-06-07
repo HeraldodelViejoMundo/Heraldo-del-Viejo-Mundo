@@ -4,6 +4,8 @@ title: "Old World Almanack – What lurks within the Wildwood? - Warhammer Commu
 date: 2025-06-07T12:28:44.954195
 source_date: 2025-06-07
 categories: noticias
+title_original: "Old World Almanack – What lurks Within the Wildwood?"
+title_translated: "Almanaque del Viejo Mundo – Qué se esconde en el Bosque Salvaje"
 original_url: https://www.warhammer-community.com/en-gb/articles/qlwqfahu/old-world-almanack-what-lurks-within-the-wildwood/
 ---
 
