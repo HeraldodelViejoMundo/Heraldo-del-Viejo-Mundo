@@ -9,9 +9,23 @@
   <link rel="stylesheet" href="{{ "/assets/css/custom.css" | relative_url }}">
 </head>
 <body>
-  <div class="post-content">
+  <div class="page-content">
+
+    {%- if page.layout == "post" -%}
+      <h1 style="margin-top:0">
+        <span style="color:#000;font-weight:700">
+          Hoy en Warhammer Community:
+        </span>
+        <span style="color:#0057b8">
+          {{ page.title_original }}
+        </span>
+        <span style="color:#555;font-size:0.8em">
+          ({{ page.title_translated }})
+        </span>
+      </h1>
+    {%- endif -%}
+
     {{ content }}
   </div>
 </body>
 </html>
-
