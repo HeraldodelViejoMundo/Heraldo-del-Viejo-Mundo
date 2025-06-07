@@ -1,37 +1,6 @@
-<!DOCTYPE html>
-<html lang="es">
-  <head>
-    <meta charset="UTF-8">
-    <title>{{ page.title }} | El Heraldo del Viejo Mundo</title>
-    <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-  </head>
-  <body>
-    <main class="page-content" aria-label="Contenido">
-      <article class="post">
-        <h1>{{ page.title }}</h1>
+---
+layout: default
+---
 
-        <p>
-          📅 Fecha de la noticia: {{ page.date | date: "%d/%m/%Y" }}<br>
-          🕒 Publicado en este blog el {{ page.last_modified_at | date: "%d/%m/%Y a las %H:%M" }}
-        </p>
+{{ content }}
 
-        <hr>
-
-        <div class="post-content">
-          {{ content }}
-        </div>
-
-        <hr>
-
-        {% if page.original_url %}
-          <p>
-            <a href="{{ page.original_url }}" target="_blank" style="font-weight: bold;">
-              📎 Leer noticia original ↗
-            </a>
-          </p>
-        {% endif %}
-      </article>
-    </main>
-  </body>
-</html>
