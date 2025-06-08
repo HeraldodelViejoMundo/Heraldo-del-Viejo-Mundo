@@ -5,7 +5,7 @@ title: El Heraldo del Viejo Mundo
 
 ## Últimas noticias de *The Old World*
 
-% for post in site.posts limit:10 %}
+{% for post in site.posts limit:10 %}
 {% if post.video_url %}
 ### 🎥 <a href="{{ post.url | relative_url }}"><strong>Vídeo de {{ post.channel }}</strong>: {{ post.title }}</a>
 <small>{{ post.date | date: "%d/%m/%Y" }}</small>
@@ -25,5 +25,4 @@ title: El Heraldo del Viejo Mundo
 
 {{ post.excerpt }}
 ---
-
 {% endfor %}
