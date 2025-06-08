@@ -10,7 +10,7 @@ title: El Heraldo del Viejo Mundo
 <small>{{ post.date | date: "%d/%m/%Y" }}</small>
 
 {% if post.thumbnail %}
-<img src="{{ post.thumbnail }}" alt="Miniatura del vídeo" style="width:100%; max-width:500px; margin:10px 0;">
+<img src="{{ post.thumbnail }}" alt="Miniatura del vídeo" style="width:60%; max-width:300px; margin:10px 0;">
 {% endif %}
 
 {% if post.image %}
