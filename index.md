@@ -7,7 +7,7 @@ title: El Heraldo del Viejo Mundo
 
 {% for post in site.posts limit:10 %}
 {% if post.video_url %}
-### 🎥 <a href="{{ post.url | relative_url }}"><strong>Vídeo de {{ post.channel }}</strong>: {{ post.title }}</a>
+### <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
 <small>{{ post.date | date: "%d/%m/%Y" }}</small>
 
 {% if post.thumbnail %}
