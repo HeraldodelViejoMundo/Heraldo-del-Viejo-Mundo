@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Nuevo vídeo de La Posada del Martillo"
+title: "Nuevo vídeo de La Posada del Martillo: La TORMENTA del CAOS"
 date: 2025-05-28T20:06:08Z
 categories: videos
 video_url: https://www.youtube.com/watch?v=EpO2a7HReKc

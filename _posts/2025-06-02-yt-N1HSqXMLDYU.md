@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Nuevo vídeo de 13th Warrior"
+title: "Nuevo vídeo de 13th Warrior: 🎲MUNDIAL 2026 EN ESPAÑA Y DOS NOTICIAS TOW MAS!!!🎲NOTICIAS TOW #26 #theoldworld"
 date: 2025-06-02T13:48:25Z
 categories: videos
 video_url: https://www.youtube.com/watch?v=N1HSqXMLDYU

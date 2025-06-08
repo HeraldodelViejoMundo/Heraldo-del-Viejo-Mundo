@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Nuevo vídeo de 13th Warrior"
+title: "Nuevo vídeo de 13th Warrior: 🎲BRETONIA VS HOMBRES BESTIA🎲 LIGA CUARTOS FINAL 2000 PUNTOS WARHAMMER THE OLD WORLD #theoldworld"
 date: 2025-06-07T13:24:04Z
 categories: videos
 video_url: https://www.youtube.com/watch?v=hAscyG5gdHY
