@@ -1,0 +1,35 @@
+---
+layout: post
+title: "Hoy, en Warhammer Community"
+date: 2025-06-08T00:18:06.459147
+source_date: 2025-05-29
+categories: noticias
+original_url: https://www.warhammer-community.com/en-gb/articles/rybvkwfs/old-world-almanack-the-children-of-chaos/
+title_original: "Old World Almanack – The Children of Chaos - Warhammer Community"
+title_translated: "Almanaque del Viejo Mundo – Los Hijos del Caos - Comunidad Warhammer"
+excerpt: >
+  En el último encuentro en el oscuro bosque iluminado por la enfermiza luz de Morrslieb, el Profeta del Caos regresa con nuevas revelaciones del grimorio prohibido, el Arcane Journal: Beastmen. La historia se desarrolla en Westerland, donde los mercenarios de Middenheim se enfrentan a los temidos Hombres Bestia bajo la nieve. Liderados por Kralmaw, el Profeta de la Ruina, los emboscadores traen consigo un nuevo personaje y una miniatura de resina impresionante. Además, Ghorros, conocido como el Padre de Todos los Centigors, regresa en metal, añadiendo fuerza a las listas de ejército de los Hombres Bestia. Con nuevas opciones tácticas y un enfoque en la magia y la mutación, esta entrega promete intensas batallas y estrategias innovadoras para los aficionados de Warhammer.
+summary: >
+  En el último encuentro en el oscuro bosque iluminado por la enfermiza luz de Morrslieb, el Profeta del Caos regresa con nuevas revelaciones del grimorio prohibido, el Arcane Journal: Beastmen. La historia se desarrolla en Westerland, donde los mercenarios de Middenheim se enfrentan a los temidos Hombres Bestia bajo la nieve. Liderados por Kralmaw, el Profeta de la Ruina, los emboscadores traen consigo un nuevo personaje y una miniatura de resina impresionante. Además, Ghorros, conocido como el Padre de Todos los Centigors, regresa en metal, añadiendo fuerza a las listas de ejército de los Hombres Bestia. Con nuevas opciones tácticas y un enfoque en la magia y la mutación, esta entrega promete intensas batallas y estrategias innovadoras para los aficionados de Warhammer.
+image: "https://assets.warhammer-community.com/the-old-world-banner-test.jpg"
+---
+
+*Publicado originalmente el 29-may-2025.*
+
+El artículo nos transporta a los oscuros y peligrosos bosques del Viejo Mundo, donde los Hombres Bestia continúan sus incursiones y asaltos. En esta ocasión, se destaca la presencia de Kralmaw, el Profeta de la Ruina, un nuevo personaje que se introduce con una miniatura de resina de gran calidad. Kralmaw es un vidente ciego, con una habilidad de armas baja, pero que cuenta con una salvación especial de 4+ y poderes proféticos que se manifiestan en el campo de batalla. Además, es un mago competente y su Familiar, un Espíritu Burlón, sirve como marcador para canalizar sus hechizos.
+
+Otro personaje destacado es Ghorros, conocido como el Padre de Todos los Centigors, que regresa en metal. Ghorros es un personaje icónico que potencia a los Centigors y encaja perfectamente en el primer Ejército de la Infamia, la Manada Salvaje, al igual que Kralmaw. Esta lista ofrece opciones diferentes a la composición del gran ejército de Brayherds, incluyendo manadas mixtas de Gors y Ungors, unidades de sabuesos de guerra dirigidos por maestros de bestias Ungors, y una gran cantidad de magia y mutaciones.
+
+La segunda lista de ejército es la Manada de Sangre de Minotauros, diseñada para aquellos que desean jugar con un ejército compuesto exclusivamente por Minotauros. Este ejército es uno de los más agresivos y devastadores del juego. Puedes incluir un Doombull como Señor, y Gorebulls como héroes, junto con Ghorgons, Cygors, Razorgors, sabuesos de guerra, arpías, ogros del Caos y trolls como unidades raras. Además, los líderes pueden recibir los Dones del Caos y hay una presencia significativa de la regla Furia Asesina.
+
+El saber de la Magia Primal se centra en los temores a los oscuros bosques del Viejo Mundo, aplicando efectos de Miedo y Terror. Además, se han reintroducido objetos mágicos icónicos como el Cleaver de Latón, el Hacha de Khorgor y el Estandarte de Gore.
+
+Entre los objetos mágicos, destaca el Black Maul, un garrote brutal de 80 puntos que otorga Fuerza adicional, Ataques y Penetración de Armadura. Cada vez que se obtiene un 6 natural en la regla de Ataques Extra (+D6), el portador sufre un penalizador de -1 a su Habilidad de Armas.
+
+También se han remasterizado en resina de Forge World algunas de las bestias más extrañas, como el Jabberslythe y la Cockatrice, mejorando su calidad y detalle. El Preyton regresa sin cambios, y el Jefe Centigor de Mordheim también está de vuelta.
+
+Las Herdstones vuelven como elementos de terreno especial que facilitan el lanzamiento de hechizos para los magos de los Hombres Bestia y aumentan la ferocidad de las tropas, debilitando el coraje de sus enemigos. Estos elementos de terreno representan un proyecto de modelismo divertido para los aficionados.
+
+En resumen, este artículo ofrece una visión detallada de las nuevas y remasterizadas miniaturas, reglas y opciones de ejército para los Hombres Bestia, proporcionando a los jugadores una amplia gama de posibilidades tácticas y de modelismo para explorar en el mundo de Warhammer: The Old World.
+Las novedades presentadas en el artículo sobre los Hombres Bestia en Warhammer: The Old World tienen un impacto significativo en el metajuego y en la comunidad de jugadores. La introducción de Kralmaw, el Profeta de la Ruina, y el regreso de Ghorros, el Padre de Todos los Centigors, ofrecen nuevas dinámicas tácticas que podrían alterar la composición de los ejércitos y las estrategias en los torneos. La habilidad de Kralmaw para canalizar hechizos a través de su Espíritu Burlón y su salvación especial de 4+ lo convierten en una adición estratégica para aquellos que buscan potenciar la magia en sus partidas. Por otro lado, Ghorros refuerza las capacidades de los Centigors, lo que podría incentivar el uso de estas unidades en listas competitivas. La creación de listas específicas como la Manada de Sangre de Minotauros ofrece a los jugadores la oportunidad de experimentar con ejércitos altamente agresivos, desafiando a los oponentes a adaptarse a su devastadora fuerza bruta. Además, la reintroducción de objetos mágicos icónicos y las mejoras en las miniaturas de resina, como el Jabberslythe y la Cockatrice, no solo enriquecen las opciones de juego, sino que también representan un atractivo para los coleccionistas y modelistas. Estas figuras, disponibles con un 15% de descuento en El Arca Negra, pueden motivar a los jugadores a expandir sus colecciones y a participar en eventos de modelismo. Sin embargo, el desafío radica en integrar estas nuevas opciones de manera efectiva en las estrategias existentes, lo que requerirá un análisis cuidadoso y pruebas en el campo de batalla. En conjunto, estas novedades revitalizan el interés en los Hombres Bestia y presentan oportunidades para innovar en el juego, tanto para veteranos como para nuevos jugadores.
+[Leer noticia original ➜](https://www.warhammer-community.com/en-gb/articles/rybvkwfs/old-world-almanack-the-children-of-chaos/)
