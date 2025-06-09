@@ -7,12 +7,12 @@ video_url: https://www.youtube.com/watch?v=ivXCBBQKhDs
 channel: "Leyendas en Miniatura"
 thumbnail: https://i.ytimg.com/vi/ivXCBBQKhDs/hqdefault.jpg
 excerpt: >
-  En el segundo episodio de la serie de escaramuzas de Warhammer Fantasy en el canal «Leyendas en Miniatura», los Matadores cobran protagonismo. Este grupo de enanos busca redimirse a través de enfrentamientos épicos, ofreciendo a los aficionados una emocionante visión de sus hazañas en el campo de batalla. Acompáñanos en «El Heraldo del Viejo Mundo» mientras exploramos las tácticas y desafíos que enfrentan estos valientes guerreros en su búsqueda de gloria.
+  En el segundo episodio de la serie "Warhammer Fantasy Escaramuzas" en el canal «Leyendas en Miniatura», los espectadores son llevados al corazón de intensos enfrentamientos en el Viejo Mundo. Bajo el título «¡MATADORES!», este vídeo promete sumergirnos en emocionantes batallas donde la estrategia y la habilidad son clave. Acompáñanos en «El Heraldo del Viejo Mundo» mientras exploramos los detalles de estas escaramuzas épicas y descubrimos qué hace que estos encuentros sean imperdibles para los aficionados de Warhammer Fantasy.
 ---
 
 🎥 **Nuevo vídeo publicado por [Leyendas en Miniatura](https://www.youtube.com/channel/UCbs4BdIbYNqb5zWPt8qYdGQ)**:
 
-En el segundo episodio de la serie de escaramuzas de Warhammer Fantasy en el canal «Leyendas en Miniatura», los Matadores cobran protagonismo. Este grupo de enanos busca redimirse a través de enfrentamientos épicos, ofreciendo a los aficionados una emocionante visión de sus hazañas en el campo de batalla. Acompáñanos en «El Heraldo del Viejo Mundo» mientras exploramos las tácticas y desafíos que enfrentan estos valientes guerreros en su búsqueda de gloria.
+En el segundo episodio de la serie "Warhammer Fantasy Escaramuzas" en el canal «Leyendas en Miniatura», los espectadores son llevados al corazón de intensos enfrentamientos en el Viejo Mundo. Bajo el título «¡MATADORES!», este vídeo promete sumergirnos en emocionantes batallas donde la estrategia y la habilidad son clave. Acompáñanos en «El Heraldo del Viejo Mundo» mientras exploramos los detalles de estas escaramuzas épicas y descubrimos qué hace que estos encuentros sean imperdibles para los aficionados de Warhammer Fantasy.
 
 ## ¡MATADORES! - Warhammer Fantasy Escaramuzas #2
 

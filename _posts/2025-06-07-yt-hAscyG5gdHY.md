@@ -7,12 +7,12 @@ video_url: https://www.youtube.com/watch?v=hAscyG5gdHY
 channel: "13th Warrior"
 thumbnail: https://i.ytimg.com/vi/hAscyG5gdHY/hqdefault.jpg
 excerpt: >
-  En el último video informe del canal «13th Warrior», nos sumergimos en un emocionante enfrentamiento entre Bretonia y los Hombres Bestia. En este duelo de cuartos de final de la liga, ambos ejércitos se enfrentan en una épica batalla de 2000 puntos en el mundo de Warhammer The Old World. Acompáñanos a explorar las estrategias y tácticas desplegadas en este enfrentamiento crucial.
+  En el último enfrentamiento épico presentado en el canal «13th Warrior», los ejércitos de Bretonia se miden contra los Hombres Bestia en un duelo decisivo de 2000 puntos en el marco de la liga de Warhammer The Old World. Este emocionante video informe nos lleva a los cuartos de final, donde las estrategias y tácticas de ambos bandos se ponen a prueba en el campo de batalla. Acompáñanos en «El Heraldo del Viejo Mundo» para desentrañar cada movimiento y descubrir quién prevalecerá en este choque titánico.
 ---
 
 🎥 **Nuevo vídeo publicado por [13th Warrior](https://www.youtube.com/channel/UCYOhXS04iLg68Sro80yF_1w)**:
 
-En el último video informe del canal «13th Warrior», nos sumergimos en un emocionante enfrentamiento entre Bretonia y los Hombres Bestia. En este duelo de cuartos de final de la liga, ambos ejércitos se enfrentan en una épica batalla de 2000 puntos en el mundo de Warhammer The Old World. Acompáñanos a explorar las estrategias y tácticas desplegadas en este enfrentamiento crucial.
+En el último enfrentamiento épico presentado en el canal «13th Warrior», los ejércitos de Bretonia se miden contra los Hombres Bestia en un duelo decisivo de 2000 puntos en el marco de la liga de Warhammer The Old World. Este emocionante video informe nos lleva a los cuartos de final, donde las estrategias y tácticas de ambos bandos se ponen a prueba en el campo de batalla. Acompáñanos en «El Heraldo del Viejo Mundo» para desentrañar cada movimiento y descubrir quién prevalecerá en este choque titánico.
 
 ## 🎲BRETONIA VS HOMBRES BESTIA🎲 LIGA CUARTOS FINAL 2000 PUNTOS WARHAMMER THE OLD WORLD #theoldworld
 

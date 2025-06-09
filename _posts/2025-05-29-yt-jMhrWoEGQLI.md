@@ -7,12 +7,12 @@ video_url: https://www.youtube.com/watch?v=jMhrWoEGQLI
 channel: "La Escotilla Estaliana Podcast"
 thumbnail: https://i.ytimg.com/vi/jMhrWoEGQLI/hqdefault.jpg
 excerpt: >
-  En el episodio más reciente de «La Escotilla Estaliana Podcast», se presenta un emocionante crossover con «La Cripta del Plástico». Esta colaboración promete ofrecer a los aficionados de Warhammer una rica conversación sobre temas que apasionan a la comunidad, posiblemente explorando aspectos del trasfondo o analizando las miniaturas que tanto nos fascinan. No te pierdas este encuentro entre dos referentes del hobby.
+  En el episodio 38 de «La Escotilla Estaliana Podcast», se presenta un emocionante crossover con «La Cripta del Plástico». Este encuentro promete ofrecer una rica conversación entre ambos canales, posiblemente explorando temas de interés común para los aficionados de Warhammer y el modelismo. No te pierdas esta colaboración que podría traer nuevas perspectivas y discusiones sobre el apasionante mundo de The Old World.
 ---
 
 🎥 **Nuevo vídeo publicado por [La Escotilla Estaliana Podcast](https://www.youtube.com/channel/UCnuFKtPyiIav80gPpPFdMiQ)**:
 
-En el episodio más reciente de «La Escotilla Estaliana Podcast», se presenta un emocionante crossover con «La Cripta del Plástico». Esta colaboración promete ofrecer a los aficionados de Warhammer una rica conversación sobre temas que apasionan a la comunidad, posiblemente explorando aspectos del trasfondo o analizando las miniaturas que tanto nos fascinan. No te pierdas este encuentro entre dos referentes del hobby.
+En el episodio 38 de «La Escotilla Estaliana Podcast», se presenta un emocionante crossover con «La Cripta del Plástico». Este encuentro promete ofrecer una rica conversación entre ambos canales, posiblemente explorando temas de interés común para los aficionados de Warhammer y el modelismo. No te pierdas esta colaboración que podría traer nuevas perspectivas y discusiones sobre el apasionante mundo de The Old World.
 
 ## 38  Crossover con La Cripta del Plástico.
 

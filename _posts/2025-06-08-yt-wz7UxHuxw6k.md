@@ -7,12 +7,12 @@ video_url: https://www.youtube.com/watch?v=wz7UxHuxw6k
 channel: "13th Warrior"
 thumbnail: https://i.ytimg.com/vi/wz7UxHuxw6k/hqdefault.jpg
 excerpt: >
-  En el canal «13th Warrior», se ha publicado un emocionante informe de batalla que enfrenta a los Enanos del Caos contra los Guerreros del Caos en la segunda ronda de un torneo a 2000 puntos. Este enfrentamiento épico, ambientado en el universo de The Old World, promete ofrecer intensas estrategias y tácticas que mantendrán a los aficionados al borde de sus asientos. Acompáñanos en «El Heraldo del Viejo Mundo» mientras desglosamos los momentos clave de este duelo titánico.
+  En el último video informe del canal «13th Warrior», se enfrentan los Enanos del Caos contra los Guerreros del Caos en la segunda ronda de un torneo a 2000 puntos. Este emocionante enfrentamiento en el mundo de Warhammer promete estrategias intensas y batallas épicas, ofreciendo a los aficionados una visión detallada de las tácticas empleadas por ambos bandos en The Old World.
 ---
 
 🎥 **Nuevo vídeo publicado por [13th Warrior](https://www.youtube.com/channel/UCYOhXS04iLg68Sro80yF_1w)**:
 
-En el canal «13th Warrior», se ha publicado un emocionante informe de batalla que enfrenta a los Enanos del Caos contra los Guerreros del Caos en la segunda ronda de un torneo a 2000 puntos. Este enfrentamiento épico, ambientado en el universo de The Old World, promete ofrecer intensas estrategias y tácticas que mantendrán a los aficionados al borde de sus asientos. Acompáñanos en «El Heraldo del Viejo Mundo» mientras desglosamos los momentos clave de este duelo titánico.
+En el último video informe del canal «13th Warrior», se enfrentan los Enanos del Caos contra los Guerreros del Caos en la segunda ronda de un torneo a 2000 puntos. Este emocionante enfrentamiento en el mundo de Warhammer promete estrategias intensas y batallas épicas, ofreciendo a los aficionados una visión detallada de las tácticas empleadas por ambos bandos en The Old World.
 
 ## 🎲ENANOS DEL CAOS VS GUERREROS DEL CAOS🎲2@ RONDA TORNEO2000 PUNTOS INFORME DE BATALLA  #theoldworld
 

@@ -7,12 +7,12 @@ video_url: https://www.youtube.com/watch?v=NLTn8DQMVR8
 channel: "Juegos y Dados"
 thumbnail: https://i.ytimg.com/vi/NLTn8DQMVR8/hqdefault.jpg
 excerpt: >
-  En el canal «Juegos y Dados» se ha publicado una reseña sobre «Choose Cthulhu II», centrándose en la adaptación de «El Caso de Charles Dexter Ward». Este video ofrece una mirada detallada a esta obra interactiva inspirada en el universo de H.P. Lovecraft, ideal para los aficionados que buscan expandir su colección de relatos de horror cósmico. En «El Heraldo del Viejo Mundo», exploramos cómo estas narrativas pueden enriquecer la experiencia de juego en The Old World, aportando nuevas dimensiones de misterio y suspense.
+  En el canal «Juegos y Dados» se ha publicado un nuevo vídeo que explora la serie «Choose Cthulhu II» a través de una reseña de «El Caso de Charles Dexter Ward». Este contenido podría ser de interés para los aficionados a los juegos de rol y narrativa interactiva, ofreciendo una mirada detallada a esta adaptación de la obra de H.P. Lovecraft. Si te apasiona el misterio y el horror cósmico, este vídeo podría proporcionarte una nueva perspectiva sobre cómo estos elementos se integran en el mundo lúdico.
 ---
 
 🎥 **Nuevo vídeo publicado por [Juegos y Dados](https://www.youtube.com/channel/UCKYcuuzvrqrPobA1poIhOBw)**:
 
-En el canal «Juegos y Dados» se ha publicado una reseña sobre «Choose Cthulhu II», centrándose en la adaptación de «El Caso de Charles Dexter Ward». Este video ofrece una mirada detallada a esta obra interactiva inspirada en el universo de H.P. Lovecraft, ideal para los aficionados que buscan expandir su colección de relatos de horror cósmico. En «El Heraldo del Viejo Mundo», exploramos cómo estas narrativas pueden enriquecer la experiencia de juego en The Old World, aportando nuevas dimensiones de misterio y suspense.
+En el canal «Juegos y Dados» se ha publicado un nuevo vídeo que explora la serie «Choose Cthulhu II» a través de una reseña de «El Caso de Charles Dexter Ward». Este contenido podría ser de interés para los aficionados a los juegos de rol y narrativa interactiva, ofreciendo una mirada detallada a esta adaptación de la obra de H.P. Lovecraft. Si te apasiona el misterio y el horror cósmico, este vídeo podría proporcionarte una nueva perspectiva sobre cómo estos elementos se integran en el mundo lúdico.
 
 ## Choose Cthulhu II - Reseña El Caso de Charles Dexter Ward
 
