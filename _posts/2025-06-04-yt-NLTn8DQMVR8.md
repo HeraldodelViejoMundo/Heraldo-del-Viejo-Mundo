@@ -7,12 +7,12 @@ video_url: https://www.youtube.com/watch?v=NLTn8DQMVR8
 channel: "Juegos y Dados"
 thumbnail: https://i.ytimg.com/vi/NLTn8DQMVR8/hqdefault.jpg
 excerpt: >
-  En el canal «Juegos y Dados» se ha publicado una reseña sobre «Choose Cthulhu II», centrándose en «El Caso de Charles Dexter Ward». Este análisis podría ofrecer una perspectiva interesante para los aficionados a las historias de terror y misterio, y es una oportunidad para explorar cómo estas narrativas pueden inspirar a los jugadores del Viejo Mundo en sus propias campañas y aventuras.
+  En el canal «Juegos y Dados» se ha publicado un nuevo vídeo que explora el universo de H.P. Lovecraft a través de una reseña de «Choose Cthulhu II», centrándose en la inquietante historia de «El Caso de Charles Dexter Ward». Aunque no directamente relacionado con el trasfondo de The Old World, este tipo de contenido puede ofrecer inspiración para aquellos que buscan enriquecer sus partidas de rol o narrativas en el mundo de Warhammer.
 ---
 
 🎥 **Nuevo vídeo publicado por [Juegos y Dados](https://www.youtube.com/channel/UCKYcuuzvrqrPobA1poIhOBw)**:
 
-En el canal «Juegos y Dados» se ha publicado una reseña sobre «Choose Cthulhu II», centrándose en «El Caso de Charles Dexter Ward». Este análisis podría ofrecer una perspectiva interesante para los aficionados a las historias de terror y misterio, y es una oportunidad para explorar cómo estas narrativas pueden inspirar a los jugadores del Viejo Mundo en sus propias campañas y aventuras.
+En el canal «Juegos y Dados» se ha publicado un nuevo vídeo que explora el universo de H.P. Lovecraft a través de una reseña de «Choose Cthulhu II», centrándose en la inquietante historia de «El Caso de Charles Dexter Ward». Aunque no directamente relacionado con el trasfondo de The Old World, este tipo de contenido puede ofrecer inspiración para aquellos que buscan enriquecer sus partidas de rol o narrativas en el mundo de Warhammer.
 
 ## Choose Cthulhu II - Reseña El Caso de Charles Dexter Ward
 
