@@ -7,12 +7,12 @@ video_url: https://www.youtube.com/watch?v=hAscyG5gdHY
 channel: "13th Warrior"
 thumbnail: https://i.ytimg.com/vi/hAscyG5gdHY/hqdefault.jpg
 excerpt: >
-  En el último enfrentamiento de la liga de Warhammer The Old World, Bretonia se mide contra los Hombres Bestia en un emocionante duelo de 2000 puntos. Este video informe, presentado en el canal «13th Warrior», nos sumerge en una intensa batalla que promete ser un espectáculo para los aficionados del Viejo Mundo. Acompáñanos en «El Heraldo del Viejo Mundo» para desentrañar las estrategias y momentos clave de este épico enfrentamiento.
+  En el último enfrentamiento de la Liga de Warhammer The Old World, Bretonia se mide contra los Hombres Bestia en un emocionante duelo de cuartos de final a 2000 puntos. El canal «13th Warrior» nos ofrece un detallado video informe de la batalla, donde las estrategias y tácticas de ambos ejércitos se ponen a prueba en el campo de batalla. No te pierdas este apasionante capítulo del Viejo Mundo.
 ---
 
 🎥 **Nuevo vídeo publicado por [13th Warrior](https://www.youtube.com/channel/UCYOhXS04iLg68Sro80yF_1w)**:
 
-En el último enfrentamiento de la liga de Warhammer The Old World, Bretonia se mide contra los Hombres Bestia en un emocionante duelo de 2000 puntos. Este video informe, presentado en el canal «13th Warrior», nos sumerge en una intensa batalla que promete ser un espectáculo para los aficionados del Viejo Mundo. Acompáñanos en «El Heraldo del Viejo Mundo» para desentrañar las estrategias y momentos clave de este épico enfrentamiento.
+En el último enfrentamiento de la Liga de Warhammer The Old World, Bretonia se mide contra los Hombres Bestia en un emocionante duelo de cuartos de final a 2000 puntos. El canal «13th Warrior» nos ofrece un detallado video informe de la batalla, donde las estrategias y tácticas de ambos ejércitos se ponen a prueba en el campo de batalla. No te pierdas este apasionante capítulo del Viejo Mundo.
 
 ## 🎲BRETONIA VS HOMBRES BESTIA🎲 LIGA CUARTOS FINAL 2000 PUNTOS WARHAMMER THE OLD WORLD #theoldworld
 

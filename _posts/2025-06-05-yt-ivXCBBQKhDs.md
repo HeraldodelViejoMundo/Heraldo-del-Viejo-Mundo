@@ -7,12 +7,12 @@ video_url: https://www.youtube.com/watch?v=ivXCBBQKhDs
 channel: "Leyendas en Miniatura"
 thumbnail: https://i.ytimg.com/vi/ivXCBBQKhDs/hqdefault.jpg
 excerpt: >
-  En el segundo episodio de la serie de escaramuzas de Warhammer Fantasy en el canal «Leyendas en Miniatura», los espectadores son transportados a intensos enfrentamientos protagonizados por los temibles Matadores. Este contenido promete sumergirnos en la acción táctica característica de las escaramuzas en el Viejo Mundo, ofreciendo una experiencia visual que destaca la estrategia y el dinamismo de estas batallas a pequeña escala.
+  En el segundo episodio de la serie de escaramuzas de Warhammer Fantasy en el canal «Leyendas en Miniatura», nos adentramos en el emocionante mundo de los Matadores. Este contenido promete ofrecer una experiencia intensa y llena de acción, ideal para los aficionados que disfrutan de las batallas a pequeña escala en el Viejo Mundo. Acompáñanos en «El Heraldo del Viejo Mundo» mientras exploramos las tácticas y desafíos que presentan estas épicas escaramuzas.
 ---
 
 🎥 **Nuevo vídeo publicado por [Leyendas en Miniatura](https://www.youtube.com/channel/UCbs4BdIbYNqb5zWPt8qYdGQ)**:
 
-En el segundo episodio de la serie de escaramuzas de Warhammer Fantasy en el canal «Leyendas en Miniatura», los espectadores son transportados a intensos enfrentamientos protagonizados por los temibles Matadores. Este contenido promete sumergirnos en la acción táctica característica de las escaramuzas en el Viejo Mundo, ofreciendo una experiencia visual que destaca la estrategia y el dinamismo de estas batallas a pequeña escala.
+En el segundo episodio de la serie de escaramuzas de Warhammer Fantasy en el canal «Leyendas en Miniatura», nos adentramos en el emocionante mundo de los Matadores. Este contenido promete ofrecer una experiencia intensa y llena de acción, ideal para los aficionados que disfrutan de las batallas a pequeña escala en el Viejo Mundo. Acompáñanos en «El Heraldo del Viejo Mundo» mientras exploramos las tácticas y desafíos que presentan estas épicas escaramuzas.
 
 ## ¡MATADORES! - Warhammer Fantasy Escaramuzas #2
 
