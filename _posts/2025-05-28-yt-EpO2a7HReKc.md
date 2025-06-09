@@ -7,12 +7,12 @@ video_url: https://www.youtube.com/watch?v=EpO2a7HReKc
 channel: "La Posada del Martillo"
 thumbnail: https://i.ytimg.com/vi/EpO2a7HReKc/hqdefault.jpg
 excerpt: >
-  En el último vídeo de La Posada del Martillo, los creadores nos sumergen en un análisis detallado sobre el impacto del Caos en el mundo de Warhammer Fantasy. Explorando las fuerzas desatadas por esta temible amenaza, el contenido promete enriquecer nuestro conocimiento del trasfondo del Viejo Mundo y sus eternas batallas.
+  En el último vídeo de «La Posada del Martillo», los aficionados al universo de Warhammer pueden sumergirse en un análisis detallado sobre el impacto del Caos en el Viejo Mundo. Explorando el trasfondo de este fenómeno devastador, el canal ofrece una visión profunda y cautivadora que seguramente atraerá tanto a veteranos como a nuevos seguidores de este apasionante universo.
 ---
 
 🎥 **Nuevo vídeo publicado por [La Posada del Martillo](https://www.youtube.com/channel/UCuRsk2Iq9PZoC3XPLAPePEQ)**:
 
-En el último vídeo de La Posada del Martillo, los creadores nos sumergen en un análisis detallado sobre el impacto del Caos en el mundo de Warhammer Fantasy. Explorando las fuerzas desatadas por esta temible amenaza, el contenido promete enriquecer nuestro conocimiento del trasfondo del Viejo Mundo y sus eternas batallas.
+En el último vídeo de «La Posada del Martillo», los aficionados al universo de Warhammer pueden sumergirse en un análisis detallado sobre el impacto del Caos en el Viejo Mundo. Explorando el trasfondo de este fenómeno devastador, el canal ofrece una visión profunda y cautivadora que seguramente atraerá tanto a veteranos como a nuevos seguidores de este apasionante universo.
 
 ## La TORMENTA del CAOS
 

@@ -7,12 +7,12 @@ video_url: https://www.youtube.com/watch?v=ivXCBBQKhDs
 channel: "Leyendas en Miniatura"
 thumbnail: https://i.ytimg.com/vi/ivXCBBQKhDs/hqdefault.jpg
 excerpt: >
-  En la segunda entrega de la serie «Warhammer Fantasy Escaramuzas» del canal «Leyendas en Miniatura», los seguidores del Viejo Mundo podrán adentrarse en el emocionante mundo de los Matadores. Este vídeo promete explorar las tácticas y desafíos de estos intrépidos guerreros en el campo de batalla, ofreciendo una mirada detallada a sus habilidades y estrategias en el juego de escaramuzas. Acompáñanos en «El Heraldo del Viejo Mundo» para descubrir más sobre esta fascinante faceta de Warhammer Fantasy.
+  En el último vídeo del canal «Leyendas en Miniatura», los aficionados de Warhammer Fantasy pueden sumergirse en una intensa escaramuza protagonizada por los temibles Matadores. Este contenido promete ofrecer una emocionante narración visual, donde las tácticas y la estrategia en el campo de batalla son clave. No te pierdas esta oportunidad de explorar más sobre el fascinante mundo de The Old World y sus intrépidos guerreros.
 ---
 
 🎥 **Nuevo vídeo publicado por [Leyendas en Miniatura](https://www.youtube.com/channel/UCbs4BdIbYNqb5zWPt8qYdGQ)**:
 
-En la segunda entrega de la serie «Warhammer Fantasy Escaramuzas» del canal «Leyendas en Miniatura», los seguidores del Viejo Mundo podrán adentrarse en el emocionante mundo de los Matadores. Este vídeo promete explorar las tácticas y desafíos de estos intrépidos guerreros en el campo de batalla, ofreciendo una mirada detallada a sus habilidades y estrategias en el juego de escaramuzas. Acompáñanos en «El Heraldo del Viejo Mundo» para descubrir más sobre esta fascinante faceta de Warhammer Fantasy.
+En el último vídeo del canal «Leyendas en Miniatura», los aficionados de Warhammer Fantasy pueden sumergirse en una intensa escaramuza protagonizada por los temibles Matadores. Este contenido promete ofrecer una emocionante narración visual, donde las tácticas y la estrategia en el campo de batalla son clave. No te pierdas esta oportunidad de explorar más sobre el fascinante mundo de The Old World y sus intrépidos guerreros.
 
 ## ¡MATADORES! - Warhammer Fantasy Escaramuzas #2
 

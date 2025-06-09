@@ -7,12 +7,12 @@ video_url: https://www.youtube.com/watch?v=jMhrWoEGQLI
 channel: "La Escotilla Estaliana Podcast"
 thumbnail: https://i.ytimg.com/vi/jMhrWoEGQLI/hqdefault.jpg
 excerpt: >
-  En el episodio más reciente de «La Escotilla Estaliana Podcast», se presenta un emocionante crossover con «La Cripta del Plástico». Este encuentro promete ofrecer una interesante discusión que podría atraer tanto a los entusiastas de Warhammer como a los aficionados al modelismo y coleccionismo de miniaturas. No te pierdas esta colaboración que seguramente enriquecerá el panorama de ambos mundos.
+  En el episodio 38 del podcast «La Escotilla Estaliana», se lleva a cabo un emocionante crossover con «La Cripta del Plástico». Este encuentro promete ofrecer una enriquecedora conversación entre dos referentes del mundo de Warhammer, explorando temas que seguramente captarán la atención de los aficionados al hobby. No te pierdas esta colaboración que une a dos comunidades apasionadas por el universo de miniaturas y estrategia.
 ---
 
 🎥 **Nuevo vídeo publicado por [La Escotilla Estaliana Podcast](https://www.youtube.com/channel/UCnuFKtPyiIav80gPpPFdMiQ)**:
 
-En el episodio más reciente de «La Escotilla Estaliana Podcast», se presenta un emocionante crossover con «La Cripta del Plástico». Este encuentro promete ofrecer una interesante discusión que podría atraer tanto a los entusiastas de Warhammer como a los aficionados al modelismo y coleccionismo de miniaturas. No te pierdas esta colaboración que seguramente enriquecerá el panorama de ambos mundos.
+En el episodio 38 del podcast «La Escotilla Estaliana», se lleva a cabo un emocionante crossover con «La Cripta del Plástico». Este encuentro promete ofrecer una enriquecedora conversación entre dos referentes del mundo de Warhammer, explorando temas que seguramente captarán la atención de los aficionados al hobby. No te pierdas esta colaboración que une a dos comunidades apasionadas por el universo de miniaturas y estrategia.
 
 ## 38  Crossover con La Cripta del Plástico.
 
