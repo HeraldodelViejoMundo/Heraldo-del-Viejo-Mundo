@@ -8,26 +8,30 @@ title: El Heraldo del Viejo Mundo
 
 {% for post in paginator.posts %}
 
-<a href="{{ post.url | relative_url }}" style="text-decoration: none; display: block; margin-bottom: 3em;">
+<a href="{{ post.url | relative_url }}" style="text-decoration: none;">
   {% if post.categories contains "noticias" %}
-    <p style="margin-bottom:0.2em; font-size:0.9em; font-weight:bold; color:#000;">
+    <p style="margin-bottom:0.1em; font-size:0.9em; font-weight:bold; color:#000;">
       Hoy, en Warhammer Community
     </p>
     <p style="margin:0; font-size:1.4em; font-weight:bold; color:#000;">
       {{ post.title_original }}
     </p>
-    <p style="margin-top:0.4em; font-size:1.1em; color:#444;">
+    <p style="margin-top:0.2em; font-size:1.1em; color:#444;">
       {{ post.title_translated }}
     </p>
   {% elsif post.categories contains "videos" %}
-    <p style="margin-bottom:0.2em; font-size:0.9em; font-weight:bold; color:#000;">
-      🎥 Nuevo vídeo de {{ post.channel }}
+    <p style="margin-bottom:0.1em; font-size:0.9em; font-weight:bold; color:#000;">
+      🎥 Nuevo vídeo de
     </p>
-    <p style="margin-top:0.4em; font-size:1.1em; color:#444;">
+    <p style="margin:0; font-size:1.3em; font-weight:bold; color:#b30000;">
+      {{ post.channel }}
+    </p>
+    <p style="margin-top:0.2em; font-size:1.1em; color:#444;">
       {{ post.title }}
     </p>
   {% endif %}
 </a>
+
 
 <small>
   {% if post.source_date %}
