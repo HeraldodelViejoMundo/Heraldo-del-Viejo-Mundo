@@ -8,7 +8,7 @@ title: El Heraldo del Viejo Mundo
 
 {% for post in paginator.posts %}
 
-<a href="{{ post.url | relative_url }}" style="text-decoration: none;">
+<a href="{{ post.url | relative_url }}" style="text-decoration: none; display: block; margin-bottom: 3em;">
   {% if post.categories contains "noticias" %}
     <p style="margin-bottom:0.2em; font-size:0.9em; font-weight:bold; color:#000;">
       Hoy, en Warhammer Community
@@ -21,7 +21,7 @@ title: El Heraldo del Viejo Mundo
     </p>
   {% elsif post.categories contains "videos" %}
     <p style="margin-bottom:0.2em; font-size:0.9em; font-weight:bold; color:#000;">
-      🎥 Nuevo vídeo publicado por {{ post.channel }}
+      🎥 Nuevo vídeo de {{ post.channel }}
     </p>
     <p style="margin-top:0.4em; font-size:1.1em; color:#444;">
       {{ post.title }}
