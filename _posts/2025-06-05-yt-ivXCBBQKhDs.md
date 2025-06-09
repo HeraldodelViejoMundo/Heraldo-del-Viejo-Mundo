@@ -7,12 +7,12 @@ video_url: https://www.youtube.com/watch?v=ivXCBBQKhDs
 channel: "Leyendas en Miniatura"
 thumbnail: https://i.ytimg.com/vi/ivXCBBQKhDs/hqdefault.jpg
 excerpt: >
-  En el segundo episodio de la serie de escaramuzas de Warhammer Fantasy en el canal «Leyendas en Miniatura», los Matadores cobran protagonismo. Este grupo de enanos, conocidos por su valentía y su búsqueda de una muerte gloriosa en combate, se enfrenta a nuevos desafíos en el campo de batalla. Descubre cómo estas unidades icónicas despliegan su ferocidad en pequeños enfrentamientos que capturan la esencia del Viejo Mundo.
+  En el segundo episodio de la serie de escaramuzas de Warhammer Fantasy en el canal «Leyendas en Miniatura», los Matadores cobran protagonismo. Este grupo de enanos busca redimirse a través de enfrentamientos épicos, ofreciendo a los aficionados una emocionante visión de sus hazañas en el campo de batalla. Acompáñanos en «El Heraldo del Viejo Mundo» mientras exploramos las tácticas y desafíos que enfrentan estos valientes guerreros en su búsqueda de gloria.
 ---
 
 🎥 **Nuevo vídeo publicado por [Leyendas en Miniatura](https://www.youtube.com/channel/UCbs4BdIbYNqb5zWPt8qYdGQ)**:
 
-En el segundo episodio de la serie de escaramuzas de Warhammer Fantasy en el canal «Leyendas en Miniatura», los Matadores cobran protagonismo. Este grupo de enanos, conocidos por su valentía y su búsqueda de una muerte gloriosa en combate, se enfrenta a nuevos desafíos en el campo de batalla. Descubre cómo estas unidades icónicas despliegan su ferocidad en pequeños enfrentamientos que capturan la esencia del Viejo Mundo.
+En el segundo episodio de la serie de escaramuzas de Warhammer Fantasy en el canal «Leyendas en Miniatura», los Matadores cobran protagonismo. Este grupo de enanos busca redimirse a través de enfrentamientos épicos, ofreciendo a los aficionados una emocionante visión de sus hazañas en el campo de batalla. Acompáñanos en «El Heraldo del Viejo Mundo» mientras exploramos las tácticas y desafíos que enfrentan estos valientes guerreros en su búsqueda de gloria.
 
 ## ¡MATADORES! - Warhammer Fantasy Escaramuzas #2
 

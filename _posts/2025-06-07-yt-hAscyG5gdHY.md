@@ -7,12 +7,12 @@ video_url: https://www.youtube.com/watch?v=hAscyG5gdHY
 channel: "13th Warrior"
 thumbnail: https://i.ytimg.com/vi/hAscyG5gdHY/hqdefault.jpg
 excerpt: >
-  En el canal «13th Warrior», se ha publicado un emocionante video informe de batalla que enfrenta a los ejércitos de Bretonia contra los Hombres Bestia. Este enfrentamiento, parte de la liga de cuartos de final, se desarrolla con un total de 2000 puntos, ofreciendo una intensa y estratégica contienda en el mundo de Warhammer: The Old World. Acompáñanos en «El Heraldo del Viejo Mundo» para descubrir los detalles de esta épica batalla.
+  En el último video informe del canal «13th Warrior», nos sumergimos en un emocionante enfrentamiento entre Bretonia y los Hombres Bestia. En este duelo de cuartos de final de la liga, ambos ejércitos se enfrentan en una épica batalla de 2000 puntos en el mundo de Warhammer The Old World. Acompáñanos a explorar las estrategias y tácticas desplegadas en este enfrentamiento crucial.
 ---
 
 🎥 **Nuevo vídeo publicado por [13th Warrior](https://www.youtube.com/channel/UCYOhXS04iLg68Sro80yF_1w)**:
 
-En el canal «13th Warrior», se ha publicado un emocionante video informe de batalla que enfrenta a los ejércitos de Bretonia contra los Hombres Bestia. Este enfrentamiento, parte de la liga de cuartos de final, se desarrolla con un total de 2000 puntos, ofreciendo una intensa y estratégica contienda en el mundo de Warhammer: The Old World. Acompáñanos en «El Heraldo del Viejo Mundo» para descubrir los detalles de esta épica batalla.
+En el último video informe del canal «13th Warrior», nos sumergimos en un emocionante enfrentamiento entre Bretonia y los Hombres Bestia. En este duelo de cuartos de final de la liga, ambos ejércitos se enfrentan en una épica batalla de 2000 puntos en el mundo de Warhammer The Old World. Acompáñanos a explorar las estrategias y tácticas desplegadas en este enfrentamiento crucial.
 
 ## 🎲BRETONIA VS HOMBRES BESTIA🎲 LIGA CUARTOS FINAL 2000 PUNTOS WARHAMMER THE OLD WORLD #theoldworld
 
