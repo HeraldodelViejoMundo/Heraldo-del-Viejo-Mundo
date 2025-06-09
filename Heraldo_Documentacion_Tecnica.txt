@@ -1,0 +1,157 @@
+# Documentación Técnica Completa
+## Proyecto: El Heraldo del Viejo Mundo
+### Estado: operativo con automatización total
+### Fecha: 9 de junio de 2025
+
+---
+
+## ✨ Propósito del sistema
+Generar automáticamente un blog actualizado sobre Warhammer: The Old World (TOW), a partir de:
+- Noticias de **Warhammer Community**.
+- Vídeos relevantes de **YouTube**.
+
+El sistema analiza, resume, traduce y redacta los contenidos con GPT-4, generando archivos `.md` compatibles con Jekyll y publicándolos automáticamente en GitHub Pages.
+
+---
+
+## 📁 Estructura de directorios
+
+- `/opt/oldworldbot/`
+  - `video_bot.py` → Bot de vídeos (YouTube)
+  - `bot.py` → Bot de artículos (Warhammer Community)
+  - `run_bot.sh` → Publicación automática de artículos
+  - `logs/` → Contiene `video_bot.log` y `run_bot.log`
+  - `.env` → Variables de entorno: `OPENAI_API_KEY`, `YOUTUBE_API_KEY`
+
+- `/opt/Heraldo-del-Viejo-Mundo/`
+  - `_posts/` → Donde se guardan y publican los `.md`
+  - `index.html` → Raíz del blog con paginación activa
+  - `Gemfile`, `Gemfile.lock` → Gestiona dependencias (Jekyll, plugins)
+  - `_config.yml` → Configuración de Jekyll
+  - `.github/workflows/deploy.yml` → GitHub Actions para publicación estática
+
+---
+
+## 🧪 Tecnologías y dependencias
+
+- **Lenguaje:** Python 3.10 (venv)
+- **Servidor:** Hetzner Cloud, Ubuntu 22.04 LTS
+- **Blog:** Jekyll (estático), desplegado con GitHub Pages
+- **Scraping:** Playwright + BeautifulSoup4
+- **Procesamiento:** GPT-4 via OpenAI API
+- **Publicación:** `git` + GitHub Actions
+- **Dependencias Ruby:** `jekyll`, `jekyll-paginate`, `minima`
+
+---
+
+## ⏰ Automatización con `cron`
+
+0 * * * * /opt/oldworldbot/venv/bin/python3 /opt/oldworldbot/video_bot.py >> /opt/oldworldbot/logs/video_bot.log 2>&1
+5 * * * * /opt/oldworldbot/run_bot.sh >> /opt/oldworldbot/logs/run_bot.log 2>&1
+
+yaml
+Copiar
+Editar
+
+Orden garantizado:
+1. A `:00` se publican los vídeos.
+2. A `:05` se publican los artículos.
+
+---
+
+## 🛠 video_bot.py
+
+- Analiza canales de YouTube aprobados.
+- Filtra por fecha y tema (TOW, Old World).
+- Descarta duplicados por nombre de archivo (`YYYY-MM-DD-yt-<id>.md`).
+- Resume y redacta con GPT-4.
+- Publica directamente en `_posts/` y hace `git commit` + `push`.
+- Ya no depende de `run_bot.sh`.
+
+**Avances:**
+- Publicación directa y automática.
+- Log independiente (`logs/video_bot.log`).
+
+---
+
+## 🛠 bot.py
+
+- Scrapea la sección "The Old World" de Warhammer Community.
+- Extrae HTML con Playwright y trafilatura.
+- Usa GPT-4 para generar cuerpo, título, resumen y conclusiones.
+- Evita duplicados mirando `title_original` de los `.md` en `_posts/`.
+- Publica en `posts/`, luego `run_bot.sh` los mueve.
+
+**Filtro activo:** solo procesa artículos posteriores al 1 de mayo de 2025.
+
+---
+
+## 🛠 run_bot.sh
+
+- Ejecuta `bot.py`.
+- Mueve los `.md` generados a `_posts/`.
+- Hace `git commit` y `push`.
+
+**Cambio importante:** se eliminó el `rsync` que copiaba de `_posts/` a `posts/`. Ya no es necesario tras la independencia de `video_bot.py`.
+
+---
+
+## 💡 Problema resuelto: paginación rota
+
+### Síntoma:
+- Blog mostraba solo 30 entradas.
+- El enlace “Siguientes →” no aparecía, aunque `/page2/` existía.
+
+### Causa:
+- `jekyll-paginate` no se activaba en GitHub Pages porque faltaba `Gemfile.lock`.
+- Existía un `index.md` que bloqueaba `index.html`.
+
+### Solución:
+- Se ejecutó `bundle install` y se subió `Gemfile.lock`.
+- Se eliminó `index.md`.
+- Se verificó el uso correcto de `paginator.posts` y `paginator.next_page`.
+
+Resultado: **paginación completamente funcional.**
+
+---
+
+## 🔍 Comprobaciones útiles
+
+```bash
+ls -lt /opt/Heraldo-del-Viejo-Mundo/_posts/             # ver archivos generados
+tail -n 50 /opt/oldworldbot/logs/video_bot.log          # log de vídeos
+tail -n 50 /opt/oldworldbot/logs/run_bot.log            # log de artículos
+crontab -l                                              # ver tareas programadas
+🌍 Publicación y despliegue
+Blog Jekyll con tema minima.
+
+Paginación activada con:
+
+yaml
+Copiar
+Editar
+paginate: 30
+paginate_path: "/page:num"
+plugins:
+  - jekyll-paginate
+GitHub Actions toma los cambios en main y publica vía GitHub Pages.
+
+🚧 Tareas futuras
+Reescribir artículos antiguos mal generados.
+
+Detectar cambios parciales en artículos.
+
+Ampliar ventana de scraping si se quiere regenerar el pasado.
+
+Añadir hashes o versión para evitar duplicados lógicos.
+
+Crear dashboard de control.
+
+✅ Estado actual
+Vídeos y artículos se publican automáticamente.
+
+La paginación funciona.
+
+Los logs están separados.
+
+El sistema es replicable y mantenible por cualquier desarrollador.
