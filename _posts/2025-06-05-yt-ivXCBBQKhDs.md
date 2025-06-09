@@ -7,12 +7,12 @@ video_url: https://www.youtube.com/watch?v=ivXCBBQKhDs
 channel: "Leyendas en Miniatura"
 thumbnail: https://i.ytimg.com/vi/ivXCBBQKhDs/hqdefault.jpg
 excerpt: >
-  En el último vídeo del canal «Leyendas en Miniatura», nos adentramos en el emocionante mundo de las escaramuzas de Warhammer Fantasy. Bajo el título «¡MATADORES!», este segundo episodio de la serie promete intensas batallas y estrategias en miniatura. Acompáñanos en «El Heraldo del Viejo Mundo» mientras exploramos los detalles y tácticas que hacen de estas escaramuzas una experiencia imprescindible para los aficionados del Viejo Mundo.
+  En el segundo episodio de la serie de escaramuzas de Warhammer Fantasy en el canal «Leyendas en Miniatura», los Matadores cobran protagonismo. Este grupo de enanos, conocidos por su valentía y su búsqueda de una muerte gloriosa en combate, se enfrenta a nuevos desafíos en el campo de batalla. Descubre cómo estas unidades icónicas despliegan su ferocidad en pequeños enfrentamientos que capturan la esencia del Viejo Mundo.
 ---
 
 🎥 **Nuevo vídeo publicado por [Leyendas en Miniatura](https://www.youtube.com/channel/UCbs4BdIbYNqb5zWPt8qYdGQ)**:
 
-En el último vídeo del canal «Leyendas en Miniatura», nos adentramos en el emocionante mundo de las escaramuzas de Warhammer Fantasy. Bajo el título «¡MATADORES!», este segundo episodio de la serie promete intensas batallas y estrategias en miniatura. Acompáñanos en «El Heraldo del Viejo Mundo» mientras exploramos los detalles y tácticas que hacen de estas escaramuzas una experiencia imprescindible para los aficionados del Viejo Mundo.
+En el segundo episodio de la serie de escaramuzas de Warhammer Fantasy en el canal «Leyendas en Miniatura», los Matadores cobran protagonismo. Este grupo de enanos, conocidos por su valentía y su búsqueda de una muerte gloriosa en combate, se enfrenta a nuevos desafíos en el campo de batalla. Descubre cómo estas unidades icónicas despliegan su ferocidad en pequeños enfrentamientos que capturan la esencia del Viejo Mundo.
 
 ## ¡MATADORES! - Warhammer Fantasy Escaramuzas #2
 

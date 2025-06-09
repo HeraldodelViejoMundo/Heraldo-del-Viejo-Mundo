@@ -7,12 +7,12 @@ video_url: https://www.youtube.com/watch?v=jMhrWoEGQLI
 channel: "La Escotilla Estaliana Podcast"
 thumbnail: https://i.ytimg.com/vi/jMhrWoEGQLI/hqdefault.jpg
 excerpt: >
-  En el episodio más reciente de «La Escotilla Estaliana Podcast», se presenta un emocionante crossover con «La Cripta del Plástico». Este encuentro promete ofrecer una enriquecedora discusión entre ambos canales, posiblemente explorando temas relacionados con el universo de Warhammer, desde el análisis de miniaturas hasta debates sobre el trasfondo del juego. No te pierdas este intercambio que podría aportar nuevas perspectivas y conocimientos a la comunidad de The Old World.
+  En el episodio más reciente de La Escotilla Estaliana Podcast, se presenta un emocionante crossover con La Cripta del Plástico. Este encuentro promete una interesante conversación entre ambos canales, posiblemente explorando temas relacionados con el vasto universo de Warhammer. No te pierdas este intercambio que podría ofrecer nuevas perspectivas y enriquecer tu conocimiento sobre el mundo del hobby.
 ---
 
 🎥 **Nuevo vídeo publicado por [La Escotilla Estaliana Podcast](https://www.youtube.com/channel/UCnuFKtPyiIav80gPpPFdMiQ)**:
 
-En el episodio más reciente de «La Escotilla Estaliana Podcast», se presenta un emocionante crossover con «La Cripta del Plástico». Este encuentro promete ofrecer una enriquecedora discusión entre ambos canales, posiblemente explorando temas relacionados con el universo de Warhammer, desde el análisis de miniaturas hasta debates sobre el trasfondo del juego. No te pierdas este intercambio que podría aportar nuevas perspectivas y conocimientos a la comunidad de The Old World.
+En el episodio más reciente de La Escotilla Estaliana Podcast, se presenta un emocionante crossover con La Cripta del Plástico. Este encuentro promete una interesante conversación entre ambos canales, posiblemente explorando temas relacionados con el vasto universo de Warhammer. No te pierdas este intercambio que podría ofrecer nuevas perspectivas y enriquecer tu conocimiento sobre el mundo del hobby.
 
 ## 38  Crossover con La Cripta del Plástico.
 
