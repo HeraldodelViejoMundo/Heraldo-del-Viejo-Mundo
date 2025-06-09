@@ -7,12 +7,12 @@ video_url: https://www.youtube.com/watch?v=NLTn8DQMVR8
 channel: "Juegos y Dados"
 thumbnail: https://i.ytimg.com/vi/NLTn8DQMVR8/hqdefault.jpg
 excerpt: >
-  En el canal «Juegos y Dados» se ha publicado un nuevo vídeo que explora el universo de H.P. Lovecraft a través de una reseña de «Choose Cthulhu II», centrándose en la inquietante historia de «El Caso de Charles Dexter Ward». Aunque no directamente relacionado con el trasfondo de The Old World, este tipo de contenido puede ofrecer inspiración para aquellos que buscan enriquecer sus partidas de rol o narrativas en el mundo de Warhammer.
+  En el canal «Juegos y Dados» se ha publicado una reseña sobre "Choose Cthulhu II", centrándose en "El Caso de Charles Dexter Ward". Este contenido podría ofrecer una interesante perspectiva para los aficionados a los juegos de rol y narrativas interactivas, explorando cómo se adapta la obra de H.P. Lovecraft en este formato. En «El Heraldo del Viejo Mundo», nos gusta mantener a nuestros lectores informados sobre las novedades en el ámbito de los juegos de mesa y rol, y esta reseña promete ser un recurso valioso para quienes buscan expandir sus horizontes más allá de The Old World.
 ---
 
 🎥 **Nuevo vídeo publicado por [Juegos y Dados](https://www.youtube.com/channel/UCKYcuuzvrqrPobA1poIhOBw)**:
 
-En el canal «Juegos y Dados» se ha publicado un nuevo vídeo que explora el universo de H.P. Lovecraft a través de una reseña de «Choose Cthulhu II», centrándose en la inquietante historia de «El Caso de Charles Dexter Ward». Aunque no directamente relacionado con el trasfondo de The Old World, este tipo de contenido puede ofrecer inspiración para aquellos que buscan enriquecer sus partidas de rol o narrativas en el mundo de Warhammer.
+En el canal «Juegos y Dados» se ha publicado una reseña sobre "Choose Cthulhu II", centrándose en "El Caso de Charles Dexter Ward". Este contenido podría ofrecer una interesante perspectiva para los aficionados a los juegos de rol y narrativas interactivas, explorando cómo se adapta la obra de H.P. Lovecraft en este formato. En «El Heraldo del Viejo Mundo», nos gusta mantener a nuestros lectores informados sobre las novedades en el ámbito de los juegos de mesa y rol, y esta reseña promete ser un recurso valioso para quienes buscan expandir sus horizontes más allá de The Old World.
 
 ## Choose Cthulhu II - Reseña El Caso de Charles Dexter Ward
 

@@ -7,12 +7,12 @@ video_url: https://www.youtube.com/watch?v=hAscyG5gdHY
 channel: "13th Warrior"
 thumbnail: https://i.ytimg.com/vi/hAscyG5gdHY/hqdefault.jpg
 excerpt: >
-  En el canal «13th Warrior» se ha publicado un emocionante video informe de batalla que enfrenta a los ejércitos de Bretonia y los Hombres Bestia en un duelo épico. Esta contienda, que forma parte de los cuartos de final de una liga, se desarrolla en el universo de Warhammer The Old World y cuenta con un despliegue de 2000 puntos por bando. Acompaña a los jugadores en esta intensa partida y descubre quién se alza con la victoria en este enfrentamiento estratégico.
+  En el canal «13th Warrior», se ha publicado un emocionante enfrentamiento en el mundo de Warhammer The Old World. En esta ocasión, Bretonia se enfrenta a los Hombres Bestia en un duelo estratégico de 2000 puntos, correspondiente a los cuartos de final de una liga. Descubre cómo se desarrolla este épico combate y qué ejército logra imponerse en el campo de batalla.
 ---
 
 🎥 **Nuevo vídeo publicado por [13th Warrior](https://www.youtube.com/channel/UCYOhXS04iLg68Sro80yF_1w)**:
 
-En el canal «13th Warrior» se ha publicado un emocionante video informe de batalla que enfrenta a los ejércitos de Bretonia y los Hombres Bestia en un duelo épico. Esta contienda, que forma parte de los cuartos de final de una liga, se desarrolla en el universo de Warhammer The Old World y cuenta con un despliegue de 2000 puntos por bando. Acompaña a los jugadores en esta intensa partida y descubre quién se alza con la victoria en este enfrentamiento estratégico.
+En el canal «13th Warrior», se ha publicado un emocionante enfrentamiento en el mundo de Warhammer The Old World. En esta ocasión, Bretonia se enfrenta a los Hombres Bestia en un duelo estratégico de 2000 puntos, correspondiente a los cuartos de final de una liga. Descubre cómo se desarrolla este épico combate y qué ejército logra imponerse en el campo de batalla.
 
 ## 🎲BRETONIA VS HOMBRES BESTIA🎲 LIGA CUARTOS FINAL 2000 PUNTOS WARHAMMER THE OLD WORLD #theoldworld
 

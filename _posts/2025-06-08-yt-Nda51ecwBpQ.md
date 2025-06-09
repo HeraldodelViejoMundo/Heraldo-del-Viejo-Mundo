@@ -7,12 +7,12 @@ video_url: https://www.youtube.com/watch?v=Nda51ecwBpQ
 channel: "13th Warrior"
 thumbnail: https://i.ytimg.com/vi/Nda51ecwBpQ/hqdefault.jpg
 excerpt: >
-  En el canal «13th Warrior» se ha publicado un emocionante enfrentamiento entre Enanos del Caos y Guerreros del Caos, correspondiente a la segunda ronda del clasificatorio mundial de The Old World Warhammer. Este video informe nos sumerge en una batalla épica donde dos fuerzas poderosas chocan en el Viejo Mundo, ofreciendo a los aficionados una visión detallada de las estrategias y tácticas empleadas por ambos bandos.
+  En el canal «13th Warrior», se ha publicado un emocionante enfrentamiento entre Enanos del Caos y Guerreros del Caos en la segunda ronda del clasificatorio mundial de The Old World Warhammer. Este video informe ofrece una visión detallada de las estrategias y tácticas empleadas por ambos bandos en este competitivo torneo.
 ---
 
 🎥 **Nuevo vídeo publicado por [13th Warrior](https://www.youtube.com/channel/UCYOhXS04iLg68Sro80yF_1w)**:
 
-En el canal «13th Warrior» se ha publicado un emocionante enfrentamiento entre Enanos del Caos y Guerreros del Caos, correspondiente a la segunda ronda del clasificatorio mundial de The Old World Warhammer. Este video informe nos sumerge en una batalla épica donde dos fuerzas poderosas chocan en el Viejo Mundo, ofreciendo a los aficionados una visión detallada de las estrategias y tácticas empleadas por ambos bandos.
+En el canal «13th Warrior», se ha publicado un emocionante enfrentamiento entre Enanos del Caos y Guerreros del Caos en la segunda ronda del clasificatorio mundial de The Old World Warhammer. Este video informe ofrece una visión detallada de las estrategias y tácticas empleadas por ambos bandos en este competitivo torneo.
 
 ## 🎲ENANOS DEL CAOS VS GUERREROS DEL CAOS🎲 2@ RONDA CLASIFICATORIO MUNDIAL THE OLD WORLD WARHAMMER
 
