@@ -7,12 +7,12 @@ video_url: https://www.youtube.com/watch?v=ivXCBBQKhDs
 channel: "Leyendas en Miniatura"
 thumbnail: https://i.ytimg.com/vi/ivXCBBQKhDs/hqdefault.jpg
 excerpt: >
-  En el segundo episodio de la serie "Warhammer Fantasy Escaramuzas" en el canal «Leyendas en Miniatura», los espectadores son llevados al corazón de intensos enfrentamientos en el Viejo Mundo. Bajo el título «¡MATADORES!», este vídeo promete sumergirnos en emocionantes batallas donde la estrategia y la habilidad son clave. Acompáñanos en «El Heraldo del Viejo Mundo» mientras exploramos los detalles de estas escaramuzas épicas y descubrimos qué hace que estos encuentros sean imperdibles para los aficionados de Warhammer Fantasy.
+  En el segundo episodio de la serie de escaramuzas de Warhammer Fantasy en el canal «Leyendas en Miniatura», los espectadores son transportados a intensos enfrentamientos protagonizados por los temibles Matadores. Este contenido promete sumergirnos en la acción táctica característica de las escaramuzas en el Viejo Mundo, ofreciendo una experiencia visual que destaca la estrategia y el dinamismo de estas batallas a pequeña escala.
 ---
 
 🎥 **Nuevo vídeo publicado por [Leyendas en Miniatura](https://www.youtube.com/channel/UCbs4BdIbYNqb5zWPt8qYdGQ)**:
 
-En el segundo episodio de la serie "Warhammer Fantasy Escaramuzas" en el canal «Leyendas en Miniatura», los espectadores son llevados al corazón de intensos enfrentamientos en el Viejo Mundo. Bajo el título «¡MATADORES!», este vídeo promete sumergirnos en emocionantes batallas donde la estrategia y la habilidad son clave. Acompáñanos en «El Heraldo del Viejo Mundo» mientras exploramos los detalles de estas escaramuzas épicas y descubrimos qué hace que estos encuentros sean imperdibles para los aficionados de Warhammer Fantasy.
+En el segundo episodio de la serie de escaramuzas de Warhammer Fantasy en el canal «Leyendas en Miniatura», los espectadores son transportados a intensos enfrentamientos protagonizados por los temibles Matadores. Este contenido promete sumergirnos en la acción táctica característica de las escaramuzas en el Viejo Mundo, ofreciendo una experiencia visual que destaca la estrategia y el dinamismo de estas batallas a pequeña escala.
 
 ## ¡MATADORES! - Warhammer Fantasy Escaramuzas #2
 

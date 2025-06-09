@@ -7,12 +7,12 @@ video_url: https://www.youtube.com/watch?v=NLTn8DQMVR8
 channel: "Juegos y Dados"
 thumbnail: https://i.ytimg.com/vi/NLTn8DQMVR8/hqdefault.jpg
 excerpt: >
-  En el canal «Juegos y Dados» se ha publicado un nuevo vídeo que explora la serie «Choose Cthulhu II» a través de una reseña de «El Caso de Charles Dexter Ward». Este contenido podría ser de interés para los aficionados a los juegos de rol y narrativa interactiva, ofreciendo una mirada detallada a esta adaptación de la obra de H.P. Lovecraft. Si te apasiona el misterio y el horror cósmico, este vídeo podría proporcionarte una nueva perspectiva sobre cómo estos elementos se integran en el mundo lúdico.
+  En el canal «Juegos y Dados», se ha publicado un nuevo vídeo que explora el mundo de los relatos de H.P. Lovecraft a través de la reseña de «Choose Cthulhu II - El Caso de Charles Dexter Ward». Este contenido podría ser de interés para los aficionados de Warhammer que disfrutan de las narrativas de horror cósmico y buscan inspiración para enriquecer sus partidas en The Old World.
 ---
 
 🎥 **Nuevo vídeo publicado por [Juegos y Dados](https://www.youtube.com/channel/UCKYcuuzvrqrPobA1poIhOBw)**:
 
-En el canal «Juegos y Dados» se ha publicado un nuevo vídeo que explora la serie «Choose Cthulhu II» a través de una reseña de «El Caso de Charles Dexter Ward». Este contenido podría ser de interés para los aficionados a los juegos de rol y narrativa interactiva, ofreciendo una mirada detallada a esta adaptación de la obra de H.P. Lovecraft. Si te apasiona el misterio y el horror cósmico, este vídeo podría proporcionarte una nueva perspectiva sobre cómo estos elementos se integran en el mundo lúdico.
+En el canal «Juegos y Dados», se ha publicado un nuevo vídeo que explora el mundo de los relatos de H.P. Lovecraft a través de la reseña de «Choose Cthulhu II - El Caso de Charles Dexter Ward». Este contenido podría ser de interés para los aficionados de Warhammer que disfrutan de las narrativas de horror cósmico y buscan inspiración para enriquecer sus partidas en The Old World.
 
 ## Choose Cthulhu II - Reseña El Caso de Charles Dexter Ward
 

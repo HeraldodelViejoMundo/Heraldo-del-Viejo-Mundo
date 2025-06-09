@@ -7,12 +7,12 @@ video_url: https://www.youtube.com/watch?v=hFsXC64gdTg
 channel: "Juegos y Dados"
 thumbnail: https://i.ytimg.com/vi/hFsXC64gdTg/hqdefault.jpg
 excerpt: >
-  En el canal «Juegos y Dados», se explora una nueva colección centrada en los Whisperers dentro del universo de The Walking Dead: All Out War. Este lanzamiento promete enriquecer las experiencias de juego con nuevas miniaturas y mecánicas, ofreciendo a los aficionados una oportunidad única para sumergirse aún más en este emocionante mundo postapocalíptico.
+  En el canal «Juegos y Dados» se ha publicado un nuevo contenido centrado en "The Walking Dead All Out War", explorando la colección de los Whisperers. Este vídeo podría ofrecer una interesante perspectiva sobre las estrategias y dinámicas de juego que involucran a este grupo en particular, proporcionando a los aficionados una nueva capa de profundidad en el universo de The Walking Dead.
 ---
 
 🎥 **Nuevo vídeo publicado por [Juegos y Dados](https://www.youtube.com/channel/UCKYcuuzvrqrPobA1poIhOBw)**:
 
-En el canal «Juegos y Dados», se explora una nueva colección centrada en los Whisperers dentro del universo de The Walking Dead: All Out War. Este lanzamiento promete enriquecer las experiencias de juego con nuevas miniaturas y mecánicas, ofreciendo a los aficionados una oportunidad única para sumergirse aún más en este emocionante mundo postapocalíptico.
+En el canal «Juegos y Dados» se ha publicado un nuevo contenido centrado en "The Walking Dead All Out War", explorando la colección de los Whisperers. Este vídeo podría ofrecer una interesante perspectiva sobre las estrategias y dinámicas de juego que involucran a este grupo en particular, proporcionando a los aficionados una nueva capa de profundidad en el universo de The Walking Dead.
 
 ## The Walking Dead All Out War | The Whisperers Collection
 
