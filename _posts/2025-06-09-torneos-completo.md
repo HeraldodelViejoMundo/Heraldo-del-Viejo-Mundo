@@ -5,8 +5,8 @@ date: 2025-06-09 16:45:00 +0200
 categories: ["torneos"]
 image: "/assets/miniatura_torneos_junio_v2.png"
 excerpt: >
- Junio se llena de **torneos de peana cuadrada** en todas sus versiones. Once convocatorias  por toda España en los dos fines de semana que quedan del mes. Y, aunque predomina **The Old World**, no faltan convocatorias para los clásicos que siguen jugando **Sexta Edición** en alguna de sus variantes o a **Reforged**,  que estrena la 4ª edición en El Orco Rojo de Valladolid.
-Partidas intensas, ambientes cuidados y opciones para todos los estilos de juego. Consulta el calendario y no te quedes sin plaza.
+  Junio se llena de **torneos de peana cuadrada** en todas sus versiones. Once convocatorias por toda España en los dos fines de semana que quedan del mes. Y, aunque predomina **The Old World**, no faltan convocatorias para los clásicos que siguen jugando **Sexta Edición** en alguna de sus variantes o a **Reforged**, que estrena la 4ª edición en El Orco Rojo de Valladolid.
+  Partidas intensas, ambientes cuidados y opciones para todos los estilos de juego. Consulta el calendario y no te quedes sin plaza.
 ---
 
 ## Agenda de torneos (actualizada 10 / VI / 2025)
