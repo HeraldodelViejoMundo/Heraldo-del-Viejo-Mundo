@@ -9,7 +9,7 @@ title: El Heraldo del Viejo Mundo
 {% for post in paginator.posts %}
 
 <a href="{{ post.url | relative_url }}" style="text-decoration: none;">
-  % if post.categories contains "noticias" and post.title_original and post.title_translated %}
+  {% if post.categories contains "noticias" and post.title_original and post.title_translated %}
     <p style="margin-bottom:0.1em; font-size:0.9em; font-weight:bold; color:#000;">
       Hoy, en Warhammer Community
     </p>
