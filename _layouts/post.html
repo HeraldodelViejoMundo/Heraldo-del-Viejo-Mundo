@@ -2,6 +2,14 @@
 layout: default
 ---
 
+{% if page.image %}
+  <p>
+    <img src="{{ page.image | relative_url }}"
+         alt="Imagen del artículo"
+         style="width:100%;max-width:600px;margin:0 0 1em;">
+  </p>
+{% endif %}
+
 {{ content }}
 
 <div class="giscus-container" style="margin-top: 3em;">
@@ -21,9 +29,3 @@ layout: default
           async>
   </script>
 </div>
----
-layout: default
----
-
-{{ content }}
-
