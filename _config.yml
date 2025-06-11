@@ -3,8 +3,8 @@ theme: minima
 title: "El Heraldo del Viejo Mundo"
 description: "Noticias, rumores y estrategia de Warhammer: The Old World en español."
 
-url: "https://heraldodelviejomundo.github.io"
-baseurl: "/Heraldo-del-Viejo-Mundo"
+url: "https://www.elheraldodelviejomundo.com"
+baseurl: ""
 
 paginate: 30
 paginate_path: "/page:num"
