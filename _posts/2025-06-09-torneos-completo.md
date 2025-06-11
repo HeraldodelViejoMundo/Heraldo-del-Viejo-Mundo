@@ -24,7 +24,7 @@ Tres rondas con arbitraje veterano y control de tiempo estricto; se premian resu
 🎯 Formato: Warhammer Fantasy 6.ª + MdN · 2 000 ptos · 3 rondas  
 👥 Plazas: 50  
 💰 Inscripción: 22 €  
-🔗 Información y registro → https://torneoswarhammer.com/v-torneo-battle-bunker-warhammer-fantasy-vitoria-2025/
+🔗 [Información y registro](https://torneoswarhammer.com/v-torneo-battle-bunker-warhammer-fantasy-vitoria-2025/)
 
 ---
 
@@ -40,7 +40,7 @@ El 100 % de la inscripción se entrega en vales, creando un ambiente competiti
 👥 Plazas: 12–16 (quedaban 7)  
 💰 Inscripción: 12 €  
 📘 Legacy, Arcane Journal, personajes especiales  
-🔗 Enlace e inscripción → https://sarumangames.es
+🔗 [Enlace e inscripción](https://sarumangames.es)
 
 ---
 
@@ -53,7 +53,7 @@ Las listas deben ajustarse a los Manuscritos de Nuth y el nivel de pintura suele
 📍 Dónde: Marca d’Egara, Terrassa  
 🎯 Formato: Warhammer Fantasy 6.ª + MdN · 2 000 ptos · 3 rondas  
 👥 Plazas: ~26  
-🔗 Bases completas → https://torneoswarhammer.com/bases-torneo-marca-degara-warhammer-fantasy-mdn-terrassa-junio-2025/
+🔗 [Bases completas](https://torneoswarhammer.com/bases-torneo-marca-degara-warhammer-fantasy-mdn-terrassa-junio-2025/)
 
 ---
 
@@ -66,7 +66,7 @@ Esta vez no han podido completar el aforo, lo que es poco habitual en un torneo 
 📍 Dónde: C/ Arroyo de la Elipa 12, Madrid  
 🎯 Formato: 2 000 ptos, 3 rondas  
 📘 Legacy y Journals permitidos. 1 Hechicero lvl 3-4, Personajes 40% y ningún pj de más de 500 puntos🔗 Bases completas → https://kingdomwargames.com/eventos/old-world-15-junio
-
+🔗 [Kingdom Wargames](www.kingdomwargames.com)
 ---
 
 **Sábado 21 de junio – La Fortaleza Miniaturas (A Coruña)**  
@@ -79,7 +79,7 @@ La tienda promete “muchos premios y el mejor ambiente”, con sorteos entre ro
 🎯 Formato: 2 000 ptos  
 👥 Plazas: ~14  
 📘 Premios y ambiente distendido  
-🔗 Anuncio oficial → https://www.instagram.com/lafortalezaminiaturas/
+🔗 [Anuncio oficial](https://www.instagram.com/lafortalezaminiaturas/)
 
 ---
 
@@ -93,7 +93,7 @@ Refleja el crecimiento constante de la escena turolense y la implicación de los
 📍 Dónde: Estudio Solmenorphoto, Ronda Ambeles 16  
 🎯 Formato: 2 000 ptos, 3 rondas (1 Patrullas + 2 Batallas)  
 💰 Inscripción: 15 € (íntegra a premios)  
-🔗 Cartel e info → https://www.instagram.com/baronwargame/
+🔗 [Cartel e info](https://www.instagram.com/baronwargame/)
 
 ---
 
@@ -107,7 +107,7 @@ Tres partidas en ambiente narrativo para listas temáticas y ejércitos compacto
 🎯 Formato: 1 500 ptos, 3 rondas  
 📘 Solo libros base · Sin Arcane Journal · Magia nivel 3 · 1 comandante · Composición limitada  
 💰 Inscripción: 20 € / 15 € socios  
-📧 Reserva de plaza → tabernero@eljabalipisador.com
+📧 [El Jabalí Pisador](https://eljabalipisador.com/evento/aliados-inesperados-ii/)
 
 ---
 
@@ -120,7 +120,7 @@ Se utiliza el Reglamento Anotado de ¡Cargad! y se reparten vales con toda la re
 📍 Dónde: Sant Cugat del Vallès  
 🎯 Formato: 6.ª edición + MdNR · 2 000 ptos · 3 rondas  
 📘 Reglas: ¡Cargad! anotado  
-🔗 Bases oficiales → https://torneoswarhammer.com/bases-torneo-saint-cugat-mdnr-junio-2025/
+🔗 [Bases oficiales](https://torneoswarhammer.com/bases-torneo-saint-cugat-mdnr-junio-2025/)
 
 ---
 
@@ -134,7 +134,7 @@ Tras la cancelación de la edición Norte, este evento será la prueba de fuego 
 🎯 Formato: 2 000 ptos, 3 rondas  
 📘 Restricción 0–3 unidades idénticas  
 💰 Inscripción: 10 €  
-🔗 Bases → https://www.instagram.com/p/C7Tktm7qbiD/
+🔗 [Bases](https://www.instagram.com/p/C7Tktm7qbiD/)
 
 ---
 
@@ -149,7 +149,7 @@ El local está climatizado y suele agotar las ~20 plazas en pocos días. Sorteo
 📘 Legacy y Journals permitidos. 1 Hechicero lvl 3-4, Personajes 40% y ningún pj de más de 500 puntos
 👥 Plazas: 20  
 💰 Inscripción: 15 €  
-🔗 Detalles → https://kingdomwargames.com/eventos/old-world-28-junio
+🔗 🔗 [Kingdom Wargames](www.kingdomwargames.com)
 
 ---
 
@@ -161,7 +161,7 @@ Primer evento con la esperada versión 4 del reglamento fan-made Warhammer Refor
 El Orco Rojo, la tienda de referencia de Valladolid, premiará resultado, pintura y deportividad; aforo limitado y formato cercano a la comunidad.  
 📍 Dónde: Valladolid  
 🎯 Formato: Warhammer Reforged v4 · Puntos por definir  
-🔗 Anuncio → https://es-la.facebook.com/whreforged/
+🔗 [Anuncio](https://es-la.facebook.com/whreforged/)
 
 ---
 
@@ -173,7 +173,7 @@ Las 20 plazas se agotaron antes de la fecha de inscripción, lo que demuestra l
 📍 Dónde: C/ Joan Maragall 17, bajos, Pineda de Mar  
 🎯 Formato: 2 000 ptos  
 👥 Plazas: 20  
-🔗 Convocatoria → https://www.instagram.com/theoldtroll/
+🔗 [Convocatoria](https://www.instagram.com/theoldtroll/)
 
 ---
 
