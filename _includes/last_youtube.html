@@ -1,0 +1,26 @@
+{% comment %}
+  Lista compacta de los 5 últimos vídeos (miniatura + fecha + canal + título)
+{% endcomment %}
+
+{% assign vids = site.videos | sort: "date" | reverse | slice: 0, 5 %}
+
+<div class="youtube-list">
+  {% for v in vids %}
+    <article class="youtube-item" style="display:flex; margin-bottom:0.8em;">
+      <a href="{{ v.url | default: v.permalink }}" style="display:block; flex-shrink:0;">
+        <img src="{{ v.thumbnail }}" alt="{{ v.title }}" style="width:96px; height:54px; object-fit:cover; border-radius:4px;">
+      </a>
+      <div style="margin-left:0.6em; font-size:0.85em; line-height:1.25;">
+        <p style="margin:0; color:#666;">
+          {{ v.date | date: "%-d %b %Y" }}
+        </p>
+        <p style="margin:0; font-weight:bold; color:#b30000;">
+          {{ v.channel }}
+        </p>
+        <a href="{{ v.url | default: v.permalink }}" style="text-decoration:none; color:#000;">
+          {{ v.title }}
+        </a>
+      </div>
+    </article>
+  {% endfor %}
+</div>
