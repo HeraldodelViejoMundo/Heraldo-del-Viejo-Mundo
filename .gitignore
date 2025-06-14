@@ -3,3 +3,9 @@ _site_backup/
 wget-log
 _posts/descartados_yaml_invalido/
 _posts/descartados_yaml_invalido/
+
+# backups y pruebas
+0
+style_ok.css
+index_backup_*.html
+_config_backup_*.yml
