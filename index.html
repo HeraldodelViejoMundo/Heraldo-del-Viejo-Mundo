@@ -3,8 +3,18 @@ layout: default
 title: El Heraldo del Viejo Mundo
 ---
 <img src="{{ '/assets/banner_final.png' | relative_url }}" alt="Cabecera El Heraldo del Viejo Mundo" style="width:100%; height:auto; display:block; margin-bottom: 2em;">
+<div style="display:flex; gap:1.5em; align-items:flex-start;">
 
-## Últimas noticias de *The Old World*
+  <!-- Columna izquierda – Próximos Torneos -->
+  <aside style="flex:0 0 220px;">
+    <h3 style="margin-top:0;">Próximos Torneos</h3>
+    {% include next_tournaments.html %}
+  </aside>
+
+  <!-- Columna Central (abre) -->
+  <main style="flex:1; margin-top:0;">
+
+<h2 style="margin:0 0 0.6em 0;">Últimas noticias de <em>The Old World</em></h2>
 
 {% for post in paginator.posts %}
 
@@ -38,13 +48,8 @@ title: El Heraldo del Viejo Mundo
       {{ post.excerpt }}
     </p>
 
-
-
-
-
   {% endif %}
 </a>
-
 
 <small>
   {% if post.source_date %}
@@ -76,3 +81,11 @@ title: El Heraldo del Viejo Mundo
     <a href="{{ paginator.next_page_path | relative_url }}" style="float: right;">Siguientes →</a>
   {% endif %}
 </div>
+</main>
+  <!-- Columna derecha – YouTube -->
+  <aside style="flex:0 0 280px;">
+    <h3 style="margin-top:0;">Lo último en YouTube sobre el Viejo Mundo</h3>
+    {% include last_youtube.html %}
+  </aside>
+</div>
+
