@@ -1,8 +1,21 @@
----
-layout: default
-title: El Heraldo del Viejo Mundo 
----
-<img src="{{ '/assets/banner_final.png' | relative_url }}" alt="Cabecera El Heraldo del Viejo Mundo" style="width:100%; height:auto; max-height:240px; object-fit:contain; display:block; margin-bottom: 2em;">
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <title>El Heraldo del Viejo Mundo</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- Estilos del tema minima -->
+  <link rel="stylesheet" href="/assets/main.css">
+
+
+
+
+  <!-- Nuestro CSS personalizado -->
+  <link rel="stylesheet" href="/assets/custom.css">
+</head>
+<body>
+  <div class="page-content"><img src="/assets/banner_final.png" alt="Cabecera El Heraldo del Viejo Mundo" style="width:100%; height:auto; max-height:240px; object-fit:contain; display:block; margin-bottom: 2em;">
 
 <div style="display: flex; justify-content: center;">
   <div style="display: flex; gap: 2em; align-items: flex-start; max-width: 1400px; width: 100%; padding: 0 2em;">
@@ -10,88 +23,827 @@ title: El Heraldo del Viejo Mundo
     <!-- Columna izquierda – Próximos Torneos -->
     <aside style="flex: 0 0 260px; padding: 0.5em;">
       <h3 style="margin-top: 0;">Próximos Torneos</h3>
-      {% include next_tournaments.html %}
+      
+
+<div class="tournament-list">
+  
+    <p>No hay torneos futuros publicados.</p>
+  
+</div>
+
     </aside>
 
     <!-- Columna Central -->
     <main style="flex: 1 1 620px; max-width: 720px; margin-top: 0;">
       <h2 style="margin: 0 0 0.6em 0;">Últimas noticias de <em>The Old World</em></h2>
 
-      {% for post in paginator.posts %}
+      
 
       <div style="background: #fdf6e3; border: 1px solid #e0d3af; border-radius: 10px; padding: 1em; margin-bottom: 2em; box-shadow: 0 2px 6px rgba(0,0,0,0.1); font-family: Georgia, serif;">
 
-        <a href="{{ post.url | relative_url }}" style="text-decoration: none;">
-          {% if post.categories contains "noticias" and post.title_original and post.title_translated %}
+        <a href="/noticias/2025/06/12/warhammer-the-old-world-what-we-want-from-the-matc.html" style="text-decoration: none;">
+          
+        </a>
+
+        <small style="color:#777;">
+          
+            12/06/2025
+          
+        </small>
+
+        
+
+        
+
+        <p>Resumen:
+El blog Arcane Journal de Warhammer especula sobre lo que esperan del nuevo libro de juego competitivo de The Old World.</p>
+
+
+      </div>
+
+      
+
+      <div style="background: #fdf6e3; border: 1px solid #e0d3af; border-radius: 10px; padding: 1em; margin-bottom: 2em; box-shadow: 0 2px 6px rgba(0,0,0,0.1); font-family: Georgia, serif;">
+
+        <a href="/noticias/2025/06/12/zscdwwzf.html" style="text-decoration: none;">
+          
             <p style="margin-bottom:0.1em; font-size:0.9em; font-weight:bold; color:#6b4e17;">
               Hoy, en Warhammer Community
             </p>
             <p style="margin:0; font-size:1.4em; font-weight:bold; color:#4a2e0e;">
-              {{ post.title_original }}
+              Old World Almanack – A short history of Grand Cathay - Warhammer Community
             </p>
             <p style="margin-top:0.2em; font-size:1.1em; color:#3c2a0c;">
-              {{ post.title_translated }}
+              Almanaque del Viejo Mundo – Una breve historia de Gran Cathay - Comunidad Warhammer
             </p>
-          {% elsif post.categories.size == 1 and post.categories[0] == "videos" %}
-            <p style="margin-bottom:0.1em; font-size:0.9em; font-weight:bold; color:#6b4e17;">
-              🎥 Nuevo vídeo de
-            </p>
-            <p style="margin:0; font-size:1.3em; font-weight:bold; color:#b30000;">
-              {{ post.channel }}
-            </p>
-            <p style="margin-top:0.2em; font-size:1.1em; color:#3c2a0c;">
-              {{ post.title }}
-            </p>
-          {% elsif post.categories.size == 1 and post.categories[0] == "torneos" %}
-            <p style="margin:0; font-size:1.3em; font-weight:bold; color:#4a2e0e;">
-              {{ post.title }}
-            </p>
-            <p style="margin-top:0.2em; font-size:1.1em; color:#3c2a0c;">
-              {{ post.excerpt }}
-            </p>
-          {% endif %}
+          
         </a>
 
         <small style="color:#777;">
-          {% if post.source_date %}
-            {{ post.source_date | date: "%d/%m/%Y" }}
-          {% else %}
-            {{ post.date | date: "%d/%m/%Y" }}
-          {% endif %}
+          
+            12/06/2025
+          
         </small>
 
-        {% if post.thumbnail %}
-          <img src="{{ post.thumbnail }}" alt="Miniatura del vídeo" style="width:60%; max-width:300px; margin:10px 0;">
-        {% endif %}
+        
 
-        {% if post.image %}
-          <img src="{{ post.image }}" alt="Imagen del artículo" style="width:100%; max-width:500px; margin:10px 0;">
-        {% endif %}
+        
+          <img src="https://assets.warhammer-community.com/the-old-world-banner-test.jpg" alt="Imagen del artículo" style="width:100%; max-width:500px; margin:10px 0;">
+        
 
-        {{ post.excerpt }}
+        Descubre la fascinante historia de Gran Cathay, el imperio humano más poderoso del Mundo de Leyenda, en el último artículo de Warhammer Community. Gobernado por el benevolente Emperador Dragón Celestial y su Emperatriz consorte, Gran Cathay es un lugar de magia y armonía que contrasta con el Viejo Mundo. Con un enfoque en la rica tradición y la conexión con el Viejo Mundo, el artículo explora cómo este imperio único se enfrenta a la amenaza del Caos. Acompaña a los diseñadores en un viaje a través de la historia y la cultura de Gran Cathay, un mundo casi autónomo que promete enriquecer la experiencia de los jugadores de The Old World.
 
       </div>
 
-      {% endfor %}
+      
+
+      <div style="background: #fdf6e3; border: 1px solid #e0d3af; border-radius: 10px; padding: 1em; margin-bottom: 2em; box-shadow: 0 2px 6px rgba(0,0,0,0.1); font-family: Georgia, serif;">
+
+        <a href="/noticias/2025/06/11/warhammer-the-old-world-winning-the-akron-brew-bra.html" style="text-decoration: none;">
+          
+        </a>
+
+        <small style="color:#777;">
+          
+            11/06/2025
+          
+        </small>
+
+        
+
+        
+
+        <p>Nuevo blog de Arcane Journal sobre Warhammer: The Old World. En la última publicación, se discute la victoria en el Akron Brew Brawl y si se han corregido los problemas con los Pegasus Knights.</p>
+
+
+      </div>
+
+      
+
+      <div style="background: #fdf6e3; border: 1px solid #e0d3af; border-radius: 10px; padding: 1em; margin-bottom: 2em; box-shadow: 0 2px 6px rgba(0,0,0,0.1); font-family: Georgia, serif;">
+
+        <a href="/noticias/2025/06/11/warhammer-the-old-world-winning-the-akron-brew-bra.html" style="text-decoration: none;">
+          
+        </a>
+
+        <small style="color:#777;">
+          
+            11/06/2025
+          
+        </small>
+
+        
+
+        
+
+        <p>Resumen:
+El blog Arcane Journal informa sobre la victoria en el Akron Brew Brawl y posibles cambios en los Pegasus Knights en Warhammer: The Old World.</p>
+
+
+      </div>
+
+      
+
+      <div style="background: #fdf6e3; border: 1px solid #e0d3af; border-radius: 10px; padding: 1em; margin-bottom: 2em; box-shadow: 0 2px 6px rgba(0,0,0,0.1); font-family: Georgia, serif;">
+
+        <a href="/noticias/2025/06/10/1ovkvf4r.html" style="text-decoration: none;">
+          
+            <p style="margin-bottom:0.1em; font-size:0.9em; font-weight:bold; color:#6b4e17;">
+              Hoy, en Warhammer Community
+            </p>
+            <p style="margin:0; font-size:1.4em; font-weight:bold; color:#4a2e0e;">
+              Old World Almanack – Building the Celestial Empire of Grand Cathay - Warhammer Community
+            </p>
+            <p style="margin-top:0.2em; font-size:1.1em; color:#3c2a0c;">
+              Almanaque del Viejo Mundo – Construyendo el Imperio Celestial de Gran Cathay - Comunidad Warhammer
+            </p>
+          
+        </a>
+
+        <small style="color:#777;">
+          
+            10/06/2025
+          
+        </small>
+
+        
+
+        
+          <img src="https://assets.warhammer-community.com/the-old-world-banner-test.jpg" alt="Imagen del artículo" style="width:100%; max-width:500px; margin:10px 0;">
+        
+
+        Gran Cathay, un imperio enigmático y legendario del Viejo Mundo, está a punto de revelarse en toda su gloria. Durante años, solo se ha mencionado en los márgenes de libros de reglas y juegos de rol, pero ahora, con la llegada de los Guerreros de Jade y los Cañones Imperiales a Marienburgo, su historia se desplegará completamente. En una serie de entrevistas exclusivas, el equipo original detrás de Gran Cathay comparte cómo dieron vida a esta facción, desde los primeros conceptos en 2018 hasta su integración en el universo de Warhammer. ¡Prepárate para descubrir los secretos mejor guardados de este imperio místico!
+
+      </div>
+
+      
+
+      <div style="background: #fdf6e3; border: 1px solid #e0d3af; border-radius: 10px; padding: 1em; margin-bottom: 2em; box-shadow: 0 2px 6px rgba(0,0,0,0.1); font-family: Georgia, serif;">
+
+        <a href="/torneos/2025/06/09/torneos-completo.html" style="text-decoration: none;">
+          
+            <p style="margin:0; font-size:1.3em; font-weight:bold; color:#4a2e0e;">
+              Próximos Torneos de TOW, Sexta y Reforged
+            </p>
+            <p style="margin-top:0.2em; font-size:1.1em; color:#3c2a0c;">
+              Junio se llena de **torneos de peana cuadrada** en todas sus versiones. Once convocatorias por toda España en los dos fines de semana que quedan del mes. Y, aunque predomina **The Old World**, no faltan eventos para los clásicos de **Sexta Edición** o para **Reforged**, que estrena la 4.ª edición en El Orco Rojo de Valladolid. Partidas intensas, mesas cuidadas y opciones para todos los estilos. Revisa el calendario y no te quedes sin plaza.
+
+            </p>
+          
+        </a>
+
+        <small style="color:#777;">
+          
+            09/06/2025
+          
+        </small>
+
+        
+
+        
+          <img src="/assets/miniatura_torneos_junio_v2.png" alt="Imagen del artículo" style="width:100%; max-width:500px; margin:10px 0;">
+        
+
+        Junio se llena de **torneos de peana cuadrada** en todas sus versiones. Once convocatorias por toda España en los dos fines de semana que quedan del mes. Y, aunque predomina **The Old World**, no faltan eventos para los clásicos de **Sexta Edición** o para **Reforged**, que estrena la 4.ª edición en El Orco Rojo de Valladolid. Partidas intensas, mesas cuidadas y opciones para todos los estilos. Revisa el calendario y no te quedes sin plaza.
+
+
+      </div>
+
+      
+
+      <div style="background: #fdf6e3; border: 1px solid #e0d3af; border-radius: 10px; padding: 1em; margin-bottom: 2em; box-shadow: 0 2px 6px rgba(0,0,0,0.1); font-family: Georgia, serif;">
+
+        <a href="/noticias/2025/06/05/warhammer-the-old-world-beastmen-got-the-best-magi.html" style="text-decoration: none;">
+          
+        </a>
+
+        <small style="color:#777;">
+          
+            05/06/2025
+          
+        </small>
+
+        
+
+        
+
+        <p>Nueva publicación en el Arcane Journal revela que los Beastmen obtuvieron los mejores objetos mágicos en Warhammer: The Old World.</p>
+
+
+      </div>
+
+      
+
+      <div style="background: #fdf6e3; border: 1px solid #e0d3af; border-radius: 10px; padding: 1em; margin-bottom: 2em; box-shadow: 0 2px 6px rgba(0,0,0,0.1); font-family: Georgia, serif;">
+
+        <a href="/noticias/2025/06/04/warhammer-the-old-world-the-beastmen-arcane-journa.html" style="text-decoration: none;">
+          
+        </a>
+
+        <small style="color:#777;">
+          
+            04/06/2025
+          
+        </small>
+
+        
+
+        
+
+        <p>Resumen:
+El Arcane Journal de Beastmen en Warhammer: The Old World es un gran éxito.</p>
+
+
+      </div>
+
+      
+
+      <div style="background: #fdf6e3; border: 1px solid #e0d3af; border-radius: 10px; padding: 1em; margin-bottom: 2em; box-shadow: 0 2px 6px rgba(0,0,0,0.1); font-family: Georgia, serif;">
+
+        <a href="/noticias/2025/06/02/azlyvdkm.html" style="text-decoration: none;">
+          
+            <p style="margin-bottom:0.1em; font-size:0.9em; font-weight:bold; color:#6b4e17;">
+              Hoy, en Warhammer Community
+            </p>
+            <p style="margin:0; font-size:1.4em; font-weight:bold; color:#4a2e0e;">
+              The Old World Matched Play Guide: New ways to play in the World of Legend - Warhammer Community
+            </p>
+            <p style="margin-top:0.2em; font-size:1.1em; color:#3c2a0c;">
+              Guía de Juego Equilibrado del Viejo Mundo: Nuevas formas de jugar en el Mundo de Leyenda - Comunidad Warhammer
+            </p>
+          
+        </a>
+
+        <small style="color:#777;">
+          
+            02/06/2025
+          
+        </small>
+
+        
+
+        
+          <img src="https://assets.warhammer-community.com/the-old-world-banner-test.jpg" alt="Imagen del artículo" style="width:100%; max-width:500px; margin:10px 0;">
+        
+
+        ¡El Viejo Mundo de Warhammer está más vibrante que nunca! Con el regreso de nueve facciones y la llegada de Cathay, la escena de torneos está en auge. La nueva Guía de Juego Equilibrado ofrece todo lo necesario para organizar o participar en eventos, desde reglas cardinales hasta consejos sobre composición de ejércitos y puntuación. Con tres composiciones sugeridas y seis escenarios de juego equilibrado, los jugadores encontrarán desafíos emocionantes y objetivos secundarios que añadirán un toque extra de estrategia. Prepárate para sumergirte en el competitivo Mundo de Leyenda con esta guía imprescindible, disponible pronto en formato físico y digital.
+
+      </div>
+
+      
+
+      <div style="background: #fdf6e3; border: 1px solid #e0d3af; border-radius: 10px; padding: 1em; margin-bottom: 2em; box-shadow: 0 2px 6px rgba(0,0,0,0.1); font-family: Georgia, serif;">
+
+        <a href="/noticias/2025/05/29/rybvkwfs.html" style="text-decoration: none;">
+          
+            <p style="margin-bottom:0.1em; font-size:0.9em; font-weight:bold; color:#6b4e17;">
+              Hoy, en Warhammer Community
+            </p>
+            <p style="margin:0; font-size:1.4em; font-weight:bold; color:#4a2e0e;">
+              Old World Almanack – The Children of Chaos - Warhammer Community
+            </p>
+            <p style="margin-top:0.2em; font-size:1.1em; color:#3c2a0c;">
+              Almanaque del Viejo Mundo – Los Hijos del Caos - Comunidad Warhammer
+            </p>
+          
+        </a>
+
+        <small style="color:#777;">
+          
+            29/05/2025
+          
+        </small>
+
+        
+
+        
+          <img src="https://assets.warhammer-community.com/the-old-world-banner-test.jpg" alt="Imagen del artículo" style="width:100%; max-width:500px; margin:10px 0;">
+        
+
+        En el último vistazo al oscuro y fascinante mundo de Warhammer, nos adentramos en el Almanaque del Viejo Mundo, donde los Hijos del Caos cobran vida con nuevas miniaturas y emocionantes historias. Descubre a Kralmaw, el Profeta de la Ruina, un personaje enigmático con poderes proféticos y un nuevo modelo de resina, mientras lidera a los temibles Hombres Bestia en una lucha épica. Además, Ghorros, el Sire de Mil Jóvenes, regresa con su inconfundible presencia para fortalecer a los Centigors. Con nuevas listas de ejército y hechizos primigenios, esta entrega promete intensas batallas y estrategias innovadoras que cautivarán tanto a veteranos como a nuevos jugadores. ¡No te pierdas la oportunidad de explorar este capítulo lleno de caos y magia!
+
+      </div>
+
+      
+
+      <div style="background: #fdf6e3; border: 1px solid #e0d3af; border-radius: 10px; padding: 1em; margin-bottom: 2em; box-shadow: 0 2px 6px rgba(0,0,0,0.1); font-family: Georgia, serif;">
+
+        <a href="/noticias/2025/05/27/qlwqfahu.html" style="text-decoration: none;">
+          
+            <p style="margin-bottom:0.1em; font-size:0.9em; font-weight:bold; color:#6b4e17;">
+              Hoy, en Warhammer Community
+            </p>
+            <p style="margin:0; font-size:1.4em; font-weight:bold; color:#4a2e0e;">
+              Old World Almanack – What lurks within the Wildwood? - Warhammer Community
+            </p>
+            <p style="margin-top:0.2em; font-size:1.1em; color:#3c2a0c;">
+              Almanaque del Viejo Mundo – ¿Qué acecha dentro del Bosque Salvaje? - Comunidad Warhammer
+            </p>
+          
+        </a>
+
+        <small style="color:#777;">
+          
+            27/05/2025
+          
+        </small>
+
+        
+
+        
+          <img src="https://assets.warhammer-community.com/the-old-world-banner-test.jpg" alt="Imagen del artículo" style="width:100%; max-width:500px; margin:10px 0;">
+        
+
+        En el último capítulo de la serie Old World Almanack, los temidos hombres bestia resurgen de las sombras del Drakwald, trayendo consigo un aura de caos y destrucción. Estos seres, hijos del Caos, han sido una amenaza constante en el Viejo Mundo, y su presencia se siente en cada rincón de los oscuros bosques. Acompañados por el historiador de Warhammer, Gadge, exploramos cómo estos antagonistas han evolucionado a lo largo de los años, desde sus extrañas formas en los años 80 hasta su actual representación como bestias primordiales. Con la amenaza del renacimiento del temido Morghur y la invasión de Chainmaker, el Viejo Mundo se enfrenta a un nuevo capítulo de terror y resistencia.
+
+      </div>
+
+      
+
+      <div style="background: #fdf6e3; border: 1px solid #e0d3af; border-radius: 10px; padding: 1em; margin-bottom: 2em; box-shadow: 0 2px 6px rgba(0,0,0,0.1); font-family: Georgia, serif;">
+
+        <a href="/noticias/2025/05/16/ozijmoha.html" style="text-decoration: none;">
+          
+            <p style="margin-bottom:0.1em; font-size:0.9em; font-weight:bold; color:#6b4e17;">
+              Hoy, en Warhammer Community
+            </p>
+            <p style="margin:0; font-size:1.4em; font-weight:bold; color:#4a2e0e;">
+              Old World Almanack – The awakening of the Wood Elves - Warhammer Community
+            </p>
+            <p style="margin-top:0.2em; font-size:1.1em; color:#3c2a0c;">
+              Almanaque del Viejo Mundo – El despertar de los Elfos Silvanos - Comunidad Warhammer
+            </p>
+          
+        </a>
+
+        <small style="color:#777;">
+          
+            16/05/2025
+          
+        </small>
+
+        
+
+        
+          <img src="https://assets.warhammer-community.com/the-old-world-banner-test.jpg" alt="Imagen del artículo" style="width:100%; max-width:500px; margin:10px 0;">
+        
+
+        Los Elfos Silvanos han lanzado su trampa antes de lo previsto, convirtiéndose en la octava facción central en llegar a Warhammer: The Old World. Con el renacimiento de Morghur y el poder creciente del Caos, los Elfos Silvanos se preparan para enfrentar a los Hombres Bestia que han invadido el Bosque de Laurelorn. Orion ha despertado de su letargo invernal, liderando la Cacería Salvaje para derrotar a Kralmaw, el Profeta de la Ruina. Este emocionante escenario de juego equilibrado pone a prueba la rapidez y furia de los Elfos Silvanos, quienes deben asegurar una victoria rápida para evitar ser superados en número. ¡Descubre cómo se desarrolla esta épica batalla en el nuevo Arcane Journal!
+
+      </div>
+
+      
+
+      <div style="background: #fdf6e3; border: 1px solid #e0d3af; border-radius: 10px; padding: 1em; margin-bottom: 2em; box-shadow: 0 2px 6px rgba(0,0,0,0.1); font-family: Georgia, serif;">
+
+        <a href="/noticias/2025/03/27/thbon3tc.html" style="text-decoration: none;">
+          
+            <p style="margin-bottom:0.1em; font-size:0.9em; font-weight:bold; color:#6b4e17;">
+              Hoy, en Warhammer Community
+            </p>
+            <p style="margin:0; font-size:1.4em; font-weight:bold; color:#4a2e0e;">
+              Defend or defile – The Wood Elf Realms and Beastman Brayherds battle for the forests of the Old World - Warhammer Community
+            </p>
+            <p style="margin-top:0.2em; font-size:1.1em; color:#3c2a0c;">
+              Defender o profanar: Los Reinos de los Elfos del Bosque y las Manadas de Bestias luchan por los bosques del Viejo Mundo - Comunidad Warhammer
+            </p>
+          
+        </a>
+
+        <small style="color:#777;">
+          
+            27/03/2025
+          
+        </small>
+
+        
+
+        
+          <img src="https://assets.warhammer-community.com/the-old-world-banner-test.jpg" alt="Imagen del artículo" style="width:100%; max-width:500px; margin:10px 0;">
+        
+
+        El Viejo Mundo está sumido en el caos mientras los Reinos de los Elfos del Bosque y las Manadas de Bestias se enfrentan en una batalla épica por el control de los bosques. Con un aluvión de miniaturas nuevas y retornadas, ambas facciones están listas para la guerra. Los Elfos del Bosque defienden su tierra sagrada con arqueros expertos y jinetes salvajes, mientras que las Manadas de Bestias desatan su brutalidad con hordas de criaturas y poderosos monstruos. Este conflicto promete ser una emocionante adición al universo de Warhammer, ofreciendo a los jugadores nuevas estrategias y desafíos en el juego equilibrado. ¡Prepárate para sumergirte en esta batalla por la supervivencia y el dominio!
+
+      </div>
+
+      
+
+      <div style="background: #fdf6e3; border: 1px solid #e0d3af; border-radius: 10px; padding: 1em; margin-bottom: 2em; box-shadow: 0 2px 6px rgba(0,0,0,0.1); font-family: Georgia, serif;">
+
+        <a href="/noticias/2025/03/27/luce8te0.html" style="text-decoration: none;">
+          
+            <p style="margin-bottom:0.1em; font-size:0.9em; font-weight:bold; color:#6b4e17;">
+              Hoy, en Warhammer Community
+            </p>
+            <p style="margin:0; font-size:1.4em; font-weight:bold; color:#4a2e0e;">
+              Bring harmony to the Old World with the armies of Grand Cathay - Warhammer Community
+            </p>
+            <p style="margin-top:0.2em; font-size:1.1em; color:#3c2a0c;">
+              Lleva la armonía al Viejo Mundo con los ejércitos de Gran Cathay - Comunidad Warhammer
+            </p>
+          
+        </a>
+
+        <small style="color:#777;">
+          
+            27/03/2025
+          
+        </small>
+
+        
+
+        
+          <img src="https://assets.warhammer-community.com/the-old-world-banner-test.jpg" alt="Imagen del artículo" style="width:100%; max-width:500px; margin:10px 0;">
+        
+
+        En un momento en que el Viejo Mundo se tambalea bajo la amenaza del Caos y las luchas internas, surge una nueva esperanza con la llegada de Gran Cathay. Este antiguo imperio, gobernado por el inmortal Emperador Dragón Celestial Xen Yang, ha enviado sus ejércitos para restaurar el equilibrio. Con una impresionante caja de batallón que incluye 50 miniaturas de plástico, los ejércitos de Gran Cathay están listos para enfrentar la oscuridad. Desde los implacables Guerreros de Jade hasta los majestuosos Señores Shugengan, cada unidad aporta su fuerza única al campo de batalla. Descubre cómo esta nueva facción de Warhammer: The Old World promete cambiar el curso de la historia.
+
+      </div>
+
+      
+
+      <div style="background: #fdf6e3; border: 1px solid #e0d3af; border-radius: 10px; padding: 1em; margin-bottom: 2em; box-shadow: 0 2px 6px rgba(0,0,0,0.1); font-family: Georgia, serif;">
+
+        <a href="/noticias/2025/02/21/plbkgjgd.html" style="text-decoration: none;">
+          
+            <p style="margin-bottom:0.1em; font-size:0.9em; font-weight:bold; color:#6b4e17;">
+              Hoy, en Warhammer Community
+            </p>
+            <p style="margin:0; font-size:1.4em; font-weight:bold; color:#4a2e0e;">
+              Old World Almanack – Narrative scenarios for the Warhammer World Anniversary - Warhammer Community
+            </p>
+            <p style="margin-top:0.2em; font-size:1.1em; color:#3c2a0c;">
+              Almanaque del Viejo Mundo – Escenarios narrativos para el aniversario del Mundo de Warhammer - Comunidad Warhammer
+            </p>
+          
+        </a>
+
+        <small style="color:#777;">
+          
+            21/02/2025
+          
+        </small>
+
+        
+
+        
+          <img src="https://assets.warhammer-community.com/the-old-world-banner-test.jpg" alt="Imagen del artículo" style="width:100%; max-width:500px; margin:10px 0;">
+        
+
+        La celebración del aniversario del Mundo de Warhammer promete ser un evento inolvidable, lleno de emocionantes actividades y desafíos de pintura. Este año, coincide con el lanzamiento de los Reinos de los Altos Elfos para Warhammer: The Old World. El equipo de eventos y el estudio de Warhammer han creado tres escenarios narrativos únicos que los fans pueden descargar y disfrutar. Desde pequeñas escaramuzas hasta épicas batallas en equipo, estos escenarios ofrecen una experiencia inmersiva en la historia del Viejo Mundo. ¡No te pierdas la oportunidad de ser parte de esta celebración, ya sea en persona o desde casa!
+
+      </div>
+
+      
+
+      <div style="background: #fdf6e3; border: 1px solid #e0d3af; border-radius: 10px; padding: 1em; margin-bottom: 2em; box-shadow: 0 2px 6px rgba(0,0,0,0.1); font-family: Georgia, serif;">
+
+        <a href="/noticias/2025/02/14/u9h0019a.html" style="text-decoration: none;">
+          
+            <p style="margin-bottom:0.1em; font-size:0.9em; font-weight:bold; color:#6b4e17;">
+              Hoy, en Warhammer Community
+            </p>
+            <p style="margin:0; font-size:1.4em; font-weight:bold; color:#4a2e0e;">
+              Old World Almanack – High Elf Realms miniatures - Warhammer Community
+            </p>
+            <p style="margin-top:0.2em; font-size:1.1em; color:#3c2a0c;">
+              Almanaque del Viejo Mundo – Miniaturas de los Reinos de los Altos Elfos - Comunidad Warhammer
+            </p>
+          
+        </a>
+
+        <small style="color:#777;">
+          
+            14/02/2025
+          
+        </small>
+
+        
+
+        
+          <img src="https://assets.warhammer-community.com/the-old-world-banner-test.jpg" alt="Imagen del artículo" style="width:100%; max-width:500px; margin:10px 0;">
+        
+
+        En el último Almanaque de la serie, nos sumergimos en el fascinante mundo de los Altos Elfos con el Alto Maestro del Saber JTY. Esta colección trae de vuelta kits icónicos de las ediciones 6ª, 7ª y 8ª de Warhammer, con miniaturas como el Skycutter y el Lord en Dragón que prometen deslumbrar en el tablero. Además, se reintroducen criaturas místicas como el Merwyrm, que complementan el tema náutico del Arcane Journal. Con nuevas opciones de mando y miniaturas remasterizadas, esta línea es un tributo a la rica historia visual de los Altos Elfos. ¡No te pierdas la primera ola de lanzamientos que estará disponible para pre-pedido mañana!
+
+      </div>
+
+      
 
 
       <!-- Navegación -->
       <div style="margin-top: 2em;">
-        {% if paginator.previous_page %}
-          <a href="{{ paginator.previous_page_path | relative_url }}">← Anteriores</a>
-        {% endif %}
-        {% if paginator.next_page %}
-          <a href="{{ paginator.next_page_path | relative_url }}" style="float: right;">Siguientes →</a>
-        {% endif %}
+        
+        
       </div>
     </main>
 
     <!-- Columna derecha – YouTube -->
     <aside style="flex: 0 0 320px; padding: 0.5em;">
       <h3 style="margin-top: 0;">Lo último en YouTube sobre el Viejo Mundo</h3>
-      {% include last_youtube.html %}
+      
+
+
+
+<div class="youtube-list">
+  
+    <article class="youtube-item" style="display:flex; margin-bottom:0.8em;">
+      <a href="/videos/2025-06-13-yt-CzDoicEeRXo.html" style="display:block; flex-shrink:0;">
+        <img src="https://i.ytimg.com/vi/CzDoicEeRXo/hqdefault.jpg" alt="39.  ¡La Cumbre del Hobby!" style="width:96px; height:54px; object-fit:cover; border-radius:4px;">
+      </a>
+      <div style="margin-left:0.6em; font-size:0.85em; line-height:1.25;">
+        <p style="margin:0; color:#666;">
+          13 Jun 2025
+        </p>
+        <p style="margin:0; font-weight:bold; color:#b30000;">
+          La Escotilla Estaliana Podcast
+        </p>
+        <a href="/videos/2025-06-13-yt-CzDoicEeRXo.html" style="text-decoration:none; color:#000;">
+          39.  ¡La Cumbre del Hobby!
+        </a>
+      </div>
+    </article>
+  
+    <article class="youtube-item" style="display:flex; margin-bottom:0.8em;">
+      <a href="/videos/2025-06-12-yt-rYJr2iVpi_A.html" style="display:block; flex-shrink:0;">
+        <img src="https://i.ytimg.com/vi/rYJr2iVpi_A/hqdefault.jpg" alt="12 de junio de 2025" style="width:96px; height:54px; object-fit:cover; border-radius:4px;">
+      </a>
+      <div style="margin-left:0.6em; font-size:0.85em; line-height:1.25;">
+        <p style="margin:0; color:#666;">
+          12 Jun 2025
+        </p>
+        <p style="margin:0; font-weight:bold; color:#b30000;">
+          13th Warrior
+        </p>
+        <a href="/videos/2025-06-12-yt-rYJr2iVpi_A.html" style="text-decoration:none; color:#000;">
+          12 de junio de 2025
+        </a>
+      </div>
+    </article>
+  
+    <article class="youtube-item" style="display:flex; margin-bottom:0.8em;">
+      <a href="/videos/2025-06-12-yt-lieDy6G848g.html" style="display:block; flex-shrink:0;">
+        <img src="https://i.ytimg.com/vi/lieDy6G848g/hqdefault.jpg" alt="12 de junio de 2025" style="width:96px; height:54px; object-fit:cover; border-radius:4px;">
+      </a>
+      <div style="margin-left:0.6em; font-size:0.85em; line-height:1.25;">
+        <p style="margin:0; color:#666;">
+          12 Jun 2025
+        </p>
+        <p style="margin:0; font-weight:bold; color:#b30000;">
+          13th Warrior
+        </p>
+        <a href="/videos/2025-06-12-yt-lieDy6G848g.html" style="text-decoration:none; color:#000;">
+          12 de junio de 2025
+        </a>
+      </div>
+    </article>
+  
+    <article class="youtube-item" style="display:flex; margin-bottom:0.8em;">
+      <a href="/videos/2025-06-11-yt-ateHjXorb-s.html" style="display:block; flex-shrink:0;">
+        <img src="https://i.ytimg.com/vi/ateHjXorb-s/hqdefault.jpg" alt="Viaje al Centro de la Tierra | Julio Verne | Colección RBA" style="width:96px; height:54px; object-fit:cover; border-radius:4px;">
+      </a>
+      <div style="margin-left:0.6em; font-size:0.85em; line-height:1.25;">
+        <p style="margin:0; color:#666;">
+          11 Jun 2025
+        </p>
+        <p style="margin:0; font-weight:bold; color:#b30000;">
+          Juegos y Dados
+        </p>
+        <a href="/videos/2025-06-11-yt-ateHjXorb-s.html" style="text-decoration:none; color:#000;">
+          Viaje al Centro de la Tierra | Julio Verne | Colección RBA
+        </a>
+      </div>
+    </article>
+  
+    <article class="youtube-item" style="display:flex; margin-bottom:0.8em;">
+      <a href="/videos/2025-06-08-yt-Nda51ecwBpQ.html" style="display:block; flex-shrink:0;">
+        <img src="https://i.ytimg.com/vi/Nda51ecwBpQ/hqdefault.jpg" alt="Nuevo vídeo de 13th Warrior: 🎲ENANOS DEL CAOS VS GUERREROS DEL CAOS🎲 2@ RONDA CLASIFICATORIO MUNDIAL THE OLD WORLD WARHAMMER" style="width:96px; height:54px; object-fit:cover; border-radius:4px;">
+      </a>
+      <div style="margin-left:0.6em; font-size:0.85em; line-height:1.25;">
+        <p style="margin:0; color:#666;">
+          8 Jun 2025
+        </p>
+        <p style="margin:0; font-weight:bold; color:#b30000;">
+          13th Warrior
+        </p>
+        <a href="/videos/2025-06-08-yt-Nda51ecwBpQ.html" style="text-decoration:none; color:#000;">
+          Nuevo vídeo de 13th Warrior: 🎲ENANOS DEL CAOS VS GUERREROS DEL CAOS🎲 2@ RONDA CLASIFICATORIO MUNDIAL THE OLD WORLD WARHAMMER
+        </a>
+      </div>
+    </article>
+  
+    <article class="youtube-item" style="display:flex; margin-bottom:0.8em;">
+      <a href="/videos/2025-06-08-yt-0V7d1L7Z_tM.html" style="display:block; flex-shrink:0;">
+        <img src="https://i.ytimg.com/vi/0V7d1L7Z_tM/hqdefault.jpg" alt="Nuevo vídeo de La Alianza del Viejo Mundo: Clasificatorio Mundial 2025 Warhammer The Old World Análisis e impresiones Mirror Bretonia" style="width:96px; height:54px; object-fit:cover; border-radius:4px;">
+      </a>
+      <div style="margin-left:0.6em; font-size:0.85em; line-height:1.25;">
+        <p style="margin:0; color:#666;">
+          8 Jun 2025
+        </p>
+        <p style="margin:0; font-weight:bold; color:#b30000;">
+          La Alianza del Viejo Mundo
+        </p>
+        <a href="/videos/2025-06-08-yt-0V7d1L7Z_tM.html" style="text-decoration:none; color:#000;">
+          Nuevo vídeo de La Alianza del Viejo Mundo: Clasificatorio Mundial 2025 Warhammer The Old World Análisis e impresiones Mirror Bretonia
+        </a>
+      </div>
+    </article>
+  
+    <article class="youtube-item" style="display:flex; margin-bottom:0.8em;">
+      <a href="/videos/2025-06-08-yt-wz7UxHuxw6k.html" style="display:block; flex-shrink:0;">
+        <img src="https://i.ytimg.com/vi/wz7UxHuxw6k/hqdefault.jpg" alt="Nuevo vídeo de 13th Warrior: 🎲ENANOS DEL CAOS VS GUERREROS DEL CAOS🎲2@ RONDA TORNEO2000 PUNTOS INFORME DE BATALLA  #theoldworld" style="width:96px; height:54px; object-fit:cover; border-radius:4px;">
+      </a>
+      <div style="margin-left:0.6em; font-size:0.85em; line-height:1.25;">
+        <p style="margin:0; color:#666;">
+          8 Jun 2025
+        </p>
+        <p style="margin:0; font-weight:bold; color:#b30000;">
+          13th Warrior
+        </p>
+        <a href="/videos/2025-06-08-yt-wz7UxHuxw6k.html" style="text-decoration:none; color:#000;">
+          Nuevo vídeo de 13th Warrior: 🎲ENANOS DEL CAOS VS GUERREROS DEL CAOS🎲2@ RONDA TORNEO2000 PUNTOS INFORME DE BATALLA  #theoldworld
+        </a>
+      </div>
+    </article>
+  
+    <article class="youtube-item" style="display:flex; margin-bottom:0.8em;">
+      <a href="/videos/2025-06-07-yt-hAscyG5gdHY.html" style="display:block; flex-shrink:0;">
+        <img src="https://i.ytimg.com/vi/hAscyG5gdHY/hqdefault.jpg" alt="Nuevo vídeo de 13th Warrior: 🎲BRETONIA VS HOMBRES BESTIA🎲 LIGA CUARTOS FINAL 2000 PUNTOS WARHAMMER THE OLD WORLD #theoldworld" style="width:96px; height:54px; object-fit:cover; border-radius:4px;">
+      </a>
+      <div style="margin-left:0.6em; font-size:0.85em; line-height:1.25;">
+        <p style="margin:0; color:#666;">
+          7 Jun 2025
+        </p>
+        <p style="margin:0; font-weight:bold; color:#b30000;">
+          13th Warrior
+        </p>
+        <a href="/videos/2025-06-07-yt-hAscyG5gdHY.html" style="text-decoration:none; color:#000;">
+          Nuevo vídeo de 13th Warrior: 🎲BRETONIA VS HOMBRES BESTIA🎲 LIGA CUARTOS FINAL 2000 PUNTOS WARHAMMER THE OLD WORLD #theoldworld
+        </a>
+      </div>
+    </article>
+  
+    <article class="youtube-item" style="display:flex; margin-bottom:0.8em;">
+      <a href="/videos/2025-06-07-yt-65lNo5z3akg.html" style="display:block; flex-shrink:0;">
+        <img src="https://i.ytimg.com/vi/65lNo5z3akg/hqdefault.jpg" alt="Nuevo vídeo de Moria Wargames: HELICOPTER HELICOPTER The Old World elfos vs enanos" style="width:96px; height:54px; object-fit:cover; border-radius:4px;">
+      </a>
+      <div style="margin-left:0.6em; font-size:0.85em; line-height:1.25;">
+        <p style="margin:0; color:#666;">
+          7 Jun 2025
+        </p>
+        <p style="margin:0; font-weight:bold; color:#b30000;">
+          Moria Wargames
+        </p>
+        <a href="/videos/2025-06-07-yt-65lNo5z3akg.html" style="text-decoration:none; color:#000;">
+          Nuevo vídeo de Moria Wargames: HELICOPTER HELICOPTER The Old World elfos vs enanos
+        </a>
+      </div>
+    </article>
+  
+    <article class="youtube-item" style="display:flex; margin-bottom:0.8em;">
+      <a href="/videos/2025-06-06-yt-xUdG562vzsM.html" style="display:block; flex-shrink:0;">
+        <img src="https://i.ytimg.com/vi/xUdG562vzsM/hqdefault.jpg" alt="Nuevo vídeo de 13th Warrior: 🎲ENANOS DEL CAOS VS GUERREROS DEL CAOS🎲 INFORME DE BATALLA 2000 PUNTOS THE OLD WORLD WARHAMMER" style="width:96px; height:54px; object-fit:cover; border-radius:4px;">
+      </a>
+      <div style="margin-left:0.6em; font-size:0.85em; line-height:1.25;">
+        <p style="margin:0; color:#666;">
+          6 Jun 2025
+        </p>
+        <p style="margin:0; font-weight:bold; color:#b30000;">
+          13th Warrior
+        </p>
+        <a href="/videos/2025-06-06-yt-xUdG562vzsM.html" style="text-decoration:none; color:#000;">
+          Nuevo vídeo de 13th Warrior: 🎲ENANOS DEL CAOS VS GUERREROS DEL CAOS🎲 INFORME DE BATALLA 2000 PUNTOS THE OLD WORLD WARHAMMER
+        </a>
+      </div>
+    </article>
+  
+    <article class="youtube-item" style="display:flex; margin-bottom:0.8em;">
+      <a href="/videos/2025-06-05-yt-ivXCBBQKhDs.html" style="display:block; flex-shrink:0;">
+        <img src="https://i.ytimg.com/vi/ivXCBBQKhDs/hqdefault.jpg" alt="Nuevo vídeo de Leyendas en Miniatura: ¡MATADORES! - Warhammer Fantasy Escaramuzas #2" style="width:96px; height:54px; object-fit:cover; border-radius:4px;">
+      </a>
+      <div style="margin-left:0.6em; font-size:0.85em; line-height:1.25;">
+        <p style="margin:0; color:#666;">
+          5 Jun 2025
+        </p>
+        <p style="margin:0; font-weight:bold; color:#b30000;">
+          Leyendas en Miniatura
+        </p>
+        <a href="/videos/2025-06-05-yt-ivXCBBQKhDs.html" style="text-decoration:none; color:#000;">
+          Nuevo vídeo de Leyendas en Miniatura: ¡MATADORES! - Warhammer Fantasy Escaramuzas #2
+        </a>
+      </div>
+    </article>
+  
+    <article class="youtube-item" style="display:flex; margin-bottom:0.8em;">
+      <a href="/videos/2025-06-04-yt-NLTn8DQMVR8.html" style="display:block; flex-shrink:0;">
+        <img src="https://i.ytimg.com/vi/NLTn8DQMVR8/hqdefault.jpg" alt="Nuevo vídeo de Juegos y Dados: Choose Cthulhu II - Reseña El Caso de Charles Dexter Ward" style="width:96px; height:54px; object-fit:cover; border-radius:4px;">
+      </a>
+      <div style="margin-left:0.6em; font-size:0.85em; line-height:1.25;">
+        <p style="margin:0; color:#666;">
+          4 Jun 2025
+        </p>
+        <p style="margin:0; font-weight:bold; color:#b30000;">
+          Juegos y Dados
+        </p>
+        <a href="/videos/2025-06-04-yt-NLTn8DQMVR8.html" style="text-decoration:none; color:#000;">
+          Nuevo vídeo de Juegos y Dados: Choose Cthulhu II - Reseña El Caso de Charles Dexter Ward
+        </a>
+      </div>
+    </article>
+  
+    <article class="youtube-item" style="display:flex; margin-bottom:0.8em;">
+      <a href="/videos/2025-06-04-yt-pS7vvN_0r3E.html" style="display:block; flex-shrink:0;">
+        <img src="https://i.ytimg.com/vi/pS7vvN_0r3E/hqdefault.jpg" alt="Nuevo vídeo de 13th Warrior: 🎲SE ANUNCIA EL MANUAL COMPETITIVO PARA THE OLD WORLD WARHAMMER!!!🎲 #theoldworld #tow" style="width:96px; height:54px; object-fit:cover; border-radius:4px;">
+      </a>
+      <div style="margin-left:0.6em; font-size:0.85em; line-height:1.25;">
+        <p style="margin:0; color:#666;">
+          4 Jun 2025
+        </p>
+        <p style="margin:0; font-weight:bold; color:#b30000;">
+          13th Warrior
+        </p>
+        <a href="/videos/2025-06-04-yt-pS7vvN_0r3E.html" style="text-decoration:none; color:#000;">
+          Nuevo vídeo de 13th Warrior: 🎲SE ANUNCIA EL MANUAL COMPETITIVO PARA THE OLD WORLD WARHAMMER!!!🎲 #theoldworld #tow
+        </a>
+      </div>
+    </article>
+  
+    <article class="youtube-item" style="display:flex; margin-bottom:0.8em;">
+      <a href="/videos/2025-06-02-yt-94V1j0sFbtc.html" style="display:block; flex-shrink:0;">
+        <img src="https://i.ytimg.com/vi/94V1j0sFbtc/hqdefault.jpg" alt="Nuevo vídeo de Moria Wargames: Hueste Craciana vs Fuerza Expedicionaria | The Old World 2000p | La torre solitaria" style="width:96px; height:54px; object-fit:cover; border-radius:4px;">
+      </a>
+      <div style="margin-left:0.6em; font-size:0.85em; line-height:1.25;">
+        <p style="margin:0; color:#666;">
+          2 Jun 2025
+        </p>
+        <p style="margin:0; font-weight:bold; color:#b30000;">
+          Moria Wargames
+        </p>
+        <a href="/videos/2025-06-02-yt-94V1j0sFbtc.html" style="text-decoration:none; color:#000;">
+          Nuevo vídeo de Moria Wargames: Hueste Craciana vs Fuerza Expedicionaria | The Old World 2000p | La torre solitaria
+        </a>
+      </div>
+    </article>
+  
+    <article class="youtube-item" style="display:flex; margin-bottom:0.8em;">
+      <a href="/videos/2025-05-29-yt-jMhrWoEGQLI.html" style="display:block; flex-shrink:0;">
+        <img src="https://i.ytimg.com/vi/jMhrWoEGQLI/hqdefault.jpg" alt="Nuevo vídeo de La Escotilla Estaliana Podcast: 38  Crossover con La Cripta del Plástico." style="width:96px; height:54px; object-fit:cover; border-radius:4px;">
+      </a>
+      <div style="margin-left:0.6em; font-size:0.85em; line-height:1.25;">
+        <p style="margin:0; color:#666;">
+          29 May 2025
+        </p>
+        <p style="margin:0; font-weight:bold; color:#b30000;">
+          La Escotilla Estaliana Podcast
+        </p>
+        <a href="/videos/2025-05-29-yt-jMhrWoEGQLI.html" style="text-decoration:none; color:#000;">
+          Nuevo vídeo de La Escotilla Estaliana Podcast: 38  Crossover con La Cripta del Plástico.
+        </a>
+      </div>
+    </article>
+  
+    <article class="youtube-item" style="display:flex; margin-bottom:0.8em;">
+      <a href="/videos/2025-05-28-yt-EpO2a7HReKc.html" style="display:block; flex-shrink:0;">
+        <img src="https://i.ytimg.com/vi/EpO2a7HReKc/hqdefault.jpg" alt="Nuevo vídeo de La Posada del Martillo: La TORMENTA del CAOS" style="width:96px; height:54px; object-fit:cover; border-radius:4px;">
+      </a>
+      <div style="margin-left:0.6em; font-size:0.85em; line-height:1.25;">
+        <p style="margin:0; color:#666;">
+          28 May 2025
+        </p>
+        <p style="margin:0; font-weight:bold; color:#b30000;">
+          La Posada del Martillo
+        </p>
+        <a href="/videos/2025-05-28-yt-EpO2a7HReKc.html" style="text-decoration:none; color:#000;">
+          Nuevo vídeo de La Posada del Martillo: La TORMENTA del CAOS
+        </a>
+      </div>
+    </article>
+  
+    <article class="youtube-item" style="display:flex; margin-bottom:0.8em;">
+      <a href="/videos/2025-05-28-yt-hFsXC64gdTg.html" style="display:block; flex-shrink:0;">
+        <img src="https://i.ytimg.com/vi/hFsXC64gdTg/hqdefault.jpg" alt="Nuevo vídeo de Juegos y Dados: The Walking Dead All Out War | The Whisperers Collection" style="width:96px; height:54px; object-fit:cover; border-radius:4px;">
+      </a>
+      <div style="margin-left:0.6em; font-size:0.85em; line-height:1.25;">
+        <p style="margin:0; color:#666;">
+          28 May 2025
+        </p>
+        <p style="margin:0; font-weight:bold; color:#b30000;">
+          Juegos y Dados
+        </p>
+        <a href="/videos/2025-05-28-yt-hFsXC64gdTg.html" style="text-decoration:none; color:#000;">
+          Nuevo vídeo de Juegos y Dados: The Walking Dead All Out War | The Whisperers Collection
+        </a>
+      </div>
+    </article>
+  
+</div>
+
     </aside>
 
   </div>
 </div>
 <!-- forzar compilación -->
+
+  </div>
+</body>
+</html>
