@@ -19,56 +19,61 @@ title: El Heraldo del Viejo Mundo
 
       {% for post in paginator.posts %}
 
-      <a href="{{ post.url | relative_url }}" style="text-decoration: none;">
-        {% if post.categories contains "noticias" and post.title_original and post.title_translated %}
-          <p style="margin-bottom:0.1em; font-size:0.9em; font-weight:bold; color:#000;">
-            Hoy, en Warhammer Community
-          </p>
-          <p style="margin:0; font-size:1.4em; font-weight:bold; color:#000;">
-            {{ post.title_original }}
-          </p>
-          <p style="margin-top:0.2em; font-size:1.1em; color:#444;">
-            {{ post.title_translated }}
-          </p>
-        {% elsif post.categories.size == 1 and post.categories[0] == "videos" %}
-          <p style="margin-bottom:0.1em; font-size:0.9em; font-weight:bold; color:#000;">
-            🎥 Nuevo vídeo de
-          </p>
-          <p style="margin:0; font-size:1.3em; font-weight:bold; color:#b30000;">
-            {{ post.channel }}
-          </p>
-          <p style="margin-top:0.2em; font-size:1.1em; color:#444;">
-            {{ post.title }}
-          </p>
-        {% elsif post.categories.size == 1 and post.categories[0] == "torneos" %}
-          <p style="margin:0; font-size:1.3em; font-weight:bold; color:#000;">
-            {{ post.title }}
-          </p>
-          <p style="margin-top:0.2em; font-size:1.1em; color:#444;">
-            {{ post.excerpt }}
-          </p>
+      <div style="background: #fdf6e3; border: 1px solid #e0d3af; border-radius: 10px; padding: 1em; margin-bottom: 2em; box-shadow: 0 2px 6px rgba(0,0,0,0.1); font-family: Georgia, serif;">
+
+        <a href="{{ post.url | relative_url }}" style="text-decoration: none;">
+          {% if post.categories contains "noticias" and post.title_original and post.title_translated %}
+            <p style="margin-bottom:0.1em; font-size:0.9em; font-weight:bold; color:#6b4e17;">
+              Hoy, en Warhammer Community
+            </p>
+            <p style="margin:0; font-size:1.4em; font-weight:bold; color:#4a2e0e;">
+              {{ post.title_original }}
+            </p>
+            <p style="margin-top:0.2em; font-size:1.1em; color:#3c2a0c;">
+              {{ post.title_translated }}
+            </p>
+          {% elsif post.categories.size == 1 and post.categories[0] == "videos" %}
+            <p style="margin-bottom:0.1em; font-size:0.9em; font-weight:bold; color:#6b4e17;">
+              🎥 Nuevo vídeo de
+            </p>
+            <p style="margin:0; font-size:1.3em; font-weight:bold; color:#b30000;">
+              {{ post.channel }}
+            </p>
+            <p style="margin-top:0.2em; font-size:1.1em; color:#3c2a0c;">
+              {{ post.title }}
+            </p>
+          {% elsif post.categories.size == 1 and post.categories[0] == "torneos" %}
+            <p style="margin:0; font-size:1.3em; font-weight:bold; color:#4a2e0e;">
+              {{ post.title }}
+            </p>
+            <p style="margin-top:0.2em; font-size:1.1em; color:#3c2a0c;">
+              {{ post.excerpt }}
+            </p>
+          {% endif %}
+        </a>
+
+        <small style="color:#777;">
+          {% if post.source_date %}
+            {{ post.source_date | date: "%d/%m/%Y" }}
+          {% else %}
+            {{ post.date | date: "%d/%m/%Y" }}
+          {% endif %}
+        </small>
+
+        {% if post.thumbnail %}
+          <img src="{{ post.thumbnail }}" alt="Miniatura del vídeo" style="width:60%; max-width:300px; margin:10px 0;">
         {% endif %}
-      </a>
 
-      <small>
-        {% if post.source_date %}
-          {{ post.source_date | date: "%d/%m/%Y" }}
-        {% else %}
-          {{ post.date | date: "%d/%m/%Y" }}
+        {% if post.image %}
+          <img src="{{ post.image }}" alt="Imagen del artículo" style="width:100%; max-width:500px; margin:10px 0;">
         {% endif %}
-      </small>
 
-      {% if post.thumbnail %}
-        <img src="{{ post.thumbnail }}" alt="Miniatura del vídeo" style="width:60%; max-width:300px; margin:10px 0;">
-      {% endif %}
+        {{ post.excerpt }}
 
-      {% if post.image %}
-        <img src="{{ post.image }}" alt="Imagen del artículo" style="width:100%; max-width:500px; margin:10px 0;">
-      {% endif %}
-
-      {{ post.excerpt }}
+      </div>
 
       {% endfor %}
+
 
       <!-- Navegación -->
       <div style="margin-top: 2em;">
