@@ -14,7 +14,7 @@ description: "Calendario y detalles de los torneos de Warhammer Fantasy —The O
 ## Agenda de torneos (actualizada 16 / VI / 2025)
 
 ### Torneos Warhammer Fantasy en España (21 junio – 31 julio 2025)
-
+<div class="torneo-card">
 **21/06/2025 – La Fortaleza Miniaturas (A Coruña)**  
 (Warhammer: The Old World) a 2 000 ptos  
 Primer torneo *TOW* en Galicia con aforo limitado y sorteos; mesas recién escenografiadas crearán un ambiente premium.  
@@ -104,7 +104,7 @@ Cinco días de torneos mundialistas individual y por equipos; Talavera Ferial a
 👥 Plazas: ~40 equipos + 100 jugadores individuales  
 💰 Inscripción: *Según categoría*  
 🔗 https://www.eldiario.es/castilla-la-mancha/provincias/toledo/talavera-sera-sede-mundial-warhammer-2025-30-julio-3-agosto_1_11911042.html
-
+</div>
 ---
 
 ## Conclusiones
