@@ -1,47 +1,51 @@
 ---
 layout: post
-title: Almanaque del Viejo Mundo – Hecho por Encargo en una época de anarquía
+title: Almanaque del Viejo Mundo – Hecho por encargo en una época de anarquía
 date: '2024-12-20T00:00:00'
 source_date: '2024-12-20'
 categories: noticias
 original_url: https://www.warhammer-community.com/en-gb/articles/glalb5fm/old-world-almanack-made-to-order-in-a-time-of-anarchy/
 title_original: Old World Almanack – Made to Order in a time of anarchy
-title_translated: Almanaque del Viejo Mundo – Hecho por Encargo en una época de anarquía
-excerpt: En una época de caos y desunión en el Imperio del Hombre, el Almanaque del
-  Viejo Mundo trae emocionantes lanzamientos Hechos por Encargo. Los fanáticos de
-  Warhammer podrán disfrutar de miniaturas clásicas como el Carro de Guerra, ahora
-  remasterizado en resina, y el General del Imperio en Grifo, que regresa en su forma
-  original de metal. Esta colección ofrece una oportunidad única para que los coleccionistas
-  completen sus ejércitos con modelos nostálgicos y raros, disponibles solo por tiempo
-  limitado. ¡No te pierdas la oportunidad de revivir la gloria del Viejo Mundo!
-summary: En una época de caos y desunión en el Imperio del Hombre, el Almanaque del
-  Viejo Mundo trae emocionantes lanzamientos Hechos por Encargo. Los fanáticos de
-  Warhammer podrán disfrutar de miniaturas clásicas como el Carro de Guerra, ahora
-  remasterizado en resina, y el General del Imperio en Grifo, que regresa en su forma
-  original de metal. Esta colección ofrece una oportunidad única para que los coleccionistas
-  completen sus ejércitos con modelos nostálgicos y raros, disponibles solo por tiempo
-  limitado. ¡No te pierdas la oportunidad de revivir la gloria del Viejo Mundo!
+title_translated: Almanaque del Viejo Mundo – Hecho por encargo en una época de anarquía
+excerpt: En un momento de caos y desunión, el Viejo Mundo de Warhammer revive con
+  una serie de lanzamientos clásicos hechos por encargo. Los fanáticos podrán disfrutar
+  de miniaturas icónicas como el Carro de Guerra, el General del Imperio en Grifo
+  y el Capitán Imperial en Pegaso, cada una con detalles mejorados y disponibles por
+  tiempo limitado. Este regreso nostálgico no solo ofrece a los coleccionistas la
+  oportunidad de completar sus ejércitos, sino que también reaviva el espíritu del
+  Imperio de Sigmar en una era de anarquía. ¡Prepárate para sumergirte en la historia
+  y la estrategia del Viejo Mundo!
+summary: En un momento de caos y desunión, el Viejo Mundo de Warhammer revive con
+  una serie de lanzamientos clásicos hechos por encargo. Los fanáticos podrán disfrutar
+  de miniaturas icónicas como el Carro de Guerra, el General del Imperio en Grifo
+  y el Capitán Imperial en Pegaso, cada una con detalles mejorados y disponibles por
+  tiempo limitado. Este regreso nostálgico no solo ofrece a los coleccionistas la
+  oportunidad de completar sus ejércitos, sino que también reaviva el espíritu del
+  Imperio de Sigmar en una era de anarquía. ¡Prepárate para sumergirte en la historia
+  y la estrategia del Viejo Mundo!
 image: https://assets.warhammer-community.com/the-old-world-banner-test.jpg
 ---
 
 *Publicado originalmente el 20-dec-2024.*
 
 
-El Imperio del Hombre se encuentra en un estado de gran convulsión. La Era de los Tres Emperadores ha pasado, y la unidad es solo un sueño lejano mientras los Condes Electores se enfrentan, fortifican y defienden por sí mismos. Este es el periodo conocido como la Anarquía, una época sin un gobierno central definido, aunque el sueño del Imperio de Sigmar todavía persiste en los corazones de su gente, y los grandes ejércitos de los estados dispares aún se reúnen cuando son atacados.
+El Imperio del Hombre se encuentra en una situación complicada. La Era de los Tres Emperadores ha quedado atrás y la unidad es un sueño lejano mientras los Condes Electores se enfrentan, fortifican y defienden por sí mismos. Esta es la Anarquía, un período sin un gobierno central, pero el sueño del Imperio de Sigmar aún persiste en los corazones de su gente, y los grandes ejércitos de los estados dispersos todavía se reúnen cuando son atacados.
 
-En este contexto, llega una serie de lanzamientos clásicos de Made to Order del Imperio del Hombre. Estas miniaturas estarán disponibles solo por tiempo limitado, y aunque los detalles específicos de disponibilidad se anunciarán más adelante, el equipo de desarrollo de The Old World ha compartido información sobre las miniaturas seleccionadas y las razones detrás de su elección.
+Se avecina un importante lanzamiento de miniaturas clásicas Made to Order junto con el resto del Imperio del Hombre. Estas estarán disponibles solo por un tiempo limitado, y aunque los detalles exactos se revelarán más adelante, el equipo de desarrollo de The Old World ha compartido qué miniaturas han elegido y por qué.
 
-El Carro de Guerra es una de las piezas más emocionantes de este relanzamiento. Originalmente lanzado en 1992, ha sido completamente remasterizado en resina de Forge World en lugar del metal original, lo que facilita su ensamblaje. Se han añadido nuevos detalles para actualizar el modelo, incluyendo caballos nuevos basados en los del Altar de Guerra y un ingeniero esculpido a mano. Este ingeniero fue un proyecto paralelo del diseñador encargado de la remasterización, y se decidió incluirlo como un agradable extra. Las ruedas siguen siendo los conjuntos de plástico originales, pero ahora están limpiadas y moldeadas en resina. El resto del modelo ha sido mejorado, con detalles adicionales en el chasis y los lados del carro. Este modelo no ha estado disponible desde alrededor del año 2000, y al ser Made to Order, se garantiza que todos los que lo pidan lo recibirán, aunque pueda tardar un poco en cumplirse cada pedido.
+El Carro de Guerra es una de las miniaturas destacadas. Este kit original de 1992 ha sido completamente remasterizado para ser producido en resina de Forge World en lugar del metal original, lo que facilita mucho su montaje. Además, se han añadido nuevos detalles para actualizarlo, como caballos nuevos basados en los del Altar de Guerra y un ingeniero esculpido a mano. Esta inclusión del ingeniero fue un proyecto paralelo del diseñador encargado de la remasterización, que decidió incluirlo como un pequeño extra.
 
-El General del Imperio en Grifo es otro modelo destacado, proveniente de principios de los 2000. Este no ha sido remasterizado y regresa tal como estaba en el metal original. Se recomienda fijarlo con alfileres al ensamblarlo, y hay una guía disponible para ello. El objetivo de estos lanzamientos Made to Order es ofrecer una variedad de miniaturas, principalmente personajes o modelos únicos, que añadan un toque especial a los ejércitos. Son una dosis de nostalgia y una oportunidad para que los coleccionistas completen sus colecciones con algunas rarezas muy buscadas.
+Las ruedas del Carro de Guerra son las originales de plástico, aunque ahora están limpiadas y fundidas en resina. El resto del modelo es original, pero se han mejorado ciertos detalles, como el fondo del carro que antes era de metal plano y ahora ha sido esculpido y detallado, al igual que los laterales. Este es un gran trabajo de reestructuración para un modelo que no ha estado disponible desde el año 2000. Al ser Made to Order, se garantiza que todos los que lo ordenen lo recibirán, incluso si toma un tiempo cumplir con cada pedido. Esta es la mejor manera de asegurar que todos los que siempre han querido poseer esta miniatura clásica puedan hacerlo.
 
-El Capitán Imperial en Pegaso es un verdadero clásico, lanzado por primera vez en 1991. Representa al Imperio con todo su esplendor, y gran parte del diseño y actitud se reflejan en Hans von Löwenhacke. Se buscó en los rincones oscuros de la sala de moldes para encontrar los originales, incluso contactando a los diseñadores que los crearon. Algunos de los originales se obtuvieron de colecciones personales, como los Ogros Imperiales, que fueron traídos por Aly.
+Otra miniatura que regresa es el General del Imperio en Grifo, de principios de los 2000. Este no ha sido remasterizado y vuelve tal cual era en su versión original de metal. Se recomienda fijarlo con alfileres al montarlo, y hay una guía disponible para ello. El objetivo general de estos lanzamientos Made to Order es ofrecer una variedad de miniaturas, principalmente personajes o modelos únicos, que puedan añadir un poco de sabor a los ejércitos. Es un toque de nostalgia y también brinda a los coleccionistas la oportunidad de completar sus colecciones con algunas rarezas muy buscadas.
 
-Además, se reeditan Comandantes del Imperio, Ingenieros Imperiales y el Portaestandarte de Batalla. Estos son miniaturas excepcionales que se han traído de vuelta simplemente porque era posible. Los ingenieros son de principios de los 2000, mientras que los Comandantes y el Portaestandarte fueron miniaturas exclusivas de Mail Order lanzadas durante la sexta, séptima y octava ediciones de Warhammer Fantasy Battles. Todos regresan en su metal original.
+El Capitán Imperial en Pegaso es otro clásico, lanzado por primera vez en 1991. Este modelo encarna al Imperio; está lleno de pompa, y gran parte del lenguaje de diseño y actitud terminó en Hans von Löwenhacke. En términos de tamaño y estatura, se puede ver una similitud: es una pieza robusta. Para encontrar estos moldes, se buscó en los rincones oscuros de la sala de moldes, buscando los "tins" o incluso encontrando a los diseñadores que originalmente los hicieron. Algunos de los originales fueron recuperados de esta manera, como uno de los Ogros Imperiales que fue traído por Aly de su colección personal.
 
-Estas miniaturas Made to Order se unirán al resto de los lanzamientos del Imperio del Hombre cuando estén disponibles para pre-pedidos, lo cual será pronto.
+También regresan los Comandantes del Imperio, los Ingenieros Imperiales y el Portaestandarte de Batalla. Estos son miniaturas excelentes que se han traído de vuelta simplemente porque era posible. Los ingenieros son de principios de los 2000, mientras que los Comandantes y el Portaestandarte fueron miniaturas exclusivas de Mail Order lanzadas durante las ediciones sexta, séptima y octava de Warhammer Fantasy Battles. Todos ellos regresan en su metal original.
+
+Estas miniaturas Made to Order se unirán al resto de los lanzamientos del Imperio del Hombre cuando estén disponibles para pre-pedidos. La fecha exacta se anunciará próximamente.
 
 <div style="margin-top:3em;padding:1em;background:#fef8e6;border:1px solid #eadbbd;border-radius:8px;">
-<strong>Conclusiones:</strong> La reintroducción de miniaturas clásicas del Imperio de Man, como el War Wagon y el General en Grifo, ofrece un interesante dilema estratégico y de coleccionismo. Desde un punto de vista competitivo, el War Wagon remasterizado en resina de Forge World podría revitalizar listas centradas en la movilidad y el control de áreas, especialmente con su ingeniero esculpido a mano que añade un toque táctico único. Sin embargo, el General en Grifo, sin mejoras, podría quedar relegado frente a opciones más modernas. Para los coleccionistas, estas ediciones Made to Order representan una oportunidad única de adquirir piezas nostálgicas que, además, están al 15 % en El Arca Negra, lo que podría influir en el mercado secundario al aumentar su demanda y valor. La clave estará en cómo estas miniaturas se integran en el metajuego actual y si logran aportar un valor tangible en torneos competitivos.
+<strong>Conclusiones:</strong> La reintroducción del War Wagon remasterizado en resina de Forge World representa un cambio táctico significativo para los jugadores del Imperio en torneos, ofreciendo una opción más robusta y detallada que su predecesor de metal. Este modelo, junto con el General en Grifo y el Capitán en Pegaso, no solo añade profundidad estratégica, sino que también apela a la nostalgia de los coleccionistas, quienes pueden aprovechar el 15 % de descuento en El Arca Negra. Sin embargo, la falta de remasterización en algunos modelos podría limitar su atractivo competitivo. En el mercado, estas ediciones Made to Order refuerzan la exclusividad y el valor de las colecciones, consolidando el Imperio como una facción de culto en el metajuego actual.
 </div>
 [Leer noticia original ➜](https://www.warhammer-community.com/en-gb/articles/glalb5fm/old-world-almanack-made-to-order-in-a-time-of-anarchy/)
