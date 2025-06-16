@@ -4,7 +4,7 @@ title: "Próximos Torneos de TOW, Sexta y Reforged"
 date: 2025-06-09 16:45:00 +0200
 categories: ["torneos"]
 tags: [prox_torneos]
-image: "/assets/images/bannertorneos.png"
+image: "/assets/images/miniatura_torneos.png"
 excerpt: >
   Junio se llena de **torneos de peana cuadrada** en todas sus versiones. Once convocatorias por toda España en los dos fines de semana que quedan del mes. Y, aunque predomina **The Old World**, no faltan eventos para los clásicos de **Sexta Edición** o para **Reforged**, que estrena la 4.ª edición en El Orco Rojo de Valladolid.
   Partidas intensas, mesas cuidadas y opciones para todos los estilos. Revisa el calendario y no te quedes sin plaza.
