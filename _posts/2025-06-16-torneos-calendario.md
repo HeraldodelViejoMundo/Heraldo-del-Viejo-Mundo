@@ -2,7 +2,7 @@
 layout: post
 title: "Agenda de Torneos de TOW, Sexta y Reforged (21 jun - 31 jul 2025)"
 date: 2025-06-16 00:00:00 +0200
-nano _posts/2025-06-16-torneos-calendario.md
+image: "/assets/images/bannertorneos.png"
 categories: torneos
 excerpt: >
   Diez convocatorias nuevas de **peana cuadrada** irrumpen en el calendario español para las próximas seis
