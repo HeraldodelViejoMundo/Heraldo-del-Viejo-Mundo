@@ -42,18 +42,14 @@ title: El Heraldo del Viejo Mundo
             <p style="margin-top:0.2em; font-size:1.1em; color:#3c2a0c;">
               {{ post.title }}
             </p>
-
-
-            % elsif post.categories.size == 1 and post.categories[0] == "torneos" %}
-                        <p style="margin:0; font-size:1.3em; font-weight:bold; color:#4a2e0e;">
-                          {{ post.title }}
-                        </p>
-                        <div class="torneo-card" style="white-space: pre-line;">
-                          {{ post.content }}
-                        </div>
-            {% endif %}
-
-
+          {% elsif post.categories.size == 1 and post.categories[0] == "torneos" %}
+            <p style="margin:0; font-size:1.3em; font-weight:bold; color:#4a2e0e;">
+              {{ post.title }}
+            </p>
+            <p style="margin-top:0.2em; font-size:1.1em; color:#3c2a0c;">
+              {{ post.excerpt | markdownify | newline_to_br }}
+            </p>
+          {% endif %}
         </a>
 
         <small style="color:#777;">
@@ -73,6 +69,7 @@ title: El Heraldo del Viejo Mundo
                style="width:100%; max-height:180px; object-fit:cover; margin:10px 0;">
         {% endif %}
 
+        {{ post.excerpt | markdownify | newline_to_br }}
 
       </div>
 
