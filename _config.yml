@@ -12,6 +12,13 @@ paginate_path: "/page:num"
 plugins:
   - jekyll-paginate
 
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: true
+
+
+
 collections:
   videos:
     output: true
