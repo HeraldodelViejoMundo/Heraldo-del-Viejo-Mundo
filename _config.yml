@@ -7,6 +7,7 @@ url: "https://www.elheraldodelviejomundo.com"
 baseurl: ""
 
 paginate: 30
+excerpt_separator: "<!-- fin-excerpt -->"
 paginate_path: "/page:num"
 plugins:
   - jekyll-paginate
