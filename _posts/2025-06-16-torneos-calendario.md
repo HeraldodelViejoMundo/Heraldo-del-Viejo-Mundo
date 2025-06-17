@@ -10,6 +10,7 @@ excerpt: >
   semanas. Predomina *The Old World*, pero veremos la primera beta de **Reforged v4** en Valladolid y ya
   asoma el Mundial de Novena de Talavera con cientos de jugadores. Consulta la agenda y asegura tu plaza.
 description: "Calendario y detalles de los torneos de Warhammer Fantasy —The Old World, Sexta Edición y Reforged— en España entre el 21 de junio y el 31 de julio de 2025."
+excerpt_separator: "<!-- fin-excerpt -->"
 ---
 ## Agenda de torneos (actualizada 16 / VI / 2025)
 ---

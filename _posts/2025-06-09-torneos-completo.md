@@ -8,6 +8,7 @@ image: "/assets/images/miniatura_torneos.png"
 excerpt: >
   Junio se llena de **torneos de peana cuadrada** en todas sus versiones. Once convocatorias por toda España en los dos fines de semana que quedan del mes. Y, aunque predomina **The Old World**, no faltan eventos para los clásicos de **Sexta Edición** o para **Reforged**, que estrena la 4.ª edición en El Orco Rojo de Valladolid.
   Partidas intensas, mesas cuidadas y opciones para todos los estilos. Revisa el calendario y no te quedes sin plaza.
+excerpt_separator: "<!-- fin-excerpt -->"
 ---
 ## Agenda de torneos (actualizada 10 / VI / 2025)
 ---
