@@ -57,3 +57,40 @@ p {
   line-height: 1.5;
   margin: .8em 0;
 }
+
+.torneo-card {
+  background-color: #fcf7ed;
+  border: 1px solid #d8c89a;
+  border-radius: 8px;
+  padding: 1em 1.2em;
+  margin: 1.5em 0;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.08);
+  font-family: "Georgia", serif;
+  font-size: 15px;
+  line-height: 1.4;
+}
+
+.torneo-card strong {
+  color: #3a240d;
+  font-size: 17px;
+  display: block;
+  margin-bottom: 0.3em;
+}
+
+.torneo-card em {
+  color: #843a00;
+  font-style: normal;
+  font-weight: bold;
+  display: inline-block;
+  margin-bottom: 0.4em;
+  font-size: 15px;
+}
+
+.torneo-card a {
+  color: #5a3d1c;
+  text-decoration: underline;
+}
+
+.torneo-card p {
+  margin: 0.2em 0;
+}
