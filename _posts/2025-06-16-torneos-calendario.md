@@ -24,7 +24,9 @@ Primer torneo *TOW* en Galicia con aforo limitado y sorteos; mesas recién escen
 👥 Plazas: ~14
 💰 Inscripción: *Por confirmar*
 🔗 https://www.instagram.com/lafortalezaminiaturas/
+
 ---
+
 **21/06/2025 – II Torneo Mudéjar (Teruel)**
 <p style="margin:0.15em 0 0.4em; color:#b30000; font-weight:bold; font-size:0.9em;">
 (Warhammer: The Old World) a 2 000 ptos
@@ -35,7 +37,9 @@ Sistema híbrido: 1 Choque de Patrullas + 2 batallas estándar; inscripción �
 👥 Plazas: *No indicado*
 💰 Inscripción: 15 €
 🔗 https://www.instagram.com/baronwargame/
+
 ---
+
 **21/06/2025 – “Aliados Inesperados” (El Jabalí Pisador, Torrent)**
 <p style="margin:0.15em 0 0.4em; color:#b30000; font-weight:bold; font-size:0.9em;">
 (Warhammer: The Old World) a 1 500 ptos por jugador
@@ -46,7 +50,9 @@ Formato narrativo 2 vs 2 con parejas aleatorias y duras restricciones (sin J
 👥 Plazas: 20 (10 parejas)
 💰 Inscripción: 20 € (15 € socios)
 🔗 tabernero@eljabalipisador.com
+
 ---
+
 **21/06/2025 – II Torneo Saint Cugat (Sant Cugat del Vallès)**
 <p style="margin:0.15em 0 0.4em; color:#6828a8; font-weight:bold; font-size:0.9em;">
 (Warhammer Fantasy 6.ª + MdNR) a 2 000 ptos
@@ -57,7 +63,9 @@ Usa Reglamento Anotado ¡Cargad!; bonifica pintura y reparte toda la recaudació
 👥 Plazas: 18
 💰 Inscripción: 15 €
 🔗 https://torneoswarhammer.com/bases-torneo-saint-cugat-mdnr-junio-2025/
+
 ---
+
 **22/06/2025 – Old World Clash (GTS Madrid Sur)**
 <p style="margin:0.15em 0 0.4em; color:#b30000; font-weight:bold; font-size:0.9em;">
 (Warhammer: The Old World) a 2 000 ptos
@@ -68,7 +76,9 @@ Evento de 16 plazas con restricción 0‑3; inscripción low‑cost y rondas r�
 👥 Plazas: 16
 💰 Inscripción: 10 €
 🔗 https://www.instagram.com/p/C7Tktm7qbiD/
+
 ---
+
 **28/06/2025 – Kingdom Wargames Alcorcón (Madrid)**
 <p style="margin:0.15em 0 0.4em; color:#b30000; font-weight:bold; font-size:0.9em;">
 (Warhammer: The Old World) a 2 000 ptos
@@ -79,7 +89,9 @@ Listas vía New Recruit, local climatizado y sorteo final; suele agotar sus 20
 👥 Plazas: 20
 💰 Inscripción: 15 €
 🔗 https://kingdomwargames.com/eventos/old-world-28-junio
+
 ---
+
 **Fecha por confirmar (julio 2025) – Torneo Warhammer Reforged V4 (El Orco Rojo, Valladolid)**
 <p style="margin:0.15em 0 0.4em; color:#6b3e00; font-weight:bold; font-size:0.9em;">
 (Warhammer Reforged v4 beta) a puntos por definir
@@ -90,7 +102,9 @@ Primer torneo con la nueva v4; El Orco Rojo reinvierte cuotas en premios y man
 👥 Plazas: *Limitadas*
 💰 Inscripción: *Por confirmar*
 🔗 https://es-la.facebook.com/whreforged/
+
 ---
+
 **06/07/2025 – Torneo The Old World (War Lotus, Granada)**
 <p style="margin:0.15em 0 0.4em; color:#b30000; font-weight:bold; font-size:0.9em;">
 (Warhammer: The Old World) a ~2 000 ptos
@@ -101,7 +115,9 @@ War Lotus se estrena con *TOW*; entrada online (stock 14) y uso del libro *Mat
 👥 Plazas: 14
 💰 Inscripción: 15 €
 🔗 https://warlotus.com/29173/
+
 ---
+
 **12/07/2025 – 5.º Torneo Pineda de Wargames (Pineda de Mar, Barcelona)**
 <p style="margin:0.15em 0 0.4em; color:#b30000; font-weight:bold; font-size:0.9em;">
 (Warhammer: The Old World) a 2 000 ptos
@@ -112,7 +128,9 @@ Quinta edición con 20 plazas agotadas antes de abrir inscripciones, señal del
 👥 Plazas: 20
 💰 Inscripción: *Por confirmar*
 🔗 https://www.instagram.com/theoldtroll/
+
 ---
+
 **30/07/2025 – Mundial de Warhammer 2025 (Talavera de la Reina, Toledo)**
 <p style="margin:0.15em 0 0.4em; color:#6b3e00; font-weight:bold; font-size:0.9em;">
 (The 9th Age + Warhammer Underworlds) a 4 500 ptos aprox.
@@ -123,6 +141,7 @@ Cinco días de torneos mundialistas individual y por equipos; Talavera Ferial a
 👥 Plazas: ~40 equipos + 100 jugadores individuales
 💰 Inscripción: *Según categoría*
 🔗 https://www.eldiario.es/castilla-la-mancha/provincias/toledo/talavera-sera-sede-mundial-warhammer-2025-30-julio-3-agosto_1_11911042.html
+
 ---
 
 ## Conclusiones
