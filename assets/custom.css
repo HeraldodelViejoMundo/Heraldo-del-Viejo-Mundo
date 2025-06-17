@@ -50,10 +50,10 @@ a:hover{color:#d1945c;}
 
 /* 7 . Ajustes tipográficos menores */
 h1, h2, h3, h4, h5 {
-  margin: 1.2em 0 .5em;
+  margin: 1em 0 .5em;
 }
 p {
-  line-height: 1.5;
+  line-height: 1;
   margin: .8em 0;
 }
 
@@ -63,10 +63,10 @@ p {
   border-radius: 8px;
   padding: 1em 1.2em;
   margin: 1em 0;
-  box-shadow: 0 2px 5px rgba(0,0,0,0.08);
+  box-shadow: 0 4px 8px rgba(0,0,0,0.08);
   font-family: "Georgia", serif;
   font-size: 14px;
-  line-height: 1;
+  line-height: 0.8;
   white-space: pre-line;   /* Respeta \n como salto de línea */
 }
 
