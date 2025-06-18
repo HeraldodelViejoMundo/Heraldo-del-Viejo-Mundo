@@ -47,7 +47,7 @@ title: El Heraldo del Viejo Mundo
               {{ post.title }}
             </p>
             <p style="margin-top:0.2em; font-size:1.1em; color:#3c2a0c;">
-              % unless post.categories.size == 1 and post.categories[0] == "torneos" %}
+              {% unless post.categories.size == 1 and post.categories[0] == "torneos" %}
                 {{ post.excerpt | markdownify | newline_to_br }}
               {% endunless %}
             </p>
