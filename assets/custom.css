@@ -97,7 +97,7 @@ p {
 
 /* ===  Bloque Conclusiones  =================================== */
 .conclusiones p{
-  font-size: 15px;     /* un pelín más grande que los datos   */
-  line-height: 1.35;   /* más aire vertical entre líneas      */
-  margin: 0.6em 0;     /* separación cómoda entre párrafos    */
+  font-size: 16px;     /* un pelín más grande que los datos   */
+  line-height: 2.35;   /* más aire vertical entre líneas      */
+  margin: 1.6em 0;     /* separación cómoda entre párrafos    */
 }
