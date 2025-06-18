@@ -14,7 +14,7 @@ excerpt_separator: "<!-- fin-excerpt -->"
 ---
 
 **Sábado 14 de junio – V Torneo Battle Bunker (Vitoria-Gasteiz)**
-<p style="margin:0.15em 0 0.4em; color:#6828a8; font-weight:bold; font-size:0.9em;">
+<p style="margin:0.05em 0 0.2em; color:#6828a8; font-weight:bold; font-size:1.2em;">
   Warhammer Fantasy 6.ª + MdN – 2 000 ptos
 </p>
 El club alavés reúne hasta 50 jugadores, convirtiéndose en el mayor aforo MdNR del norte.
@@ -28,7 +28,7 @@ Tres rondas con arbitraje veterano y control de tiempo estricto; se premian resu
 ---
 
 **Sábado 14 de junio – Torneo Saruman Games (Albacete)**
-<p style="margin:0.15em 0 0.4em; color:#b30000; font-weight:bold; font-size:0.9em;">
+<p style="margin:0.05em 0 0.2em; color:#b30000; font-weight:bold; font-size:1.2em;">
   Warhammer: The Old World – 2 000 ptos
 </p>
 La tienda manchega se estrena con un formato ágil de dos partidas, perfecto para probar listas recién pintadas.
@@ -44,7 +44,7 @@ El 100 % de la inscripción se entrega en vales, creando un ambiente competiti
 ---
 
 **Sábado 14 de junio – Marca d’Egara (Terrassa)**
-<p style="margin:0.15em 0 0.4em; color:#b30000; font-weight:bold; font-size:0.9em;">
+<p style="margin:0.05em 0 0.2em; color:#b30000; font-weight:bold; font-size:1.2em;">
   Warhammer: The Old World – 2 000 ptos
 </p>
 Clásico catalán con tres rondas cronometradas y sorteo final.
@@ -57,7 +57,7 @@ Las listas deben ajustarse a los Manuscritos de Nuth y el nivel de pintura suele
 ---
 
 **Domingo 15 de junio – Kingdom Wargames Madrid**
-<p style="margin:0.15em 0 0.4em; color:#b30000; font-weight:bold; font-size:0.9em;">
+<p style="margin:0.05em 0 0.2em; color:#b30000; font-weight:bold; font-size:1.2em;">
   Warhammer: The Old World – 2 000 ptos
 </p>
 Tres rondas de 3 h (10:00‑20:30) que atraen a quienes disfrutan partidas tácticas y competitivas. La mezcla de jugadores de alto nivel con nostálgicos del trasfondo y el pincel da lugar a uno de los torneos más importantes del panorama nacional.
@@ -69,7 +69,7 @@ Esta vez no han podido completar el aforo, lo que es poco habitual en un torneo 
 ---
 
 **Sábado 21 de junio – La Fortaleza Miniaturas (A Coruña)**
-<p style="margin:0.15em 0 0.4em; color:#b30000; font-weight:bold; font-size:1.2em;">
+<p style="margin:0.05em 0 0.2em; color:#b30000; font-weight:bold; font-size:1.2em;">
   Warhammer: The Old World – 2 000 ptos
 </p>
 Primer torneo oficial de *TOW* en Galicia: aforo reducido (~14 plazas) para garantizar comodidad.
@@ -83,7 +83,7 @@ La tienda promete “muchos premios y el mejor ambiente”, con sorteos entre ro
 ---
 
 **Sábado 21 de junio – II Torneo Mudéjar (Teruel)**
-<p style="margin:0.15em 0 0.4em; color:#b30000; font-weight:bold; font-size:1.2em;">
+<p style="margin:0.05em 0 0.2em; color:#b30000; font-weight:bold; font-size:1.2em;">
   Warhammer: The Old World – 2 000 ptos
 </p>
 Se juega en Estudio Solmenorphoto (Ronda Ambeles 16) con un sistema híbrido: 1 Choque de Patrullas y 2 Batallas estándar.
@@ -97,7 +97,7 @@ Refleja el crecimiento constante de la escena turolense y la implicación de los
 ---
 
 **Sábado 21 de junio – “Aliados Inesperados” (El Jabalí Pisador, Torrent)**
-<p style="margin:0.15em 0 0.4em; color:#b30000; font-weight:bold; font-size:1.2em;">
+<p style="margin:0.05em 0 0.2em; color:#b30000; font-weight:bold; font-size:1.2em;">
   Warhammer: The Old World – 1 500 ptos
 </p>
 Formato especial temático con reglas estrictas: solo libros base, sin Arcane Journal ni objetos generales; objetos exclusivos, nivel máximo de magia 3, un único comandante.
@@ -111,7 +111,7 @@ Tres partidas en ambiente narrativo para listas temáticas y ejércitos compacto
 ---
 
 **Sábado 21 de junio – II Torneo Saint Cugat (Sant Cugat del Vallès)**
-<p style="margin:0.15em 0 0.4em; color:#6828a8; font-weight:bold; font-size:1.2emem;">
+<p style="margin:0.05em 0 0.2em; color:#6828a8; font-weight:bold; font-size:1.2em;">
   Warhammer Fantasy 6.ª + MdN – 2 000 ptos
 </p>
 Segundo asalto en Sant Cugat. Listas de Warhammer Fantasy 6.ª edición + MdN, partidas cronometradas y bonificaciones por pintura.
@@ -124,7 +124,7 @@ Se utiliza el Reglamento Anotado de ¡Cargad! y se reparten vales con toda la re
 ---
 
 **Domingo 22 de junio – Old World Clash (GTS Madrid Sur)**
-<p style="margin:0.15em 0 0.4em; color:#b30000; font-weight:bold; font-size:1.2emem;">
+<p style="margin:0.05em 0 0.2em; color:#b30000; font-weight:bold; font-size:1.2em;">
   Warhammer: The Old World – 2 000 ptos
 </p>
 16 plazas y restricción 0‑3 para evitar spam.
@@ -138,7 +138,7 @@ Tras la cancelación de la edición Norte, este evento será la prueba de fuego 
 ---
 
 **Sábado 28 de junio – Kingdom Wargames Alcorcón**
-<p style="margin:0.15em 0 0.4em; color:#b30000; font-weight:bold; font-size:1.2emem;">
+<p style="margin:0.05em 0 0.2em; color:#b30000; font-weight:bold; font-size:1.2em;">
   Warhammer: The Old World – 2 000 ptos
 </p>
 Tres rondas en Alcorcón con Legacy y Arcane Journals habilitados; las listas se gestionan vía New Recruit.
@@ -153,7 +153,7 @@ El local está climatizado y suele agotar las ~20 plazas en pocos días. Sorteo
 ---
 
 **Fecha por anunciar – Torneo Reforged (El Orco Rojo - Valladolid)**
-<p style="margin:0.15em 0 0.4em; color:#6b3e00; font-weight:bold; font-size:1.2emem;">
+<p style="margin:0.05em 0 0.2em; color:#6b3e00; font-weight:bold; font-size:1.2em;">
   Warhammer Reforged – Puntos por definir
 </p>
 Primer evento con la esperada versión 4 del reglamento fan-made Warhammer Reforged.
@@ -165,7 +165,7 @@ El Orco Rojo, la tienda de referencia de Valladolid, premiará resultado, pintur
 ---
 
 **Sábado 12 de julio – 5.º Torneo Pineda de Wargames (Barcelona)**
-<p style="margin:0.15em 0 0.4em; color:#b30000; font-weight:bold; font-size:1.2emem;">
+<p style="margin:0.05em 0 0.2em; color:#b30000; font-weight:bold; font-size:1.2em;">
   Warhammer: The Old World – 2 000 ptos
 </p>
 Las 20 plazas se agotaron antes de la fecha de inscripción, lo que demuestra las ganas y necesidad de torneos en la zona, así como el buen hacer de los organizadores, meritorios artífices de esta hazaña. Sin duda, la mejor muestra del crecimiento e implantación que está alcanzo The Old World.

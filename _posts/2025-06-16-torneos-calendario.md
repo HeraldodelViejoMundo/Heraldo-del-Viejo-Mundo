@@ -16,7 +16,7 @@ excerpt_separator: "<!-- fin-excerpt -->"
 ---
 
 **Sábado 21 de junio – La Fortaleza Miniaturas (A Coruña)**
-<p style="margin:0.15em 0 0.4em; color:#b30000; font-weight:bold; font-size:1.2em;">
+<p style="margin:0.05em 0 0.2em; color:#b30000; font-weight:bold; font-size:1.2em;">
 (Warhammer: The Old World) a 2 000 ptos
 </p>
 Primer torneo *TOW* en Galicia con aforo limitado y sorteos; mesas recién escenografiadas crearán un ambiente premium.
@@ -29,7 +29,7 @@ Primer torneo *TOW* en Galicia con aforo limitado y sorteos; mesas recién escen
 ---
 
 **Sábado 21 de junio – II Torneo Mudéjar (Teruel)**
-<p style="margin:0.15em 0 0.4em; color:#b30000; font-weight:bold; font-size:1.2em;">
+<p style="margin:0.05em 0 0.2em; color:#b30000; font-weight:bold; font-size:1.2em;">
 (Warhammer: The Old World) a 2 000 ptos
 </p>
 Sistema híbrido: 1 Choque de Patrullas + 2 batallas estándar; inscripción íntegra a premios, muestra del crecimiento turolense.
@@ -42,7 +42,7 @@ Sistema híbrido: 1 Choque de Patrullas + 2 batallas estándar; inscripción �
 ---
 
 **Sábado 21 de junio – “Aliados Inesperados” (El Jabalí Pisador, Torrent)**
-<p style="margin:0.15em 0 0.4em; color:#b30000; font-weight:bold; font-size:1.2emem;">
+<p style="margin:0.05em 0 0.2em; color:#b30000; font-weight:bold; font-size:1.2em;">
 (Warhammer: The Old World) a 1 500 ptos por jugador
 </p>
 Formato narrativo 2 vs 2 con parejas aleatorias y duras restricciones (sin Journals, magia nivel 3 máx.) para crear alianzas épicas.
@@ -68,7 +68,7 @@ Usa Reglamento Anotado ¡Cargad!; bonifica pintura y reparte toda la recaudació
 ---
 
 **Domingo 22 de junio – Old World Clash (GTS Madrid Sur)**
-<p style="margin:0.15em 0 0.4em; color:#b30000; font-weight:bold; font-size:1.2em;">
+<p style="margin:0.05em 0 0.2em; color:#b30000; font-weight:bold; font-size:1.2em;">
 (Warhammer: The Old World) a 2 000 ptos
 </p>
 Evento de 16 plazas con restricción 0‑3; inscripción low‑cost y rondas rápidas como banco de pruebas del formato GTS Sur.
@@ -81,7 +81,7 @@ Evento de 16 plazas con restricción 0‑3; inscripción low‑cost y rondas r�
 ---
 
 **Sábado 28 de junio – Kingdom Wargames Alcorcón**
-<p style="margin:0.15em 0 0.4em; color:#b30000; font-weight:bold; font-size:1.2em;">
+<p style="margin:0.05em 0 0.2em; color:#b30000; font-weight:bold; font-size:1.2em;">
 (Warhammer: The Old World) a 2 000 ptos
 </p>
 Listas vía New Recruit, local climatizado y sorteo final; suele agotar sus 20 plazas en días.
@@ -94,7 +94,7 @@ Listas vía New Recruit, local climatizado y sorteo final; suele agotar sus 20
 ---
 
 **Fecha por anunciar – Torneo Reforged V4 (El Orco Rojo, Valladolid)**
-<p style="margin:0.15em 0 0.4em; color:#6b3e00; font-weight:bold; font-size:1.2em;">
+<p style="margin:0.05em 0 0.2em; color:#6b3e00; font-weight:bold; font-size:1.2em;">
 (Warhammer Reforged v4 beta) a puntos por definir
 </p>
 Primer torneo con la nueva v4; El Orco Rojo reinvierte cuotas en premios y mantiene el espíritu comunitario de 8.ª edición.
@@ -107,7 +107,7 @@ Primer torneo con la nueva v4; El Orco Rojo reinvierte cuotas en premios y man
 ---
 
 **Domingo 6 de julio – Torneo The Old World (War Lotus, Granada)**
-<p style="margin:0.15em 0 0.4em; color:#b30000; font-weight:bold; font-size:1.2em;">
+<p style="margin:0.05em 0 0.2em; color:#b30000; font-weight:bold; font-size:1.2em;">
 (Warhammer: The Old World) a ~2 000 ptos
 </p>
 War Lotus se estrena con *TOW*; entrada online (stock 14) y uso del libro *Matched Play* si está disponible.
@@ -120,7 +120,7 @@ War Lotus se estrena con *TOW*; entrada online (stock 14) y uso del libro *Mat
 ---
 
 **Sábado 12 de julio – 5.º Torneo Pineda de Wargames (Barcelona)**
-<p style="margin:0.15em 0 0.4em; color:#b30000; font-weight:bold; font-size:1.2em;">
+<p style="margin:0.05em 0 0.2em; color:#b30000; font-weight:bold; font-size:1.2em;">
 (Warhammer: The Old World) a 2 000 ptos
 </p>
 Quinta edición con 20 plazas agotadas antes de abrir inscripciones, señal del boom de *TOW* en la costa catalana.
@@ -133,7 +133,7 @@ Quinta edición con 20 plazas agotadas antes de abrir inscripciones, señal del
 ---
 
 **Miércoles 30 de julio – Mundial de Warhammer 2025 (Invasión Talavera, Talavera de la Reina, Toledo)**
-<p style="margin:0.15em 0 0.4em; color:#6b3e00; font-weight:bold; font-size:1.2em;">
+<p style="margin:0.05em 0 0.2em; color:#6b3e00; font-weight:bold; font-size:1.2em;">
 (The 9th Age + Warhammer Underworlds) a 4 500 ptos aprox.
 </p>
 Cinco días de torneos mundialistas individual y por equipos; Talavera Ferial albergará a cientos de jugadores de más de 40 países.
