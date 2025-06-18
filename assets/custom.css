@@ -101,3 +101,21 @@ p {
   line-height: 1.5;   /* más aire vertical entre líneas      */
   margin: 1em 0;     /* separación cómoda entre párrafos    */
 }
+
+/* --------- MÓVIL: portada a una columna --------- */
+@media (max-width: 768px) {
+
+  /* Contenedor de las tres columnas */
+  div[style*="max-width: 1400px"] {
+    flex-direction: column !important;   /* pasa de fila a columna */
+    gap: 1em !important;                 /* separa secciones */
+    padding: 0 1em !important;           /* reduce márgenes laterales */
+  }
+
+  /* Columnas individuales → ancho completo */
+  div[style*="max-width: 1400px"] > aside,
+  div[style*="max-width: 1400px"] > main {
+    flex: 0 0 100% !important;
+    max-width: 100% !important;
+  }
+}
