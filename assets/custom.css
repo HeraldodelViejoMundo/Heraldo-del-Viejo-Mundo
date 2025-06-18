@@ -125,7 +125,7 @@ div[style*="max-width: 1400px"] > main {
 
 /* — móvil: mostrar solo 10 noticias y 10 vídeos — */
 article.youtube-item:nth-of-type(n+11),
-main > div:nth-of-type(n+11) {
+main > div:nth-of-type(n+6) {
   display: none !important;
 }
 
