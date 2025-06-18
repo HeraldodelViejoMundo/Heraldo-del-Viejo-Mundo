@@ -112,10 +112,14 @@ p {
     padding: 0 1em !important;           /* reduce márgenes laterales */
   }
 
-  /* Columnas individuales → ancho completo */
-  div[style*="max-width: 1400px"] > aside,
-  div[style*="max-width: 1400px"] > main {
-    flex: 0 0 100% !important;
-    max-width: 100% !important;
-  }
+/* Columnas individuales → altura según contenido */
+div[style*="max-width: 1400px"] > aside {
+  flex: 0 0 auto !important;   /* se encoge si está vacía */
 }
+
+/* Columna de noticias ocupa todo el ancho */
+div[style*="max-width: 1400px"] > main {
+  flex: 1 1 auto !important;
+  max-width: 100% !important;
+}
+
