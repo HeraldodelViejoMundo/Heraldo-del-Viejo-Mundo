@@ -191,7 +191,7 @@ Tres rondas con emparejamientos y horarios definidos.
 ---
 
 ## Conclusiones
-<div class="conclusiones">
+<div class="conclusiones" markdown="1">
 El calendario de torneos para junio y julio demuestra que *Fantasy* no solo está vivo, sino que evoluciona y se expande en todas direcciones. Aunque se ve claramente la supremacía de TOW como edición preferida para la peana cuadrada, no deja de ser bonito cómo otras comunidades se mantienen vivas y fuertes, organizando más torneos de los que muchos podían imaginar. La variedad de formatos, la implicación de tiendas y clubes, y la presencia constante de eventos en todo el país refuerzan una escena que ya no depende solo de nostalgia: se alimenta de comunidad activa, innovación y pasión compartida.
 
 Desde propuestas relajadas hasta competiciones más estructuradas, la convivencia de lo narrativo, lo táctico y lo social se está convirtiendo en la norma. La participación de marcas, como la omnipresente [ImpriWars](https://impriwars.com), que patrocina buena parte de los torneos, la flexibilidad en el uso de materiales y el esfuerzo por mantener viva la identidad de cada comunidad local confirman una madurez real de la comunidad.

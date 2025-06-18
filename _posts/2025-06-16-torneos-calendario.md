@@ -146,7 +146,7 @@ Cinco días de torneos mundialistas individual y por equipos; Talavera Ferial a
 ---
 
 ## Conclusiones
-<div class="conclusiones">
+<div class="conclusiones" markdown="1">
 Continuamos con las buena marcha de torneos en apenas seis semanas confirma que **Fantasy** vive un momento bonito tras años de escasez.
 Si bien *The Old World* acapara la mayoría de convocatorias —y con ello atrae a nuevos jugadores—, otros formatos manienen el buen ritmo: Sexta edición no decae, mientras que *Reforged* se prepara para estrenar su cuarta edición con ambición nacional.
 Mención aparte merece el Mundial de Talavera merced al buen hacer de Carlos, que trae su experiencia de 40k: por primera vez España acogerá la cita mundial de *The 9th Age* y *Underworlds*, lo que posiciona al país como destino de referencia para la peana cuadrada.
