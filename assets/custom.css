@@ -104,6 +104,8 @@ p {
 
 /* --------- MÓVIL: portada a una columna --------- */
 @media (max-width: 768px) {
+/* aire lateral en móvil ───────────────────────────────*/
+
 
   /* Contenedor de las tres columnas */
   div[style*="max-width: 1400px"] {
@@ -138,6 +140,12 @@ div[style*="max-width: 1400px"] > main {
 article.youtube-item:nth-of-type(n+6),
 main > div:nth-of-type(n+6) {
   display: none !important;
+}
+
+/* aire lateral en móvil ───────────────────────────────*/
+.wrapper{
+  padding-left: 5vw !important;   /* ±18 px en un móvil de 360 px */
+  padding-right: 5vw !important;
 }
 
 }
