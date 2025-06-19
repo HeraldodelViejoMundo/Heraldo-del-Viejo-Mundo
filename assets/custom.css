@@ -110,6 +110,7 @@ p {
     flex-direction: column !important;   /* pasa de fila a columna */
     gap: 1em !important;                 /* separa secciones */
     padding: 0 1em !important;           /* reduce márgenes laterales */
+}
 
   /* Más aire a los lados y tipografía un poco menor en móvil */
   .post-preview, .blog-post, .news-card {
@@ -120,9 +121,6 @@ p {
 .post-preview p, .blog-post p, .news-card p {
   font-size: 0.93rem;
 }
-
-
-
   }
 
 /* Columnas individuales → altura según contenido */
@@ -137,8 +135,8 @@ div[style*="max-width: 1400px"] > main {
 }
 
 /* — móvil: mostrar solo 10 noticias y 10 vídeos — */
-article.youtube-item:nth-of-type(n+11),
-main > div:nth-of-type(n+11) {
+article.youtube-item:nth-of-type(n+6),
+main > div:nth-of-type(n+6) {
   display: none !important;
 }
 
@@ -150,7 +148,7 @@ main > div:nth-of-type(n+11) {
   font-family: Georgia, serif;   /* quita la tipografía small-caps */
   text-transform: none !important;   /* minúsculas normales */
   font-variant: normal !important;   /* quita small-caps */
-  font-size: 1.2rem !important;     /* un pelín más grande */
+  font-size: 1rem !important;     /* un pelín más grande */
   line-height: 1.1 !important;       /* aire entre líneas */
   letter-spacing: normal !important; /* restablece tracking estándar */
 }
@@ -161,6 +159,6 @@ main > div:nth-of-type(n+11) {
   border:1px solid #c5ccd8;    /* borde ligeramente más oscuro */
   border-radius:6px;
   padding:0.5rem 0.5rem;        /* aire interior */
-  margin:0 0 0.1rem 0;         /* separa de lo siguiente */
+  margin:0 0 0rem 0;         /* separa de lo siguiente */
   box-shadow:0 1px 3px rgba(0,0,0,0.08); /* sutil relieve */
 }
