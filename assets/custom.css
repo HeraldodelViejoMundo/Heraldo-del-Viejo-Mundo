@@ -149,3 +149,12 @@ main > div:nth-of-type(n+11) {
   margin-top: 0.8rem;
   font-size: 0.95rem;
 }
+
+/* ← override definitivo para Próximos Torneos */
+.tournament-list,
+.tournament-list a{
+  text-transform: none !important;   /* quita mayúsculas de cualquier enlace */
+  font-size: 1rem !important;        /* 16 px */
+  line-height: 1.5 !important;       /* aire entre líneas */
+  letter-spacing: normal !important; /* por si había tracking */
+}
