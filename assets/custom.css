@@ -119,7 +119,7 @@ p {
 }
 
 .post-preview p, .blog-post p, .news-card p {
-  font-size: 0.93rem;
+  font-size: 0.93rem !important;
 }
   }
 
@@ -161,4 +161,13 @@ main > div:nth-of-type(n+6) {
   padding:0.5rem 0.5rem;        /* aire interior */
   margin:0 0 0rem 0;         /* separa de lo siguiente */
   box-shadow:0 1px 3px rgba(0,0,0,0.08); /* sutil relieve */
+}
+
+/* MÓVIL: aire en el cuerpo del post */
+@media (max-width: 768px){
+  .post-content{
+    padding-left: 1rem !important;
+    padding-right: 1rem !important;
+    font-size: 0.95rem !important;
+  }
 }
