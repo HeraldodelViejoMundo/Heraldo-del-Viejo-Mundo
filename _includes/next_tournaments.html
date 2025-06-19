@@ -1,13 +1,16 @@
-<div class="tournament-list">
-  {% assign latest_torneo_post = site.posts
-       | where_exp: "p", "p.categories contains 'torneos'"
-       | sort: "date"
-       | last %}
-  {% if latest_torneo_post %}
-    <p class="tournament-agenda-link">
-      <a href="{{ latest_torneo_post.url | default: latest_torneo_post.permalink }}">
-        Accede a la agenda de torneos para conocer las próximas convocatorias de Sexta y sus variantes, Octava, Reforged, TOW y Novena en toda España.
-      </a>
-    </p>
-  {% endif %}
+
+<div class="tournament-box">
+  <div class="tournament-list">
+    {% assign latest_torneo_post = site.posts
+         | where_exp: "p", "p.categories contains 'torneos'"
+         | sort: "date"
+         | last %}
+    {% if latest_torneo_post %}
+      <p class="tournament-agenda-link">
+        <a href="{{ latest_torneo_post.url | default: latest_torneo_post.permalink }}">
+          Accede a la agenda de torneos para conocer las próximas convocatorias de Sexta y sus variantes, Octava, Reforged, TOW y Novena en toda España.
+        </a>
+      </p>
+    {% endif %}
+  </div>
 </div>
