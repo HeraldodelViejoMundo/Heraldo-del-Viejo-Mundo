@@ -1,5 +1,51 @@
 <!DOCTYPE html>
 <html lang="es">
+<!-- Google Analytics y Consentimiento RGPD -->
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+
+  function loadGA() {
+    var script = document.createElement('script');
+    script.async = true;
+    script.src = 'https://www.googletagmanager.com/gtag/js?id=G-5309GK77Y4';
+    script.onload = function() {
+      gtag('js', new Date());
+      gtag('config', 'G-5309GK77Y4');
+    };
+    document.head.appendChild(script);
+  }
+</script>
+
+<script
+  src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js"
+  data-cfasync="false"
+  async
+></script>
+<script>
+  window.addEventListener("load", function(){
+    window.cookieconsent.initialise({
+      palette: {
+        popup: { background: "#4a2e0e" },
+        button: { background: "#b87333" }
+      },
+      theme: "classic",
+      content: {
+        message: "Este sitio usa cookies para análisis anónimos.",
+        dismiss: "Aceptar",
+        link: "Más info",
+        href: "https://policies.google.com/technologies/cookies?hl=es"
+      },
+      onStatusChange: function(status) {
+        if (this.hasConsented()) {
+          loadGA();
+        }
+      }
+    });
+  });
+</script>
+
+
 <head>
   <meta charset="utf-8">
   <title>{{ page.title }}</title>
