@@ -209,10 +209,11 @@ main > div:nth-of-type(n+6) {
   }
 }
 
-/* Justificar el texto de los artículos (móvil y ordenador) */
+
+* Artículos – párrafos justificados en todos los tamaños */
 .wrapper p,
 .post-content p,
-article p{
+article.post p{
   text-align: justify !important;
+  text-justify: inter-word;   /* reparte mejor las palabras */
 }
-
