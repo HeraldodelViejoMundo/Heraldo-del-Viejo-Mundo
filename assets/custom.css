@@ -190,3 +190,21 @@ main > div:nth-of-type(n+6) {
   font-variant: normal !important;
   text-transform: none !important;
 }
+
+/* ---- margen lateral seguro en móvil ---- */
+@media (max-width:768px){
+  .wrapper,
+  .post-content,
+  body{
+    padding-left:1rem !important;
+    padding-right:1rem !important;
+    box-sizing:border-box;      /* evita desbordes */
+  }
+
+  /* Próximos Torneos – quita small-caps en cualquier tamaño */
+  .tournament-list,
+  .tournament-list *{
+    font-variant:normal !important;      /* nada de small-caps */
+    text-transform:none !important;      /* respeta mayúsculas/minúsculas originales */
+  }
+}
