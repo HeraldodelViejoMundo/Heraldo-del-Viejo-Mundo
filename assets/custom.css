@@ -210,7 +210,7 @@ main > div:nth-of-type(n+6) {
 }
 
 
-* Artículos – párrafos justificados en todos los tamaños */
+/* Artículos – párrafos justificados en todos los tamaños */
 .wrapper p,
 .post-content p,
 article.post p{
