@@ -17,19 +17,6 @@
 <body>
   <div class="page-content">
 
-    {%- if page.categories contains "noticias" and page.title_original and page.title_translated -%}
-      <h1 style="margin-top:0">
-        <span style="color:#000;font-weight:700; font-size:0.6em">
-          Hoy, en Warhammer Community:
-        </span>
-        <span style="color:#0057b8">
-          {{ page.title_original }}
-        </span>
-        <span style="color:#555;font-size:0.8em">
-          ({{ page.title_translated }})
-        </span>
-      </h1>
-    {%- endif -%}
 
     {{ content }}
   </div>
