@@ -110,6 +110,7 @@ p {
     flex-direction: column !important;   /* pasa de fila a columna */
     gap: 1em !important;                 /* separa secciones */
     padding: 0 1em !important;           /* reduce márgenes laterales */
+}
 
   /* Más aire a los lados y tipografía un poco menor en móvil */
   .post-preview, .blog-post, .news-card {
@@ -120,9 +121,6 @@ p {
 .post-preview p, .blog-post p, .news-card p {
   font-size: 0.93rem;
 }
-
-
-
   }
 
 /* Columnas individuales → altura según contenido */
