@@ -146,7 +146,7 @@ main > div:nth-of-type(n+11) {
   background:#e8eef4;          /* azul-gris suave (opción C)  */
   border:1px solid #c5ccd8;    /* borde ligeramente más oscuro */
   border-radius:6px;
-  padding:1rem 1.25rem;        /* aire interior */
-  margin:0 0 1.5rem 0;         /* separa de lo siguiente */
+  padding:0.5rem 0.5rem;        /* aire interior */
+  margin:0 0 0.5rem 0;         /* separa de lo siguiente */
   box-shadow:0 1px 3px rgba(0,0,0,0.08); /* sutil relieve */
 }
