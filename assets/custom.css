@@ -161,6 +161,9 @@ main > div:nth-of-type(n+6) {
   letter-spacing: normal !important; /* restablece tracking estándar */
 }
 
+
+
+
 /* ───── Recuadro para “Próximos torneos” ───── */
 .tournament-box{
   background:#e8eef4;          /* azul-gris suave (opción C)  */
@@ -178,4 +181,12 @@ main > div:nth-of-type(n+6) {
     padding-right: 1rem !important;
     font-size: 0.95rem !important;
   }
+}
+
+/* Torneos: sin small-caps en móvil */
+.tournament-list,
+.tournament-list *{
+  font-family: Georgia, serif !important;
+  font-variant: normal !important;
+  text-transform: none !important;
 }
