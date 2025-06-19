@@ -147,6 +147,7 @@ main > div:nth-of-type(n+11) {
 /* ← override definitivo para “Próximos Torneos” */
 .tournament-list,
 .tournament-list a{
+  font-family: Georgia, serif;   /* quita la tipografía small-caps */
   text-transform: none !important;   /* minúsculas normales */
   font-variant: normal !important;   /* quita small-caps */
   font-size: 1.2rem !important;     /* un pelín más grande */
