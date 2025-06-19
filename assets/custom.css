@@ -121,7 +121,7 @@ p {
 .post-preview p, .blog-post p, .news-card p {
   font-size: 0.93rem !important;
 }
-  }
+  
 
 /* Columnas individuales → altura según contenido */
 div[style*="max-width: 1400px"] > aside {
