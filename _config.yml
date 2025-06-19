@@ -11,6 +11,7 @@ excerpt_separator: "<!-- fin-excerpt -->"
 paginate_path: "/page:num"
 plugins:
   - jekyll-paginate
+  - jekyll-seo-tag
 
 markdown: kramdown
 kramdown:
@@ -22,3 +23,11 @@ kramdown:
 collections:
   videos:
     output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      seo:
+        type: BlogPosting
