@@ -208,3 +208,11 @@ main > div:nth-of-type(n+6) {
     text-transform:none !important;      /* respeta mayúsculas/minúsculas originales */
   }
 }
+
+/* Justificar el texto de los artículos (móvil y ordenador) */
+.wrapper p,
+.post-content p,
+article p{
+  text-align: justify !important;
+}
+
