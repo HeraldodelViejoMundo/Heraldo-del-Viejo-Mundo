@@ -59,3 +59,20 @@ body {
   color: #3b1d00;   /* marrón oscuro */
 }
 
+/* -------- Legibilidad para “Próximos torneos” -------- */
+.tournament-list{
+  font-size: 1rem;          /* asegura 16 px */
+  line-height: 1.5;         /* aumenta el interlineado */
+  margin: 0;
+  padding: 0;
+}
+
+.tournament-list p,
+.tournament-list li{
+  margin-bottom: 0.35rem;   /* aire entre entradas */
+}
+
+.tournament-agenda-link{
+  margin-top: 0.8rem;       /* separa el enlace de la lista */
+  font-size: 0.95rem;
+}
