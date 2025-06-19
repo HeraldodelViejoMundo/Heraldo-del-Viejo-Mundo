@@ -133,7 +133,7 @@ main > div:nth-of-type(n+11) {
 
 /* -------- Legibilidad para “Próximos torneos” -------- */
 .tournament-list{
-  font-size: 3rem;          /* 16 px */
+  font-size: 1rem;          /* 16 px */
   line-height: 1.5;         /* aire entre líneas */
   margin: 0;
   padding: 0;
