@@ -131,30 +131,11 @@ main > div:nth-of-type(n+11) {
 
 }
 
-/* -------- Legibilidad para “Próximos torneos” -------- */
-.tournament-list{
-  font-size: 1rem;          /* 16 px */
-  line-height: 1.5;         /* aire entre líneas */
-  margin: 0;
-  padding: 0;
-  text-transform: none;     /* quita mayúsculas forzadas */
-}
-
-.tournament-list p,
-.tournament-list li{
-  margin-bottom: 0.35rem;
-}
-
-.tournament-agenda-link{
-  margin-top: 0.8rem;
-  font-size: 0.95rem;
-}
-
-/* ← override definitivo para Próximos Torneos */
+/* ← override definitivo para “Próximos Torneos” */
 .tournament-list,
 .tournament-list a{
-  text-transform: none !important;   /* quita mayúsculas de cualquier enlace */
-  font-size: 1rem !important;        /* 16 px */
-  line-height: 1.5 !important;       /* aire entre líneas */
-  letter-spacing: normal !important; /* por si había tracking */
-}
+  text-transform: none !important;   /* minúsculas normales */
+  font-variant: normal !important;   /* quita small-caps */
+  font-size: 1.2rem !important;     /* un pelín más grande */
+  line-height: 1.1 !important;       /* aire entre líneas */
+  letter-spacing: normal !important; /* restablece tracking estándar */
