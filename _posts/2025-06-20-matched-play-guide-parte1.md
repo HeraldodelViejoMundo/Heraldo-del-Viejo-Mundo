@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'Matched Play Guide Revelado en Español — 1ª Parte'
-date: '2025-06-20T00:00:00'
+title: "Matched Play Guide Revelado en Español — 1ª Parte"
+date: 2025-06-20 21:45:00 +0200
 source_date: '2025-06-20'
-categories: articulo
+categories: ['articulo']
 excerpt: 'El **Heraldo del Viejo Mundo** empieza hoy una serie de artículos en la que traduciremos y comentaremos la **Matched Play Guide en español** (Guía de Juego Equilibrado) que Games Workshop lanzará en los próximos meses. Comenzamos con una visión general de la guía y nos centraremos en los primeros capítulos: "Valor ante el deshonor" y "Organización de un evento". En los próximos días habrá nuevas entregas.'
 image: /assets/img/2025-06/matched_play_guide.png
 ---
