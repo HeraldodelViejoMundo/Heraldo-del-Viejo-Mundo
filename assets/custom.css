@@ -150,3 +150,16 @@ article.post p{
     box-sizing:border-box;
   }
 }
+
+/* --- Estilo banner Cookie Consent centrado --- */
+.cc-window {
+  max-width: 420px;           /* banner más ancho */
+  font-size: 1rem;            /* texto un poco mayor */
+  border-radius: 12px;
+  box-shadow: 0 4px 20px rgba(0,0,0,.35);
+}
+
+.cc-window .cc-btn {
+  padding: 0.6em 1.4em;
+  font-weight: 600;
+}
