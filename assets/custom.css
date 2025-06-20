@@ -14,8 +14,9 @@ body{
 a{color:#b87333;}
 a:hover{color:#d1945c;}
 
-h1,h2,h3,h4,h5{margin:1em 0 .5em;}
-p{line-height:1;margin:.8em 0;}
+h1,h2,h3,h4,h5{margin:1.1em 0 .5em;}
+p{line-height:1.55;margin:1.2em 0;}
+
 
 /* 3 . Cabecera -------------------------------------------------------------*/
 .page-header{
@@ -28,12 +29,13 @@ p{line-height:1;margin:.8em 0;}
 
 /* 4 . Zona de lectura ------------------------------------------------------*/
 .wrapper{
-  max-width:900px;
+  max-width:900px; font-size:1.08rem;
   margin:2rem auto;
   background:#fdf8e2ee;
   padding:2rem 2.5rem;
   border:1px solid #d9c48c;
   box-shadow:0 0 8px rgba(0,0,0,.3);
+  .wrapper li{margin-bottom:0.4em; line-height:1.35;}
 }
 
 /* 5 . Pie de página --------------------------------------------------------*/
