@@ -60,23 +60,32 @@
   <!-- Inicialización de Cookie Consent -->
   <script>
     window.addEventListener('load', function () {
-      window.cookieconsent.initialise({
-        palette: {
-          popup:  { background: '#4a2e0e' },
-          button: { background: '#b87333' }
-        },
-        theme: 'classic',
-        content: {
-          message: 'Este sitio usa cookies para análisis anónimos.',
-          dismiss: 'Aceptar',
-          link:    'Más info',
-          href:    'https://policies.google.com/technologies/cookies?hl=es'
-        },
-        onStatusChange: function () {
-          if (this.hasConsented()) { loadGA(); }
+window.cookieconsent.initialise({
+      palette: {
+        popup:  { background: '#4a2e0e' },
+        button: { background: '#b87333' }
+      },
+      theme: 'classic',
+
+      /* Modo “opt-in” para pedir consentimiento explícito */
+      type: 'opt-in',
+
+      content: {
+        message: 'Este sitio usa cookies para análisis anónimos.',
+        allow:   'Aceptar',
+        deny:    'Rechazar',
+        link:    'Más info',
+        href:    'https://policies.google.com/technologies/cookies?hl=es'
+      },
+
+      onStatusChange: function () {
+        if (this.hasConsented()) {   // solo carga GA si acepta
+          loadGA();
         }
-      });
+      }
     });
+
+
   </script>
 
   <div class="page-content">
