@@ -55,34 +55,34 @@
   <!-- Script de Cookie Consent (deferred para ejecutarse tras parsear el HTML) -->
   <script src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js" defer></script>
 
-  <!-- Inicialización de Cookie Consent -->
+<!-- Inicialización de Cookie Consent -->
   <script>
     window.addEventListener('load', function () {
-window.cookieconsent.initialise({
-      palette: {
-        popup:  { background: '#4a2e0e' },
-        button: { background: '#b87333' }
-      },
-      theme: 'classic',
+      window.cookieconsent.initialise({
+        palette: {
+          popup:  { background: '#4a2e0e' },
+          button: { background: '#b87333' }
+        },
+        theme: 'classic',
+        position: 'center',
+        /* Modo “opt-in” para pedir consentimiento explícito */
+        type: 'opt-in',
 
-      /* Modo “opt-in” para pedir consentimiento explícito */
-      type: 'opt-in',
+        content: {
+          message: 'Este sitio usa cookies para análisis anónimos.',
+          allow:   'Aceptar',
+          deny:    'Rechazar',
+          link:    'Más info',
+          href:    'https://policies.google.com/technologies/cookies?hl=es'
+        },
 
-      content: {
-        message: 'Este sitio usa cookies para análisis anónimos.',
-        allow:   'Aceptar',
-        deny:    'Rechazar',
-        link:    'Más info',
-        href:    'https://policies.google.com/technologies/cookies?hl=es'
-      },
-
-      onStatusChange: function () {
-        if (this.hasConsented()) {   // solo carga GA si acepta
-          loadGA();
+        onStatusChange: function () {
+          if (this.hasConsented()) { // solo carga GA si acepta
+            loadGA();
           }
         }
       });
-    });   <!-- ← cierra addEventListener -->
+    });  
   </script>
 
   <div class="page-content">
