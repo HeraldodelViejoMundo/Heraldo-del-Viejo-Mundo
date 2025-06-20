@@ -110,11 +110,11 @@ p{line-height:1.2;margin:0.8em 0;}
 .post-content p,
 article.post p{
   text-align:justify !important;
-  text-justify:inter-word;
-  max-width:1100px;
-  margin:0 auto;
-  font-size:1.2rem;   /* letra más grande */
-  line-height:1.2;    /* más aire entre líneas */
+  text-justify:inter-word; !important;
+  max-width:1100px; !important;
+  margin:0 auto; !important;
+  font-size:1.2rem; !important;   /* letra más grande */
+  line-height:1.2; !important;    /* más aire entre líneas */
 }
 
 /* 11 . MÓVIL ≤768px -------------------------------------------------------*/
