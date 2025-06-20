@@ -46,6 +46,13 @@ title: El Heraldo del Viejo Mundo
             <p style="margin:0; font-size:1.3em; font-weight:bold; color:#4a2e0e;">
               {{ post.title }}
             </p>
+          {% elsif post.categories.size == 1 and post.categories[0] == "articulo" %}
+            <p style="margin:0; font-size:1.3em; font-weight:bold; color:#4a2e0e;">
+              {{ post.title }}
+            </p>
+            <p style="margin-top:0.2em; font-size:1.1em; color:#3c2a0c;">
+              {{ post.excerpt | markdownify | newline_to_br }}
+            </p>
             <p style="margin-top:0.2em; font-size:1.1em; color:#3c2a0c;">
               {% unless post.categories.size == 1 and post.categories[0] == "torneos" %}
                 {{ post.excerpt | markdownify | newline_to_br }}
