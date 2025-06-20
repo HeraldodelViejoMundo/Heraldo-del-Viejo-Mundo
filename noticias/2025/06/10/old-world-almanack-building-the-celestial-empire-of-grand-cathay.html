@@ -1,46 +1,5 @@
 <!DOCTYPE html>
 <html lang="es">
-<!-- Consentimiento RGPD + Google Analytics (G-5309GK77Y4) -->
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-
-  function loadGA() {
-    var script = document.createElement('script');
-    script.async = true;
-    script.src = 'https://www.googletagmanager.com/gtag/js?id=G-5309GK77Y4';
-    script.onload = function() {
-      gtag('js', new Date());
-      gtag('config', 'G-5309GK77Y4');
-    };
-    document.head.appendChild(script);
-  }
-</script>
-
-<script async src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js"></script>
-<script>
-  window.addEventListener("load", function(){
-    window.cookieconsent.initialise({
-      palette: {
-        popup: { background: "#4a2e0e" },
-        button: { background: "#b87333" }
-      },
-      theme: "classic",
-      content: {
-        message: "Este sitio usa cookies para análisis anónimos.",
-        dismiss: "Aceptar",
-        link: "Más info",
-        href: "https://policies.google.com/technologies/cookies?hl=es"
-      },
-      onStatusChange: function(status) {
-        if (this.hasConsented()) {
-          loadGA();
-        }
-      }
-    });
-  });
-</script>
-
 <head>
   <meta charset="utf-8">
   <title>Almanaque del Viejo Mundo – Construyendo el Imperio Celestial de Gran Cathay</title>
@@ -69,16 +28,58 @@
   <!-- Estilos del tema minima -->
   <link rel="stylesheet" href="/assets/main.css">
 
-
-
-
   <!-- Nuestro CSS personalizado -->
   <link rel="stylesheet" href="/assets/custom.css">
+
+  <!-- Hoja de estilo de Cookie Consent (v3) -->
+  <link rel="stylesheet"
+        href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css" />
 </head>
+
 <body>
+  <!-- Google Analytics (G-5309GK77Y4) se cargará tras el consentimiento -->
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){ dataLayer.push(arguments); }
+
+    function loadGA () {
+      var s = document.createElement('script');
+      s.async = true;
+      s.src   = 'https://www.googletagmanager.com/gtag/js?id=G-5309GK77Y4';
+      s.onload = function () {
+        gtag('js', new Date());
+        gtag('config', 'G-5309GK77Y4');
+      };
+      document.head.appendChild(s);
+    }
+  </script>
+
+  <!-- Script de Cookie Consent (deferred para ejecutarse tras parsear el HTML) -->
+  <script src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js" defer></script>
+
+  <!-- Inicialización de Cookie Consent -->
+  <script>
+    window.addEventListener('load', function () {
+      window.cookieconsent.initialise({
+        palette: {
+          popup:  { background: '#4a2e0e' },
+          button: { background: '#b87333' }
+        },
+        theme: 'classic',
+        content: {
+          message: 'Este sitio usa cookies para análisis anónimos.',
+          dismiss: 'Aceptar',
+          link:    'Más info',
+          href:    'https://policies.google.com/technologies/cookies?hl=es'
+        },
+        onStatusChange: function () {
+          if (this.hasConsented()) { loadGA(); }
+        }
+      });
+    });
+  </script>
+
   <div class="page-content">
-
-
     <div style="max-width: 780px; margin: 0 auto; line-height: 1.6; font-family: Georgia, serif; font-size: 1.05em; color: #2d1d00;">
 
   
