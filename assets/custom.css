@@ -163,3 +163,19 @@ article.post p{
   padding: 0.6em 1.4em;
   font-weight: 600;
 }
+
+/* --- Centrar el banner de Cookie Consent --- */
+.cc-window.cc-floating {        /* ventana flotante */
+  left: 50% !important;
+  top: 50% !important;
+  transform: translate(-50%, -50%) !important;
+  max-width: 420px;             /* ancho deseado */
+  font-size: 1rem;              /* tamaño de texto */
+  border-radius: 12px;
+  box-shadow: 0 4px 20px rgba(0,0,0,.35);
+}
+
+.cc-window .cc-btn {            /* botones más grandes */
+  padding: 0.6em 1.4em;
+  font-weight: 600;
+}
