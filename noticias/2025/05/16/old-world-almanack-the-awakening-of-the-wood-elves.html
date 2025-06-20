@@ -81,11 +81,10 @@ window.cookieconsent.initialise({
       onStatusChange: function () {
         if (this.hasConsented()) {   // solo carga GA si acepta
           loadGA();
+          }
         }
-      }
-    });
-
-
+      });
+    });   <!-- ← cierra addEventListener -->
   </script>
 
   <div class="page-content">
