@@ -164,18 +164,27 @@ article.post p{
   font-weight: 600;
 }
 
-/* --- Centrar el banner de Cookie Consent --- */
-.cc-window.cc-floating {        /* ventana flotante */
+/* --- Forzar que el banner se coloque SIEMPRE en el centro --- */
+.cc-window.cc-bottom,
+.cc-window.cc-top,
+.cc-window.cc-left,
+.cc-window.cc-right,
+.cc-window.cc-banner,
+.cc-window.cc-floating {
+  position: fixed !important;
   left: 50% !important;
   top: 50% !important;
+  right: auto !important;
+  bottom: auto !important;
   transform: translate(-50%, -50%) !important;
-  max-width: 420px;             /* ancho deseado */
-  font-size: 1rem;              /* tamaño de texto */
+  z-index: 9999 !important;   /* por si algo lo tapa */
+  max-width: 420px;
+  font-size: 1rem;
   border-radius: 12px;
   box-shadow: 0 4px 20px rgba(0,0,0,.35);
 }
 
-.cc-window .cc-btn {            /* botones más grandes */
+.cc-window .cc-btn {
   padding: 0.6em 1.4em;
   font-weight: 600;
 }
