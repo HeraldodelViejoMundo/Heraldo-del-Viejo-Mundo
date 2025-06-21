@@ -33,3 +33,4 @@ defaults:
     values:
       seo:
         type: BlogPosting
+disqus: heraldo-1
