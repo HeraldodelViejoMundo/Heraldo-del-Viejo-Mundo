@@ -4,7 +4,7 @@ title: Matched Play Guide Revelado en Español — 2ª Parte
 date: 2025-06-22 04:00:00 +0200
 source_date: '2025-06-22'
 categories: ['articulo']
-image: /assets/img/2025-06/matched_play_guide.png
+image: /assets/img/2025-06/parte2.png
 excerpt: 'En la **Parte 2** de nuestra cobertura desvelamos el sistema que propone Games Workshop de **emparejamientos** para torneos. Descubre las restricciones de **Army Composition** —de *Open War* a **Grand Melee**— y por qué tu héroe de más de 500 puntos quizá se quede en el banquillo.\nTe mostramos la fórmula oficial para colocar **terreno** y evitar mesas desiertas… o atascadas de escenografía. Cuatro minutos de lectura que afilarán tus listas y tu estrategia para el próximo torneo: ¡no te lo pierdas!'
 ---
 
