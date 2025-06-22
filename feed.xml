@@ -1,4 +1,162 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://www.elheraldodelviejomundo.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.elheraldodelviejomundo.com/" rel="alternate" type="text/html" /><updated>2025-06-21T22:36:12+00:00</updated><id>https://www.elheraldodelviejomundo.com/feed.xml</id><title type="html">https://El Heraldo del Viejo Mundo</title><subtitle>Noticias, rumores y estrategia de Warhammer: The Old World en español.</subtitle><entry><title type="html">Matched Play Guide Revelado en Español — 1ª Parte</title><link href="https://www.elheraldodelviejomundo.com/articulo/2025/06/20/matched-play-guide-parte1.html" rel="alternate" type="text/html" title="Matched Play Guide Revelado en Español — 1ª Parte" /><published>2025-06-20T19:45:00+00:00</published><updated>2025-06-20T19:45:00+00:00</updated><id>https://www.elheraldodelviejomundo.com/articulo/2025/06/20/matched-play-guide-parte1</id><content type="html" xml:base="https://www.elheraldodelviejomundo.com/articulo/2025/06/20/matched-play-guide-parte1.html"><![CDATA[<p><em>Publicado originalmente el 20-jun-2025.</em></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://www.elheraldodelviejomundo.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.elheraldodelviejomundo.com/" rel="alternate" type="text/html" /><updated>2025-06-22T02:55:50+00:00</updated><id>https://www.elheraldodelviejomundo.com/feed.xml</id><title type="html">https://El Heraldo del Viejo Mundo</title><subtitle>Noticias, rumores y estrategia de Warhammer: The Old World en español.</subtitle><entry><title type="html">Matched Play Guide Revelado en Español — 2ª Parte</title><link href="https://www.elheraldodelviejomundo.com/articulo/2025/06/22/matched-play-guide-parte2.html" rel="alternate" type="text/html" title="Matched Play Guide Revelado en Español — 2ª Parte" /><published>2025-06-22T02:00:00+00:00</published><updated>2025-06-22T02:00:00+00:00</updated><id>https://www.elheraldodelviejomundo.com/articulo/2025/06/22/matched-play-guide-parte2</id><content type="html" xml:base="https://www.elheraldodelviejomundo.com/articulo/2025/06/22/matched-play-guide-parte2.html"><![CDATA[<p><em>Publicado originalmente el 22‑jun‑2025.</em></p>
+
+<h1 id="matched-play-guide-revelado-en-español--2ª-parte">Matched Play Guide Revelado en Español — 2ª Parte</h1>
+
+<p><em>(La 3ª parte, centrada en los Escenarios de Juego Equilibrado, llegará en pocos días: ¡mantente atento!)</em></p>
+
+<p>Esta segunda entrega continúa nuestro análisis a fondo de la <strong>Guía de Juego Equilibrado</strong> que Games Workshop lanzará en breve. A lo largo de las próximas secciones repasaremos, primero, el <strong>sistema de emparejamientos</strong> que determina quién juega contra quién tras cada ronda y qué hacer con <em>byes</em> o jugadores de reserva. Después entraremos en la <strong>Composición del Ejército</strong>, comparando enfoques como <em>Open War</em>, <strong>Grand Melee</strong> y <strong>Combined Arms</strong>, y viendo cómo condicionan el tamaño de tus unidades o la presencia de personajes poderosos. Cerraremos examinando el apartado <strong>El Campo de Batalla</strong>, con las recomendaciones oficiales sobre cantidad, tamaño y colocación de terreno para lograr mesas equilibradas y jugables.</p>
+
+<hr />
+
+<h2 id="los-emparejamientos-the-pairing-of-players">Los Emparejamientos (The Pairing of Players)</h2>
+
+<h3 id="la-primera-ronda-the-first-round">La primera ronda (The First Round)</h3>
+
+<p>Para romper el hielo se empareja a los participantes <strong>al azar</strong>. Es un sorteo puro: cada jugador recibe un oponente sin tener en cuenta experiencia ni clasificación previa. Si el número de asistentes es impar, el último nombre en salir se gestiona con un <strong>jugador de reserva</strong> o, si no hay uno disponible, con un <strong>Bye</strong>.</p>
+
+<h3 id="jugador-de-reserva-spare-player">Jugador de reserva (Spare Player)</h3>
+
+<p>El jugador de reserva actúa como comodín. Disputa la partida con normalidad y anota resultado y Puntos de Victoria (VP) como cualquier otro participante. En rondas posteriores se le asigna siempre al jugador situado en el último puesto de la clasificación; si ya se enfrentaron antes, se sube al siguiente clasificado por la cola.</p>
+
+<h3 id="byes-byes">Byes (Byes)</h3>
+
+<p>Si no es posible aportar un jugador de reserva, el participante emparejado con él recibe un <strong>Bye</strong>. El reglamento lo cuenta como <strong>Crushing Victory</strong> y concede al jugador tantos VP como el tamaño estándar de la partida (por ejemplo, 2 000 VP en una ronda a 2 000 puntos).</p>
+
+<h3 id="concesión-concession">Concesión (Concession)</h3>
+
+<p>Si alguien debe abandonar o concede la partida, su rival obtiene igualmente una <strong>Crushing Victory</strong> con la misma cantidad de VP “automáticos” que en el caso de un Bye.</p>
+
+<h3 id="rondas-posteriores-subsequent-rounds">Rondas posteriores (Subsequent Rounds)</h3>
+
+<p>A partir de la segunda ronda se utiliza un sistema tipo «suizo simplificado»:</p>
+
+<ol>
+  <li>El <strong>1.º</strong> de la tabla juega contra el <strong>2.º</strong>, el <strong>3.º</strong> contra el <strong>4.º</strong>, y así sucesivamente.</li>
+  <li>Si dos jugadores ya se han enfrentado antes, el que tenga peor clasificación intercambia puesto con el jugador mejor situado de la mesa inmediatamente inferior para evitar la repetición.</li>
+  <li><strong>Excepción final</strong>: en la última ronda, los jugadores de las «mesas altas» (normalmente el 10 % superior) no cambian de oponente aunque se repita emparejamiento; el reglamento asume que el destino quiere un desempate definitivo entre rivales tan igualados.</li>
+</ol>
+
+<p>Con estas reglas, el torneo mantiene partidas equilibradas ronda tras ronda, minimizando desequilibrios y repeticiones innecesarias mientras todos luchan por escalar posiciones.</p>
+
+<hr />
+
+<h2 id="composición-del-ejército-army-composition">Composición del Ejército (Army Composition)</h2>
+
+<p>En <em>The Old World</em> existen <strong>tres paquetes de restricciones</strong> que un organizador puede activar en un evento equilibrado. <strong>No se acumulan entre sí</strong>: lo normal es que el torneo anuncie <strong>uno solo</strong> (p. ej. «Jugaremos en formato Grand Melee»). No obstante, es posible combinarlos —por ejemplo, añadir los topes de <em>Combined Arms</em> sobre un marco Grand Army— siempre que se avise con claridad en las bases del evento. Si el reglamento no lo especifica, ¡pregunta antes de escribir tu lista!</p>
+
+<h3 id="guerra-abierta-openwar">Guerra Abierta (Open War)</h3>
+
+<p>El entorno «sin correa». Se usa tal cual el sistema de listas <strong>Grand Army</strong> o <strong>Army of Infamy</strong> y <strong>no añade límites extra</strong>. Puedes llevar tantos personajes poderosos, monstruos o regimientos repetidos como permitan los puntos; <strong>mercenarios</strong> y <strong>aliados</strong> siempre están permitidos.</p>
+
+<blockquote>
+  <p><strong>Cuándo elegirlo:</strong> ideal para ligas locales, demostraciones o torneos que quieran premiar colecciones extensas y combos creativos sin preocuparse por “spam”.</p>
+</blockquote>
+
+<h3 id="gran-melee-grandmelee">Gran Melee (Grand Melee)</h3>
+
+<p>Pensado para torneos que desean listas variadas y menos dependencia de “death stars” o magos nivel 4 en dragones. Obliga a repartir recursos del siguiente modo:</p>
+
+<ul>
+  <li><strong>No</strong> gastar más del <strong>25 %</strong> de los puntos en <strong>una sola</strong> miniatura o unidad.</li>
+  <li>
+    <p>Puedes incluir cuantos <strong>Magos de Nivel 1–2</strong> quieras, pero además:</p>
+
+    <ul>
+      <li><strong>0‑1 Mago de Nivel 3</strong> por cada <strong>1 000 ptos.</strong></li>
+      <li><strong>0‑1 Mago de Nivel 4</strong> por cada <strong>2 000 ptos.</strong></li>
+    </ul>
+  </li>
+  <li>Los <strong>personajes con nombre</strong> no cuentan para estos topes.</li>
+  <li><strong>Mercenarios</strong> siempre permitidos; <strong>aliados</strong> a discreción del organizador.</li>
+</ul>
+
+<h4 id="cómo-se-siente-en-mesa">Cómo se siente en mesa</h4>
+
+<p>Imagina un ejército de <strong>Elfos Oscuros</strong> a 2 000 ptos. Con el límite del 25 %, tu <em>Señora de las Brujas en Manticora</em> (500 ptos.) cabe, pero si añades la <em>Espada Negra</em> subes a 545 ptos. y rompes el tope; tendrás que recortar equipo o buscar un héroe más modesto. Además, solo dispondrás de un <strong>Mago de Nivel 3</strong>, así que deberás decidir si prefieres un segundo hechicero más ligero o invertir esos puntos en escoltas de Guardia Negra.</p>
+
+<h3 id="armas-combinadas-combinedarms">Armas Combinadas (Combined Arms)</h3>
+
+<p>Introduce <strong>cupos globales por tipo de unidad</strong> cuando la lista <strong>Grand Army / Army of Infamy</strong> no limite ya esa entrada:</p>
+
+<ul>
+  <li><strong>0‑3</strong> Personajes</li>
+  <li><strong>0‑4</strong> Básicas (<em>Core</em>)</li>
+  <li><strong>0‑3</strong> Especiales (<em>Special</em>)</li>
+  <li><strong>0‑2</strong> Singulares &amp; Mercenarios (<em>Rare &amp; Mercenary</em>)</li>
+</ul>
+
+<p>Los cupos <strong>aumentan en +1</strong> por <strong>cada 1 000 ptos. completos</strong> por encima de 2 000; las <strong>Unidades de Apoyo (Detachments)</strong> no cuentan. Personajes nombrados siguen exentos; mercenarios permitidos; aliados, según dicte el evento.</p>
+
+<h4 id="ejemplo-práctico--hombres-lagarto-2000ptos">Ejemplo práctico – Hombres Lagarto (2 000 ptos.)</h4>
+
+<p>Tu lista <strong>Grand Army</strong> no restringe los <em>Saurios Guerreros</em>, pero con <em>Combined Arms</em> solo podrás alinear <strong>máx. 4</strong> unidades básicas: quizá 2 bloques de Saurios, 1 de Escamadura y 1 de Cohorte Esclava. Tendrás <strong>3 huecos</strong> de Especiales; si incluyes 2 <em>Kroxigores</em> y 1 <em>Stegadon</em>, agotas la categoría y no podrás añadir un cuarto monstruo. ¿Quieres más variedad? Sube el torneo a 3 000 ptos.: los límites pasan a <strong>5‑4‑4‑3</strong>, ofreciéndote espacio para otro <em>Stegadon</em> o un chamán eslizón extra sin saturar la lista.</p>
+
+<h2><img src="/assets/img/2025-06/partida.png" alt="Partida de prueba" title="Partida warhammer" /></h2>
+
+<h2 id="el-campo-de-batalla-the-field-of-battle">El Campo de Batalla (The Field of Battle)</h2>
+
+<p>La guía dedica todo un capítulo a la mesa, recordándonos que la <strong>escenografía no es simple atrezzo</strong>: modela líneas de visión, obliga a maniobrar y decide quién llega primero a un flanco. Su marco común garantiza que cada partida empiece en igualdad de condiciones.</p>
+
+<h3 id="preparación-del-terreno-settingupterrain">Preparación del terreno (Setting Up Terrain)</h3>
+
+<p>Hay <strong>dos métodos oficiales</strong> y el organizador debe anunciar cuál usará:</p>
+
+<ol>
+  <li><strong>Mesa preconfigurada</strong> — la organización monta todas las mesas antes de la primera ronda y las reajusta entre partidas si el escenario lo exige, evitando que alguien “elija” piezas a su medida.</li>
+  <li><strong>Colocación por los jugadores</strong> — sigue el procedimiento de <em>Placing Terrain</em> más abajo, aportando variedad sin desbalancear la partida.</li>
+</ol>
+
+<h3 id="cuánta-escenografía-es-suficiente-howmuchterrain">Cuánta escenografía es suficiente (How Much Terrain?)</h3>
+
+<p>La regla es fácil: <strong>una pieza por cada 12″</strong> del lado más largo. En la mesa estándar de 72″ × 48″ eso son <strong>seis</strong> elementos. Menos crearía un tiro al pato; más, un laberinto que atascaría carros y monstruos.</p>
+
+<h3 id="tamaño-de-los-elementos-sizeofterrain">Tamaño de los elementos (Size of Terrain)</h3>
+
+<p>Cada pieza se mide por su punto más ancho y cuenta para el cupo total así:</p>
+
+<ul>
+  <li><strong>2–8″</strong> → <strong>1</strong> pieza.</li>
+  <li><strong>8–12″</strong> → <strong>2</strong> piezas.</li>
+  <li><strong>Más de 12″</strong> → <strong>3</strong> piezas.</li>
+</ul>
+
+<p>Todo lo que mida <strong>menos de 2″</strong> es “decoración de campo de batalla”: embellece, pero <strong>no</strong> bloquea ni línea de visión ni movimiento.</p>
+
+<h3 id="procedimiento-de-colocación-placingterrain">Procedimiento de colocación (Placing Terrain)</h3>
+
+<p>Si la escenografía la colocan los jugadores, la guía propone un mini‑juego previo que combina estrategia y azar:</p>
+
+<ol>
+  <li><strong>Calcular</strong> el cupo según la regla de 12″.</li>
+  <li><strong>Elegir</strong> alternando (o de mutuo acuerdo) las piezas hasta el máximo permitido.</li>
+  <li>Lanzar un dado; <strong>quien gana</strong> coloca <strong>todas</strong> las piezas donde quiera.</li>
+  <li>
+    <p>El rival elige <strong>D3 + 1</strong> piezas y tira <strong>2D6 + dado de dispersión</strong> por cada una:</p>
+
+    <ul>
+      <li><strong>Flecha</strong> → la pieza se desplaza el resultado en pulgadas en esa dirección, deteniéndose al tocar otra pieza o el borde.</li>
+      <li><strong>Impacto</strong> → la pieza no se mueve.</li>
+    </ul>
+  </li>
+</ol>
+
+<p>Restricciones: nunca a menos de <strong>12″ del centro</strong> ni a <strong>3″ de otra pieza</strong> (salvo que el escenario lo indique). Las decoraciones inferiores a 2″ pueden seguir el mismo proceso si ambos lo desean. El resultado: una mesa creíble con rutas para caballería, colinas para artillería y ruinas para hostigadores.</p>
+
+<hr />
+
+<h2 id="conclusiones">Conclusiones</h2>
+
+<p>La <strong>Guía de Juego Equilibrado</strong> ofrece un <strong>marco común</strong> que podemos citar sin reinventar las bases de cada evento. A la vez, sus paquetes independientes —<em>Open War</em>, <strong>Grand Melee</strong>, <strong>Combined Arms</strong>— son lo bastante permeables para que cada organizador cree la <strong>mezcla</strong> que mejor se adapte a su comunidad.</p>
+
+<p>Esa flexibilidad tiene un precio: algunos formatos, por sí solos, resultan <strong>poco restrictivos</strong> para la escena competitiva española. Preveo que la mayoría de torneos adopten un enfoque <strong>híbrido</strong>: límites de <strong>Grand Melee</strong> (25 % y magia controlada) más cupos de <strong>Combined Arms</strong>. Así se mantienen los topes “de toda la vida” sin ahogar las listas imaginativas.</p>
+
+<p>En el caso de un <strong>circuito</strong> regional o nacional, esta amplitud exige —igual que antes— que los organizadores <strong>negocien y armonicen</strong> puntos, restricciones y número de rondas. La diferencia es que ahora disponen de un documento oficial como punto de partida: ya no se trata de inventar reglas caseras, sino de acordar <strong>qué capítulo</strong> activar.</p>
+
+<blockquote>
+  <p><strong>Idea adicional:</strong> la comunidad podría consensuar una “plantilla estándar” —por ejemplo, «2 000 ptos., Grand Melee + Combined Arms, seis piezas de terreno»— y revisarla cada temporada a la luz de resultados y encuestas. Así la guía se convierte en una herramienta <strong>viva</strong>, capaz de evolucionar con el metajuego.</p>
+</blockquote>
+
+<p>Y esto es todo por ahora. En unos días publicaremos la <strong>tercera parte</strong> de la serie, dedicada a los <strong>Escenarios de Juego Equilibrado (Matched Play Scenarios)</strong>, donde veremos cómo cada misión premia estilos distintos y qué variantes incluye la guía. ¡Nos leemos pronto!</p>]]></content><author><name></name></author><category term="articulo" /><summary type="html"><![CDATA[En la **Parte 2** de nuestra cobertura desvelamos el sistema que propone Games Workshop de **emparejamientos** para torneos. Descubre las restricciones de **Army Composition** —de *Open War* a **Grand Melee**— y por qué tu héroe de más de 500 puntos quizá se quede en el banquillo.\nTe mostramos la fórmula oficial para colocar **terreno** y evitar mesas desiertas… o atascadas de escenografía. Cuatro minutos de lectura que afilarán tus listas y tu estrategia para el próximo torneo: ¡no te lo pierdas!]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.elheraldodelviejomundo.com/assets/img/2025-06/matched_play_guide.png" /><media:content medium="image" url="https://www.elheraldodelviejomundo.com/assets/img/2025-06/matched_play_guide.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Matched Play Guide Revelado en Español — 1ª Parte</title><link href="https://www.elheraldodelviejomundo.com/articulo/2025/06/20/matched-play-guide-parte1.html" rel="alternate" type="text/html" title="Matched Play Guide Revelado en Español — 1ª Parte" /><published>2025-06-20T19:45:00+00:00</published><updated>2025-06-20T19:45:00+00:00</updated><id>https://www.elheraldodelviejomundo.com/articulo/2025/06/20/matched-play-guide-parte1</id><content type="html" xml:base="https://www.elheraldodelviejomundo.com/articulo/2025/06/20/matched-play-guide-parte1.html"><![CDATA[<p><em>Publicado originalmente el 20-jun-2025.</em></p>
 
 <h1 id="matched-play-guide-revelado-en-español--1ª-parte">Matched Play Guide Revelado en Español — 1ª Parte</h1>
 <p><em>(La 2ª parte, centrada en los escenarios equilibrados y objetivos secundarios, llegará en pocos días: ¡mantente atento!)</em></p>
@@ -564,27 +722,4 @@ El Orco Rojo, la tienda de referencia de Valladolid, premiará resultado, pintur
 <div style="margin-top:3em;padding:1em;background:#fef8e6;border:1px solid #eadbbd;border-radius:8px;">
 <strong>Conclusiones:</strong> La introducción de Kralmaw y Ghorros en el nuevo Arcane Journal: Beastmen redefine el enfoque táctico para los jugadores de Beastmen en torneos. Kralmaw, con su capacidad de profecía y su Leering Spirit, ofrece una ventaja mágica significativa, especialmente en listas que priorizan el control del campo de batalla a través de la magia y la emboscada. Por otro lado, Ghorros potencia a los Centigors, convirtiéndolos en una fuerza formidable en el campo. La disponibilidad de miniaturas remasterizadas en Forge World resin, como el Doombull, al 15 % en El Arca Negra, ofrece a los coleccionistas la oportunidad de mejorar sus ejércitos con modelos más detallados y resistentes. Estas adiciones no solo enriquecen el meta, sino que también ofrecen nuevas vías estratégicas para los jugadores experimentados que buscan optimizar sus listas competitivas.
 </div>
-<p><a href="https://www.warhammer-community.com/en-gb/articles/rybvkwfs/old-world-almanack-the-children-of-chaos/">Leer noticia original ➜</a></p>]]></content><author><name></name></author><category term="noticias" /><summary type="html"><![CDATA[¡Prepárate para sumergirte en el oscuro y fascinante mundo de The Old World con el nuevo Almanaque del Viejo Mundo: Los Hijos del Caos! En esta entrega, los profetas del caos nos llevan a Westerland, donde los temidos Hombres Bestia acechan en los bosques de Laurelorn. Con personajes icónicos como Kralmaw, el Profeta de la Ruina, y Ghorros, el Padre de Todos los Centigors, este libro promete una experiencia de juego única y emocionante. Descubre nuevas miniaturas, listas de ejército agresivas y una rica historia llena de magia y misterio que te mantendrán al borde de tu asiento. ¡No te pierdas esta oportunidad de explorar el caos y la estrategia en el juego equilibrado de The Old World!]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://assets.warhammer-community.com/tow_beastmen2-may29-image5_wide-qckvkcjzzq.jpg" /><media:content medium="image" url="https://assets.warhammer-community.com/tow_beastmen2-may29-image5_wide-qckvkcjzzq.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Almanaque del Viejo Mundo – ¿Qué acecha en el Bosque Salvaje?</title><link href="https://www.elheraldodelviejomundo.com/noticias/2025/05/27/old-world-almanack-what-lurks-within-the-wildwood.html" rel="alternate" type="text/html" title="Almanaque del Viejo Mundo – ¿Qué acecha en el Bosque Salvaje?" /><published>2025-05-27T00:00:00+00:00</published><updated>2025-05-27T00:00:00+00:00</updated><id>https://www.elheraldodelviejomundo.com/noticias/2025/05/27/old-world-almanack-what-lurks-within-the-wildwood</id><content type="html" xml:base="https://www.elheraldodelviejomundo.com/noticias/2025/05/27/old-world-almanack-what-lurks-within-the-wildwood.html"><![CDATA[<p><em>Publicado originalmente el 27-may-2025.</em></p>
-
-<p>En el último número de la serie Old World Almanack, los Hombres Bestia, los verdaderos hijos del Caos, emergen de los oscuros rincones del Drakwald, proclamando oraciones bestiales a los dioses oscuros. Esta entrega del Arcane Journal se centra en estas criaturas, que han sido antagonistas clave en el Viejo Mundo desde el principio. Los Hombres Bestia, nacidos del cataclismo que desató los Poderes Ruinosos, son una amenaza constante para humanos, elfos y enanos, acechando en los bosques profundos y oscuros.</p>
-
-<p>Desde los inicios de Warhammer en los años 80, los Hombres Bestia han sido los monstruos del bosque, representando una amenaza tangible en el universo de Warhammer Fantasy Roleplay, donde intentaron derribar al Imperio desde dentro. A diferencia de criaturas más extravagantes como los Tzaangors y Slaangors de los Reinos Mortales, en el Viejo Mundo, los Hombres Bestia se centran en las bestias de cabeza de cabra del Caos Indiviso.</p>
-
-<p>Narrativamente, los Skaven desaparecieron de la superficie del mundo tres siglos antes del periodo cubierto por The Old World, convirtiéndose en un mito. Sin embargo, los Hombres Bestia son una amenaza real y tangible, quemando aldeas vecinas en el Imperio. La guerra secreta contra Morghur el Sombragor fue apenas unas décadas antes de la invasión de Settra a los Príncipes Fronterizos. Cada vez que los Elfos del Bosque lo matan, renace en otro lugar. En este Arcane Journal, se revela que ha renacido como un horrible bebé, y Kralmaw, un nuevo personaje de este periodo, lo está buscando en los oscuros bosques.</p>
-
-<p>A lo largo de los años, los Hombres Bestia han experimentado numerosos cambios. En los años 80, eran criaturas extrañas con cabezas de pez, centauros, un hombre camello, un hombre babosa e incluso un hombre tigre. Hoy en día, están claramente definidos como primitivos y con características de cabra, siendo más prevalentes en el Viejo Mundo, especialmente en los bosques primordiales del Imperio y Bretonia.</p>
-
-<p>Los Hombres Bestia emergen de los bosques para atacar aldeas, que simplemente desaparecen en la noche. En el Arcane Journal se describe la invasión de Westerland por parte de Chainmaker y la amenaza del renacimiento de Shadowgave, con los Hombres Bestia incluso adentrándose en el Bosque de Laurelorn, un lugar donde no deberían estar. El relato se presenta desde la perspectiva de los aterrados supervivientes humanos de estos ataques.</p>
-
-<p>El Imperio libra una batalla constante para mantener los bosques a raya, haciendo todo lo posible para mantener a los Hombres Bestia a distancia y reducir sus manadas. Sin embargo, estas criaturas son pura ira y destrucción, sin crear nada. Los Caballeros Pantera realizan cruzadas para limpiar los enclaves de Hombres Bestia en lo profundo de los bosques, pero estos siempre regresan en pocas semanas o meses.</p>
-
-<p>Los Hombres Bestia aún no están en su máximo poder, pero a medida que el Caos se fortalece, ellos también lo harán. Se presenta un contraste interesante entre los Elfos del Bosque, que representan una fuerza de la naturaleza más benévola, y los Hombres Bestia, que son la naturaleza trastornada. Los Elfos del Bosque, aunque a veces caprichosos, representan el orden natural y son una fuerza para el bien en el mundo, con motivos puros.</p>
-
-<p>El artículo también explora el origen, la naturaleza, la apariencia, los terrenos de caza, las manadas de brayherds, sus campeones y el idioma Darktongue de los Hombres Bestia. El Darktongue, introducido en los libros originales de Realm of Chaos de 1988 y 1990, es fácil de reproducir; si los Hombres Bestia pueden tallarlo en un árbol, se puede pintar en un estandarte. Se han actualizado los materiales antiguos y se han incluido nuevos sigilos en la hoja de transferencias, con sigilos para todos los tipos de Hombres Bestia, como el sigilo Caprigor de Realms of Chaos, que ahora es el sigilo para los Bestigors.</p>
-
-<p>En próximas entregas, se profundizará en personajes como Kralmaw y Ghorros, así como en las reglas de los Ejércitos de la Infamia y otros aspectos del nuevo Arcane Journal.</p>
-
-<div style="margin-top:3em;padding:1em;background:#fef8e6;border:1px solid #eadbbd;border-radius:8px;">
-<strong>Conclusiones:</strong> La reciente revitalización de los Hombres Bestia en el Arcane Journal no solo reaviva su presencia en el lore, sino que también tiene implicaciones tácticas significativas en el meta actual. Con la introducción de personajes como Kralmaw y la resurrección de Morghur, los jugadores pueden anticipar un aumento en el uso de estrategias de emboscada y desgaste, aprovechando la naturaleza impredecible y destructiva de estas criaturas. Además, la actualización de los sigilos y transferencias facilita a coleccionistas y pintores la personalización de sus ejércitos, ahora disponibles al 15 % en El Arca Negra. Este enfoque renovado podría desplazar el equilibrio en torneos, obligando a los jugadores a reconsiderar sus tácticas defensivas frente a la amenaza siempre presente de los Hombres Bestia.
-</div>
-<p><a href="https://www.warhammer-community.com/en-gb/articles/qlwqfahu/old-world-almanack-what-lurks-within-the-wildwood/">Leer noticia original ➜</a></p>]]></content><author><name></name></author><category term="noticias" /><summary type="html"><![CDATA[En el último número del Almanaque del Viejo Mundo, los verdaderos hijos del Caos, los Hombres Bestia, emergen de los oscuros bosques del Drakwald, trayendo consigo una amenaza palpable para los habitantes del Imperio. Este Arcane Journal se adentra en la rica historia y el papel crucial de estas criaturas en The Old World, explorando sus orígenes, su naturaleza y su constante acecho en las sombras. Con la participación de expertos como el Gran Chamán Bray y el historiador de Warhammer Gadge, descubrimos cómo estos seres han evolucionado a lo largo de los años, desde sus extrañas formas en los años 80 hasta su actual representación como bestias primordiales y caprinas. ¡No te pierdas este fascinante viaje al corazón de la mitología de Warhammer!]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://assets.warhammer-community.com/tow_beastmen1-may27-image1_wide-lqrlomr9pr.jpg" /><media:content medium="image" url="https://assets.warhammer-community.com/tow_beastmen1-may27-image1_wide-lqrlomr9pr.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+<p><a href="https://www.warhammer-community.com/en-gb/articles/rybvkwfs/old-world-almanack-the-children-of-chaos/">Leer noticia original ➜</a></p>]]></content><author><name></name></author><category term="noticias" /><summary type="html"><![CDATA[¡Prepárate para sumergirte en el oscuro y fascinante mundo de The Old World con el nuevo Almanaque del Viejo Mundo: Los Hijos del Caos! En esta entrega, los profetas del caos nos llevan a Westerland, donde los temidos Hombres Bestia acechan en los bosques de Laurelorn. Con personajes icónicos como Kralmaw, el Profeta de la Ruina, y Ghorros, el Padre de Todos los Centigors, este libro promete una experiencia de juego única y emocionante. Descubre nuevas miniaturas, listas de ejército agresivas y una rica historia llena de magia y misterio que te mantendrán al borde de tu asiento. ¡No te pierdas esta oportunidad de explorar el caos y la estrategia en el juego equilibrado de The Old World!]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://assets.warhammer-community.com/tow_beastmen2-may29-image5_wide-qckvkcjzzq.jpg" /><media:content medium="image" url="https://assets.warhammer-community.com/tow_beastmen2-may29-image5_wide-qckvkcjzzq.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
