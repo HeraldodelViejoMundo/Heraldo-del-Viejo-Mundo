@@ -21,23 +21,18 @@ Esta segunda entrega continúa nuestro análisis a fondo de la **Guía de Juego 
 ## Los Emparejamientos (The Pairing of Players)
 
 ### La primera ronda (The First Round)
-
 Para romper el hielo se empareja a los participantes **al azar**. Es un sorteo puro: cada jugador recibe un oponente sin tener en cuenta experiencia ni clasificación previa. Si el número de asistentes es impar, el último nombre en salir se gestiona con un **jugador de reserva** o, si no hay uno disponible, con un **Bye**.
 
 ### Jugador de reserva (Spare Player)
-
 El jugador de reserva actúa como comodín. Disputa la partida con normalidad y anota resultado y Puntos de Victoria (VP) como cualquier otro participante. En rondas posteriores se le asigna siempre al jugador situado en el último puesto de la clasificación; si ya se enfrentaron antes, se sube al siguiente clasificado por la cola.
 
 ### Byes (Byes)
-
 Si no es posible aportar un jugador de reserva, el participante emparejado con él recibe un **Bye**. El reglamento lo cuenta como **Crushing Victory** y concede al jugador tantos VP como el tamaño estándar de la partida (por ejemplo, 2 000 VP en una ronda a 2 000 puntos).
 
 ### Concesión (Concession)
-
 Si alguien debe abandonar o concede la partida, su rival obtiene igualmente una **Crushing Victory** con la misma cantidad de VP “automáticos” que en el caso de un Bye.
 
 ### Rondas posteriores (Subsequent Rounds)
-
 A partir de la segunda ronda se utiliza un sistema tipo «suizo simplificado»:
 
 1. El **1.º** de la tabla juega contra el **2.º**, el **3.º** contra el **4.º**, y así sucesivamente.
@@ -53,29 +48,24 @@ Con estas reglas, el torneo mantiene partidas equilibradas ronda tras ronda, min
 En *The Old World* existen **tres paquetes de restricciones** que un organizador puede activar en un evento equilibrado. **No se acumulan entre sí**: lo normal es que el torneo anuncie **uno solo** (p. ej. «Jugaremos en formato Grand Melee»). No obstante, es posible combinarlos —por ejemplo, añadir los topes de *Combined Arms* sobre un marco Grand Army— siempre que se avise con claridad en las bases del evento. Si el reglamento no lo especifica, ¡pregunta antes de escribir tu lista!
 
 ### Guerra Abierta (Open War)
+El entorno «sin limitaciones». Se usa tal cual el sistema de listas **Grand Army** o **Army of Infamy** y **no añade límites extra**. Puedes llevar tantos personajes poderosos, monstruos o regimientos repetidos como permitan los puntos; **mercenarios** y **aliados** siempre están permitidos.
 
-El entorno «sin correa». Se usa tal cual el sistema de listas **Grand Army** o **Army of Infamy** y **no añade límites extra**. Puedes llevar tantos personajes poderosos, monstruos o regimientos repetidos como permitan los puntos; **mercenarios** y **aliados** siempre están permitidos.
-
-> **Cuándo elegirlo:** ideal para ligas locales, demostraciones o torneos que quieran premiar colecciones extensas y combos creativos sin preocuparse por “spam”.
+> **Cuándo elegirlo:** ideal para partidas trasfondísticas, demostraciones o torneos muy locos en los que se quieran premiar colecciones extensas y combos creativos sin preocuparse por “spam”.
 
 ### Gran Melee (Grand Melee)
-
 Pensado para torneos que desean listas variadas y menos dependencia de “death stars” o magos nivel 4 en dragones. Obliga a repartir recursos del siguiente modo:
 
 * **No** gastar más del **25 %** de los puntos en **una sola** miniatura o unidad.
 * Puedes incluir cuantos **Magos de Nivel 1–2** quieras, pero además:
-
   * **0‑1 Mago de Nivel 3** por cada **1 000 ptos.**
   * **0‑1 Mago de Nivel 4** por cada **2 000 ptos.**
 * Los **personajes con nombre** no cuentan para estos topes.
 * **Mercenarios** siempre permitidos; **aliados** a discreción del organizador.
 
-#### Cómo se siente en mesa
-
+#### Cómo afecta en mesa
 Imagina un ejército de **Elfos Oscuros** a 2 000 ptos. Con el límite del 25 %, tu *Señora de las Brujas en Manticora* (500 ptos.) cabe, pero si añades la *Espada Negra* subes a 545 ptos. y rompes el tope; tendrás que recortar equipo o buscar un héroe más modesto. Además, solo dispondrás de un **Mago de Nivel 3**, así que deberás decidir si prefieres un segundo hechicero más ligero o invertir esos puntos en escoltas de Guardia Negra.
 
 ### Armas Combinadas (Combined Arms)
-
 Introduce **cupos globales por tipo de unidad** cuando la lista **Grand Army / Army of Infamy** no limite ya esa entrada:
 
 * **0‑3** Personajes
@@ -86,29 +76,24 @@ Introduce **cupos globales por tipo de unidad** cuando la lista **Grand Army /
 Los cupos **aumentan en +1** por **cada 1 000 ptos. completos** por encima de 2 000; las **Unidades de Apoyo (Detachments)** no cuentan. Personajes nombrados siguen exentos; mercenarios permitidos; aliados, según dicte el evento.
 
 #### Ejemplo práctico – Hombres Lagarto (2 000 ptos.)
-
 Tu lista **Grand Army** no restringe los *Saurios Guerreros*, pero con *Combined Arms* solo podrás alinear **máx. 4** unidades básicas: quizá 2 bloques de Saurios, 1 de Escamadura y 1 de Cohorte Esclava. Tendrás **3 huecos** de Especiales; si incluyes 2 *Kroxigores* y 1 *Stegadon*, agotas la categoría y no podrás añadir un cuarto monstruo. ¿Quieres más variedad? Sube el torneo a 3 000 ptos.: los límites pasan a **5‑4‑4‑3**, ofreciéndote espacio para otro *Stegadon* o un chamán eslizón extra sin saturar la lista.
 
 ![Partida de prueba](/assets/img/2025-06/partida.png "Partida warhammer")
 ---
 
 ## El Campo de Batalla (The Field of Battle)
-
 La guía dedica todo un capítulo a la mesa, recordándonos que la **escenografía no es simple atrezzo**: modela líneas de visión, obliga a maniobrar y decide quién llega primero a un flanco. Su marco común garantiza que cada partida empiece en igualdad de condiciones.
 
 ### Preparación del terreno (Setting Up Terrain)
-
 Hay **dos métodos oficiales** y el organizador debe anunciar cuál usará:
 
 1. **Mesa preconfigurada** — la organización monta todas las mesas antes de la primera ronda y las reajusta entre partidas si el escenario lo exige, evitando que alguien “elija” piezas a su medida.
 2. **Colocación por los jugadores** — sigue el procedimiento de *Placing Terrain* más abajo, aportando variedad sin desbalancear la partida.
 
 ### Cuánta escenografía es suficiente (How Much Terrain?)
-
 La regla es fácil: **una pieza por cada 12″** del lado más largo. En la mesa estándar de 72″ × 48″ eso son **seis** elementos. Menos crearía un tiro al pato; más, un laberinto que atascaría carros y monstruos.
 
 ### Tamaño de los elementos (Size of Terrain)
-
 Cada pieza se mide por su punto más ancho y cuenta para el cupo total así:
 
 * **2–8″** → **1** pieza.
@@ -118,7 +103,6 @@ Cada pieza se mide por su punto más ancho y cuenta para el cupo total así:
 Todo lo que mida **menos de 2″** es “decoración de campo de batalla”: embellece, pero **no** bloquea ni línea de visión ni movimiento.
 
 ### Procedimiento de colocación (Placing Terrain)
-
 Si la escenografía la colocan los jugadores, la guía propone un mini‑juego previo que combina estrategia y azar:
 
 1. **Calcular** el cupo según la regla de 12″.
