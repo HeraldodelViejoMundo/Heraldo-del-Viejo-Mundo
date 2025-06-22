@@ -12,7 +12,7 @@ excerpt: 'El **Heraldo del Viejo Mundo** empieza hoy una serie de artículos en 
 *Publicado originalmente el 20-jun-2025.*
 
 # Matched Play Guide Revelado en Español — 1ª Parte  
-*(La 2ª parte, centrada en los escenarios equilibrados y objetivos secundarios, llegará en pocos días: ¡mantente atento!)*
+*(La 2ª parte, que versará sobre emparejamientos en un torneo individual, restricciones para creación de listas de torneo y la distribución de la escenografía en el campo de batalla, llegará en un par de días.*
 
 El **Heraldo del Viejo Mundo** abre hoy una nueva serie de artículos en la que traduciremos y comentaremos —con todo lujo de detalles— la **Matched Play Guide en español** (Matched Play Guide) que Games Workshop lanzará en los próximos meses. Esta publicación coincide con la puesta de largo de [Grand Cathay](https://www.warhammer-community.com/en-gb/articles/luce8te0/bring-harmony-to-the-old-world-with-the-armies-of-grand-cathay/) —primer ejército completamente nuevo desde la reencarnación de *The Old World*— y constituye una declaración de intenciones: lejos de relegar el juego al cajón de los “especialistas”, la compañía apuesta por un ecosistema vivo, preparado para torneos, eventos y crecimiento a largo plazo. La guía llega, por tanto, como la piedra angular que confirma que el Viejo Mundo tiene futuro y ambición, y no solo nostalgia.  
 
@@ -96,4 +96,4 @@ Listas transparentes, escenarios equilibrados, código de conducta y método de 
 
 Quizá la gran conclusión que a menudo pasamos por alto es que la editorial nos está invitando —con reglas, recursos y un lenguaje compartido— a coger las riendas de nuestra comunidad y profesionalizarla. Si lo hacemos, el Viejo Mundo tendrá no solo pasado y presente, sino un futuro en el que todos podremos cabalgar.
 
-**Nos reencontramos en unos días con la segunda entrega**, donde desgranaremos los escenarios de batalla y los objetivos secundarios en profundidad. ¡No faltéis!
+**Nos reencontramos en unos días con la segunda entrega**, donde desgranaremos los emparejamientos en un torneo individual, normas para creación de listas y la distribución del campo de batalla. ¡No faltéis!

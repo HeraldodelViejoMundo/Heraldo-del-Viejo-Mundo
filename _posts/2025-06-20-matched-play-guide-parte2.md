@@ -12,7 +12,7 @@ excerpt: 'En la **Parte 2** de nuestra cobertura desvelamos el sistema que prop
 
 # Matched Play Guide Revelado en Español — 2ª Parte
 
-*(La 3ª parte, centrada en los Escenarios de Juego Equilibrado, llegará en pocos días: ¡mantente atento!)*
+*(La 3ª parte, centrada en los nuevos Escenarios y Objetivos Secundarios, llegará en pocos días: ¡mantente atento!)*
 
 Esta segunda entrega continúa nuestro análisis a fondo de la **Guía de Juego Equilibrado** que Games Workshop lanzará en breve. A lo largo de las próximas secciones repasaremos, primero, el **sistema de emparejamientos** que determina quién juega contra quién tras cada ronda y qué hacer con *byes* o jugadores de reserva. Después entraremos en la **Composición del Ejército**, comparando enfoques como *Open War*, **Grand Melee** y **Combined Arms**, y viendo cómo condicionan el tamaño de tus unidades o la presencia de personajes poderosos. Cerraremos examinando el apartado **El Campo de Batalla**, con las recomendaciones oficiales sobre cantidad, tamaño y colocación de terreno para lograr mesas equilibradas y jugables.
 
@@ -127,4 +127,4 @@ En el caso de un **circuito** regional o nacional, esta amplitud exige —igual 
 
 > **Idea adicional:** la comunidad podría consensuar una “plantilla estándar” —por ejemplo, «2 000 ptos., Grand Melee + Combined Arms, seis piezas de terreno»— y revisarla cada temporada a la luz de resultados y encuestas. Así la guía se convierte en una herramienta **viva**, capaz de evolucionar con el metajuego.
 
-Y esto es todo por ahora. En unos días publicaremos la **tercera parte** de la serie, dedicada a los **Escenarios de Juego Equilibrado (Matched Play Scenarios)**, donde veremos cómo cada misión premia estilos distintos y qué variantes incluye la guía. ¡Nos leemos pronto!
+Y esto es todo por ahora. En unos días publicaremos la **tercera parte** de la serie, dedicada a los **Escenarios y Objetivos Secundarios**, donde veremos tanto planteamiendo de batalla como misiones específicas que buscan premiar estilos distintos y enriquecer las partidas.
