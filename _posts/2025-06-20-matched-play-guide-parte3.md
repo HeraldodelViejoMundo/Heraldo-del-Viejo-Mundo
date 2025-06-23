@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Matched Play Guide Revelado en Español — 3ª Parte
-date: 2025-06-23 05:00:00 +0200
+date: 2025-06-23 04:00:00 +0200
 source_date: '2025-06-23'
 categories: ['articulo']
 image: /assets/img/2025-06/parte3.png
@@ -12,7 +12,7 @@ excerpt: 'En esta tercera entrega diseccionamos los seis escenarios de torneo y 
 
 # Matched Play Guide Revelado en Español — 3ª Parte
 
-Mapas, despliegues y bonificaciones que pueden cambair el rumbo de la partida.
+Mapas, despliegues y bonificaciones que pueden cambiar el rumbo de la partida.
 
 Anticípate a la publicación oficial y llega a tu próximo torneo con la estrategia afinada.
 
