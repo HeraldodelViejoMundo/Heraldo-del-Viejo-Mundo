@@ -1,4 +1,125 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://www.elheraldodelviejomundo.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.elheraldodelviejomundo.com/" rel="alternate" type="text/html" /><updated>2025-06-23T02:26:24+00:00</updated><id>https://www.elheraldodelviejomundo.com/feed.xml</id><title type="html">https://El Heraldo del Viejo Mundo</title><subtitle>Noticias, rumores y estrategia de Warhammer: The Old World en español.</subtitle><entry><title type="html">Agenda de torneos (actualizada 23 / VI / 2025)</title><link href="https://www.elheraldodelviejomundo.com/torneos/2025/06/23/torneos.html" rel="alternate" type="text/html" title="Agenda de torneos (actualizada 23 / VI / 2025)" /><published>2025-06-23T00:00:00+00:00</published><updated>2025-06-23T00:00:00+00:00</updated><id>https://www.elheraldodelviejomundo.com/torneos/2025/06/23/torneos</id><content type="html" xml:base="https://www.elheraldodelviejomundo.com/torneos/2025/06/23/torneos.html"><![CDATA[<h2 id="agenda-de-torneos-actualizada-23--vi--2025">Agenda de torneos (actualizada 23 / VI / 2025)</h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://www.elheraldodelviejomundo.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.elheraldodelviejomundo.com/" rel="alternate" type="text/html" /><updated>2025-06-23T02:30:54+00:00</updated><id>https://www.elheraldodelviejomundo.com/feed.xml</id><title type="html">https://El Heraldo del Viejo Mundo</title><subtitle>Noticias, rumores y estrategia de Warhammer: The Old World en español.</subtitle><entry><title type="html">Matched Play Guide Revelado en Español — 3ª Parte</title><link href="https://www.elheraldodelviejomundo.com/articulo/2025/06/23/matched-play-guide-parte3.html" rel="alternate" type="text/html" title="Matched Play Guide Revelado en Español — 3ª Parte" /><published>2025-06-23T02:00:00+00:00</published><updated>2025-06-23T02:00:00+00:00</updated><id>https://www.elheraldodelviejomundo.com/articulo/2025/06/23/matched-play-guide-parte3</id><content type="html" xml:base="https://www.elheraldodelviejomundo.com/articulo/2025/06/23/matched-play-guide-parte3.html"><![CDATA[<p><em>Publicado originalmente el 23‑jun‑2025.</em></p>
+
+<h1 id="matched-play-guide-revelado-en-español--3ª-parte">Matched Play Guide Revelado en Español — 3ª Parte</h1>
+
+<p>Mapas, despliegues y bonificaciones que pueden cambiar el rumbo de la partida.<br />
+Anticípate a la publicación oficial y llega a tu próximo torneo con la estrategia afinada.</p>
+
+<h2 id="introducción">Introducción</h2>
+<p>La escena competitiva está a punto de sacudirse: la próxima Guía de Juego Equilibrado añade seis escenarios oficiales y un sistema de objetivos secundarios que disparará la puntuación.<br />
+En esta tercera entrega explicamos cómo sus despliegues, condiciones de victoria y bonificaciones reconfiguran maniobras y listas desde el turno uno.<br />
+Conoce cada mapa antes de que llegue a las mesas y transforma la incertidumbre en ventaja.</p>
+
+<h2 id="escenarios-de-juego-equilibrado-matched-play-scenarios">Escenarios de Juego Equilibrado (Matched Play Scenarios)</h2>
+<h3 id="elección-de-escenario-choosing-scenario">Elección de Escenario (Choosing Scenario)</h3>
+<p>Al comienzo de cada ronda de torneo, el organizador decide —preferiblemente al azar— cuál de los seis escenarios se jugará. Un mismo escenario no debe repetirse hasta que los seis hayan sido utilizados; si el evento dura menos rondas, se aconseja no repetir ninguno. Así se garantiza que todos los participantes afronten desafíos variados a lo largo del evento.</p>
+
+<h2 id="reglas-prepartida-pregame-special-rules">Reglas Prepartida (Pregame Special Rules)</h2>
+<p>Si uno o ambos ejércitos poseen reglas o efectos que se aplican antes de empezar la batalla (hechizos permanentes, despliegues avanzados, etc.), se realiza una tirada enfrentada. El ganador resuelve primero todas sus acciones de prepartida y, a continuación, las ejecuta su rival. Solo cuando ambos hayan terminado se pasa al despliegue normal.</p>
+
+<h2 id="despliegue-en-juego-equilibrado-deployment-in-matched-play">Despliegue en Juego Equilibrado (Deployment In Matched Play)</h2>
+<p>Despliegue Alterno (Alternating Units)<br />
+Todos los escenarios usan el método de despliegue alterno, salvo que la propia hoja de escenario indique lo contrario. Los jugadores se turnan para colocar una unidad cada vez, siempre por completo dentro de su zona de despliegue.</p>
+
+<p>Máquinas de guerra: se despliegan todas a la vez, aunque cada una puede ocupar una posición distinta dentro de la zona.</p>
+
+<p>Personajes: se colocan al final, después de todas las demás unidades que puedan acompañar.</p>
+
+<p>Primer Turno (First Turn)<br />
+Una vez finalizado el despliegue, ambos jugadores tiran un dado; quien terminó de desplegar antes —incluyendo unidades que usaron Exploradores— suma +1 a su resultado. El ganador decide si juega el primer turno o cede la iniciativa a su adversario.</p>
+
+<h2 id="duración-de-la-partida-game-length">Duración de la Partida (Game Length)</h2>
+<p>Una partida de Juego Equilibrado puede terminar por límite fijo de turnos, duración aleatoria o punto de ruptura. El organizador anuncia qué condición se aplica al revelar el escenario; si no lo indica, se asume el límite fijo.<br />
+En eventos con horario estricto, también puede fijarse un límite de tiempo: cuando suena la alarma, el jugador activo concluye la fase en curso y la batalla finaliza</p>
+
+<h2 id="número-fijo-de-turnos-fixed-turn-limit">Número Fijo de Turnos (Fixed Turn Limit)</h2>
+<p>La opción por defecto. La partida dura seis rondas completas; al término de la sexta se calculan los Puntos de Victoria.</p>
+
+<h2 id="número-aleatorio-de-turnos-random-game-length">Número Aleatorio de Turnos (Random Game Length)</h2>
+<p>Empieza a comprobarse al final de la quinta ronda: tira 1D6 y súmale el número de ronda.</p>
+
+<p>Si el total es 10 o más, la batalla acaba de inmediato.</p>
+
+<p>Con un resultado inferior, ambos bandos juegan al menos una ronda adicional y repiten la tirada al final de la siguiente.</p>
+
+<h2 id="punto-de-ruptura-break-point">Punto de Ruptura (Break Point)</h2>
+<p>Cada ejército calcula su punto de ruptura al inicio de la partida: suma la Potencia de Unidad de todas las unidades (personajes incluidos) y divide entre cuatro, redondeando hacia abajo.<br />
+En el inicio de cualquier turno, si la Potencia de Unidad restante de un ejército cae por debajo de ese valor, el ejército queda Roto y la partida termina (ambas fuerzas podrían romperse simultáneamente).<br />
+Si ambos bandos están Rotos, el resultado máximo posible es Victoria Marginal, pues las bajas han sido devastadoras para los dos ejércitos.</p>
+
+<h2 id="victoria-victory">¡Victoria! (Victory!)</h2>
+<p>En The Old World la victoria se mide en Puntos de Victoria (VP). Cada ejército los acumula cumpliendo objetivos comunes —válidos para casi todos los escenarios— y, cuando proceda, objetivos secundarios. Quien sume más VP al final de la partida se alza con la victoria.</p>
+
+<h2 id="puntos-de-victoria-victory-points">Puntos de Victoria (Victory Points)</h2>
+<p>Los VP se obtienen destruyendo unidades, capturando estandartes o controlando elementos clave del campo de batalla. Algunos bonos dependen del tipo de final de partida (p. ej. Break Point). El organizador puede añadir objetivos secundarios, pero si no indica lo contrario, estos objetivos comunes bastan para puntuar.</p>
+
+<h2 id="objetivos-comunes-common-objectives">Objetivos Comunes (Common Objectives)</h2>
+<p>Muerto o Huyendo (Dead or Fled)<br />
+100 % del coste de puntos por cada unidad enemiga destruida o que haya abandonado la mesa.<br />
+50 % si la unidad está huyendo al terminar la partida o se ha reducido a 25 % o menos de su Potencia de Unidad (o Heridas, si coincide) —redondeando siempre hacia arriba.<br />
+El Rey ha Muerto (The King is Dead)<br />
+Si el General enemigo está muerto, ha huido o sigue huyendo cuando concluye la batalla, ganas +100 VP. Este bono no se aplica si el General pertenece a un contingente aliado.</p>
+
+<p>Trofeos de Guerra (Trophies of War)<br />
++50 VP por cada estandarte capturado al enemigo (según las reglas de la página 200 del reglamento).<br />
++50 VP adicionales si el Portaestandarte de Batalla enemigo está muerto, ha huido o sigue huyendo al final del juego.</p>
+
+<h2 id="condiciones-especiales-special-features">Condiciones Especiales (Special Features)</h2>
+<p>Algunos escenarios incluyen un rasgo de terreno especial (máx. 6 ″ de ancho, impasable y sin línea de visión).</p>
+
+<p>Durante cada Fase de Inicio de Turno, un único regimiento Core a 6 ″, con Potencia de Unidad 10+, no huyendo ni estúpido, puede tomar el control.</p>
+
+<p>Quien lo controle al final de la partida obtiene +200 VP. Si dos unidades elegibles empatan en distancia y Potencia de Unidad, el elemento queda disputado y nadie puntúa.</p>
+
+<h2 id="derrotando-al-enemigo-breaking-the-enemy">Derrotando al Enemigo (Breaking the Enemy)</h2>
+<p>Cuando el final de partida se rige por Break Point, el ejército que reduzca al rival por debajo de su punto de ruptura recibe un bonus de +500 VP además del resultado normal de la batalla.</p>
+
+<h2 id="escenarios-de-juego-equilibradoh1">Escenarios de Juego Equilibrado(H1)</h2>
+
+<h3 id="1-sobre-el-campo-de-gloria-upon-the-field-of-glory">1. Sobre el Campo de Gloria (Upon the Field of Glory)</h3>
+<p>Despliegue: zonas A/B simétricas; método de unidades alternas.<br />
+Duración: Límite Fijo de Turnos, Duración Aleatoria o Punto de Ruptura (a elección del organizador).<br />
+Reglas especiales: ninguna.<br />
+Objetivos secundarios recomendados: Carros de Suministros, Rasgos Especiales, Dominación y/o Localizaciones Estratégicas (2-4).<br />
+Clave táctica: escenario “base” sin condicionantes; las listas versátiles brillan.</p>
+
+<h3 id="2-rey-de-la-colina-king-of-the-hill">2. Rey de la Colina (King of the Hill)</h3>
+<p>Preparación: coloca una única colina grande (máx. 12″ × 18″) en el centro.<br />
+Despliegue: zonas A/B; unidades alternas.<br />
+Duración: Aleatoria o Punto de Ruptura.<br />
+Reglas especiales:<br />
+La Colina: al final de cada turno, un solo regimiento Core con Potencia 10+ a ≤ 9″ del centro, no huyendo ni estúpido, controla la colina. Empates: unidad más cercana; luego mayor Potencia; si persiste, la colina queda disputada.<br />
+Sin Vanguardia: se prohíben todos los movimientos de Vanguardia.<br />
+VP adicionales: +100 VP al controlador de la colina al final de cada turno.<br />
+Secundarios: Carros de Suministros y/o Rasgos Especiales.</p>
+
+<h3 id="3-líneas-de-batalla-trazadas-drawn-battlelines">3. Líneas de Batalla Trazadas (Drawn Battlelines)</h3>
+<p>Despliegue: zonas A/B; antes de desplegar se tira 1D6: si al menos un jugador saca 1, ambos deben dejar una unidad de infantería o caballería en reserva (los personajes pueden unirse).<br />
+Reservas: entran por el borde propio en la sub-fase de Movimientos Obligatorios a partir del 2.º turno.<br />
+Duración: Límite Fijo o Aleatoria.<br />
+Reglas especiales: solo la mecánica de Reservas.<br />
+Secundarios obligatorios: Localizaciones Estratégicas (3); opcionales Dominación y/o Carros de Suministros.</p>
+
+<h3 id="4-combate-cerrado-close-quarters">4. Combate Cerrado (Close Quarters)</h3>
+<p>Campo de batalla: los bordes cortos son terreno intransitable; ninguna unidad puede abandonarlo o entrar por ellos salvo que tenga Ethereal o Vuelo (X).<br />
+Despliegue: zonas A/B; unidades alternas.<br />
+Duración: Límite Fijo o Punto de Ruptura.<br />
+Secundarios obligatorios: Localizaciones Estratégicas (2); opcional Dominación.<br />
+Consejo: la falta de espacio penaliza bloques grandes y premia cargas frontales contundentes.</p>
+
+<h3 id="5-encuentro-casual-a-chance-encounter">5. Encuentro Casual (A Chance Encounter)</h3>
+<p>Despliegue: cuatro zonas (A1, A2, B1, B2); el ganador de la tirada elige una y el rival ocupa la opuesta con la misma letra. Unidades alternas.<br />
+Duración: Aleatoria o Punto de Ruptura.<br />
+Reglas especiales: ninguna adicional.<br />
+Secundarios obligatorios: Rasgos Especiales; opcionales Dominación y/o Carros de Suministros.<br />
+Clave táctica: flancos muy amplios y líneas de suministro expuestas favorecen ejércitos rápidos.</p>
+
+<h3 id="6-cerco-encirclement">6. Cerco (Encirclement)</h3>
+<p>Despliegue: zonas A/B diseñadas para envolver; unidades alternas.<br />
+Duración: Límite Fijo o Aleatoria.<br />
+Reglas especiales: ninguna.<br />
+Secundarios obligatorios: Localizaciones Estratégicas (4); opcionales Carros de Suministros y/o Rasgos Especiales.<br />
+VP y estrategia: el atacante busca colapsar los flancos; el defensor debe aguantar objetivos y puntuar.</p>]]></content><author><name></name></author><category term="articulo" /><summary type="html"><![CDATA[En la **Parte 3** de nuestra cobertura diseccionamos los seis escenarios oficiales y el sistema completo de **objetivos secundarios** que trae la inminente **Guía de Juego Equilibrado** de *The Old World*. Mapas, despliegues y bonificaciones que pueden cambiar el rumbo de la partida. Anticípate a la publicación oficial y llega a tu próximo torneo con la estrategia afinada.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.elheraldodelviejomundo.com/assets/img/2025-06/parte3.png" /><media:content medium="image" url="https://www.elheraldodelviejomundo.com/assets/img/2025-06/parte3.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Agenda de torneos (actualizada 23 / VI / 2025)</title><link href="https://www.elheraldodelviejomundo.com/torneos/2025/06/23/torneos.html" rel="alternate" type="text/html" title="Agenda de torneos (actualizada 23 / VI / 2025)" /><published>2025-06-23T00:00:00+00:00</published><updated>2025-06-23T00:00:00+00:00</updated><id>https://www.elheraldodelviejomundo.com/torneos/2025/06/23/torneos</id><content type="html" xml:base="https://www.elheraldodelviejomundo.com/torneos/2025/06/23/torneos.html"><![CDATA[<h2 id="agenda-de-torneos-actualizada-23--vi--2025">Agenda de torneos (actualizada 23 / VI / 2025)</h2>
 <hr />
 
 <p><strong>Sábado 28 de junio – Kingdom Wargames Alcorcón</strong></p>
@@ -907,21 +1028,4 @@ El Orco Rojo, la tienda de referencia de Valladolid, premiará resultado, pintur
   <p>Desde propuestas relajadas hasta competiciones más estructuradas, la convivencia de lo narrativo, lo táctico y lo social se está convirtiendo en la norma. La participación de marcas, como la omnipresente <a href="https://impriwars.com">ImpriWars</a>, que patrocina buena parte de los torneos, la flexibilidad en el uso de materiales y el esfuerzo por mantener viva la identidad de cada comunidad local confirman una madurez real de la comunidad.</p>
 
   <p><em>Fantasy está más vivo que nunca</em> —sí— y para los que vaticinaban los peor para TOW, temiendo que la luz que traía sería el fin de su nicho, afortunadamente estaban euqivocados. No sólo TOW se consolida como la opción mayoritaria entre los amantes del Viejo Mundo, sino que las antiguas y entrañables ediciones, muchas veces renovadas, o las versiones fan made como reforged, siguen teniendo su espacio (F por Novena).</p>
-</div>]]></content><author><name></name></author><category term="torneos" /><category term="prox_torneos" /><summary type="html"><![CDATA[Junio se llena de **torneos de peana cuadrada** en todas sus versiones. Once convocatorias por toda España en los dos fines de semana que quedan del mes. Y, aunque predomina **The Old World**, no faltan eventos para los clásicos de **Sexta Edición** o para **Reforged**, que estrena la 4.ª edición en El Orco Rojo de Valladolid. Partidas intensas, mesas cuidadas y opciones para todos los estilos. Revisa el calendario y no te quedes sin plaza.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.elheraldodelviejomundo.com/assets/images/miniatura_torneos.png" /><media:content medium="image" url="https://www.elheraldodelviejomundo.com/assets/images/miniatura_torneos.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Guía de Juego Equilibrado del Viejo Mundo: Nuevas formas de jugar en el Mundo de Leyenda</title><link href="https://www.elheraldodelviejomundo.com/noticias/2025/06/02/the-old-world-matched-play-guide-new-ways-to-play-in-the-world-of-legend.html" rel="alternate" type="text/html" title="Guía de Juego Equilibrado del Viejo Mundo: Nuevas formas de jugar en el Mundo de Leyenda" /><published>2025-06-02T00:00:00+00:00</published><updated>2025-06-02T00:00:00+00:00</updated><id>https://www.elheraldodelviejomundo.com/noticias/2025/06/02/the-old-world-matched-play-guide-new-ways-to-play-in-the-world-of-legend</id><content type="html" xml:base="https://www.elheraldodelviejomundo.com/noticias/2025/06/02/the-old-world-matched-play-guide-new-ways-to-play-in-the-world-of-legend.html"><![CDATA[<p><em>Publicado originalmente el 02-jun-2025.</em></p>
-
-<p>Hace 18 meses que el mundo de Warhammer: The Old World volvió a la vida, trayendo consigo nueve facciones que han regresado al campo de batalla con Arcane Journals, nuevas miniaturas y muchos clásicos que vuelven a estar disponibles. Con la llegada de Cathay, una nueva y antigua potencia se levanta para enfrentarse a las vicisitudes del Caos. Cada vez más generales están librando campañas a lo largo de las tierras de los hombres, y la escena de torneos está floreciendo. En este contexto, el equipo de diseño ha creado una Guía de Juego Equilibrado que proporciona información completa para cualquiera que organice o participe en eventos de Warhammer: The Old World.</p>
-
-<p>Esta guía es igual de útil tanto para quienes organizan sus primeros eventos amistosos como para los veteranos experimentados de la escena, ofreciendo reglas cardinales para todos los participantes, una guía para dirigir y organizar un evento, consejos sobre puntuación, emparejamientos y composición de ejércitos, además de reglas sugeridas para la colocación del terreno.</p>
-
-<p>Se proponen tres composiciones diferentes: Guerra Abierta, Gran Melee y Armas Combinadas, cada una con restricciones ligeramente diferentes sobre personajes y unidades. Se han diseñado seis escenarios de Juego Equilibrado para desafiar a los jugadores de diversas maneras, mientras que los objetivos secundarios opcionales y los objetivos secretos pueden añadir aún más variedad al juego.</p>
-
-<p>La guía incluye secciones detalladas como “¡Salve al Victor!”, “Valor antes que Deshonor”, “Organización de un Evento”, “Puntuación de Torneos”, “Puntos de Victoria y Clasificación”, “Composición del Ejército”, “El Campo de Batalla”, “Escenarios de Juego Equilibrado” y “¡Victoria!”. Los escenarios específicos incluyen “En el Campo de Gloria”, “Rey de la Colina”, “Líneas de Batalla Trazadas”, “Cuerpos a Cuerpos”, “Un Encuentro Fortuito” y “Cerco”.</p>
-
-<p>Además, hay una sección separada para Eventos Dobles, que incluye reglas para la composición, alianzas, escenarios y posibles contradicciones. También se ofrece una guía detallada para dirigir Eventos por Equipos y Eventos de Escalada, en los que los ejércitos de los jugadores crecen a medida que avanza el torneo.</p>
-
-<p>La Guía de Juego Equilibrado de Warhammer: The Old World es un recurso integral para todas las necesidades competitivas y de Juego Equilibrado en el Mundo de Leyenda. Está programada para estar disponible para pre-pedidos muy pronto y se ofrecerá tanto en formato de libro de tapa blanda como en ePub. Además, se lanzará junto con un nuevo documento de preguntas frecuentes y erratas, que introduce algunos cambios específicos en las reglas del juego. Próximamente se proporcionará más información sobre esto de parte del Rules Dragon.</p>
-
-<div style="margin-top:3em;padding:1em;background:#fef8e6;border:1px solid #eadbbd;border-radius:8px;">
-<strong>Conclusiones:</strong> La introducción del Matched Play Guide en Warhammer: The Old World representa un cambio significativo en el meta competitivo, especialmente para los torneos. Al ofrecer composiciones específicas como Open War, Grand Melee y Combined Arms, los jugadores ahora deben adaptar sus estrategias a restricciones más definidas, lo que podría beneficiar a ejércitos versátiles como los de Cathay. Además, las nuevas miniaturas, disponibles al 15 % en El Arca Negra, añaden una capa de profundidad táctica, incentivando a los coleccionistas a actualizar sus arsenales. Este enfoque estructurado no solo nivela el campo de juego, sino que también fomenta una planificación más meticulosa, elevando el nivel de competencia en los eventos.
-</div>
-<p><a href="https://www.warhammer-community.com/en-gb/articles/azlyvdkm/the-old-world-matched-play-guide-new-ways-to-play-in-the-world-of-legend/">Leer noticia original ➜</a></p>]]></content><author><name></name></author><category term="noticias" /><summary type="html"><![CDATA[Warhammer: The Old World sigue evolucionando con la llegada de la Guía de Juego Equilibrado, un recurso esencial para los entusiastas de los torneos y eventos. Esta guía ofrece reglas cardinales, consejos sobre la organización de eventos y composiciones de ejército, así como escenarios de juego equilibrado que desafiarán a los jugadores de maneras innovadoras. Con opciones como Open War, Grand Melee y Combined Arms, y objetivos secundarios y secretos, la guía promete enriquecer la experiencia de juego. Disponible pronto en formato físico y digital, es una herramienta imprescindible para cualquier general del Viejo Mundo.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://assets.warhammer-community.com/tow_mpguide-june02-image2_wide-royaisi4nd.jpg" /><media:content medium="image" url="https://assets.warhammer-community.com/tow_mpguide-june02-image2_wide-royaisi4nd.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+</div>]]></content><author><name></name></author><category term="torneos" /><category term="prox_torneos" /><summary type="html"><![CDATA[Junio se llena de **torneos de peana cuadrada** en todas sus versiones. Once convocatorias por toda España en los dos fines de semana que quedan del mes. Y, aunque predomina **The Old World**, no faltan eventos para los clásicos de **Sexta Edición** o para **Reforged**, que estrena la 4.ª edición en El Orco Rojo de Valladolid. Partidas intensas, mesas cuidadas y opciones para todos los estilos. Revisa el calendario y no te quedes sin plaza.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.elheraldodelviejomundo.com/assets/images/miniatura_torneos.png" /><media:content medium="image" url="https://www.elheraldodelviejomundo.com/assets/images/miniatura_torneos.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
