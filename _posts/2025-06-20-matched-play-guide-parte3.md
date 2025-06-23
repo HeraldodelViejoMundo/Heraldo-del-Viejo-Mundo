@@ -126,7 +126,7 @@ Cuando el final de partida se rige por Break Point, el ejército que reduzca al 
 **VP adicionales:** +100 VP al controlador de la colina al final de cada turno.
 **Secundarios:** Carros de Suministros y/o Rasgos Especiales.
 
-[Mapa de despliegue de los Escenarios 1-2](/assets/img/2025-06/Escenarios12.png)
+![Escenarios 5y6](/assets/img/2025-06/Escenarios12.png "escenarios 1 y 2")
 
 ### 3. **Líneas de Batalla Trazadas** *(Drawn Battlelines)*
 
@@ -144,7 +144,7 @@ Cuando el final de partida se rige por Break Point, el ejército que reduzca al 
 **Secundarios obligatorios:** Localizaciones Estratégicas (2); opcional Dominación.
 **Consejo:** la falta de espacio penaliza bloques grandes y premia cargas frontales contundentes.
 
-[Mapa de despliegue de los Escenarios 3-4](/assets/img/2025-06/Escenarios34.png)
+![Escenarios 3y4](/assets/img/2025-06/Escenarios56.png "escenarios 3 y 4")
 
 ### 5. **Encuentro Casual** *(A Chance Encounter)*
 
@@ -162,7 +162,7 @@ Cuando el final de partida se rige por Break Point, el ejército que reduzca al 
 **Secundarios obligatorios:** Localizaciones Estratégicas (4); opcionales Carros de Suministros y/o Rasgos Especiales.
 **VP y estrategia:** el atacante busca colapsar los flancos; el defensor debe aguantar objetivos y puntuar.
 
-[Mapa de despliegue de los Escenarios 5-6](/assets/img/2025-06/Escenarios56.png)
+![Escenarios 5y6](/assets/img/2025-06/Escenarios56.png "escenarios 5 y 6")
 
 
 
