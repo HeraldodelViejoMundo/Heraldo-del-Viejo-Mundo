@@ -17,28 +17,28 @@ excerpt: 'Hoy exploraremos los formatos de juego colectivo de la nueva *Guía de
 La recta final de la *Guía de Juego Equilibrado* abre la puerta al juego colectivo con dos formatos emblemáticos: **Juego por Parejas** y **Torneos por Equipos**. Este artículo recorre su entramado —composición de ejércitos, alianzas, escenarios, sistema de puntuación y desempates— y aclara los matices que a menudo intimidan a quienes aún no se han aventurado en grupo. Al hilo de las reglas oficiales se descubre cómo la estrategia compartida se teje con la misma naturalidad que cualquier partida amistosa, disipando el aura de complejidad que a veces rodea a los torneos por equipos.
 
 
-# Juego por Parejas (Doubles Events)
+# *Juego por Parejas (Doubles Events)*
 
 Pocas experiencias resultan tan gratificantes como compartir tablero, táctica y emoción con un buen compañero de armas. Los eventos a dos permiten fusionar colecciones, combinar estilos y aprender codo con codo a exprimir cada turno. A continuación condensamos las reglas oficiales, ejemplos y matices —reduciendo la verborrea sin sacrificar información— para que puedas lanzarte a tu primer torneo de dobles con seguridad y entusiasmo.
 
-## Composición de Ejército
+## *Composición de Ejército*
 - Cada pareja presenta **dos listas**: Principal y Secundaria, controladas por jugadores distintos.  
 - Ambas comparten el mismo límite de puntos y ninguna puede superar la mitad del total.  
 - Los puntos sin gastar **no se transfieren**; cada lista debe cumplir de forma independiente todas las restricciones habituales de matched play.  
 - Los personajes con nombre siguen siendo únicos dentro del dúo.
 
-## Alianzas
+## *Alianzas*
 Tu compañero actúa como contingente aliado. Lo normal es que seáis **Aliados de Confianza**, aunque ciertas combinaciones se clasifican como **Inciertas** o **Suspiciosas** y añaden limitaciones a despliegue o magia. Elegir facciones compatibles evita esas fricciones.
 
-## Escenarios
+## *Escenarios*
 La guía propone **tres escenarios específicos** para dobles. Si el evento se alarga, el organizador puede repetir uno cambiando los objetivos secundarios o recurrir a cualquier escenario estándar de matched play.
 
-## Consideraciones de Reglas
+## *Consideraciones de Reglas*
 
-### Break Point
+### *Break Point*
 El *Punto de Ruptura* se calcula sobre la **Fuerza de Unidad combinada** de ambos ejércitos.
 
-### The King Is Dead
+### *The King Is Dead*
 - Abatir al **General** de la fuerza Principal enemiga: **+100 VP**.  
 - Abatir al General de la Secundaria: **+50 VP**.
 
