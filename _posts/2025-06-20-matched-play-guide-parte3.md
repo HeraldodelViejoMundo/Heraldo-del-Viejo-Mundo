@@ -5,7 +5,7 @@ date: 2025-06-23 04:00:00 +0200
 source_date: '2025-06-23'
 categories: ['articulo']
 image: /assets/img/2025-06/parte3.png
-excerpt: 'En esta tercera entrega diseccionamos los seis escenarios de torneo y el sistema completo de objetivos secundarios que trae la inminente Guía de Juego Equilibrado de The Old World. Mapas, despliegues y bonificaciones que pueden cambiar el rumbo de la partida. Anticípate a la publicación oficial y llega a tu próximo torneo con la estrategia afinada.'
+excerpt: 'En esta **tercera** entrega diseccionamos los seis **escenarios de torneo** y el sistema completo de **objetivos secundarios** que trae la inminente Guía de Juego Equilibrado de The Old World. Mapas, despliegues y bonificaciones que pueden cambiar el rumbo de la partida.'
 ---
 
 *Publicado originalmente el 23‑jun‑2025.*
@@ -165,4 +165,19 @@ Cuando el final de partida se rige por Break Point, el ejército que reduzca al 
 ![Escenarios 5y6](/assets/img/2025-06/Escenarios56.png "escenarios 5 y 6")
 
 
+# Conclusiones
 
+Los **seis Escenarios de Juego Equilibrado** y el sistema de **objetivos secundarios** analizados 
+en esta Parte 3 para The Old World constituyen el auténtico eje táctico de la *Guía de Juego Equilibrado*. Al cruzar **cuatro
+ objetivos secundarios** con **seis despliegues**, obtenemos **24 configuraciones** posibles; si añadimos 
+las **misiones secretas**, la rejugabilidad se dispara. Esta variedad obliga a confeccionar listas 
+**más dinámicas y centradas en tropas *core* de Potencia 10+**, porque muchos PV se capturan *al final de tu turno*. 
+Permanecer inmóvil ya no es viable y se favorece el juego de **ejércitos móviles** y de choque rápido.
+
+Para los organizadores esta parte resulta fundamental: la guía sugiere qué secundarios y despliegues acompañan mejor cada escenario, 
+de modo que montar un torneo equilibrado reulta mucho más sencillo que tratar de improvisar o ceñirse a unos pocos escenarios como pasaba hasta ahora. Estos mapas llegarán a las mesas sobre 
+un terreno de juego más homogéneo que en la temporada pasada. Con tableros que premian la iniciativa y objetivos que penalizan 
+la pasividad, la escena competitiva gana frescura continua… y los jugadores un motivo real para pintar esas unidades básicas 
+que antes languidecían en la vitrina.
+
+Continuaremos en unos días con la **cuarta parte** de esta guía centrándonos en el **juego por parejas** y **torneos por equipos**.
