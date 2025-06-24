@@ -5,7 +5,7 @@ date: 2025-06-20 21:45:00 +0200
 source_date: '2025-06-20'
 categories: ['articulo']
 image: /assets/img/2025-06/matched_play_guide.png
-excerpt: 'El **Heraldo del Viejo Mundo** empieza hoy una serie de artículos en la que traduciremos y comentaremos la **Matched Play Guide en español** (Guía de Juego Equilibrado) que Games Workshop lanzará en los próximos meses. Comenzamos con una visión general de la guía y nos centraremos en los primeros capítulos: "Valor ante el deshonor" y "Organización de un evento". En los próximos días habrá nuevas entregas.'
+excerpt: 'El **Heraldo del Viejo Mundo** empieza hoy una serie de artículos en la que traduciremos y comentaremos la **Matched Play Guide** en **español** (Guía de Juego Equilibrado) que Games Workshop lanzará en los próximos meses. Comenzamos con una visión general de la guía y nos centraremos en los primeros capítulos: **Valor ante el deshonor** y **Organización de un evento**. En los próximos días habrá nuevas entregas.'
 
 ---
 
@@ -88,7 +88,7 @@ En el capítulo de emparejamientos se prescribe el **sistema suizo estricto** a 
 
 Para sostener el ritmo, se alienta a los organizadores a colocar relojes visibles o utilizar aplicaciones móviles que avisen de la *«media hora restante»*, minimizando el **slow play**. Cuando una partida termina antes de tiempo, los jugadores deben quedarse en mesa revisando errores y compartiendo impresiones: la guía subraya que el evento es tan social como competitivo.
 
-## Reflexión final
+## Conclusiones
 
 La publicación de esta **Matched Play Guide** marca un hito: por primera vez desde la resurrección de *The Old World* tenemos un **estándar oficial y completo para torneos**, lanzado además en paralelo a un ejército inédito como Grand Cathay. Esto no solo demuestra el compromiso de Games Workshop con el juego —alejándolo del limbo donde quedaron otros sistemas “de especialista”—, sino que ofrece una herramienta común con la que unificar criterios en toda España.
 
@@ -96,4 +96,4 @@ Listas transparentes, escenarios equilibrados, código de conducta y método de 
 
 Quizá la gran conclusión que a menudo pasamos por alto es que la editorial nos está invitando —con reglas, recursos y un lenguaje compartido— a coger las riendas de nuestra comunidad y profesionalizarla. Si lo hacemos, el Viejo Mundo tendrá no solo pasado y presente, sino un futuro en el que todos podremos cabalgar.
 
-**Nos reencontramos en unos días con la segunda entrega**, donde desgranaremos los emparejamientos en un torneo individual, normas para creación de listas y la distribución del campo de batalla. ¡No faltéis!
+**Nos reencontramos en unos días con la segunda entrega**, donde desgranaremos los **Emparejamientos** en un torneo individual, normas para **creación de listas** y la **distribución del campo de batalla**. ¡No faltéis!
