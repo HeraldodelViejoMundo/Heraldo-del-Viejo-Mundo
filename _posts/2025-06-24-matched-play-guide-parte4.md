@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Matched Play Guide Revelado en Español — 3ª Parte
+title: Matched Play Guide Revelado en Español — 4ª Parte
 date: 2025-06-24 02:00:00 +0200
 source_date: '2025-06-24'
 categories: ['articulo']
