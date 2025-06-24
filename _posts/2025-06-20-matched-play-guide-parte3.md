@@ -5,7 +5,7 @@ date: 2025-06-23 04:00:00 +0200
 source_date: '2025-06-23'
 categories: ['articulo']
 image: /assets/img/2025-06/parte3.png
-excerpt: 'En esta **tercera** entrega diseccionamos los seis **escenarios de torneo** y el sistema completo de **objetivos secundarios** que trae la inminente Guía de Juego Equilibrado de The Old World. Mapas, despliegues y bonificaciones que pueden cambiar el rumbo de la partida.'
+excerpt: 'En esta **tercera** entrega diseccionamos los seis **Escenarios de Torneo** y el sistema completo de **Objetivos Secundarios** que trae la inminente Guía de Juego Equilibrado de The Old World. Mapas, despliegues y bonificaciones que pueden cambiar el rumbo de la partida.'
 ---
 
 *Publicado originalmente el 23‑jun‑2025.*
@@ -23,7 +23,7 @@ Conoce cada mapa antes de que llegue a las mesas y transforma la incertidumbre e
 
 # Escenarios de Juego Equilibrado (Matched Play Scenarios)
 
-## *Elección de Escenario* (Choosing Scenario)
+## Elección de Escenario (Choosing Scenario)
 Al comienzo de cada ronda de torneo, el organizador decide —preferiblemente al azar— cuál de los seis escenarios se jugará. Un mismo escenario no debe repetirse hasta que los seis hayan sido utilizados; si el evento dura menos rondas, se aconseja no repetir ninguno. Así se garantiza que todos los participantes afronten desafíos variados a lo largo del evento.
 
 
@@ -33,7 +33,7 @@ Si uno o ambos ejércitos poseen reglas o efectos que se aplican antes de empeza
 
 ### *Despliegue en Juego Equilibrado (Deployment In Matched Play)*
 
-#### Despliegue Alterno** (Alternating Units)
+#### Despliegue Alterno (Alternating Units)
 
 Todos los escenarios usan el método de despliegue alterno, salvo que la propia hoja de escenario indique lo contrario. Los jugadores se turnan para colocar una unidad cada vez, siempre por completo dentro de su zona de despliegue.
 **Máquinas de guerra:** se despliegan todas a la vez, aunque cada una puede ocupar una posición distinta dentro de la zona.
@@ -44,7 +44,7 @@ Todos los escenarios usan el método de despliegue alterno, salvo que la propia 
 
 Una vez finalizado el despliegue, ambos jugadores tiran un dado; quien terminó de desplegar antes —incluyendo unidades que usaron Exploradores— suma +1 a su resultado. El ganador decide si juega el primer turno o cede la iniciativa a su adversario.
 
-## **Duración de la Partida** *(Game Length)*
+## Duración de la Partida (Game Length)
 
 Una partida de Juego Equilibrado puede terminar por límite fijo de turnos, duración aleatoria o punto de ruptura. El organizador anuncia qué condición se aplica al revelar el escenario; si no lo indica, se asume el límite fijo.
 
