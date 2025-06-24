@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Matched Play Guide Revelado en Español — 5ª Parte
-date: 2025-06-25 08:00:00 +0200
-source_date: '2025-06-25'
+date: 2025-06-24 02:00:00 +0200
+source_date: '2025-06-24'
 categories: ['articulo']
 image: /assets/img/2025-06/parte5.png
 excerpt: 'Concluimos la **Guía de Juego Competitivo** de **The Old World** con un artículo que lleva tus torneos al siguiente nivel: descubre cómo organizar *Eventos de Escalada*, en los que los ejércitos crecen ronda a ronda. Y añade la emoción de los **Objetivos Secretos** —*12 misiones sorpresa* con recompensas en *Puntos de Victoria* que pondrán a prueba la versatilidad y la táctica de cada comandante.'
@@ -132,3 +132,11 @@ Con estas reglas, los Objetivos Secretos añaden una capa táctica impredecible 
 </td>
 </tr>
 </table>
+
+# Conclusiones generales sobre la Matched Play Guide de The Old World:
+
+La **Matched Play Guide** confirma que Games Workshop ha escuchado las inquietudes competitivas de la comunidad: **objetivos secundarios**, **misiones secretas** y **seis despliegues nuevos** se entrelazan para generar docenas de combinaciones sin sacrificar agilidad. El énfasis en puntuar *al final de tu turno* y en unidades básicas de **Potencia 10+** anima a abandonar las líneas estáticas y a maniobrar con audacia; al mismo tiempo, los límites de **500 p. por mini-unidad** y el **50 % de PV** por dejar a un enemigo maltrecho afinan conflictos que antes se decidían por mera demolición. Además, al recomendar que los torneos fusionen las restricciones de **Grand Melee + Combined Arms**, la guía sienta por fin un **marco común** para la mayoría de eventos, un paso decisivo que unificará criterios y reducirá discusiones de previa.
+
+No todo es perfecto. La **penalización de 50 PV por portaestandarte abatido** desincentiva un icono del trasfondo, las reglas de escenografía resultan poco prácticas para torneos y el tope del **50 % en personajes** seguirá alimentando alguna lista “dragón + séquito”. Con todo, estos lunares no empañan el balance global: el libro ofrece a los organizadores un **kit casi cerrado** —restricciones claras, plantillas de escenario y secundarios sugeridos— que ahorra preparación y revitaliza el metajuego al alinear a todos bajo el mismo reglamento competitivo.
+
+El reto ahora es pasar del papel a la mesa. A los jugadores casuales les basta reunir a un par de amigos, imprimir las misiones secretas y probar las nuevas combinaciones para apreciar su valor táctico; a los árbitros, elegir **cuatro despliegues** y **dos tipos de secundarios** ya les asegura un evento fresco y coherente con el estándar **Grand Melee + Combined Arms**. Si la comunidad adopta estas herramientas, **2025** podría recordarse como el año en que *The Old World* halló por fin un formato competitivo **rico, unificado y divertido**.
