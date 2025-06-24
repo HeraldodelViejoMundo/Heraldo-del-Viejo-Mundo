@@ -119,12 +119,7 @@ Restricciones: nunca a menos de **12″ del centro** ni a **3″ de otra pieza**
 
 ## Conclusiones
 
-La **Guía de Juego Equilibrado** ofrece un **marco común** que podemos citar sin reinventar las bases de cada evento. A la vez, sus paquetes independientes —*Open War*, **Grand Melee**, **Combined Arms**— son lo bastante permeables para que cada organizador cree la **mezcla** que mejor se adapte a su comunidad.
+La **Parte 2** sienta una base competitiva clara: al combinar **Grand Melee** y **Combined Arms**, la mayoría de torneos obtendrán listas variadas y control de personajes sin ahogar la creatividad, todo con un sistema suizo y una guía de terreno que fijan un estándar reproducible en cualquier mesa.
 
-Esa flexibilidad tiene un precio: algunos formatos, por sí solos, resultan **poco restrictivos** para la escena competitiva española. Preveo que la mayoría de torneos adopten un enfoque **híbrido**: límites de **Grand Melee** (25 % y magia controlada) más cupos de **Combined Arms**. Así se mantienen los topes “de toda la vida” sin ahogar las listas imaginativas.
+Persisten dos sombras —el tope del **50 % en personajes** y los **50 PV por portaestandarte abatido**—, pero el saldo es netamente positivo: composición coherente, emparejamientos transparentes y mesas equilibradas que invitan a centrarse en la batalla, no en la letra pequeña.
 
-En el caso de un **circuito** regional o nacional, esta amplitud exige —igual que antes— que los organizadores **negocien y armonicen** puntos, restricciones y número de rondas. La diferencia es que ahora disponen de un documento oficial como punto de partida: ya no se trata de inventar reglas caseras, sino de acordar **qué capítulo** activar.
-
-> **Idea adicional:** la comunidad podría consensuar una “plantilla estándar” —por ejemplo, «2 000 ptos., Grand Melee + Combined Arms, seis piezas de terreno»— y revisarla cada temporada a la luz de resultados y encuestas. Así la guía se convierte en una herramienta **viva**, capaz de evolucionar con el metajuego.
-
-Y esto es todo por ahora. En unos días publicaremos la **tercera parte** de la serie, dedicada a los **Escenarios y Objetivos Secundarios**, donde veremos tanto planteamiendo de batalla como misiones específicas que buscan premiar estilos distintos y enriquecer las partidas.
