@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Matched Play Guide Revelado en Español — 5ª Parte
-date: 2025-06-24 02:00:00 +0200
-source_date: '2025-06-24'
+date: 2025-06-25 08:00:00 +0200
+source_date: '2025-06-25'
 categories: ['articulo']
 image: /assets/img/2025-06/parte5.png
 excerpt: 'Concluimos la **Guía de Juego Competitivo** de **The Old World** con un artículo que lleva tus torneos al siguiente nivel: descubre cómo organizar *Eventos de Escalada*, en los que los ejércitos crecen ronda a ronda. Y añade la emoción de los **Objetivos Secretos** —*12 misiones sorpresa* con recompensas en *Puntos de Victoria* que pondrán a prueba la versatilidad y la táctica de cada comandante.'
