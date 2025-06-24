@@ -119,7 +119,10 @@ Restricciones: nunca a menos de **12″ del centro** ni a **3″ de otra pieza**
 
 ## Conclusiones
 
-La **Parte 2** sienta una base competitiva clara: al combinar **Grand Melee** y **Combined Arms**, la mayoría de torneos obtendrán listas variadas y control de personajes sin ahogar la creatividad, todo con un sistema suizo y una guía de terreno que fijan un estándar reproducible en cualquier mesa.
+En conjunto, los capítulos que hemos diseccionado en esta Parte 2 ofrecen a la comunidad algunas de las herramientas más demandadas para afianzar un marco competitivo común. El tridente de restricciones —Grand Melee, Combined Arms y, en menor medida, Open War— permite graduar la dureza de un evento sin recurrir a reglas caseras.  De hecho, todo apunta a que la mayoría de *torneos* optarán por *combinar Gran Melee y Armas Combinadas*, logrando *listas variadas* y control de personajes sin sofocar la *creatividad*. 
 
-Persisten dos sombras —el tope del **50 % en personajes** y los **50 PV por portaestandarte abatido**—, pero el saldo es netamente positivo: composición coherente, emparejamientos transparentes y mesas equilibradas que invitan a centrarse en la batalla, no en la letra pequeña.
+A ello se suma un sistema de *emparejamientos suizo claro* y una *guía de colocación de terreno* que fija por fin un *estándar de “mesa justa”* que cualquier organizador de torneos puede reproducir.
 
+Quedan, eso sí, dos sombras que la guía no termina de disipar: mantener la posibilidad de emplear hasta el 50 % de los puntos en personajes, que resta demasiada importancia a la tropa, y la penalización por portaestandarte abatido que desalienta un elemento icónico. Con todo, el saldo es positivo: unas bases de composición coherentes, emparejamientos transparentes y mesas equilibradas son el primer paso para que ligas locales y grandes eventos hablen el mismo idioma y, sobre todo, para que cada partida empiece con la sensación de que el verdadero reto será en el tablero, no en la hoja de reglas.
+
+En un par de días publicaremos la *tercera parte* de esta serie de artículos sobre *Nuevos Escenarios y Objetivos Secundarios* 
