@@ -1,4 +1,202 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://www.elheraldodelviejomundo.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.elheraldodelviejomundo.com/" rel="alternate" type="text/html" /><updated>2025-06-23T03:00:59+00:00</updated><id>https://www.elheraldodelviejomundo.com/feed.xml</id><title type="html">https://El Heraldo del Viejo Mundo</title><subtitle>Noticias, rumores y estrategia de Warhammer: The Old World en español.</subtitle><entry><title type="html">Matched Play Guide Revelado en Español — 3ª Parte</title><link href="https://www.elheraldodelviejomundo.com/articulo/2025/06/23/matched-play-guide-parte3.html" rel="alternate" type="text/html" title="Matched Play Guide Revelado en Español — 3ª Parte" /><published>2025-06-23T02:00:00+00:00</published><updated>2025-06-23T02:00:00+00:00</updated><id>https://www.elheraldodelviejomundo.com/articulo/2025/06/23/matched-play-guide-parte3</id><content type="html" xml:base="https://www.elheraldodelviejomundo.com/articulo/2025/06/23/matched-play-guide-parte3.html"><![CDATA[<p><em>Publicado originalmente el 23‑jun‑2025.</em></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://www.elheraldodelviejomundo.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.elheraldodelviejomundo.com/" rel="alternate" type="text/html" /><updated>2025-06-24T01:40:35+00:00</updated><id>https://www.elheraldodelviejomundo.com/feed.xml</id><title type="html">https://El Heraldo del Viejo Mundo</title><subtitle>Noticias, rumores y estrategia de Warhammer: The Old World en español.</subtitle><entry><title type="html">Matched Play Guide Revelado en Español — 3ª Parte</title><link href="https://www.elheraldodelviejomundo.com/articulo/2025/06/24/matched-play-guide-parte4.html" rel="alternate" type="text/html" title="Matched Play Guide Revelado en Español — 3ª Parte" /><published>2025-06-24T00:00:00+00:00</published><updated>2025-06-24T00:00:00+00:00</updated><id>https://www.elheraldodelviejomundo.com/articulo/2025/06/24/matched-play-guide-parte4</id><content type="html" xml:base="https://www.elheraldodelviejomundo.com/articulo/2025/06/24/matched-play-guide-parte4.html"><![CDATA[<p><em>Publicado originalmente el 24‑jun‑2025.</em></p>
+
+<h1 id="matched-play-guide-revelado-en-español--4ª-parte">Matched Play Guide Revelado en Español — 4ª Parte</h1>
+
+<h2 id="introducción">Introducción</h2>
+
+<p>La recta final de la <em>Guía de Juego Equilibrado</em> abre la puerta al juego colectivo con dos formatos emblemáticos: <strong>Juego por Parejas</strong> y <strong>Torneos por Equipos</strong>. Este artículo recorre su entramado —composición de ejércitos, alianzas, escenarios, sistema de puntuación y desempates— y aclara los matices que a menudo intimidan a quienes aún no se han aventurado en grupo. Al hilo de las reglas oficiales se descubre cómo la estrategia compartida se teje con la misma naturalidad que cualquier partida amistosa, disipando el aura de complejidad que a veces rodea a los torneos por equipos.</p>
+
+<h1 id="juego-por-parejas-doubles-events">Juego por Parejas (Doubles Events)</h1>
+
+<p>Pocas experiencias resultan tan gratificantes como compartir tablero, táctica y emoción con un buen compañero de armas. Los eventos a dos permiten fusionar colecciones, combinar estilos y aprender codo con codo a exprimir cada turno. A continuación condensamos las reglas oficiales, ejemplos y matices —reduciendo la verborrea sin sacrificar información— para que puedas lanzarte a tu primer torneo de dobles con seguridad y entusiasmo.</p>
+
+<h2 id="composición-de-ejército">Composición de Ejército</h2>
+<ul>
+  <li>Cada pareja presenta <strong>dos listas</strong>: Principal y Secundaria, controladas por jugadores distintos.</li>
+  <li>Ambas comparten el mismo límite de puntos y ninguna puede superar la mitad del total.</li>
+  <li>Los puntos sin gastar <strong>no se transfieren</strong>; cada lista debe cumplir de forma independiente todas las restricciones habituales de matched play.</li>
+  <li>Los personajes con nombre siguen siendo únicos dentro del dúo.</li>
+</ul>
+
+<h2 id="alianzas">Alianzas</h2>
+<p>Tu compañero actúa como contingente aliado. Lo normal es que seáis <strong>Aliados de Confianza</strong>, aunque ciertas combinaciones se clasifican como <strong>Inciertas</strong> o <strong>Suspiciosas</strong> y añaden limitaciones a despliegue o magia. Elegir facciones compatibles evita esas fricciones.</p>
+
+<h2 id="escenarios">Escenarios</h2>
+<p>La guía propone <strong>tres escenarios específicos</strong> para dobles. Si el evento se alarga, el organizador puede repetir uno cambiando los objetivos secundarios o recurrir a cualquier escenario estándar de matched play.</p>
+
+<h2 id="consideraciones-de-reglas">Consideraciones de Reglas</h2>
+
+<h3 id="break-point">Break Point</h3>
+<p>El <em>Punto de Ruptura</em> se calcula sobre la <strong>Fuerza de Unidad combinada</strong> de ambos ejércitos.</p>
+
+<h3 id="the-king-is-dead">The King Is Dead</h3>
+<ul>
+  <li>Abatir al <strong>General</strong> de la fuerza Principal enemiga: <strong>+100 VP</strong>.</li>
+  <li>Abatir al General de la Secundaria: <strong>+50 VP</strong>.</li>
+</ul>
+
+<h3 id="trophies-of-war">Trophies of War</h3>
+<ul>
+  <li>Cada estandarte capturado: <strong>+50 VP</strong>.</li>
+  <li>Si pertenecía al Portaestandarte de Batalla, se añaden <strong>+50 VP</strong> (o <strong>+25 VP</strong> si era de la Secundaria).</li>
+</ul>
+
+<p>Estos bonus se suman a los VP normales por unidades destruidas.</p>
+
+<h2 id="escenario-por-parejas-3--la-vieja-atalaya">Escenario por Parejas 3 — La Vieja Atalaya</h2>
+
+<h3 id="trasfondo">Trasfondo</h3>
+<p>Un torreón olvidado domina la llanura; quien lo controle asegura la mejor línea de visión.</p>
+
+<h3 id="preparación">Preparación</h3>
+<p>Coloca la <strong>Atalaya</strong> en el centro. El terreno restante se dispone siguiendo las reglas habituales.</p>
+
+<h3 id="despliegue">Despliegue</h3>
+<p>Quien gane la tirada elige zona <em>A</em> o <em>B</em> y coloca la primera unidad; el resto sigue <strong>despliegue alterno</strong>.</p>
+
+<h3 id="duración">Duración</h3>
+<p>Se recomienda <strong>Duración Aleatoria</strong> o <strong>Punto de Ruptura</strong> como condición de fin de partida.</p>
+
+<h3 id="reglas-especiales">Reglas especiales</h3>
+<p>Ninguna: la propia torre hace de imán de batalla.</p>
+
+<h3 id="objetivos-secundarios">Objetivos secundarios</h3>
+<p>Obligatorio: <strong>Rasgos Especiales</strong>.  <br />
+Opcionales: <strong>Trenes de Bagaje</strong> y/o <strong>Localizaciones Estratégicas (4)</strong>.</p>
+
+<hr />
+
+<p>Con estas pautas, el formato por parejas demuestra ser tan accesible como cualquier partida dominical: basta preparar listas compatibles, repasar los bonus comunes y lanzarse a reclamar la vieja atalaya codo con codo.</p>
+
+<hr />
+
+<h1 id="torneos-por-equipos-an-alliance-of-warlords">Torneos por Equipos (An Alliance of Warlords)</h1>
+
+<p>Los eventos por equipos llevan la competición del Viejo Mundo a un territorio claramente cooperativo: en lugar de afrontar en solitario los altibajos de un torneo de Juego Equilibrado, varios amigos suman ejércitos, puntos y entusiasmo para medirse como <strong>un único bloque</strong> frente a sus rivales. Para muchos aficionados, compartir estrategias, anécdotas y celebraciones con sus compañeros convierte este formato en el más memorable de todo el circuito.</p>
+
+<h2 id="torneos-por-equipos-team-events">Torneos por Equipos (Team Events)</h2>
+
+<p>A continuación se detallan las reglas y ajustes necesarios para organizar un torneo de este tipo. Encontrarás:</p>
+<ul>
+  <li>consideraciones especiales que sustituyen, añaden o matizan los capítulos pensados para jugadores individuales;</li>
+  <li>directrices para redactar las <em>listas de ejército</em> de cada miembro;</li>
+  <li>el sistema con el que se calcularán los Puntos de Torneo (TP) y, llegados los desempates, las diferencias de Puntos de Victoria (VP).</li>
+</ul>
+
+<p>En materia de campo de batalla no hay cambios: se emplean los <strong>escenarios estándar de Juego Equilibrado</strong>, determinados del mismo modo que en cualquier evento individual; todos los integrantes de un equipo disputan la <strong>misma misión</strong> en cada ronda, reforzando la sensación de objetivo común y favoreciendo la coordinación táctica.</p>
+
+<h2 id="reúne-a-tus-aliados-gather-your-allies">Reúne a tus Aliados (Gather Your Allies)</h2>
+
+<p>Las crónicas del Viejo Mundo abundan en coaliciones selladas frente a peligros imposibles. Seguir su ejemplo es tan sencillo como reclutar un grupo de compañeros afines —sean campeones de la luz o siervos de la ruina— y comprometerse a luchar bajo el mismo estandarte. La amistad y la lealtad cimentan el éxito de cualquier conjunto de generales.</p>
+
+<h3 id="tamaño-del-equipo">Tamaño del Equipo</h3>
+
+<p>El organizador fija cuántos jugadores formarán cada equipo y lo comunica al anunciar el evento. Cualquier tamaño es legítimo: algunos torneos funcionan con <strong>tres</strong> plazas por bando, otros reservan mesas para <strong>ocho o nueve</strong>. No obstante, la experiencia demuestra que <strong>cuatro jugadores</strong> ofrecen el equilibrio óptimo entre variedad táctica y agilidad horaria. Quien adopte una cifra distinta solo necesitará adaptar —sin complicaciones— los valores y ejemplos que acompañan a estas reglas.</p>
+
+<h3 id="nombrar-un-capitán-de-equipo">Nombrar un Capitán de Equipo</h3>
+
+<p>Una coordinación impecable empieza con la designación de un <strong>capitán</strong>. Esta figura —preferiblemente alguien metódico o con amplia experiencia en Juego Equilibrado— asume tareas clave: recopilar las listas antes del plazo, entregar los resultados al juez al término de cada ronda, aclarar dudas reglamentarias y difundir cualquier aviso de la organización. Su diligencia mantiene el ritmo del torneo y permite que el resto del grupo se concentre en lo importante: desplegar miniaturas y disfrutar de la batalla.</p>
+
+<h2 id="roster-de-equipo-muster-for-war">Roster de Equipo (Muster for War)</h2>
+
+<p>Cada participante necesita una <strong>lista de ejército</strong> con la que jugar durante todo el evento. Las reglas básicas de redacción no cambian, pero competir como parte de un equipo tiene matices que conviene acordar antes de la inscripción.</p>
+
+<h3 id="listas-de-ejército-army-lists">Listas de Ejército (Army Lists)</h3>
+<p>Dentro de un mismo equipo, <strong>cada lista de composición</strong> —ya sea un <em>Grand Army</em> o un <em>Army of Infamy</em>— <strong>solo puede usarse una vez</strong>. Eso obliga a repartir las facciones con cabeza y evitar duplicidades.</p>
+
+<p><em>Ejemplo</em>: Jonathan y Stuart quieren presentar Bestias. Para cumplir la restricción, pactan que Jonathan empleará la lista <em>Minotaur Blood Herd</em> (Army of Infamy), mientras Stuart elige entre <em>Beastmen Brayherds</em> (Grand Army) o <em>Wild Herd</em> (Army of Infamy). Así ambos comparten temática sin calcarlas.</p>
+
+<p><strong>ADVERTENCIA</strong> <em>lo normal</em> en la mayoría de los <em>torneos</em> es que las listas de <em>Army of Infamy</em> se consideren la misma facción que su <em>Grand Army</em>, por lo que no suelen permitirse dentro del mismo equipo dos jugadores de Bretonia aunque uno lleve Grand Army y otro Lista de Exiliados, por ejemplo</p>
+
+<h3 id="personajes-con-nombre-named-characters">Personajes con Nombre (Named Characters)</h3>
+<p>Las leyendas del Viejo Mundo no se clonan: <strong>cada personaje con nombre es único dentro del equipo</strong>. Si dos jugadores lo codician, tendrán que decidir quién lo alinea… o saldarlo a la manera orca.</p>
+
+<p><em>Ejemplo</em>: Dan y Rob quieren a Ogdruz Swampdigga. Retan sus ejércitos, acuerdan que el vencedor usará al chamán y el derrotado modificará su lista. Dan gana el duelo, incluye a Ogdruz y Rob reescribe su lista de ejército.</p>
+
+<hr />
+
+<h2 id="puntuación-y-desempates-scoring--tiebreakers">Puntuación y Desempates (Scoring &amp; Tiebreakers)</h2>
+
+<h3 id="puntuación">Puntuación</h3>
+<p>Cada jugador obtiene <strong>Tournament Points (TP)</strong> conforme a las tablas habituales de Juego Equilibrado. Al finalizar la ronda, se suman los TP de los cuatro miembros: el máximo posible por ronda es <strong>24 TP</strong>.</p>
+
+<p><em>Ejemplo</em>: el equipo de Jonathan logra tres Victorias Aplastantes (6 TP cada una) y un Empate (3 TP), totalizando <strong>21 TP</strong>.</p>
+
+<p>Ronda tras ronda, esos TP se acumulan; en un torneo de cinco rondas podría alcanzarse un tope de <strong>30 TP</strong>. Cada jugador comunica su resultado al <strong>capitán</strong>, que entrega las cuatro actas simultáneamente al anotador. Este registra la puntuación de la ronda y el acumulado del torneo.</p>
+
+<h3 id="ranking">Ranking</h3>
+<p>La clasificación se calcula <strong>por equipos</strong>, nunca por rendimientos individuales: los emparejamientos enfrentan a grupos con puntuaciones similares, reforzando la idea de avanzar (o caer) en bloque.</p>
+
+<h3 id="criterios-de-desempate">Criterios de Desempate</h3>
+<p>Si dos equipos empatan a TP, se aplican, por orden, los siguientes desempates acumulativos:</p>
+
+<ol>
+  <li>
+    <p><strong>Diferencia de Puntos de Victoria (VP)</strong> – VP conseguidos por todos los miembros menos los VP concedidos.  <br />
+<em>Ejemplo</em>: tras la primera ronda el equipo suma 6 725 VP a favor y concede 2 375 VP; diferencia: <strong>4 350</strong>.</p>
+  </li>
+  <li>
+    <p><strong>Total de Puntos de Victoria</strong> – la suma íntegra de VP obtenidos por el equipo.  <br />
+<em>Ejemplo</em>: al cierre de la segunda ronda Connor aporta 2 800 VP, Becky 2 458, Ethan 1 958 y Rob 865: <strong>8 081 VP</strong> acumulados.</p>
+  </li>
+  <li>
+    <p><strong>Generales Enemigos Abatidos</strong> – número total de Generales rivales eliminados en todas las partidas.</p>
+  </li>
+</ol>
+
+<p>Si persiste la igualdad, el organizador puede añadir criterios adicionales a su discreción.</p>
+
+<h2 id="ronda-1">Ronda 1</h2>
+<p>Antes de la primera ronda, empareja a los equipos entre sí de forma aleatoria.  <br />
+Luego, empareja a los jugadores individuales dentro de los equipos ya emparejados utilizando el <strong>sistema de emparejamientos de equipo</strong> descrito más arriba.</p>
+
+<h3 id="rondas-posteriores">Rondas posteriores</h3>
+<p>Después de la primera ronda, empareja a los equipos según su clasificación en el evento, usando el método descrito anteriormente en la página 12.</p>
+
+<p><img src="/assets/img/2025-06/escenarioparejas.png" alt="Escenario por Parejas" /></p>
+
+<h3 id="sistema-de-emparejamientos-de-equipo">Sistema de Emparejamientos de Equipo</h3>
+<p>Una vez que los equipos han sido emparejados, deben decidir quién juega contra quién dentro de cada equipo.  <br />
+Los equipos disponen de <strong>quince minutos</strong> para hacerlo antes de que comience la ronda.  <br />
+Durante este tiempo pueden revisar las <em>listas de ejército</em> del equipo contrario y se les debe indicar claramente qué jugador usa cada lista de ejército.</p>
+
+<p>Sigue los pasos siguientes para determinar los enfrentamientos individuales.  <br />
+En cada paso, ambos equipos eligen a sus jugadores en secreto y revelan sus elecciones simultáneamente.</p>
+
+<p><strong>Paso 1</strong>  <br />
+Ambos equipos eligen a un miembro que será su jugador de <strong>Vanguardia</strong> y lo presentan, revelando sus elecciones.  <br />
+<em>Ejemplo</em>: el Equipo 1 (Jonathan, Connor y Dave) elige en secreto a <strong>Jonathan</strong>. El Equipo 2 (Agata, Dan y Alastair) elige a <strong>Dan</strong>.</p>
+
+<p><strong>Paso 2</strong>  <br />
+Ambos equipos eligen y presentan a dos de sus miembros como jugadores de <strong>Línea de Batalla</strong>.  <br />
+Con tres miembros de cada equipo elegidos, el jugador restante pasa a ser la <strong>Retaguardia</strong>.  <br />
+<em>Ejemplo</em>: el Equipo 1 elige a <strong>Jonathan</strong> y <strong>Dave</strong> como jugadores de Línea de Batalla. El Equipo 2 elige a <strong>Dan</strong> y <strong>Alastair</strong>.</p>
+
+<p><strong>Paso 3</strong>  <br />
+Cada jugador de Vanguardia elige contra qué jugador de Línea de Batalla del equipo contrario desea jugar.  <br />
+Esto establece los dos primeros enfrentamientos.</p>
+
+<p><strong>Paso 4</strong>  <br />
+Por último, el jugador de Retaguardia de cada equipo se enfrenta al jugador de Línea de Batalla restante del equipo contrario.  <br />
+<em>Ejemplo</em>: <strong>Connor</strong>, Retaguardia del Equipo 1, se empareja para jugar contra <strong>Dan</strong>, Línea de Batalla sin rival del Equipo 2. <strong>Agata</strong> se empareja para jugar contra <strong>Jonathan</strong>.</p>
+
+<hr />
+
+<p>Con estas directrices, la fase de preparación resulta tan decisiva como la batalla en mesa: repartir listas únicas, negociar héroes legendarios y registrar meticulosamente los resultados cimenta el triunfo colectivo antes de lanzar el primer dado.</p>
+
+<hr />
+
+<h2 id="conclusiones">Conclusiones</h2>
+
+<p>En el Juego por Equipos, incluso en el juego por parejas, se nos descubre una nueva dimensión bonita y enriquecedora que va mucho más allá de la simple confección de la lista y del desarrollo táctico de la batalla. Se comparten muchos momentos con amigos antes, durante y después del torneo, convirtiendo éste en una experiencia única y un recuerdo imborrable.</p>
+
+<p>Decidir el roster puede implicar la renuncia -con madurez y camaradería- a nuestra facción favorita por el bien del equipo. Sea porque otro jugador más experimentado puede hacer mejor papel, porque un compañero no tiene otra opción viable, o por una necesidad estratégica, podemos encontrarnos jugando con una lista o estrategia que nunca nos hubiéramos planteado en un torneo individual. Quizás nos ha tocado el coco y nuestra misión es sólo rascar los puntos que podamos, o quizás nos ha tocado hacer de espada y debemos lanzarnos a por la victoria aplastante. Aquí se piensa en el equipo y no tanto en nuestro resultado individual.</p>
+
+<p>Luego, durante el torneo, los consejos de última hora, el apoyo de los compañeros y la alegría por las vitorias de los amigos, y multitud de momentos vividos juntos, compensan cualquier mal sabor por una derrota propia o una partida desacertada.</p>
+
+<p>Y después del torneo… se recordará durante meses aquella carga fallida que nos dejó fuera, aquel “despiste sospechoso” del rival que casi cambia la partida y todas esas circunstancias que hacen de este hobby un mundo tan bonito como divertido.</p>
+
+<p>En un par de días volveremos con la quita y última sección de la serie, que espero que os esté resultando útil y entretenida. Mientras tanto, ¡pintad insensatos!</p>]]></content><author><name></name></author><category term="articulo" /><summary type="html"><![CDATA[Hoy exploraremos los formatos de juego colectivo de la nueva *Guía de Juego Equilibrado* de *The Old World*: **Juego por Parejas** y **Torneos por Equipos**. Aprende a compartir puntos, coordinar listas y dominar los emparejamientos. Alíate con tu compañero de aventuras o lidera a tu escuadrón de Generales —desmitifica los torneos, que no dejan de ser jornadas de risas y minis bonitas sin mayor pretensión.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.elheraldodelviejomundo.com/assets/img/2025-06/parte4.png" /><media:content medium="image" url="https://www.elheraldodelviejomundo.com/assets/img/2025-06/parte4.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Matched Play Guide Revelado en Español — 3ª Parte</title><link href="https://www.elheraldodelviejomundo.com/articulo/2025/06/23/matched-play-guide-parte3.html" rel="alternate" type="text/html" title="Matched Play Guide Revelado en Español — 3ª Parte" /><published>2025-06-23T02:00:00+00:00</published><updated>2025-06-23T02:00:00+00:00</updated><id>https://www.elheraldodelviejomundo.com/articulo/2025/06/23/matched-play-guide-parte3</id><content type="html" xml:base="https://www.elheraldodelviejomundo.com/articulo/2025/06/23/matched-play-guide-parte3.html"><![CDATA[<p><em>Publicado originalmente el 23‑jun‑2025.</em></p>
 
 <h1 id="matched-play-guide-revelado-en-español--3ª-parte">Matched Play Guide Revelado en Español — 3ª Parte</h1>
 
@@ -877,177 +1075,4 @@ Queda claro: si quieres jugar, ahora es el momento de reservar plaza… o te que
 <div style="margin-top:3em;padding:1em;background:#fef8e6;border:1px solid #eadbbd;border-radius:8px;">
 <strong>Conclusiones:</strong> La incorporación de Grand Cathay al universo de Warhammer: The Old World no solo añade una nueva faceta cultural al juego, sino que también representa un cambio estratégico significativo para los jugadores competitivos. Con las nuevas unidades como los Jade Warriors y Grand Cannons, los jugadores de Cathay podrán implementar tácticas defensivas robustas, aprovechando su resistencia y potencia de fuego. Esto podría desplazar el meta hacia un enfoque más estratégico y menos agresivo, favoreciendo a aquellos que priorizan el control del campo de batalla. Además, los coleccionistas estarán atentos a las miniaturas de Cathay, que ya están al 15% en El Arca Negra, anticipando su potencial como piezas de colección valiosas y visualmente impactantes.
 </div>
-<p><a href="https://www.warhammer-community.com/en-gb/articles/1ovkvf4r/old-world-almanack-building-the-celestial-empire-of-grand-cathay/">Leer noticia original ➜</a></p>]]></content><author><name></name></author><category term="noticias" /><summary type="html"><![CDATA[Durante años, Gran Cathay ha sido un enigma en el trasfondo de The Old World, pero eso está a punto de cambiar. Con la llegada de los primeros Guerreros de Jade y Lanceros de Jade a Marienburgo, el misterioso imperio oriental se revela en toda su gloria. En una serie de entrevistas exclusivas, el equipo original detrás de Gran Cathay comparte cómo dieron vida a esta fascinante facción, desde los primeros conceptos hasta su integración en el universo de Warhammer. Descubre cómo se inspiraron en las dinastías chinas y cómo lograron mantener la autenticidad cultural mientras añadían el característico toque de Warhammer. ¡No te pierdas esta oportunidad de explorar el rico y detallado mundo de Gran Cathay!]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://assets.warhammer-community.com/tow_cathayconcepts-jun10-image1_wide-yu8s279ysm.jpg" /><media:content medium="image" url="https://assets.warhammer-community.com/tow_cathayconcepts-jun10-image1_wide-yu8s279ysm.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Agenda de torneos (actualizada 10 / VI / 2025)</title><link href="https://www.elheraldodelviejomundo.com/torneos/2025/06/09/torneos.html" rel="alternate" type="text/html" title="Agenda de torneos (actualizada 10 / VI / 2025)" /><published>2025-06-09T14:45:00+00:00</published><updated>2025-06-09T14:45:00+00:00</updated><id>https://www.elheraldodelviejomundo.com/torneos/2025/06/09/torneos</id><content type="html" xml:base="https://www.elheraldodelviejomundo.com/torneos/2025/06/09/torneos.html"><![CDATA[<h2 id="agenda-de-torneos-actualizada-10vi2025">Agenda de torneos (actualizada 10 / VI / 2025)</h2>
-<hr />
-
-<p><strong>Sábado 14 de junio – V Torneo Battle Bunker (Vitoria-Gasteiz)</strong></p>
-<p style="margin:0.05em 0 0.2em; color:#6828a8; font-weight:bold; font-size:1.2em;">
-  Warhammer Fantasy 6.ª + MdN – 2 000 ptos
-</p>
-<p>El club alavés reúne hasta 50 jugadores, convirtiéndose en el mayor aforo MdNR del norte.<br />
-Tres rondas con arbitraje veterano y control de tiempo estricto; se premian resultado, mejor pintado y deportividad.<br />
-📍 Dónde: Centro Cívico Lakua, Vitoria-Gasteiz<br />
-🎯 Formato: Warhammer Fantasy 6.ª + MdN · 2 000 ptos · 3 rondas<br />
-👥 Plazas: 50<br />
-💰 Inscripción: 22 €<br />
-🔗 <a href="https://torneoswarhammer.com/v-torneo-battle-bunker-warhammer-fantasy-vitoria-2025/">Información y registro</a></p>
-
-<hr />
-
-<p><strong>Sábado 14 de junio – Torneo Saruman Games (Albacete)</strong></p>
-<p style="margin:0.05em 0 0.2em; color:#b30000; font-weight:bold; font-size:1.2em;">
-  Warhammer: The Old World – 2 000 ptos
-</p>
-<p>La tienda manchega se estrena con un formato ágil de dos partidas, perfecto para probar listas recién pintadas.<br />
-Admite Legacy, Arcane Journal y personajes especiales, siempre que las minis no sean copias 3D.<br />
-El 100 % de la inscripción se entrega en vales, creando un ambiente competitivo y motivador.<br />
-📍 Dónde: Saruman Games, Albacete<br />
-🎯 Formato: 2 000 ptos, 2 partidas<br />
-👥 Plazas: 12–16 (quedaban 7)<br />
-💰 Inscripción: 12 €<br />
-📘 Legacy, Arcane Journal, personajes especiales<br />
-🔗 <a href="https://sarumangames.es">Enlace e inscripción</a></p>
-
-<hr />
-
-<p><strong>Sábado 14 de junio – Marca d’Egara (Terrassa)</strong></p>
-<p style="margin:0.05em 0 0.2em; color:#b30000; font-weight:bold; font-size:1.2em;">
-  Warhammer: The Old World – 2 000 ptos
-</p>
-<p>Clásico catalán con tres rondas cronometradas y sorteo final.<br />
-Las listas deben ajustarse a los Manuscritos de Nuth y el nivel de pintura suele ser muy alto.<br />
-📍 Dónde: Marca d’Egara, Terrassa<br />
-🎯 Formato: Warhammer Fantasy 6.ª + MdN · 2 000 ptos · 3 rondas<br />
-👥 Plazas: ~26<br />
-🔗 <a href="https://torneoswarhammer.com/bases-torneo-marca-degara-warhammer-fantasy-mdn-terrassa-junio-2025/">Bases completas</a></p>
-
-<hr />
-
-<p><strong>Domingo 15 de junio – Kingdom Wargames Madrid</strong></p>
-<p style="margin:0.05em 0 0.2em; color:#b30000; font-weight:bold; font-size:1.2em;">
-  Warhammer: The Old World – 2 000 ptos
-</p>
-<p>Tres rondas de 3 h (10:00‑20:30) que atraen a quienes disfrutan partidas tácticas y competitivas. La mezcla de jugadores de alto nivel con nostálgicos del trasfondo y el pincel da lugar a uno de los torneos más importantes del panorama nacional.<br />
-Esta vez no han podido completar el aforo, lo que es poco habitual en un torneo que suele agotar sus 30 en pocos días.<br />
-📍 Dónde: C/ Arroyo de la Elipa 12, Madrid<br />
-🎯 Formato: 2 000 ptos, 3 rondas<br />
-📘 Legacy y Journals permitidos. 1 Hechicero lvl 3-4, Personajes 40% y ningún pj de más de 500 puntos🔗 Bases completas → https://kingdomwargames.com/eventos/old-world-15-junio<br />
-🔗 <a href="www.kingdomwargames.com">Kingdom Wargames</a><br />
-—</p>
-
-<p><strong>Sábado 21 de junio – La Fortaleza Miniaturas (A Coruña)</strong></p>
-<p style="margin:0.05em 0 0.2em; color:#b30000; font-weight:bold; font-size:1.2em;">
-  Warhammer: The Old World – 2 000 ptos
-</p>
-<p>Primer torneo oficial de <em>TOW</em> en Galicia: aforo reducido (~14 plazas) para garantizar comodidad.<br />
-La tienda promete “muchos premios y el mejor ambiente”, con sorteos entre rondas y mesas recién escenografiadas.<br />
-📍 Dónde: Av. da Concordia 4, bajo<br />
-🎯 Formato: 2 000 ptos<br />
-👥 Plazas: ~14<br />
-📘 Premios y ambiente distendido<br />
-🔗 <a href="https://www.instagram.com/lafortalezaminiaturas/">La Fortaleza Miniaturas</a></p>
-
-<hr />
-
-<p><strong>Sábado 21 de junio – II Torneo Mudéjar (Teruel)</strong></p>
-<p style="margin:0.05em 0 0.2em; color:#b30000; font-weight:bold; font-size:1.2em;">
-  Warhammer: The Old World – 2 000 ptos
-</p>
-<p>Se juega en Estudio Solmenorphoto (Ronda Ambeles 16) con un sistema híbrido: 1 Choque de Patrullas y 2 Batallas estándar.<br />
-La inscripción (15 €) va íntegra a premios, fomentando una bolsa atractiva.<br />
-Refleja el crecimiento constante de la escena turolense y la implicación de los clubes locales.<br />
-📍 Dónde: Estudio Solmenorphoto, Ronda Ambeles 16<br />
-🎯 Formato: 2 000 ptos, 3 rondas (1 Patrullas + 2 Batallas)<br />
-💰 Inscripción: 15 € (íntegra a premios)<br />
-🔗 <a href="https://www.instagram.com/baronwargame/">Barón Wargame</a></p>
-
-<hr />
-
-<p><strong>Sábado 21 de junio – “Aliados Inesperados” (El Jabalí Pisador, Torrent)</strong></p>
-<p style="margin:0.05em 0 0.2em; color:#b30000; font-weight:bold; font-size:1.2em;">
-  Warhammer: The Old World – 1 500 ptos
-</p>
-<p>Formato especial temático con reglas estrictas: solo libros base, sin Arcane Journal ni objetos generales; objetos exclusivos, nivel máximo de magia 3, un único comandante.<br />
-Tres partidas en ambiente narrativo para listas temáticas y ejércitos compactos.<br />
-📍 Dónde: C/ Fernando Rodríguez Fornos, 3, 46900 Torrent, Valencia<br />
-🎯 Formato: 1 500 ptos, 3 rondas<br />
-📘 Solo libros base · Sin Arcane Journal · Magia nivel 3 · 1 comandante · Composición limitada<br />
-💰 Inscripción: 20 € / 15 € socios<br />
-🔗 <a href="https://eljabalipisador.com/evento/aliados-inesperados-ii/">El Jabalí Pisador</a></p>
-
-<hr />
-
-<p><strong>Sábado 21 de junio – II Torneo Saint Cugat (Sant Cugat del Vallès)</strong></p>
-<p style="margin:0.05em 0 0.2em; color:#6828a8; font-weight:bold; font-size:1.2em;">
-  Warhammer Fantasy 6.ª + MdN – 2 000 ptos
-</p>
-<p>Segundo asalto en Sant Cugat. Listas de Warhammer Fantasy 6.ª edición + MdN, partidas cronometradas y bonificaciones por pintura.<br />
-Se utiliza el Reglamento Anotado de ¡Cargad! y se reparten vales con toda la recaudación.<br />
-📍 Dónde: Sant Cugat del Vallès<br />
-🎯 Formato: 6.ª edición + MdNR · 2 000 ptos · 3 rondas<br />
-📘 Reglas: ¡Cargad! anotado<br />
-🔗 <a href="https://www.laepic.es/">La Epic</a></p>
-
-<hr />
-
-<p><strong>Domingo 22 de junio – Old World Clash (GTS Madrid Sur)</strong></p>
-<p style="margin:0.05em 0 0.2em; color:#b30000; font-weight:bold; font-size:1.2em;">
-  Warhammer: The Old World – 2 000 ptos
-</p>
-<p>16 plazas y restricción 0‑3 para evitar spam.<br />
-Tras la cancelación de la edición Norte, este evento será la prueba de fuego del formato GTS; inscripción a solo 10 € y rondas rápidas para fomentar la asistencia.<br />
-📍 Dónde: C/ Enrique Fuentes 16, Madrid<br />
-🎯 Formato: 2 000 ptos, 3 rondas<br />
-📘 Restricción 0–3 unidades idénticas<br />
-💰 Inscripción: 10 €<br />
-🔗 <a href="https://www.instagram.com/p/C7Tktm7qbiD/">Bases</a></p>
-
-<hr />
-
-<p><strong>Sábado 28 de junio – Kingdom Wargames Alcorcón</strong></p>
-<p style="margin:0.05em 0 0.2em; color:#b30000; font-weight:bold; font-size:1.2em;">
-  Warhammer: The Old World – 2 000 ptos
-</p>
-<p>Tres rondas en Alcorcón con Legacy y Arcane Journals habilitados; las listas se gestionan vía New Recruit.<br />
-El local está climatizado y suele agotar las ~20 plazas en pocos días. Sorteos de vales y material hobby al final de la jornada.<br />
-📍 Dónde: Alcorcón (Madrid)<br />
-🎯 Formato: 2 000 ptos, 3 rondas de 3 h (10:00–20:30)<br />
-📘 Legacy y Journals permitidos. 1 Hechicero lvl 3-4, Personajes 40% y ningún pj de más de 500 puntos<br />
-👥 Plazas: 20<br />
-💰 Inscripción: 15 €<br />
-🔗 <a href="https://kingdomwargames.com/eventos/old-world-28-junio">Kingdom Wargames</a></p>
-
-<hr />
-
-<p><strong>Fecha por anunciar – Torneo Reforged (El Orco Rojo - Valladolid)</strong></p>
-<p style="margin:0.05em 0 0.2em; color:#6b3e00; font-weight:bold; font-size:1.2em;">
-  Warhammer Reforged – Puntos por definir
-</p>
-<p>Primer evento con la esperada versión 4 del reglamento fan-made Warhammer Reforged.<br />
-El Orco Rojo, la tienda de referencia de Valladolid, premiará resultado, pintura y deportividad; aforo limitado y formato cercano a la comunidad.<br />
-📍 Dónde: Valladolid<br />
-🎯 Formato: Warhammer Reforged v4 · Puntos por definir<br />
-🔗 <a href="https://es-la.facebook.com/whreforged/">Publicación de Facebook</a></p>
-
-<hr />
-
-<p><strong>Sábado 12 de julio – 5.º Torneo Pineda de Wargames (Barcelona)</strong></p>
-<p style="margin:0.05em 0 0.2em; color:#b30000; font-weight:bold; font-size:1.2em;">
-  Warhammer: The Old World – 2 000 ptos
-</p>
-<p>Las 20 plazas se agotaron antes de la fecha de inscripción, lo que demuestra las ganas y necesidad de torneos en la zona, así como el buen hacer de los organizadores, meritorios artífices de esta hazaña. Sin duda, la mejor muestra del crecimiento e implantación que está alcanzo The Old World.<br />
-📍 Dónde: C/ Joan Maragall 17, bajos, Pineda de Mar<br />
-🎯 Formato: 2 000 ptos<br />
-👥 Plazas: 20<br />
-🔗 <a href="https://www.instagram.com/theoldtroll/">The Old Troll</a></p>
-
-<hr />
-
-<h2 id="conclusiones">Conclusiones</h2>
-<div class="conclusiones">
-  <p>El calendario de torneos para junio y julio demuestra que <em>Fantasy</em> no solo está vivo, sino que evoluciona y se expande en todas direcciones. Aunque se ve claramente la supremacía de TOW como edición preferida para la peana cuadrada, no deja de ser bonito cómo otras comunidades se mantienen vivas y fuertes, organizando más torneos de los que muchos podían imaginar. La variedad de formatos, la implicación de tiendas y clubes, y la presencia constante de eventos en todo el país refuerzan una escena que ya no depende solo de nostalgia: se alimenta de comunidad activa, innovación y pasión compartida.</p>
-
-  <p>Desde propuestas relajadas hasta competiciones más estructuradas, la convivencia de lo narrativo, lo táctico y lo social se está convirtiendo en la norma. La participación de marcas, como la omnipresente <a href="https://impriwars.com">ImpriWars</a>, que patrocina buena parte de los torneos, la flexibilidad en el uso de materiales y el esfuerzo por mantener viva la identidad de cada comunidad local confirman una madurez real de la comunidad.</p>
-
-  <p><em>Fantasy está más vivo que nunca</em> —sí— y para los que vaticinaban los peor para TOW, temiendo que la luz que traía sería el fin de su nicho, afortunadamente estaban euqivocados. No sólo TOW se consolida como la opción mayoritaria entre los amantes del Viejo Mundo, sino que las antiguas y entrañables ediciones, muchas veces renovadas, o las versiones fan made como reforged, siguen teniendo su espacio (F por Novena).</p>
-</div>]]></content><author><name></name></author><category term="torneos" /><category term="prox_torneos" /><summary type="html"><![CDATA[Junio se llena de **torneos de peana cuadrada** en todas sus versiones. Once convocatorias por toda España en los dos fines de semana que quedan del mes. Y, aunque predomina **The Old World**, no faltan eventos para los clásicos de **Sexta Edición** o para **Reforged**, que estrena la 4.ª edición en El Orco Rojo de Valladolid. Partidas intensas, mesas cuidadas y opciones para todos los estilos. Revisa el calendario y no te quedes sin plaza.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.elheraldodelviejomundo.com/assets/images/miniatura_torneos.png" /><media:content medium="image" url="https://www.elheraldodelviejomundo.com/assets/images/miniatura_torneos.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+<p><a href="https://www.warhammer-community.com/en-gb/articles/1ovkvf4r/old-world-almanack-building-the-celestial-empire-of-grand-cathay/">Leer noticia original ➜</a></p>]]></content><author><name></name></author><category term="noticias" /><summary type="html"><![CDATA[Durante años, Gran Cathay ha sido un enigma en el trasfondo de The Old World, pero eso está a punto de cambiar. Con la llegada de los primeros Guerreros de Jade y Lanceros de Jade a Marienburgo, el misterioso imperio oriental se revela en toda su gloria. En una serie de entrevistas exclusivas, el equipo original detrás de Gran Cathay comparte cómo dieron vida a esta fascinante facción, desde los primeros conceptos hasta su integración en el universo de Warhammer. Descubre cómo se inspiraron en las dinastías chinas y cómo lograron mantener la autenticidad cultural mientras añadían el característico toque de Warhammer. ¡No te pierdas esta oportunidad de explorar el rico y detallado mundo de Gran Cathay!]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://assets.warhammer-community.com/tow_cathayconcepts-jun10-image1_wide-yu8s279ysm.jpg" /><media:content medium="image" url="https://assets.warhammer-community.com/tow_cathayconcepts-jun10-image1_wide-yu8s279ysm.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
