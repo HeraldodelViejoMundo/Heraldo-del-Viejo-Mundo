@@ -75,9 +75,9 @@ En The Old World la victoria se mide en Puntos de Victoria (VP). Cada ejército 
 Los VP se obtienen destruyendo unidades, capturando estandartes o controlando elementos clave del campo de batalla. Algunos bonos dependen del tipo de final de partida (p. ej. Break Point). El organizador puede añadir objetivos secundarios, pero si no indica lo contrario, estos objetivos comunes bastan para puntuar.
 
 
-## **Objetivos Comunes** *(Common Objectives)*
+## Objetivos Comunes (Common Objectives)
 
-### *Muerto o Huyendo (Dead or Fled)
+### *Muerto o Huyendo (Dead or Fled)*
 100 % del coste de puntos por cada unidad enemiga destruida o que haya abandonado la mesa.
 50 % si la unidad está huyendo al terminar la partida o se ha reducido a 25 % o menos de su Potencia de Unidad (o Heridas, si coincide) —redondeando siempre hacia arriba.
 
