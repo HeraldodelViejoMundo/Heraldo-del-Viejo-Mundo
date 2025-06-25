@@ -1,20 +1,19 @@
 ---
 layout: post
 title: Notas del diseñador – Preguntas frecuentes y erratas del Viejo Mundo
-date: '2025-06-25T00:00:00'
+date: '2025-06-25T15:00:00'
 source_date: '2025-06-25'
 categories: noticias
 original_url: https://www.warhammer-community.com/en-gb/articles/wgp83jlw/old-world-faq-and-errata-designers-notes/
 title_original: Old World FAQ and errata – Designer’s notes
 title_translated: Notas del diseñador – Preguntas frecuentes y erratas del Viejo Mundo
-excerpt: '¡El mundo de Warhammer: The Old World sigue evolucionando! Tras 18 meses
+excerpt: '¡El mundo de *Warhammer: The Old World* sigue evolucionando! Tras 18 meses
   desde su lanzamiento, llega una nueva actualización de preguntas frecuentes y erratas
-  que promete refrescar y equilibrar el juego. Con el lanzamiento del esperado Grand
-  Cathay y la guía de juego equilibrado, los jugadores podrán disfrutar de emocionantes
-  escenarios y objetivos secretos que desafiarán su ingenio y estrategia. Además,
-  se han realizado ajustes significativos en las reglas de magia e infantería, asegurando
-  que cada batalla sea una experiencia épica y competitiva. ¡No te pierdas esta oportunidad
-  de explorar nuevas aventuras en el mundo de leyenda!'
+  que promete refrescar y equilibrar el juego. **La mayor revisión de reglas** hasta la fecha
+  que muchos afirman, atrevidamente pero no sin razón, que es la versión **TOW 1.5** que va a cambiar el meta juego
+  tal como lo conocíamos.
+  Tras el lanzamiento del esperado Grand Cathay y la guía de juego equilibrado, 
+  se han realizado una impresionante revisión de reglas de arriba a abajo.'
 summary: '¡El mundo de Warhammer: The Old World sigue evolucionando! Tras 18 meses
   desde su lanzamiento, llega una nueva actualización de preguntas frecuentes y erratas
   que promete refrescar y equilibrar el juego. Con el lanzamiento del esperado Grand
