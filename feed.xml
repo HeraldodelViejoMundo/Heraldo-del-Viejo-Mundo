@@ -1,4 +1,41 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://www.elheraldodelviejomundo.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.elheraldodelviejomundo.com/" rel="alternate" type="text/html" /><updated>2025-06-25T23:18:57+00:00</updated><id>https://www.elheraldodelviejomundo.com/feed.xml</id><title type="html">https://El Heraldo del Viejo Mundo</title><subtitle>Noticias, rumores y estrategia de Warhammer: The Old World en español.</subtitle><entry><title type="html">Notas del diseñador – Preguntas frecuentes y erratas del Viejo Mundo</title><link href="https://www.elheraldodelviejomundo.com/noticias/2025/06/25/old-world-faq-and-errata-designers-notes.html" rel="alternate" type="text/html" title="Notas del diseñador – Preguntas frecuentes y erratas del Viejo Mundo" /><published>2025-06-25T15:00:00+00:00</published><updated>2025-06-25T15:00:00+00:00</updated><id>https://www.elheraldodelviejomundo.com/noticias/2025/06/25/old-world-faq-and-errata-designers-notes</id><content type="html" xml:base="https://www.elheraldodelviejomundo.com/noticias/2025/06/25/old-world-faq-and-errata-designers-notes.html"><![CDATA[<p>Han pasado dieciocho meses desde el lanzamiento de Warhammer: The Old World, un periodo lleno de evolución y actualizaciones. Este mes, junto con el esperado lanzamiento de Grand Cathay, se presenta la guía de juego equilibrado de Warhammer: The Old World, acompañada de una nueva actualización de preguntas frecuentes (FAQ) y erratas que introducen ciertas modificaciones a las reglas.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://www.elheraldodelviejomundo.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.elheraldodelviejomundo.com/" rel="alternate" type="text/html" /><updated>2025-06-25T23:57:03+00:00</updated><id>https://www.elheraldodelviejomundo.com/feed.xml</id><title type="html">https://El Heraldo del Viejo Mundo</title><subtitle>Noticias, rumores y estrategia de Warhammer: The Old World en español.</subtitle><entry><title type="html"></title><link href="https://www.elheraldodelviejomundo.com/2025/06/25/2025-06-26-rulebook_faq1.html" rel="alternate" type="text/html" title="" /><published>2025-06-25T23:57:03+00:00</published><updated>2025-06-25T23:57:03+00:00</updated><id>https://www.elheraldodelviejomundo.com/2025/06/25/2025-06-26-rulebook_faq1</id><content type="html" xml:base="https://www.elheraldodelviejomundo.com/2025/06/25/2025-06-26-rulebook_faq1.html"><![CDATA[<h3 id="texto-original-del-reglamento-afectado-pág-101-inglés">Texto original del reglamento afectado (pág. 101, inglés)</h3>
+
+<blockquote>
+  <p>Combat Result Bonus: Whilst in <strong>Combat Order</strong>, a <strong>Close Order</strong> formation may claim a bonus of <strong>+1 combat result point</strong> (see page 151). :contentReference[oaicite:0]{index=0}</p>
+</blockquote>
+
+<hr />
+
+<h3 id="cómo-cambia-el-juego-explicación-en-español">¿Cómo cambia el juego? (explicación en español)</h3>
+
+<ul>
+  <li>
+    <p><strong>Requisito añadido: Potencia de Unidad (PU) 10+.</strong>  <br />
+Antes, cualquier unidad <strong>en Close Order</strong> y <strong>Combat Order</strong> obtenía automáticamente el <strong>+1</strong>; ahora lo hacen solo si su <strong>PU ≥ 10</strong>. Las unidades pequeñas o diezmadas pierden este modificador decisivo.</p>
+  </li>
+  <li><strong>Impacto en unidades de un solo modelo:</strong>
+    <ul>
+      <li><strong>Carros pesados</strong> (PU 5) y la mayoría de los <strong>monstruos</strong>/dragones (su PU coincide con sus <strong>Heridas iniciales</strong>) ya <strong>no</strong> alcanzan el umbral, por lo que <strong>pierden</strong> el +1 que sí disfrutaban antes.</li>
+      <li>Solo criaturas realmente colosales (≥ 10 Heridas) mantienen el bono.</li>
+    </ul>
+  </li>
+  <li><strong>Interacciones clave:</strong>
+    <ul>
+      <li><strong>Massed Infantry</strong> (+1 CR si superas la PU enemiga) se <strong>acumula</strong> con este bono siempre que la unidad tenga <strong>PU 10+</strong>, potenciando a grandes bloques de infantería.</li>
+      <li><strong>Disrupted:</strong> la Disrupción sigue anulando el Rank Bonus pero <strong>no</strong> este +1; sin embargo, si las bajas reducen la PU a 9 o menos, el bono se pierde al instante.</li>
+      <li>En <strong>combates múltiples</strong>, cada unidad que cumpla <strong>PU 10+</strong> aporta su propio +1, pues la regla no impone límite.</li>
+    </ul>
+  </li>
+  <li><strong>Consecuencias tácticas:</strong>
+    <ul>
+      <li>Mantener <strong>bloques numerosos y cohesionados</strong> es ahora más valioso: resisten bajas sin perder el +1.</li>
+      <li><strong>Carros y monstruos medianos</strong> bajan su rendimiento en resolución; pasan a depender de otras fuentes de bonificación (estandartes, flancos, heridas infligidas…).</li>
+      <li>La <strong>gestión de bajas</strong> cobra peso: eliminar un par de miniaturas o un personaje puede dejar a la unidad rival en <strong>PU 9</strong> y negarle el bono justo antes de calcular resultados.</li>
+    </ul>
+  </li>
+</ul>
+
+<p><strong>En resumen:</strong> el cambio premia la <em>masa</em> sobre la mera formación; solo las “murallas de escudos” de <strong>PU 10 o más</strong> conservan el +1 automático a la resolución de combate, mientras que carros, dragones y la mayoría de los monstruos dejan de aportar ese punto extra.</p>]]></content><author><name></name></author></entry><entry><title type="html">Notas del diseñador – Preguntas frecuentes y erratas del Viejo Mundo</title><link href="https://www.elheraldodelviejomundo.com/noticias/2025/06/25/old-world-faq-and-errata-designers-notes.html" rel="alternate" type="text/html" title="Notas del diseñador – Preguntas frecuentes y erratas del Viejo Mundo" /><published>2025-06-25T15:00:00+00:00</published><updated>2025-06-25T15:00:00+00:00</updated><id>https://www.elheraldodelviejomundo.com/noticias/2025/06/25/old-world-faq-and-errata-designers-notes</id><content type="html" xml:base="https://www.elheraldodelviejomundo.com/noticias/2025/06/25/old-world-faq-and-errata-designers-notes.html"><![CDATA[<p>Han pasado dieciocho meses desde el lanzamiento de Warhammer: The Old World, un periodo lleno de evolución y actualizaciones. Este mes, junto con el esperado lanzamiento de Grand Cathay, se presenta la guía de juego equilibrado de Warhammer: The Old World, acompañada de una nueva actualización de preguntas frecuentes (FAQ) y erratas que introducen ciertas modificaciones a las reglas.</p>
 
 <p>La guía de juego equilibrado es una herramienta invaluable para cualquier jugador de Warhammer: The Old World. Incluye nueve escenarios, de los cuales tres están diseñados específicamente para partidas dobles. Además de los habituales puntos de victoria, estos escenarios se enriquecen con una variedad de objetivos nuevos e intercambiables. Estos objetivos permiten a los jugadores luchar por la defensa del tren de equipajes de un ejército, el control de terrenos estratégicamente importantes e incluso sobre marcadores de objetivos que representan desde hitos significativos hasta escondites de armas o tesoros perdidos. Además, existen objetivos secretos que presentan a los jugadores una variedad de desafíos a cumplir durante el transcurso de una partida, desafíos que permanecen en secreto para el oponente hasta que el juego termina. El objetivo es estimular tanto la imaginación como la naturaleza competitiva de los jugadores, permitiendo explorar nuevas aventuras contra oponentes frescos.</p>
 
@@ -1042,144 +1079,4 @@ Si quieres competir en 2025, ¡toca afilar la pluma y mandar la lista cuanto ant
 <div style="margin-top:3em;padding:1em;background:#fef8e6;border:1px solid #eadbbd;border-radius:8px;">
 <strong>Conclusiones:</strong> La introducción de Grand Cathay en Warhammer: The Old World no solo añade una nueva facción, sino que redefine el uso de la iconografía y la magia en el juego. La integración del yinyang con cometas de dos colas y el Wu Xing Compass como dispositivo mágico, no solo enriquecen la narrativa, sino que también introducen mecánicas únicas que podrían alterar significativamente el meta en torneos. La armonía como mecánica de batalla ofrece nuevas estrategias defensivas y ofensivas, beneficiando a jugadores que priorizan el control del campo. Además, las miniaturas con iconografía específica, ahora al 15 % en El Arca Negra, se convierten en piezas codiciadas para coleccionistas, elevando el valor de mercado de esta facción emergente.
 </div>
-<p><a href="https://www.warhammer-community.com/en-gb/articles/wkn8afkh/old-world-almanack-the-iconography-of-an-eternal-empire/">Leer noticia original ➜</a></p>]]></content><author><name></name></author><category term="noticias" /><summary type="html"><![CDATA[Descubre el fascinante proceso de diseño detrás de la nueva facción de Grand Cathay en el universo de Warhammer. En esta tercera parte de una mesa redonda con el equipo de The Old World, exploramos cómo se ha creado una iconografía única que refleja la esencia de un imperio eterno. Inspirándose en el folklore chino y adaptándolo al estilo Warhammer, el equipo ha desarrollado símbolos y motivos que no solo enriquecen el trasfondo de Grand Cathay, sino que también ofrecen una experiencia visualmente impresionante para los jugadores. Desde el uso del yinyang hasta la innovadora armadura de montaña, cada elemento ha sido cuidadosamente diseñado para resonar tanto con los fans de Warhammer como con la cultura china. ¡No te pierdas esta inmersión en el arte y la creatividad que dan vida a este emocionante mundo!]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://assets.warhammer-community.com/tow_cathaysymbols-jun17-image1a-1nn9wl2zm8.jpg" /><media:content medium="image" url="https://assets.warhammer-community.com/tow_cathaysymbols-jun17-image1a-1nn9wl2zm8.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Agenda de torneos (actualizada 16 / VI / 2025)</title><link href="https://www.elheraldodelviejomundo.com/torneos/2025/06/15/torneos.html" rel="alternate" type="text/html" title="Agenda de torneos (actualizada 16 / VI / 2025)" /><published>2025-06-15T22:00:00+00:00</published><updated>2025-06-15T22:00:00+00:00</updated><id>https://www.elheraldodelviejomundo.com/torneos/2025/06/15/torneos</id><content type="html" xml:base="https://www.elheraldodelviejomundo.com/torneos/2025/06/15/torneos.html"><![CDATA[<h2 id="agenda-de-torneos-actualizada-16vi2025">Agenda de torneos (actualizada 16 / VI / 2025)</h2>
-<hr />
-
-<p><strong>Sábado 21 de junio – La Fortaleza Miniaturas (A Coruña)</strong></p>
-<p style="margin:0.05em 0 0.2em; color:#b30000; font-weight:bold; font-size:1.2em;">
-(Warhammer: The Old World) a 2 000 ptos
-</p>
-<p>Primer torneo <em>TOW</em> en Galicia con aforo limitado y sorteos; mesas recién escenografiadas crearán un ambiente premium.<br />
-📍 Dónde: Av. da Concordia 4, bajo, A Coruña<br />
-🎯 Formato: The Old World · 2 000 ptos · 3 rondas · Individual<br />
-👥 Plazas: ~14<br />
-💰 Inscripción: <em>Por confirmar</em><br />
-🔗 <a href="https://www.instagram.com/lafortalezaminiaturas/">La Fortaleza Miniaturas</a></p>
-
-<hr />
-
-<p><strong>Sábado 21 de junio – II Torneo Mudéjar (Teruel)</strong></p>
-<p style="margin:0.05em 0 0.2em; color:#b30000; font-weight:bold; font-size:1.2em;">
-(Warhammer: The Old World) a 2 000 ptos
-</p>
-<p>Sistema híbrido: 1 Choque de Patrullas + 2 batallas estándar; inscripción íntegra a premios, muestra del crecimiento turolense.<br />
-📍 Dónde: Estudio Solmenorphoto, Ronda Ambeles 16, Teruel<br />
-🎯 Formato: TOW · 2 000 ptos · 3 rondas · Individual<br />
-👥 Plazas: <em>No indicado</em><br />
-💰 Inscripción: 15 €<br />
-🔗 BaronWargame (https://www.instagram.com/baronwargame/)</p>
-
-<hr />
-
-<p><strong>Sábado 21 de junio – “Aliados Inesperados” (El Jabalí Pisador, Torrent)</strong></p>
-<p style="margin:0.05em 0 0.2em; color:#b30000; font-weight:bold; font-size:1.2em;">
-(Warhammer: The Old World) a 1 500 ptos por jugador
-</p>
-<p>Formato narrativo 2 vs 2 con parejas aleatorias y duras restricciones (sin Journals, magia nivel 3 máx.) para crear alianzas épicas.<br />
-📍 Dónde: C/ Fernando Rodríguez Fornos 3, Torrent, Valencia<br />
-🎯 Formato: TOW · 1 500 ptos · 3 rondas 2 vs 2<br />
-👥 Plazas: 20 (10 parejas)<br />
-💰 Inscripción: 20 € (15 € socios)<br />
-🔗 <a href="https://eljabalipisador.com/evento/aliados-inesperados-ii/">El Jabalí Pisador</a></p>
-
-<hr />
-
-<p><strong>Sábado 21 de junio – II Torneo Saint Cugat (La Epic - Sant Cugat del Vallès)</strong></p>
-<p style="margin:0.15em 0 0.4em; color:#6828a8; font-weight:bold; font-size:1.2em;">
-(Warhammer Fantasy 6.ª + MdNR) a 2 000 ptos
-</p>
-<p>Usa Reglamento Anotado ¡Cargad!; bonifica pintura y reparte toda la recaudación en vales, por lo que las plazas vuelan.<br />
-📍 Dónde: Sant Cugat del Vallès (La Épic Club)<br />
-🎯 Formato: WF 6ª + MdNR · 2 000 ptos · 3 rondas · Individual<br />
-👥 Plazas: 18<br />
-💰 Inscripción: 15 €<br />
-🔗 <a href="https://www.laepic.es/">La Epic</a></p>
-
-<hr />
-
-<p><strong>Domingo 22 de junio – Old World Clash (GTS Madrid Sur)</strong></p>
-<p style="margin:0.05em 0 0.2em; color:#b30000; font-weight:bold; font-size:1.2em;">
-(Warhammer: The Old World) a 2 000 ptos
-</p>
-<p>Evento de 16 plazas con restricción 0‑3; inscripción low‑cost y rondas rápidas como banco de pruebas del formato GTS Sur.<br />
-📍 Dónde: C/ Enrique Fuentes 16, Madrid<br />
-🎯 Formato: TOW · 2 000 ptos · 3 rondas · Individual<br />
-👥 Plazas: 16<br />
-💰 Inscripción: 10 €<br />
-🔗 <a href="https://www.instagram.com/p/C7Tktm7qbiD/">Bases</a></p>
-
-<hr />
-
-<p><strong>Sábado 28 de junio – Kingdom Wargames Alcorcón</strong></p>
-<p style="margin:0.05em 0 0.2em; color:#b30000; font-weight:bold; font-size:1.2em;">
-(Warhammer: The Old World) a 2 000 ptos
-</p>
-<p>Listas vía New Recruit, local climatizado y sorteo final; suele agotar sus 20 plazas en días.<br />
-📍 Dónde: C/ Urano 9‑11, Alcorcón, Madrid<br />
-🎯 Formato: TOW · 2 000 ptos · 3 rondas · Individual<br />
-👥 Plazas: 20<br />
-💰 Inscripción: 15 €<br />
-🔗 <a href="https://kingdomwargames.com/eventos/old-world-28-junio">Kingdom Wargames</a></p>
-
-<hr />
-
-<p><strong>Fecha por anunciar – Torneo Reforged V4 (El Orco Rojo, Valladolid)</strong></p>
-<p style="margin:0.05em 0 0.2em; color:#6b3e00; font-weight:bold; font-size:1.2em;">
-(Warhammer Reforged v4 beta) a puntos por definir
-</p>
-<p>Primer torneo con la nueva v4; El Orco Rojo reinvierte cuotas en premios y mantiene el espíritu comunitario de 8.ª edición.<br />
-📍 Dónde: C. Pérez Galdós 38, Valladolid<br />
-🎯 Formato: Reforged v4 · pts TBD · 3 rondas · Individual<br />
-👥 Plazas: <em>Limitadas</em><br />
-💰 Inscripción: <em>Por confirmar</em><br />
-🔗 <a href="https://es-la.facebook.com/whreforged/">Publicación de Facebook</a></p>
-
-<hr />
-
-<p><strong>Domingo 6 de julio – Torneo The Old World (War Lotus, Granada)</strong></p>
-<p style="margin:0.05em 0 0.2em; color:#b30000; font-weight:bold; font-size:1.2em;">
-(Warhammer: The Old World) a ~2 000 ptos
-</p>
-<p>War Lotus se estrena con <em>TOW</em>; entrada online (stock 14) y uso del libro <em>Matched Play</em> si está disponible.<br />
-📍 Dónde: Camino de Ronda 154, 18003 Granada<br />
-🎯 Formato: TOW · ~2 000 ptos · 3 rondas · Individual<br />
-👥 Plazas: 14<br />
-💰 Inscripción: 15 €<br />
-🔗 <a href="https://warlotus.com/29173/">War Lotus</a></p>
-
-<hr />
-
-<p><strong>Sábado 12 de julio – 5.º Torneo Pineda de Wargames (Barcelona)</strong></p>
-<p style="margin:0.05em 0 0.2em; color:#b30000; font-weight:bold; font-size:1.2em;">
-(Warhammer: The Old World) a 2 000 ptos
-</p>
-<p>Quinta edición con 20 plazas agotadas antes de abrir inscripciones, señal del boom de <em>TOW</em> en la costa catalana.<br />
-📍 Dónde: C/ Joan Maragall 17, Pineda de Mar, Barcelona<br />
-🎯 Formato: TOW · 2 000 ptos · 3 rondas · Individual<br />
-👥 Plazas: 20<br />
-💰 Inscripción: <em>Por confirmar</em><br />
-🔗 <a href="https://www.instagram.com/theoldtroll/">The Old Troll</a></p>
-
-<hr />
-
-<p><strong>Miércoles 30 de julio – Mundial de Warhammer 2025 (Invasión Talavera, Talavera de la Reina, Toledo)</strong></p>
-<p style="margin:0.05em 0 0.2em; color:#6b3e00; font-weight:bold; font-size:1.2em;">
-(The 9th Age + Warhammer Underworlds) a 4 500 ptos aprox.
-</p>
-<p>Cinco días de torneos mundialistas individual y por equipos; Talavera Ferial albergará a cientos de jugadores de más de 40 países.<br />
-📍 Dónde: Av. de la Constitución 1, Talavera Ferial, 45600 Talavera de la Reina<br />
-🎯 Formato: The 9th Age (ESC &amp; ETC) + Underworlds (y posible Old World) · 5 días · Individual y equipos de 8<br />
-👥 Plazas: ~40 equipos + 100 jugadores individuales<br />
-💰 Inscripción: <em>Según categoría</em><br />
-🔗 <a href="https://www.eldiario.es/castilla-la-mancha/provincias/toledo/talavera-sera-sede-mundial-warhammer-2025-30-julio-3-agosto_1_11911042.html">Noticia</a></p>
-
-<hr />
-
-<h2 id="conclusiones">Conclusiones</h2>
-<div class="conclusiones">
-  <p>Continuamos con las buena marcha con 10 torneos en apenas seis semanas confirma que <em>Fantasy</em> vive un momento bonito tras años de escasez.
-Si bien <em>The Old World</em> acapara la mayoría de convocatorias —y con ello atrae a nuevos jugadores—, otros formatos mantienen el buen ritmo: Sexta edición no decae, mientras que <em>Reforged</em> se prepara para estrenar su cuarta edición con ambición nacional.
-Mención aparte merece el Mundial de Talavera, merced al buen hacer de Carlos que trae su experiencia de 40k: por primera vez España acogerá la cita mundial de <em>The 9th Age</em> y <em>Underworlds</em>, lo que posiciona al país como destino de referencia para la peana cuadrada.
-La variedad de sistemas, la profesionalización de tiendas y clubs, y la rapidez con la que se llenan las plazas dibujan un panorama en el que la comunidad ya compite en organización con juegos mucho más recientes.
-Queda claro: si quieres jugar, ahora es el momento de reservar plaza… o te quedarás mirando desde la barrera.</p>
-</div>]]></content><author><name></name></author><category term="torneos" /><category term="prox_torneos" /><summary type="html"><![CDATA[Calendario y detalles de los torneos de Warhammer Fantasy —The Old World, Sexta Edición y Reforged— en España entre el 21 de junio y el 31 de julio de 2025.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.elheraldodelviejomundo.com/assets/images/miniatura_torneos.png" /><media:content medium="image" url="https://www.elheraldodelviejomundo.com/assets/images/miniatura_torneos.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+<p><a href="https://www.warhammer-community.com/en-gb/articles/wkn8afkh/old-world-almanack-the-iconography-of-an-eternal-empire/">Leer noticia original ➜</a></p>]]></content><author><name></name></author><category term="noticias" /><summary type="html"><![CDATA[Descubre el fascinante proceso de diseño detrás de la nueva facción de Grand Cathay en el universo de Warhammer. En esta tercera parte de una mesa redonda con el equipo de The Old World, exploramos cómo se ha creado una iconografía única que refleja la esencia de un imperio eterno. Inspirándose en el folklore chino y adaptándolo al estilo Warhammer, el equipo ha desarrollado símbolos y motivos que no solo enriquecen el trasfondo de Grand Cathay, sino que también ofrecen una experiencia visualmente impresionante para los jugadores. Desde el uso del yinyang hasta la innovadora armadura de montaña, cada elemento ha sido cuidadosamente diseñado para resonar tanto con los fans de Warhammer como con la cultura china. ¡No te pierdas esta inmersión en el arte y la creatividad que dan vida a este emocionante mundo!]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://assets.warhammer-community.com/tow_cathaysymbols-jun17-image1a-1nn9wl2zm8.jpg" /><media:content medium="image" url="https://assets.warhammer-community.com/tow_cathaysymbols-jun17-image1a-1nn9wl2zm8.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
