@@ -5,7 +5,7 @@ date: 2025-06-25 08:00:00 +0200
 source_date: '2025-06-25'
 categories: ['articulo']
 image: /assets/img/2025-06/parte5.png
-excerpt: 'Concluimos la **Guía de Juego Competitivo** de **The Old World** con un artículo que lleva tus torneos al siguiente nivel: descubre cómo organizar *Eventos de Escalada*, en los que los ejércitos crecen ronda a ronda. Y añade la emoción de los **Objetivos Secretos** —*12 misiones sorpresa* con recompensas en *Puntos de Victoria* que pondrán a prueba la versatilidad y la táctica de cada comandante.'
+excerpt: 'Concluimos esta de la **Guía de Juego Competitivo** de **The Old World** con un breve artículo sobre cómo organizar *Eventos de Escalada*, en los que los ejércitos crecen ronda a ronda. También presentamos los **Objetivos Secretos** —*12 misiones sorpresa* con recompensas en *Puntos de Victoria* que pondrán a prueba la versatilidad y la táctica de cada comandante. Y por último una sección de conclusiones a modo de cierre sobre la propia guía en su conjunto.'
 ---
 
 *Publicado originalmente el 24‑jun‑2025.*
