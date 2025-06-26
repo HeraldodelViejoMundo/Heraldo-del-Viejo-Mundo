@@ -5,7 +5,11 @@ date: 2025-06-26 01:00:00 +0200
 source_date: '2025-06-26'
 categories: ['articulo']
 image: /assets/img/2025-06/banner-faq.jpg
-excerpt: 'Empezamos una **nueva serie** analizando y explicando en **español** una por una todas las **FAQs** presentadas en el documento más importante, revolucionador e influyente que ha publicado Games Workshop hasta la fecha sobre *The Old World*.
+excerpt: >
+  Empezamos una **nueva serie** analizando y explicando en **español**,
+  una por una, todas las **FAQs** presentadas en el documento más importante,
+  revolucionador e influyente que ha publicado Games Workshop hasta la fecha
+  sobre *The Old World*.
 ---
 *Publicado originalmente el 26‑jun‑2025.*
 
