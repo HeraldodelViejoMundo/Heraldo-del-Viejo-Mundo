@@ -8,7 +8,7 @@ image: /assets/img/2025-06/parte4.png
 excerpt: 'Empezamos una **nueva serie** analizando y explicando en **español** una por una
  todas las **FAQs** presentadas en el documento más importante, revolucionador e influyente
 que ha publicado Games Workshop hasta la fecha sobre *The Old World*: >---
-
+---
 *Publicado originalmente el 26‑jun‑2025.*
 
 # Desentrañando las FAQs de ToW 1.5 - Rulebook 1ª Parte
