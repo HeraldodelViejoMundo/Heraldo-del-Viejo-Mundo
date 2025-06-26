@@ -195,13 +195,6 @@ article.post p{
   font-weight: 600;
 }
 
-/* 12. Formato “Regla original” (visible pero atenuada) ------------------- */
-p.regla-original{
-  font-size:0.93em !important;   /* ~10 % más pequeño que el cuerpo (1 .4 rem) */
-  color:#665c55 !important;      /* gris medio, buena legibilidad sin destacar */
-  font-style:italic;             /* refuerza que es cita secundaria */
-  margin:0.4em 0 0.4em 1.2rem;   /* separa e indenta ligeramente */
-}
 
 /* 13 ———  Mejora de lectura global  ———  */
 h1,h2,h3,h4,h5{
@@ -215,12 +208,25 @@ article.post p{
   margin:0 0 1.2em 0 !important;      /* más espacio vertical */
 }
 
-/* 14 ———  Tarjeta ERRATA  ———  */
-.errata-box{
-  background:#fcf7ed;                 /* marfil suave */
-  border:2px solid #b87333;           /* cobre, mismo tono que tus enlaces */
+/* 14 — Caja de ERRATA + Regla original ―––––––––––––––––––––––––––––––– */
+.errata-box{                  /* aspecto de la caja */
+  background:#fcf7ed;
+  border:2px solid #b87333;
   padding:.8rem 1rem;
-  margin:1.2rem 0;
+  margin:1.2rem 0 0 0;        /* SIN margen abajo → se “pega” al párrafo */
   border-radius:6px;
 }
-.errata-box strong{color:#8c4600;}
+
+/* si el <p class="regla-original"> queda justo debajo de la caja */
+.errata-box + p.regla-original{
+  background:#fcf7ed;         /* mismo fondo y borde */
+  border:2px solid #b87333;
+  border-top:0;               /* quita doble línea */
+  padding:.8rem 1rem;
+  font-size:0.93em;
+  color:#665c55;
+  font-style:italic;
+  margin-top:0;               /* sin hueco arriba */
+}
+
+body{background:#ff33aa !important;}
