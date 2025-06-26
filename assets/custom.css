@@ -29,8 +29,8 @@ p{line-height:1.2;margin:0.8em 0;}
 
 /* 4 . Zona de lectura ------------------------------------------------------*/
 .wrapper{
-  max-width:900px; font-size:1.08rem;
-  margin:2rem auto;
+  max-width:1100px; font-size:1.08rem;
+  margin:2.1rem auto;
   background:#fdf8e2ee;
   padding:2rem 2.5rem;
   border:1px solid #d9c48c;
@@ -193,4 +193,12 @@ article.post p{
 .cc-window .cc-btn {
   padding: 0.6em 1.4em;
   font-weight: 600;
+}
+
+/* 12. Formato “Regla original” (visible pero atenuada) ------------------- */
+p.regla-original{
+  font-size:0.93em !important;   /* ~10 % más pequeño que el cuerpo (1 .4 rem) */
+  color:#665c55 !important;      /* gris medio, buena legibilidad sin destacar */
+  font-style:italic;             /* refuerza que es cita secundaria */
+  margin:0.4em 0 0.4em 1.2rem;   /* separa e indenta ligeramente */
 }
