@@ -13,7 +13,7 @@ excerpt: >
 ---
 *Publicado originalmente el 26‑jun‑2025.*
 
-# FAQs ToW 1.5 - Rulebook 1ª Parte: Close Order y Magia
+# FAQs ToW 1.5 - Rulebook Parte 1: Close Order y Magia
 
 El nuevo paquete de FAQ y erratas sacude sobre todo la **fase de magia**: ahora cada Mago está limitado a lanzar tantos hechizos como su **Nivel de Hechicería** y ve reducidos a la mitad los bonificadores para **lanzar** y **dispersar**, con ajustes que aclaran quién queda silenciado tras una **disfunción**, permiten dispersar **vórtices** a distancia de la plantilla y devuelven utilidad a los Magos trabados. Frente a esos cambios profundos, sólo hay una modificación relevante de combate —el +1 de **Close Order** exige llegar a **10 PU**— y una simple aclaración de reglas sobre las **salvaciones especiales**, que confirma que ningún modificador de armadura las afecta. El resultado global es un juego donde la magia se vuelve menos explosiva y más táctica, la masa de las unidades cuenta todavía más y la distinción entre protección física y mágica queda cristalina.
 
@@ -22,11 +22,11 @@ El nuevo paquete de FAQ y erratas sacude sobre todo la **fase de magia**: ahora 
 
 <p class="regla-original">
 *REGLA ORIGINAL (Rulebook p. 101):* “Whilst in Combat Order, a Close Order formation may claim a bonus of +1 combat result point (see page 151).”
+</p>
+</div>
 
 
 La corrección exige ahora alcanzar **al menos FU 10** para conservar el +1 al resultado de combate, de modo que *bloques grandes de infantería* (1 PU por miniatura) lo mantienen con *10+ modelos*, mientras que *formaciones reducidas*, *carros pesados* (PU 5), *monstruos* y la mayoría de los *dragones* (PU ≈ Heridas, 6-9) *lo pierden*; si la unidad suma 10 PU con personajes añadidos, recupera la bonificación. Así se premia la masa coherente, se evita una ventaja desproporcionada a unidades pequeñas o bestias aisladas y se refuerza la interacción con reglas basadas en la **Fuerza de Unidad**, como Disrupción o chequeos de Desmoralización, subrayando que en Warhammer: The Old World la presión numérica — no solo la calidad— decide los combates.
-</p>
-</div>
 
 
 
