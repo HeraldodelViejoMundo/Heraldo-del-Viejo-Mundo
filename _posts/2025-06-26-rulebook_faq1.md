@@ -75,18 +75,16 @@ La bonificación al intento de dispersión se reduce ahora a **la mitad** del **
 
 
 
-**ERRATA (FAQ v1.5.1, p. 111 “Dispelling Remains in Play Spells”):**  
-“To do so, you may attempt either a Fated dispel or a Wizardly dispel (provided the Wizard making the attempt is within Dispel range of the Wizard that cast the spell **or, in the case of a Magical Vortex, within range of the template representing the spell**).”    
+**ERRATA (FAQ v1.5.1, p. 111 “Dispelling Remains in Play Spells”):** “To do so, you may attempt either a Fated dispel or a Wizardly dispel (provided the Wizard making the attempt is within Dispel range of the Wizard that cast the spell **or, in the case of a Magical Vortex, within range of the template representing the spell**).”    
 
-*REGLA ORIGINAL (Rulebook p. 111):*   “To do so, you may attempt either a Fated dispel or a Wizardly dispel (provided the Wizard making the attempt is within Dispel range of the Wizard that cast the spell).” 
+*REGLA ORIGINAL (Rulebook p. 111):*  “To do so, you may attempt either a Fated dispel or a Wizardly dispel (provided the Wizard making the attempt is within Dispel range of the Wizard that cast the spell).” 
 
 La errata varía la condición de alcance para dispersar vórtices: en vez de la distancia habitual hasta el Mago enemigo, basta con que el Mago que intenta la dispersión esté a alcance de **la plantilla** de un Vórtice Mágico para intentar disiparlo. Esto que facilita detener vórtices que han sido lanzados por un hechicero alejado o incluso por uno que ha podido alejarse después de lanzar el hechizo. Esta aclaración evita situaciones en las que un vórtice quedaba virtualmente indispersable por pura distancia.  
 
 
 
-**ERRATA (FAQ v1.5.1, p. 141 “Ward Saves”):**  
-“Representing magical protection of some sort, Ward saves are made in the same manner as armour saves; by rolling a D6 and comparing the result to the ‘Warding value’. A Ward save’s Warding value is always given in either the description of the item or spell that grants it, or shown after the name of a special rule. Rules that affect armour values do not affect Warding values unless stated otherwise.” 
+**ERRATA (FAQ v1.5.1, p. 141 “Ward Saves”):** “Representing magical protection of some sort, Ward saves are made in the same manner as armour saves; by rolling a D6 and comparing the result to the ‘Warding value’. A Ward save’s Warding value is always given in either the description of the item or spell that grants it, or shown after the name of a special rule. Rules that affect armour values do not affect Warding values unless stated otherwise.” 
 
-*REGLA ORIGINAL (Rulebook p. 141):*   “A Ward save represents the magical protection offered by an enchanted talisman or suit of armour. The armour value of a Ward save will always be shown either in the description of the item that grants it, or in a special rule. The key difference between a Ward save and a regular armour save is that a Ward save can never be modified by the AP characteristic of a weapon.” 
+*REGLA ORIGINAL (Rulebook p. 141):* “A Ward save represents the magical protection offered by an enchanted talisman or suit of armour. The armour value of a Ward save will always be shown either in the description of the item that grants it, or in a special rule. The key difference between a Ward save and a regular armour save is that a Ward save can never be modified by the AP characteristic of a weapon.” 
 
 La nueva redacción aclara sólo las reglas que citen expresamente las *Warding values* pueden alterar las Tisaras de Salvación Especial. Ni el AP de las armas, ni objetos que mejoran o empeoran la armadura afectan a una salvación especial. Una aclaración que sólo necesitaban los que intentaban forzar el reglamento.
