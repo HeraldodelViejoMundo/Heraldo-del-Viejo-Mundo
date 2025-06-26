@@ -55,7 +55,7 @@ Esta corrección reduce el **bono de lanzamiento a la mitad del Nivel de Hechice
 
 *REGLA ORIGINAL (Rulebook p. 109):* “However, **you cannot attempt to cast any more spells for the remainder of the current turn**.”  
 
-Al sustituir “you” por “the Wizard”, la errata aclara que la restricción afecta **únicamente al mago** que acaba de disfuncionar, **no al resto de los Hechiceros** de su ejército. Así, tras sufrir un 8-9 Barely Controlled Power ese conjurador queda silenciado hasta el siguiente turno, pero otros Magos todavía pueden lanzar conjuros o intentar dispersar.  
+Al sustituir “you” por “the Wizard”, la errata aclara que la restricción afecta **únicamente al mago** que acaba de disfuncionar, **no al resto de los Hechiceros** de su ejército. Así, tras sufrir un 8-9 Barely Controlled Power ese hechicero queda silenciado hasta el siguiente turno, pero otros Magos todavía pueden lanzar conjuros o intentar dispersar.  
 
 
 
