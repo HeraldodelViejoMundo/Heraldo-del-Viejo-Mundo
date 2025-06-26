@@ -1,54 +1,45 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://www.elheraldodelviejomundo.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.elheraldodelviejomundo.com/" rel="alternate" type="text/html" /><updated>2025-06-26T23:38:13+00:00</updated><id>https://www.elheraldodelviejomundo.com/feed.xml</id><title type="html">https://El Heraldo del Viejo Mundo</title><subtitle>Noticias, rumores y estrategia de Warhammer: The Old World en español.</subtitle><entry><title type="html">FAQs de ToW 1.5 - Close Order y Magia</title><link href="https://www.elheraldodelviejomundo.com/articulo/2025/06/25/rulebook_faq1.html" rel="alternate" type="text/html" title="FAQs de ToW 1.5 - Close Order y Magia" /><published>2025-06-25T23:00:00+00:00</published><updated>2025-06-25T23:00:00+00:00</updated><id>https://www.elheraldodelviejomundo.com/articulo/2025/06/25/rulebook_faq1</id><content type="html" xml:base="https://www.elheraldodelviejomundo.com/articulo/2025/06/25/rulebook_faq1.html"><![CDATA[<p><em>Publicado originalmente el 26‑jun‑2025.</em></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://www.elheraldodelviejomundo.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.elheraldodelviejomundo.com/" rel="alternate" type="text/html" /><updated>2025-06-26T23:45:20+00:00</updated><id>https://www.elheraldodelviejomundo.com/feed.xml</id><title type="html">https://El Heraldo del Viejo Mundo</title><subtitle>Noticias, rumores y estrategia de Warhammer: The Old World en español.</subtitle><entry><title type="html">FAQs de ToW 1.5 - Close Order y Magia</title><link href="https://www.elheraldodelviejomundo.com/articulo/2025/06/25/rulebook_faq1.html" rel="alternate" type="text/html" title="FAQs de ToW 1.5 - Close Order y Magia" /><published>2025-06-25T23:00:00+00:00</published><updated>2025-06-25T23:00:00+00:00</updated><id>https://www.elheraldodelviejomundo.com/articulo/2025/06/25/rulebook_faq1</id><content type="html" xml:base="https://www.elheraldodelviejomundo.com/articulo/2025/06/25/rulebook_faq1.html"><![CDATA[<p><em>Publicado originalmente el 26‑jun‑2025.</em></p>
 
 <h1 id="faqs-tow-15---rulebook-parte-1-close-order-y-magia">FAQs ToW 1.5 - Rulebook Parte 1: Close Order y Magia</h1>
 
 <p>El nuevo paquete de FAQ y erratas sacude sobre todo la <strong>fase de magia</strong>: ahora cada Mago está limitado a lanzar tantos hechizos como su <strong>Nivel de Hechicería</strong> y ve reducidos a la mitad los bonificadores para <strong>lanzar</strong> y <strong>dispersar</strong>, con ajustes que aclaran quién queda silenciado tras una <strong>disfunción</strong>, permiten dispersar <strong>vórtices</strong> a distancia de la plantilla y devuelven utilidad a los Magos trabados. Frente a esos cambios profundos, sólo hay una modificación relevante de combate —el +1 de <strong>Close Order</strong> exige llegar a <strong>10 PU</strong>— y una simple aclaración de reglas sobre las <strong>salvaciones especiales</strong>, que confirma que ningún modificador de armadura las afecta. El resultado global es un juego donde la magia se vuelve menos explosiva y más táctica, la masa de las unidades cuenta todavía más y la distinción entre protección física y mágica queda cristalina.</p>
 
 <div class="errata-box">
-**ERRATA (FAQ v1.5.1, p. 1):** “Whilst in Combat Order, a Close Order formation with a Unit Strength of 10 or more may claim a bonus of +1 combat result point (see page 151).”
+  
+<p><strong>ERRATA (FAQ v1.5.1, p. 1):</strong> “Whilst in Combat Order, a Close Order formation with a Unit Strength of 10 or more may claim a bonus of +1 combat result point (see page 151).”</p>
 
-<p class="regla-original">
-*REGLA ORIGINAL (Rulebook p. 101):* “Whilst in Combat Order, a Close Order formation may claim a bonus of +1 combat result point (see page 151).”
-</p>
+<p><em>REGLA ORIGINAL (Rulebook p. 101):</em> “Whilst in Combat Order, a Close Order formation may claim a bonus of +1 combat result point (see page 151).”</p>
+
 </div>
 
 <p>La corrección exige ahora alcanzar <strong>al menos FU 10</strong> para conservar el +1 al resultado de combate, de modo que <em>bloques grandes de infantería</em> (1 PU por miniatura) lo mantienen con <em>10+ modelos</em>, mientras que <em>formaciones reducidas</em>, <em>carros pesados</em> (PU 5), <em>monstruos</em> y la mayoría de los <em>dragones</em> (PU ≈ Heridas, 6-9) <em>lo pierden</em>; si la unidad suma 10 PU con personajes añadidos, recupera la bonificación. Así se premia la masa coherente, se evita una ventaja desproporcionada a unidades pequeñas o bestias aisladas y se refuerza la interacción con reglas basadas en la <strong>Fuerza de Unidad</strong>, como Disrupción o chequeos de Desmoralización, subrayando que en Warhammer: The Old World la presión numérica — no solo la calidad— decide los combates.</p>
 
 <div class="errata-box">
+  
+<p><strong>ERRATA (FAQ v1.5.1, pág. 107 “Magical Vortex”):</strong> «Some Magical Vortexes move at the start of each turn, often by scattering. Should a Magical Vortex end such a move over a unit, move it by the smallest amount possible, <strong>in any direction</strong>, so that it can be placed on the battlefield, not touching the bases of any models.»</p>
 
-**ERRATA (FAQ v1.5.1, pág. 107 “Magical Vortex”):** «Some Magical Vortexes move at the start of each turn, often by scattering. Should a Magical Vortex end such a move over a unit, move it by the smallest amount possible, **in any direction**, so that it can be placed on the battlefield, not touching the bases of any models.»  
-
-<p class="regla-original">
-*REGLA ORIGINAL (Rulebook p. 107):* «Some Magical Vortexes move at the start of each turn. If a Magical Vortex ever ends such a move over a unit, continue to move it in the same direction until it can be placed on the battlefield, not touching the bases of any models.»
-</p>
-La inclusión de la expresión **«in any direction»** implica que, cuando el vórtice finalice su desplazamiento encima de una unidad, éste se mueva lo menos posible, *en cualquier dirección*, para salir de encima de la unidad que está tocando. Cambia la regla que decía que seguía avanzando en línea recta. 
-
+<p><em>REGLA ORIGINAL (Rulebook p. 107):</em> «Some Magical Vortexes move at the start of each turn. If a Magical Vortex ever ends such a move over a unit, continue to move it in the same direction until it can be placed on the battlefield, not touching the bases of any models.»</p>
 
 </div>
+<p>La inclusión de la expresión <strong>«in any direction»</strong> implica que, cuando el vórtice finalice su desplazamiento encima de una unidad, éste se mueva lo menos posible, <em>en cualquier dirección</em>, para salir de encima de la unidad que está tocando. Cambia la regla que decía que seguía avanzando en línea recta.</p>
 
 <div class="errata-box">
+  
+<p><strong>ERRATA (FAQ v1.5.1, p. 108 “Casting Spells”):</strong> “A Wizard can attempt to cast a number of spells equal to their <strong>Level of Wizardry per turn</strong>, but may only attempt to cast each spell once per turn.”</p>
 
-**ERRATA (FAQ v1.5.1, p. 108 “Casting Spells”):** “A Wizard can attempt to cast a number of spells equal to their **Level of Wizardry per turn**, but may only attempt to cast each spell once per turn.”  
-
-<p class="regla-original">
-*REGLA ORIGINAL (Rulebook p. 108):* “A Wizard can only attempt to cast each of their spells once per turn.”   
-</p>
-Ahora el Mago sólo puede intentar lanzar un número de hechizos igual a su Nivel de Hechicería en ese turno; aunque conozca conjuros adicionales gracias a objetos o reglas especiales, deberá elegir cuáles intenta y cuáles deja sin usar, porque el límite se aplica a los intentos, no al conocimiento
-
+<p><em>REGLA ORIGINAL (Rulebook p. 108):</em> “A Wizard can only attempt to cast each of their spells once per turn.”</p>
 
 </div>
+<p>Ahora el Mago sólo puede intentar lanzar un número de hechizos igual a su Nivel de Hechicería en ese turno; aunque conozca conjuros adicionales gracias a objetos o reglas especiales, deberá elegir cuáles intenta y cuáles deja sin usar, porque el límite se aplica a los intentos, no al conocimiento</p>
 
 <div class="errata-box">
+  
+<p><strong>ERRATA (FAQ v1.5.1, p. 108 “Casting Roll, Casting Result &amp; Casting Value”):</strong> “The casting Wizard’s Level of Wizardry is then divided by 2 (rounding fractions up) and added to this roll to give a ‘casting result’.”</p>
 
-**ERRATA (FAQ v1.5.1, p. 108 “Casting Roll, Casting Result &amp; Casting Value”):** “The casting Wizard’s Level of Wizardry is then divided by 2 (rounding fractions up) and added to this roll to give a ‘casting result’.”   
-
-<p class="regla-original">
-*REGLA ORIGINAL (Rulebook p. 108):* “The casting Wizard’s Level is then added to the result of this roll to give a ‘casting result’.”   
-</p>
-Esta corrección reduce el **bono de lanzamiento a la mitad del Nivel de Hechicería** (+2 para Niveles 3-4, +1 para Nivel 1-2), de modo que los hechizos potentes fallan con más frecuencia, se iguala la eficacia entre Magos de distinto nivel y cobra mayor importancia el uso táctico de objetos que repiten tiradas o añaden dados, haciendo la fase de magia menos explosiva y más estratégica.  
-
+<p><em>REGLA ORIGINAL (Rulebook p. 108):</em> “The casting Wizard’s Level is then added to the result of this roll to give a ‘casting result’.”</p>
 
 </div>
+<p>Esta corrección reduce el <strong>bono de lanzamiento a la mitad del Nivel de Hechicería</strong> (+2 para Niveles 3-4, +1 para Nivel 1-2), de modo que los hechizos potentes fallan con más frecuencia, se iguala la eficacia entre Magos de distinto nivel y cobra mayor importancia el uso táctico de objetos que repiten tiradas o añaden dados, haciendo la fase de magia menos explosiva y más estratégica.</p>
 
 <div class="errata-box">
 
