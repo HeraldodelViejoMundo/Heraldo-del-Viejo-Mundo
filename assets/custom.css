@@ -7,7 +7,7 @@
 body{
   margin:0;
   background:url("/Heraldo-del-Viejo-Mundo/assets/img/madera1.jpg") repeat;
-  font-family:"IM Fell English SC",serif;
+  font-family: Georgia, "Times New Roman", serif;
   color:#2e1d0e;
 }
 
@@ -202,3 +202,25 @@ p.regla-original{
   font-style:italic;             /* refuerza que es cita secundaria */
   margin:0.4em 0 0.4em 1.2rem;   /* separa e indenta ligeramente */
 }
+
+/* 13 ———  Mejora de lectura global  ———  */
+h1,h2,h3,h4,h5{
+  font-family:"IM Fell English SC",serif;   /* mantenemos el look medieval */
+}
+
+.wrapper p,
+.post-content p,
+article.post p{
+  line-height:1.5 !important;         /* antes 1.3 */
+  margin:0 0 1.2em 0 !important;      /* más espacio vertical */
+}
+
+/* 14 ———  Tarjeta ERRATA  ———  */
+.errata-box{
+  background:#fcf7ed;                 /* marfil suave */
+  border:2px solid #b87333;           /* cobre, mismo tono que tus enlaces */
+  padding:.8rem 1rem;
+  margin:1.2rem 0;
+  border-radius:6px;
+}
+.errata-box strong{color:#8c4600;}
