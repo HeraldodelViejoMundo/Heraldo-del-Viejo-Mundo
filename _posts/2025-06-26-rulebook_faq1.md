@@ -17,54 +17,52 @@ excerpt: >
 
 El nuevo paquete de FAQ y erratas sacude sobre todo la **fase de magia**: ahora cada Mago está limitado a lanzar tantos hechizos como su **Nivel de Hechicería** y ve reducidos a la mitad los bonificadores para **lanzar** y **dispersar**, con ajustes que aclaran quién queda silenciado tras una **disfunción**, permiten dispersar **vórtices** a distancia de la plantilla y devuelven utilidad a los Magos trabados. Frente a esos cambios profundos, sólo hay una modificación relevante de combate —el +1 de **Close Order** exige llegar a **10 PU**— y una simple aclaración de reglas sobre las **salvaciones especiales**, que confirma que ningún modificador de armadura las afecta. El resultado global es un juego donde la magia se vuelve menos explosiva y más táctica, la masa de las unidades cuenta todavía más y la distinción entre protección física y mágica queda cristalina.
 
-<div class="errata-box">
+{% capture errata %}
 **ERRATA (FAQ v1.5.1, p. 1):** “Whilst in Combat Order, a Close Order formation with a Unit Strength of 10 or more may claim a bonus of +1 combat result point (see page 151).”
 
-<p class="regla-original">
 *REGLA ORIGINAL (Rulebook p. 101):* “Whilst in Combat Order, a Close Order formation may claim a bonus of +1 combat result point (see page 151).”
-</p>
+{% endcapture %}
+<div class="errata-box">
+  {{ errata | markdownify }}
 </div>
-
 
 La corrección exige ahora alcanzar **al menos FU 10** para conservar el +1 al resultado de combate, de modo que *bloques grandes de infantería* (1 PU por miniatura) lo mantienen con *10+ modelos*, mientras que *formaciones reducidas*, *carros pesados* (PU 5), *monstruos* y la mayoría de los *dragones* (PU ≈ Heridas, 6-9) *lo pierden*; si la unidad suma 10 PU con personajes añadidos, recupera la bonificación. Así se premia la masa coherente, se evita una ventaja desproporcionada a unidades pequeñas o bestias aisladas y se refuerza la interacción con reglas basadas en la **Fuerza de Unidad**, como Disrupción o chequeos de Desmoralización, subrayando que en Warhammer: The Old World la presión numérica — no solo la calidad— decide los combates.
 
-
-
-<div class="errata-box">
-
+{% capture errata %}
 **ERRATA (FAQ v1.5.1, pág. 107 “Magical Vortex”):** «Some Magical Vortexes move at the start of each turn, often by scattering. Should a Magical Vortex end such a move over a unit, move it by the smallest amount possible, **in any direction**, so that it can be placed on the battlefield, not touching the bases of any models.»  
 
-<p class="regla-original">
 *REGLA ORIGINAL (Rulebook p. 107):* «Some Magical Vortexes move at the start of each turn. If a Magical Vortex ever ends such a move over a unit, continue to move it in the same direction until it can be placed on the battlefield, not touching the bases of any models.»
-</p>
+{% endcapture %}
+<div class="errata-box">
+  {{ errata | markdownify }}
+</div>
 La inclusión de la expresión **«in any direction»** implica que, cuando el vórtice finalice su desplazamiento encima de una unidad, éste se mueva lo menos posible, *en cualquier dirección*, para salir de encima de la unidad que está tocando. Cambia la regla que decía que seguía avanzando en línea recta. 
 
 
-</div>
 
-<div class="errata-box">
-
+{% capture errata %}
 **ERRATA (FAQ v1.5.1, p. 108 “Casting Spells”):** “A Wizard can attempt to cast a number of spells equal to their **Level of Wizardry per turn**, but may only attempt to cast each spell once per turn.”  
 
-<p class="regla-original">
 *REGLA ORIGINAL (Rulebook p. 108):* “A Wizard can only attempt to cast each of their spells once per turn.”   
-</p>
+{% endcapture %}
+<div class="errata-box">
+  {{ errata | markdownify }}
+</div>
 Ahora el Mago sólo puede intentar lanzar un número de hechizos igual a su Nivel de Hechicería en ese turno; aunque conozca conjuros adicionales gracias a objetos o reglas especiales, deberá elegir cuáles intenta y cuáles deja sin usar, porque el límite se aplica a los intentos, no al conocimiento
 
 
-</div>
 
-<div class="errata-box">
-
+{% capture errata %}
 **ERRATA (FAQ v1.5.1, p. 108 “Casting Roll, Casting Result & Casting Value”):** “The casting Wizard’s Level of Wizardry is then divided by 2 (rounding fractions up) and added to this roll to give a ‘casting result’.”   
 
-<p class="regla-original">
 *REGLA ORIGINAL (Rulebook p. 108):* “The casting Wizard’s Level is then added to the result of this roll to give a ‘casting result’.”   
-</p>
+{% endcapture %}
+<div class="errata-box">
+  {{ errata | markdownify }}
+</div>
 Esta corrección reduce el **bono de lanzamiento a la mitad del Nivel de Hechicería** (+2 para Niveles 3-4, +1 para Nivel 1-2), de modo que los hechizos potentes fallan con más frecuencia, se iguala la eficacia entre Magos de distinto nivel y cobra mayor importancia el uso táctico de objetos que repiten tiradas o añaden dados, haciendo la fase de magia menos explosiva y más estratégica.  
 
 
-</div>
 
 <div class="errata-box">
 
