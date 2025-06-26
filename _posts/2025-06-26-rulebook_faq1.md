@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Desentrañando las FAQs de ToW 1.5 - Rulebook 1ª parte
+title: FAQs de ToW 1.5 - Close Order y Magia
 date: 2025-06-26 01:00:00 +0200
 source_date: '2025-06-26'
 categories: ['articulo']
@@ -13,7 +13,7 @@ excerpt: >
 ---
 *Publicado originalmente el 26‑jun‑2025.*
 
-# Desentrañando las FAQs de ToW 1.5 - Rulebook 1ª Parte
+# FAQs ToW 1.5 - Rulebook 1ª Parte: Close Order y Magia
 
 Las nuevas FAQ y erratas sacuden sobre todo la **fase de magia** : cada Mago queda limitado a lanzar un máximo de hechizos igual a su **Nivel de Hechicería** , los bonificadores para **lanzar** y **dispersar** se reducen a la mitad, se matiza qué conjurador queda silenciado tras una disfunción, se permite **Wizardly Dispel** desde el combate y se aclara que basta estar a alcance de la plantilla para dispersar **vórtices**. Frente a estos cambios profundos, sólo hay dos ajustes menores: el +1 de **Close Order** exige ahora alcanzar **10 PU**, reforzando la importancia de los bloques grandes, y la nota sobre la **salvación especial** confirma que ningún modificador de armadura puede alterarla. El conjunto deja una magia menos explosiva y más táctica, subraya el peso de la masa en combate y distingue con nitidez la protección mágica de la física.1~Las nuevas FAQ y erratas sacuden sobre todo la **fase de magia**: cada Mago queda limitado a lanzar un máximo de hechizos igual a su **Nivel de Hechicería**, los bonificadores para **lanzar** y **dispersar** se reducen a la mitad, se matiza qué conjurador queda silenciado tras una disfunción, se permite **Wizardly Dispel** desde el combate y se aclara que basta estar a alcance de la plantilla para dispersar **vórtices**. Frente a estos cambios profundos, sólo hay dos ajustes menores: el +1 de **Close Order** exige ahora alcanzar **10 PU**, reforzando la importancia de los bloques grandes, y la nota sobre la **salvación especial** confirma que ningún modificador de armadura puede alterarla. El conjunto deja una magia menos explosiva y más táctica, subraya el peso de la masa en combate y distingue con nitidez la protección mágica de la física.1~Las nuevas FAQ y erratas sacuden sobre todo la **fase de magia**: cada Mago queda limitado a lanzar un máximo de hechizos igual a su **Nivel de Hechicería**, los bonificadores para **lanzar** y **dispersar** se reducen a la mitad, se matiza qué conjurador queda silenciado tras una disfunción, se permite **Wizardly Dispel** desde el combate y se aclara que basta estar a alcance de la plantilla para dispersar **vórtices**. Frente a estos cambios profundos, sólo hay dos ajustes menores: el +1 de **Close Order** exige ahora alcanzar **10 PU**, reforzando la importancia de los bloques grandes, y la nota sobre la **salvación especial** confirma que ningún modificador de armadura puede alterarla. El conjunto deja una magia menos explosiva y más táctica, subraya el peso de la masa en combate y distingue con nitidez la protección mágica de la física.
 
