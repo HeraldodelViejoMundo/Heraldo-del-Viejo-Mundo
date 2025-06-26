@@ -98,6 +98,42 @@ article.post p{
   margin:0 auto; !important;
   font-size:1.4rem; !important;
 
+/*11 . MÓVIL ≤768px -------------------------------------------------------*/
+@media (max-width:768px){
+  .wrapper {
+    padding: 1rem 1.5rem;
+  }
+
+  .tournament-box {
+    font-size: 0.95rem;
+    padding: 0.4rem;
+  }
+
+  .post-content p,
+  article.post p {
+    font-size: 1.2rem !important;
+  }
+
+  h1, h2, h3 {
+    font-size: 1.4em;
+  }
+
+  .torneo-card {
+    font-size: 13px;
+    padding: 0.6em 1em;
+  }
+
+  aside {
+    display: none;  /* oculta columnas laterales en móvil */
+  }
+}
+
+/*13 ———  Mejora de lectura global  ———  */
+h1, h2, h3, h4, h5 {
+  font-family: "IM Fell English SC", serif;
+}
+
+
 
 /*14 — Caja de ERRATA + Regla original ―––––––––––––––––––––––––––––––– */
 .errata-box {
@@ -128,16 +164,12 @@ p.regla-original {
 }
 
 
-
-/*11 . MÓVIL ≤768px -------------------------------------------------------*/
-@media (max-width:768px){
-
-
 /*--- Estilo banner Cookie Consent centrado --- */
 .cc-window {
   max-width: 420px;
+  font-size: 0.9rem;
+  padding: 1em;
+  text-align: center;
+  font-family: Georgia, serif;
+}
 
-
-/*13 ———  Mejora de lectura global  ———  */
-h1,h2,h3,h4,h5{
-  font-family:"IM Fell English SC",serif;
