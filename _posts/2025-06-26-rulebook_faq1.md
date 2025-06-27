@@ -13,7 +13,7 @@ excerpt: >
 ---
 *Publicado originalmente el 26‑jun‑2025.*
 
-# FAQs ToW 1.5 - Rulebook Parte 1: Magia, Cargas, Combate y Reglas Especiales.
+# FAQs ToW 1.5 - Rulebook Parte 1: Magia, Cargas, Combate y Reglas Especiales..
 
 El nuevo paquete de FAQ y erratas sacude sobre todo la **fase de magia**: ahora cada Mago está limitado a lanzar tantos hechizos como su **Nivel de Hechicería** y ve reducidos a la mitad los bonificadores para **lanzar** y **dispersar**, con ajustes que aclaran quién queda silenciado tras una **disfunción**, permiten dispersar **vórtices** a distancia de la plantilla y devuelven utilidad a los Magos trabados. Frente a esos cambios profundos, sólo hay una modificación relevante de combate —el +1 de **Close Order** exige llegar a **10 PU**— y una simple aclaración de reglas sobre las **salvaciones especiales**, que confirma que ningún modificador de armadura las afecta. El resultado global es un juego donde la magia se vuelve menos explosiva y más táctica, la masa de las unidades cuenta todavía más y la distinción entre protección física y mágica queda cristalina.
 
