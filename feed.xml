@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://www.elheraldodelviejomundo.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.elheraldodelviejomundo.com/" rel="alternate" type="text/html" /><updated>2025-06-27T02:11:13+00:00</updated><id>https://www.elheraldodelviejomundo.com/feed.xml</id><title type="html">https://El Heraldo del Viejo Mundo</title><subtitle>Noticias, rumores y estrategia de Warhammer: The Old World en español.</subtitle><entry><title type="html">FAQs de ToW 1.5 - Close Order y Magia</title><link href="https://www.elheraldodelviejomundo.com/articulo/2025/06/25/rulebook_faq1.html" rel="alternate" type="text/html" title="FAQs de ToW 1.5 - Close Order y Magia" /><published>2025-06-25T23:00:00+00:00</published><updated>2025-06-25T23:00:00+00:00</updated><id>https://www.elheraldodelviejomundo.com/articulo/2025/06/25/rulebook_faq1</id><content type="html" xml:base="https://www.elheraldodelviejomundo.com/articulo/2025/06/25/rulebook_faq1.html"><![CDATA[<p><em>Publicado originalmente el 26‑jun‑2025.</em></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://www.elheraldodelviejomundo.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.elheraldodelviejomundo.com/" rel="alternate" type="text/html" /><updated>2025-06-27T02:45:43+00:00</updated><id>https://www.elheraldodelviejomundo.com/feed.xml</id><title type="html">https://El Heraldo del Viejo Mundo</title><subtitle>Noticias, rumores y estrategia de Warhammer: The Old World en español.</subtitle><entry><title type="html">FAQs de ToW 1.5 - Close Order y Magia</title><link href="https://www.elheraldodelviejomundo.com/articulo/2025/06/25/rulebook_faq1.html" rel="alternate" type="text/html" title="FAQs de ToW 1.5 - Close Order y Magia" /><published>2025-06-25T23:00:00+00:00</published><updated>2025-06-25T23:00:00+00:00</updated><id>https://www.elheraldodelviejomundo.com/articulo/2025/06/25/rulebook_faq1</id><content type="html" xml:base="https://www.elheraldodelviejomundo.com/articulo/2025/06/25/rulebook_faq1.html"><![CDATA[<p><em>Publicado originalmente el 26‑jun‑2025.</em></p>
 
 <h1 id="faqs-tow-15---rulebook-parte-1-close-order-y-magia">FAQs ToW 1.5 - Rulebook Parte 1: Close Order y Magia</h1>
 
@@ -87,7 +87,80 @@
   <p><em>REGLA ORIGINAL (Rulebook p. 145): “Supporting Attacks: Some models are equipped with weapons that allow them to make a ‘supporting attack’. To make a supporting attack, a model must be directly behind a friendly model that is itself in a fighting rank. However, supporting attacks cannot be made to a unit’s flank or rear, nor can they be made by a model that is itself in a fighting rank.”</em></p>
 </div>
 
-<p>Ahora los <strong>ataques de apoyo</strong> solo se permiten a la miniaturas que están <strong>inmediatamente</strong> detrás de la fila de combate (fighting rank) <strong>y si están a una distancia</strong> de la unidad enemiga <strong>igual o menor</strong> a su valor de <strong>Movimiento</strong>. Las filas profundas siguen rindiendo, pero las formaciones desmesuradamente anchas pierden pegada, y un modelo que ya forme parte de la fila de combate nunca podrá sumar un ataque extra de apoyo. También aclara que, como norma general, no se pueden hacer ataques de apoyo por flanco o retaguardia.</p>]]></content><author><name></name></author><category term="articulo" /><summary type="html"><![CDATA[Empezamos una **nueva serie** analizando y explicando en **español**, una por una, todas las **FAQs** presentadas en el documento más importante, revolucionador e influyente que ha publicado Games Workshop hasta la fecha sobre *The Old World*.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.elheraldodelviejomundo.com/assets/img/2025-06/banner-faq.jpg" /><media:content medium="image" url="https://www.elheraldodelviejomundo.com/assets/img/2025-06/banner-faq.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Matched Play Guide Revelado en Español — 5ª Parte</title><link href="https://www.elheraldodelviejomundo.com/articulo/2025/06/25/matched-play-guide-parte5.html" rel="alternate" type="text/html" title="Matched Play Guide Revelado en Español — 5ª Parte" /><published>2025-06-25T06:00:00+00:00</published><updated>2025-06-25T06:00:00+00:00</updated><id>https://www.elheraldodelviejomundo.com/articulo/2025/06/25/matched-play-guide-parte5</id><content type="html" xml:base="https://www.elheraldodelviejomundo.com/articulo/2025/06/25/matched-play-guide-parte5.html"><![CDATA[<p><em>Publicado originalmente el 24‑jun‑2025.</em></p>
+<p>Ahora los <strong>ataques de apoyo</strong> solo se permiten a la miniaturas que están <strong>inmediatamente</strong> detrás de la fila de combate (fighting rank) <strong>y si están a una distancia</strong> de la unidad enemiga <strong>igual o menor</strong> a su valor de <strong>Movimiento</strong>. Las filas profundas siguen rindiendo, pero las formaciones desmesuradamente anchas pierden pegada, y un modelo que ya forme parte de la fila de combate nunca podrá sumar un ataque extra de apoyo. También aclara que, como norma general, no se pueden hacer ataques de apoyo por flanco o retaguardia.</p>
+
+<div class="errata-box">
+  <p><strong>ERRATA (FAQ v1.5.1, p. 146 “Charging Units”):</strong> “Charging Units: Change the second sentence of the first paragraph as follows: ‘To represent this, models gain a modifier to their Initiative characteristic during the Combat phase of a turn in which they charged (to a maximum of 10):’”</p>
+
+  <p><em>REGLA ORIGINAL (Rulebook p. 146): “Each combat must be fully resolved before moving onto the next one. Each combat is resolved in Initiative order. Models in a charging unit gain a bonus to their Initiative for the remainder of the turn depending on how far they charged (to a maximum of 10):   
+• Charging an enemy in their front arc: +1 Initiative per full 1” moved, to a maximum of +3.  
+• Charging an enemy in their flank or rear arc: +1 Initiative per full 1” moved, to a maximum of +4.”</em></p>
+</div>
+
+<p>La errata <strong>restringe</strong> el bonificador de <em>Iniciativa por carga</em> a la <em>fase de Combate</em> del turno en que la unidad cargó, en lugar de mantenerlo durante todo el turno. Así, el aumento ya no se aplica a pruebas de Iniciativa en <em>fases anteriores</em> (por ejemplo, hechizos). Además, aclara que modifica el atributo de iniciativa (importante por si hubiera algún chequeo de Ini en la fase de combate), para que no haya dudas.</p>
+
+<div class="errata-box">
+  <p><strong>ERRATA (FAQ v1.5.1, p. 170 “Fly (X)”):</strong>  
+“Except when following up or pursuing, a model with this special rule can choose to move by flying through the air, rather than moving across the ground as normal. When a model flies it uses a special ‘Fly Movement’ characteristic, shown in brackets after the name of this special rule (shown here as ‘X’). Models that choose to move by flying:” :contentReference[oaicite:0]{index=0}</p>
+
+  <p><em>REGLA ORIGINAL (Rulebook p. 170):</em>  
+“A model with this special rule can Fly. Models that can Fly can choose either to move normally on the ground (using their Movement characteristic), or to move by flying. How many inches a model can Fly varies from model to model, and will be shown in brackets after the name of this special rule (shown here as ‘X’). Models that choose to move by flying:”</p>
+</div>
+
+<p>Ahora, las miniaturas que pueden volar, <strong>no pueden</strong> usar esta regla especial en <strong>persecuciones</strong> y <strong>arrasamientos</strong>, lo que impide “saltar” obstáculos gratis al seguir o perseguir. Además, el texto introduce un <strong>valor de “Fly Movement” independiente</strong>: cualquier efecto que modifique el Movimiento terrestre modifica también ese nuevo atributo, lo que aclara interacciones con hechizos o reglas que aumentan o reducen el M.</p>
+
+<div class="errata-box">
+  <p><strong>ERRATA (FAQ v1.5.1, p. 170 “Frenzy”):</strong>  
+“During a turn in which it made a charge move, or during the turn after it made a follow up move, a Frenzied model has a +1 modifier to its Attacks characteristic. However, a Frenzied rider does not confer this modifier to their mount, and vice versa.”</p>
+
+  <p><em>REGLA ORIGINAL (Rulebook p. 170):</em>  
+“A Frenzied model has a +1 modifier to its Attacks characteristic. This modifier does not apply to the model’s mount (in the case of a cavalry model), to the beasts that draw it (in the case of a chariot), or to its rider (in the case of a monster).</p>
+
+</div>
+
+<p>Con la errata, el bono de <strong>+1 Ataque solo se aplica</strong> mientras la unidad <strong>carga</strong> o justo después de un “follow up”**; desaparece el aumento permanente. Nerfeo sorprendente a esta regla que no era particularmente problemática.</p>
+
+<div class="errata-box">
+  <p><strong>ERRATA (FAQ v1.5.1, p. 172 “Impact Hits (X)”):</strong> “Impact Hits are resolved against the charged unit when the combat is chosen during Step 1.1 of the Choose Combat &amp; Fight sub-phase, before issuing challenges. They hit automatically and use the unmodified Strength of the model making them.”</p>
+
+  <p><em>REGLA ORIGINAL (Rulebook p. 172):</em> “<strong>Impact Hits (X)</strong></p>
+
+  <p>Impact hits are attacks made in combat that always strike at Initiative 10 (regardless of modifiers), and that hit automatically using the unmodified Strength characteristic of the model.”</p>
+</div>
+
+<p>Con esta corrección, los <strong>Impact Hits</strong> ya no se resuelven en el momento del impacto ni en orden de Iniciativa 10, sino al principio de la sub-fase 1.1, <strong>antes de declarar desafíos</strong>. De este modo siempre afectan a la unidad cargada, evitando que los desafíos anulen estos golpes automáticos.</p>
+
+<div class="errata-box">
+  <p><strong>ERRATA (FAQ v.1.5.1, p. 172 “Impetuous”):</strong> “If during the Declare Charges &amp; Charge Reactions sub-phase of its turn, a unit that includes one or more Impetuous models is able to declare a charge, it must make a Leadership test. If this test is failed, the unit must declare a charge. If this test is passed, the unit may act as normal.”</p>
+
+  <p><em>REGLA ORIGINAL (Rulebook p. 172):</em> “<strong>Impetuous</strong>  
+The eagerness of brash and brave warriors can lead them into foolish charges.  
+If during the Declare Charges &amp; Charge Reactions sub-phase of its turn, a unit that includes one or more Impetuous models is able to declare a charge, roll a D6. On a roll of 1-3, the unit must declare a charge. On a roll of 4+, the unit may act as normal.”</p>
+</div>
+
+<p>El rasgo <strong>impetuoso</strong> deja de depender de azar puro y pasa a un <strong>chequeo de Liderazgo</strong>: unidades disciplinadas podrán contenerse, mientras que tropas con Ld bajo lo sufrirán más.</p>
+
+<div class="errata-box">
+  <p><strong>ERRATA (FAQ v.1.5.1, p. 172 “Large Target”):</strong> “Large Targets do not benefit from partial or full cover. In addition, a unit can draw a line of sight to a Large Target over or through another unit, and vice versa, provided that unit is not also a Large Target. Finally, a unit that shoots at a Large Target can shoot with one additional rank. For example, a unit armed with crossbows can shoot with its first two ranks when shooting at a Large Target, or with its first three if also standing on a hill.”</p>
+
+  <p><em>REGLA ORIGINAL (Rulebook p. 172):</em> “<strong>Large Target</strong>  
+Monstrous creatures tower above the battlefield, visible to all for leagues around.  
+Enemy models never suffer To-Hit modifiers for full or partial cover when shooting at models with this special rule. In addition, a model can draw a line of sight to a model with this special rule over or through other models, and vice versa.”</p>
+</div>
+
+<p>Los <strong>Large Targets</strong> siguen sin beneficiarse de cobertura, y sin que nada bloquee la línea de visión (salvo otro objetivo grande). Pero el gran cambio es ahora los enemigos <strong>sólo</strong> obtienen <strong>una fila extra de disparo</strong> contra ellos. Primer gatorrazo a los bloques de arqueros con envenenados y primera ventaja que ganan los monstruos grandotes.</p>
+
+<div class="errata-box">
+  <p><strong>ERRATA (FAQ v1.5.1, p. 175 “Poisoned Attacks”):</strong>  
+“For each roll To Hit of a natural 6 a model with Poisoned Attacks makes, they may apply a +2 modifier to one of their rolls To Wound.”</p>
+
+  <p><em>REGLA ORIGINAL (Rulebook p. 175):</em>  
+“<strong>Poisoned Attacks</strong></p>
+
+  <p>If a model with Poisoned Attacks rolls a natural 6 when making a roll To Hit, that hit will wound automatically.&lt;/div&gt;</p>
+
+  <p>La errata cambia por completo la mecánica del veneno: el 6 natural <strong>ya no</strong> provoca <strong>herida automática</strong>, sino un <strong>+2 a Herir</strong>. Esto reduce drásticamente la eficacia de las “<em>death star</em>” de arqueros con veneno, porque contra criaturas de Resistencia alta (T 6-8) siguen necesitando una tirada de herir (p.ej., pasan de herir siempre a hacerlo solo a 4+ o 5+). Segundo garrotazo que se llevan, en beneficio de los monstruos de R alta.</p>
+</div>]]></content><author><name></name></author><category term="articulo" /><summary type="html"><![CDATA[Empezamos una **nueva serie** analizando y explicando en **español**, una por una, todas las **FAQs** presentadas en el documento más importante, revolucionador e influyente que ha publicado Games Workshop hasta la fecha sobre *The Old World*.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.elheraldodelviejomundo.com/assets/img/2025-06/banner-faq.jpg" /><media:content medium="image" url="https://www.elheraldodelviejomundo.com/assets/img/2025-06/banner-faq.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Matched Play Guide Revelado en Español — 5ª Parte</title><link href="https://www.elheraldodelviejomundo.com/articulo/2025/06/25/matched-play-guide-parte5.html" rel="alternate" type="text/html" title="Matched Play Guide Revelado en Español — 5ª Parte" /><published>2025-06-25T06:00:00+00:00</published><updated>2025-06-25T06:00:00+00:00</updated><id>https://www.elheraldodelviejomundo.com/articulo/2025/06/25/matched-play-guide-parte5</id><content type="html" xml:base="https://www.elheraldodelviejomundo.com/articulo/2025/06/25/matched-play-guide-parte5.html"><![CDATA[<p><em>Publicado originalmente el 24‑jun‑2025.</em></p>
 
 <h1 id="matched-play-guide-revelado-en-español--5ª-parte">Matched Play Guide Revelado en Español — 5ª Parte</h1>
 
