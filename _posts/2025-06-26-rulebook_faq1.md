@@ -100,8 +100,9 @@ La nueva redacción aclara sólo las reglas que citen expresamente las *Warding 
 *REGLA ORIGINAL (Rulebook p. 145 “The Fighting Rank”): “When two opposing units are engaged in combat, any row of models (be it a rank or file) that has one or more models in base contact with the enemy is called the ‘fighting rank’. Every model within the fighting rank can fight.”*
 </div>
 
-Esta errata restringe quién puede atacar: solo los modelos de la fighting rank que, además, estén a una **distancia** de la unidad enemiga **igual o menor** a su valor de **Movimiento**. Se elimina así la práctica de *linehammer*, porque una línea excesivamente ancha ya no podrá golpear con sus extremos; cuanto mayor sea el **Movimiento**, mayor será el “alcance” real de esa primera fila.  
-
+Esta errata restringe quién puede atacar: solo los modelos de la fighting rank que, **además** , estén a una **distancia** de la unidad enemiga **igual o menor** a su valor de **Movimiento**. 
+Se elimina así la práctica de *linehammer*, porque una línea excesivamente ancha ya no podrá golpear con sus extremos; cuanto mayor sea el **Movimiento**, mayor será el “alcance” real de esa primera fila.  
+Quedan perjudicadas las miniaturas en peana de 30mm que pegará alguna mini menos.
 
 
 <div class="errata-box" markdown="1">
