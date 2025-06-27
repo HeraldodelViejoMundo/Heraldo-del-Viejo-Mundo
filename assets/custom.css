@@ -100,8 +100,6 @@ p {
 .wrapper p,
 .post-content p,
 article.post p {
-  text-align: justify;
-  text-justify: inter-word;
   max-width: 1200px;
   margin: 0 auto;
   font-size: 1.4rem;
