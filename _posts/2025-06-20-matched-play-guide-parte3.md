@@ -137,7 +137,7 @@ Cuando el final de partida se rige por Break Point, el ejército que reduzca al 
 **Secundarios obligatorios:** Localizaciones Estratégicas (2); opcional Dominación.
 **Consejo:** la falta de espacio penaliza bloques grandes y premia cargas frontales contundentes.
 
-![Escenarios 3y4](/assets/img/2025-06/Escenarios56.png "escenarios 3 y 4")
+![Escenarios 3y4](/assets/img/2025-06/Escenarios34.png "escenarios 3 y 4")
 
 ## 5. Encuentro Casual *(A Chance Encounter)*
 
