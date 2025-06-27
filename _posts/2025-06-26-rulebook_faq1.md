@@ -27,7 +27,7 @@ El nuevo paquete de FAQ y erratas sacude sobre todo la **fase de magia**: ahora 
 La corrección exige ahora alcanzar **al menos FU 10** para conservar el +1 al resultado de combate, de modo que *bloques grandes de infantería* (1 PU por miniatura) lo mantienen con *10+ modelos*, mientras que *formaciones reducidas*, *carros pesados* (PU 5), *monstruos* y la mayoría de los *dragones* (PU ≈ Heridas, 6-9) *lo pierden*; si la unidad suma 10 PU con personajes añadidos, recupera la bonificación. Así se premia la masa coherente, se evita una ventaja desproporcionada a unidades pequeñas o bestias aisladas y se refuerza la interacción con reglas basadas en la **Fuerza de Unidad**, como Disrupción o chequeos de Desmoralización, subrayando que en Warhammer: The Old World la presión numérica — no solo la calidad— decide los combates.
 
 <div class="errata-box" markdown="1">
-**ERRATA (FAQ v1.5.1, pág. 107 “Magical Vortex”):** "Some Magical Vortexes move at the start of each turn, often by scattering. Should a Magical Vortex end such a move over a unit, move it by the smallest amount possible, **in any direction** , so that it can be placed on the battlefield, not touching the bases of any models."  
+**ERRATA (FAQ v1.5.1, pág. 107 “Magical Vortex”):** "Some Magical Vortexes move at the start of each turn, often by scattering. Should a Magical Vortex end such a move over a unit, move it by the smallest amount possible, in any direction , so that it can be placed on the battlefield, not touching the bases of any models."  
 
 *REGLA ORIGINAL (Rulebook p. 107): "Some Magical Vortexes move at the start of each turn. If a Magical Vortex ever ends such a move over a unit, continue to move it in the same direction until it can be placed on the battlefield, not touching the bases of any models."*
 
@@ -36,7 +36,7 @@ La inclusión de la expresión **«in any direction»** implica que, cuando el v
 
 
 <div class="errata-box" markdown="1">
-**ERRATA (FAQ v1.5.1, p. 108 “Casting Spells”):** “A Wizard can attempt to cast a number of spells equal to their **Level of Wizardry per turn**, but may only attempt to cast each spell once per turn.”  
+**ERRATA (FAQ v1.5.1, p. 108 “Casting Spells”):** “A Wizard can attempt to cast a number of spells equal to their Level of Wizardry per turn, but may only attempt to cast each spell once per turn.”  
 
 *REGLA ORIGINAL (Rulebook p. 108): “A Wizard can only attempt to cast each of their spells once per turn.”*   
 </div>
@@ -52,7 +52,7 @@ Esta corrección reduce el **bono de lanzamiento a la mitad del Nivel de Hechice
 
 
 <div class="errata-box" markdown="1">
-**ERRATA (FAQ v1.5.1, p. 109 “Miscast Table – 8-9 Barely Controlled Power”):** “However, **the Wizard cannot attempt to cast any more spells for the remainder of the current turn**.”  
+**ERRATA (FAQ v1.5.1, p. 109 “Miscast Table – 8-9 Barely Controlled Power”):** “However, the Wizard cannot attempt to cast any more spells for the remainder of the current turn.”  
 
 *REGLA ORIGINAL (Rulebook p. 109): “However, **you cannot attempt to cast any more spells for the remainder of the current turn**.”*  
 </div>
@@ -77,7 +77,7 @@ La bonificación al intento de dispersión se reduce ahora a **la mitad** del **
 
 
 <div class="errata-box" markdown="1">
-**ERRATA (FAQ v1.5.1, p. 111 “Dispelling Remains in Play Spells”):** “To do so, you may attempt either a Fated dispel or a Wizardly dispel (provided the Wizard making the attempt is within Dispel range of the Wizard that cast the spell **or, in the case of a Magical Vortex, within range of the template representing the spell**).”    
+**ERRATA (FAQ v1.5.1, p. 111 “Dispelling Remains in Play Spells”):** “To do so, you may attempt either a Fated dispel or a Wizardly dispel (provided the Wizard making the attempt is within Dispel range of the Wizard that cast the spell or, in the case of a Magical Vortex, within range of the template representing the spell).”    
 
 *REGLA ORIGINAL (Rulebook p. 111):  “To do so, you may attempt either a Fated dispel or a Wizardly dispel (provided the Wizard making the attempt is within Dispel range of the Wizard that cast the spell).”* 
 </div>
