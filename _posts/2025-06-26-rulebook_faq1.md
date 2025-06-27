@@ -111,3 +111,89 @@ Esta errata restringe quién puede atacar: solo los modelos de la fighting rank 
 </div>
 
 Ahora los **ataques de apoyo** solo se permiten a la miniaturas que están **inmediatamente** detrás de la fila de combate (fighting rank) **y si están a una distancia** de la unidad enemiga **igual o menor** a su valor de **Movimiento**. Las filas profundas siguen rindiendo, pero las formaciones desmesuradamente anchas pierden pegada, y un modelo que ya forme parte de la fila de combate nunca podrá sumar un ataque extra de apoyo. También aclara que, como norma general, no se pueden hacer ataques de apoyo por flanco o retaguardia.
+
+
+<div class="errata-box" markdown="1">
+**ERRATA (FAQ v1.5.1, p. 146 “Charging Units”):** “Charging Units: Change the second sentence of the first paragraph as follows: ‘To represent this, models gain a modifier to their Initiative characteristic during the Combat phase of a turn in which they charged (to a maximum of 10):’”
+
+*REGLA ORIGINAL (Rulebook p. 146): “Each combat must be fully resolved before moving onto the next one. Each combat is resolved in Initiative order. Models in a charging unit gain a bonus to their Initiative for the remainder of the turn depending on how far they charged (to a maximum of 10):   
+• Charging an enemy in their front arc: +1 Initiative per full 1" moved, to a maximum of +3.  
+• Charging an enemy in their flank or rear arc: +1 Initiative per full 1" moved, to a maximum of +4.”* 
+</div>
+
+La errata **restringe** el bonificador de *Iniciativa por carga* a la *fase de Combate* del turno en que la unidad cargó, en lugar de mantenerlo durante todo el turno. Así, el aumento ya no se aplica a pruebas de Iniciativa en *fases anteriores* (por ejemplo, hechizos). Además, aclara que modifica el atributo de iniciativa (importante por si hubiera algún chequeo de Ini en la fase de combate), para que no haya dudas.  
+
+
+
+<div class="errata-box" markdown="1">
+**ERRATA (FAQ v1.5.1, p. 170 “Fly (X)”):**  
+“Except when following up or pursuing, a model with this special rule can choose to move by flying through the air, rather than moving across the ground as normal. When a model flies it uses a special ‘Fly Movement’ characteristic, shown in brackets after the name of this special rule (shown here as ‘X’). Models that choose to move by flying:” :contentReference[oaicite:0]{index=0}  
+
+*REGLA ORIGINAL (Rulebook p. 170):*  
+“A model with this special rule can Fly. Models that can Fly can choose either to move normally on the ground (using their Movement characteristic), or to move by flying. How many inches a model can Fly varies from model to model, and will be shown in brackets after the name of this special rule (shown here as ‘X’). Models that choose to move by flying:”  
+</div>
+
+Ahora, las miniaturas que pueden volar, **no pueden** usar esta regla especial en **persecuciones** y **arrasamientos**, lo que impide “saltar” obstáculos gratis al seguir o perseguir. Además, el texto introduce un **valor de “Fly Movement” independiente**: cualquier efecto que modifique el Movimiento terrestre modifica también ese nuevo atributo, lo que aclara interacciones con hechizos o reglas que aumentan o reducen el M.  
+
+
+
+<div class="errata-box" markdown="1">
+**ERRATA (FAQ v1.5.1, p. 170 “Frenzy”):**  
+“During a turn in which it made a charge move, or during the turn after it made a follow up move, a Frenzied model has a +1 modifier to its Attacks characteristic. However, a Frenzied rider does not confer this modifier to their mount, and vice versa.”  
+
+*REGLA ORIGINAL (Rulebook p. 170):*  
+“A Frenzied model has a +1 modifier to its Attacks characteristic. This modifier does not apply to the model’s mount (in the case of a cavalry model), to the beasts that draw it (in the case of a chariot), or to its rider (in the case of a monster).  
+
+</div>
+
+Con la errata, el bono de **+1 Ataque solo se aplica** mientras la unidad **carga** o justo después de un “follow up”**; desaparece el aumento permanente. Nerfeo sorprendente a esta regla que no era particularmente problemática.
+
+
+
+<div class="errata-box" markdown="1">
+**ERRATA (FAQ v1.5.1, p. 172 “Impact Hits (X)”):** “Impact Hits are resolved against the charged unit when the combat is chosen during Step 1.1 of the Choose Combat & Fight sub-phase, before issuing challenges. They hit automatically and use the unmodified Strength of the model making them.”
+
+*REGLA ORIGINAL (Rulebook p. 172):* “**Impact Hits (X)**  
+
+Impact hits are attacks made in combat that always strike at Initiative 10 (regardless of modifiers), and that hit automatically using the unmodified Strength characteristic of the model.”
+</div>
+
+Con esta corrección, los **Impact Hits** ya no se resuelven en el momento del impacto ni en orden de Iniciativa 10, sino al principio de la sub-fase 1.1, **antes de declarar desafíos**. De este modo siempre afectan a la unidad cargada, evitando que los desafíos anulen estos golpes automáticos.  
+
+
+
+
+<div class="errata-box" markdown="1">
+**ERRATA (FAQ v.1.5.1, p. 172 “Impetuous”):** “If during the Declare Charges & Charge Reactions sub-phase of its turn, a unit that includes one or more Impetuous models is able to declare a charge, it must make a Leadership test. If this test is failed, the unit must declare a charge. If this test is passed, the unit may act as normal.”
+
+*REGLA ORIGINAL (Rulebook p. 172):* “**Impetuous**  
+The eagerness of brash and brave warriors can lead them into foolish charges.  
+If during the Declare Charges & Charge Reactions sub-phase of its turn, a unit that includes one or more Impetuous models is able to declare a charge, roll a D6. On a roll of 1-3, the unit must declare a charge. On a roll of 4+, the unit may act as normal.”
+</div>
+
+El rasgo **impetuoso** deja de depender de azar puro y pasa a un **chequeo de Liderazgo**: unidades disciplinadas podrán contenerse, mientras que tropas con Ld bajo lo sufrirán más. 
+
+
+<div class="errata-box" markdown="1">
+**ERRATA (FAQ v.1.5.1, p. 172 “Large Target”):** “Large Targets do not benefit from partial or full cover. In addition, a unit can draw a line of sight to a Large Target over or through another unit, and vice versa, provided that unit is not also a Large Target. Finally, a unit that shoots at a Large Target can shoot with one additional rank. For example, a unit armed with crossbows can shoot with its first two ranks when shooting at a Large Target, or with its first three if also standing on a hill.”
+
+*REGLA ORIGINAL (Rulebook p. 172):* “**Large Target**  
+Monstrous creatures tower above the battlefield, visible to all for leagues around.  
+Enemy models never suffer To-Hit modifiers for full or partial cover when shooting at models with this special rule. In addition, a model can draw a line of sight to a model with this special rule over or through other models, and vice versa.”
+</div>
+
+Los **Large Targets** siguen sin beneficiarse de cobertura, y sin que nada bloquee la línea de visión (salvo otro objetivo grande). Pero el gran cambio es ahora los enemigos **sólo** obtienen **una fila extra de disparo** contra ellos. Primer gatorrazo a los bloques de arqueros con envenenados y primera ventaja que ganan los monstruos grandotes.
+
+
+
+<div class="errata-box" markdown="1">
+**ERRATA (FAQ v1.5.1, p. 175 “Poisoned Attacks”):**  
+“For each roll To Hit of a natural 6 a model with Poisoned Attacks makes, they may apply a +2 modifier to one of their rolls To Wound.” 
+
+*REGLA ORIGINAL (Rulebook p. 175):*  
+“**Poisoned Attacks**  
+
+
+If a model with Poisoned Attacks rolls a natural 6 when making a roll To Hit, that hit will wound automatically.</div>
+
+La errata cambia por completo la mecánica del veneno: el 6 natural **ya no** provoca **herida automática**, sino un **+2 a Herir**. Esto reduce drásticamente la eficacia de las “*death star*” de arqueros con veneno, porque contra criaturas de Resistencia alta (T 6-8) siguen necesitando una tirada de herir (p.ej., pasan de herir siempre a hacerlo solo a 4+ o 5+). Segundo garrotazo que se llevan, en beneficio de los monstruos de R alta.
