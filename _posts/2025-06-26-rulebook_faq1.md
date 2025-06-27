@@ -94,3 +94,20 @@ La errata varía la condición de alcance para dispersar vórtices: en vez de la
 La nueva redacción aclara sólo las reglas que citen expresamente las *Warding values* pueden alterar las Tisaras de Salvación Especial. Ni el AP de las armas, ni objetos que mejoran o empeoran la armadura afectan a una salvación especial. Una aclaración que sólo necesitaban los que intentaban forzar el reglamento.
 
 
+<div class="errata-box" markdown="1">
+**ERRATA (FAQ v1.5.1, p. 145 “The Fighting Rank”):** “When two opposing units are engaged in combat, any row of models (be it a rank or file) in which one or more is in base contact with the enemy is a ‘fighting rank’. Any model that is within a fighting rank and within a number of inches equal to its Movement of the enemy unit can fight. This represents models closing in upon the foe.”
+
+*REGLA ORIGINAL (Rulebook p. 145): “When two opposing units are engaged in combat, any row of models (be it a rank or file) that has one or more models in base contact with the enemy is called the ‘fighting rank’. Every model within the fighting rank can fight.”*
+</div>
+
+Esta errata restringe quién puede atacar: solo los modelos de la fighting rank que, además, estén a una **distancia** de la unidad enemiga **igual o menor** a su valor de **Movimiento**. Se elimina así la práctica de *linehammer*, porque una línea excesivamente ancha ya no podrá golpear con sus extremos; cuanto mayor sea el **Movimiento**, mayor será el “alcance” real de esa primera fila.  
+
+
+
+<div class="errata-box" markdown="1">
+**ERRATA (FAQ v1.5.1, p. 145 “Supporting Attacks”):** “Models whose weapons allow them to make a ‘supporting attack’ can do so if they are in the rank or file directly behind the fighting rank of their unit, and within a number of inches equal to their Movement of the enemy unit. However, supporting attacks cannot be made to a unit’s flank or rear, or by a model that is itself in a fighting rank.”
+
+*REGLA ORIGINAL (Rulebook p. 145): “Supporting Attacks: Some models are equipped with weapons that allow them to make a ‘supporting attack’. To make a supporting attack, a model must be directly behind a friendly model that is itself in a fighting rank. However, supporting attacks cannot be made to a unit’s flank or rear, nor can they be made by a model that is itself in a fighting rank.”*
+</div>
+
+Ahora los **ataques de apoyo** solo se permiten a la miniaturas que están **inmediatamente** detrás de la fila de combate (fighting rank) **y si están a una distancia** de la unidad enemiga **igual o menor** a su valor de **Movimiento**. Las filas profundas siguen rindiendo, pero las formaciones desmesuradamente anchas pierden pegada, y un modelo que ya forme parte de la fila de combate nunca podrá sumar un ataque extra de apoyo. También aclara que, como norma general, no se pueden hacer ataques de apoyo por flanco o retaguardia.
