@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: FAQs de ToW 1.5 - Reglas básicas - Magia, Cargas y Combate.
