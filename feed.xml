@@ -1,4 +1,89 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://www.elheraldodelviejomundo.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.elheraldodelviejomundo.com/" rel="alternate" type="text/html" /><updated>2025-06-29T13:00:38+00:00</updated><id>https://www.elheraldodelviejomundo.com/feed.xml</id><title type="html">https://El Heraldo del Viejo Mundo</title><subtitle>Noticias, rumores y estrategia de Warhammer: The Old World en español.</subtitle><entry><title type="html">FAQs de ToW 1.5 - Reglas Especiales.</title><link href="https://www.elheraldodelviejomundo.com/articulo/2025/06/27/rulebook_faq2.html" rel="alternate" type="text/html" title="FAQs de ToW 1.5 - Reglas Especiales." /><published>2025-06-27T22:05:00+00:00</published><updated>2025-06-27T22:05:00+00:00</updated><id>https://www.elheraldodelviejomundo.com/articulo/2025/06/27/rulebook_faq2</id><content type="html" xml:base="https://www.elheraldodelviejomundo.com/articulo/2025/06/27/rulebook_faq2.html"><![CDATA[<p><em>Publicado originalmente el 28‑jun‑2025.</em></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://www.elheraldodelviejomundo.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.elheraldodelviejomundo.com/" rel="alternate" type="text/html" /><updated>2025-06-29T13:11:55+00:00</updated><id>https://www.elheraldodelviejomundo.com/feed.xml</id><title type="html">https://El Heraldo del Viejo Mundo</title><subtitle>Noticias, rumores y estrategia de Warhammer: The Old World en español.</subtitle><entry><title type="html">FAQs de ToW 1.5 - Reglas Especiales.</title><link href="https://www.elheraldodelviejomundo.com/articulo/2025/06/29/rulebook_faq3.html" rel="alternate" type="text/html" title="FAQs de ToW 1.5 - Reglas Especiales." /><published>2025-06-29T12:00:00+00:00</published><updated>2025-06-29T12:00:00+00:00</updated><id>https://www.elheraldodelviejomundo.com/articulo/2025/06/29/rulebook_faq3</id><content type="html" xml:base="https://www.elheraldodelviejomundo.com/articulo/2025/06/29/rulebook_faq3.html"><![CDATA[<p><em>Publicado originalmente el 29‑jun‑2025.</em></p>
+
+<h1 id="faqs-tow-15---rulebook-parte-2-reglas-especiales">FAQs ToW 1.5 - Rulebook Parte 2: Reglas Especiales.</h1>
+
+<div class="errata-box">
+  <p><strong>Rulebook p. 213 “More Than One Combat Weapon”:</strong>  
+“If a unit that is engaged in combat is equipped with two or more combat weapons, you must choose which weapon it will fight with when its combat is chosen during Step 1.1 of each and every Choose &amp; Fight Combat sub-phase.”</p>
+
+  <p><em>REGLA ORIGINAL: “• If a unit is equipped with two or more combat weapons, you must choose which it will use when its combat is chosen during Step 1.1 of the Choose &amp; Fight Combat sub-phase. • Unless the weapon itself states otherwise (as do lances, for example), a unit cannot change weapons between rounds of combat if it remains locked in place and engaged in combat. El arma escogida para la primera ronda debe usarse durante todo el combate.”</em></p>
+</div>
+<p>CAMBIO: Ahora, cuando una miniatura lleva equipadas diferentes opciones de armas, el jugador elige el arma con el que van a luchar al principio <strong>de cada ronda de combate</strong>, pudiendo cambiar de armas entre ronda y ronda</p>
+
+<div class="errata-box">
+  <p><strong>Rulebook p. 215 “Lance”:</strong>  
+“Notes: Models whose troop type is ‘cavalry’ or ‘monster’ only. A lance can only be used during a turn in which the wielder charged, and its Strength and Armour Piercing modifiers apply only against enemy models the wielder charged that turn.”</p>
+
+  <p><em>REGLA ORIGINAL: “Notes: Models whose troop type is ‘cavalry’ or ‘monster’ only. A lance can only be used during a turn in which the wielder charged. In subsequent turns (or if the wielder did not charge) the model must use its hand weapon instead.”</em></p>
+</div>
+<p>CAMBIO: Se aclara que los modificadores de <em>Fuerza +2</em> y <em>Penetración de Armadura -2</em> solo se aplican contra los enemigos <strong>contra los que se ha cargado</strong>.</p>
+
+<div class="errata-box">
+  <p><strong>Rulebook p. 220 “Maximum Armour Value”:</strong>  
+“Regardless of the armour it wears or the equipment it carries, there is a limit to how well protected a model can be, with larger models proving much harder to encase in armour than their smaller counterparts. To represent this, models whose troop type is:</p>
+
+  <p>• ‘Infantry’ or ‘cavalry’ can never have an armour value better than 2+.</p>
+
+  <p>• ‘Chariot’, ‘monster’ or ‘war machine’ can never have an armour value better than 3+.</p>
+
+  <p>Any bonuses, regardless of their source, that would improve a model’s armour further have no effect.” :contentReference[oaicite:0]{index=0}</p>
+</div>
+<p><em>REGLA ORIGINAL: “Regardless of the armour it wears or the equipment it carries, a model can never have an armour value better than 2+. Any bonuses, be they granted by equipment, special rules, spells or from any other source, that would improve a model’s armour further have no effect.”</em> :contentReference[oaicite:1]{index=1}</p>
+
+<p>CAMBIO: Se mantiene el límite de <strong>2+</strong> solo para <strong>Infantry</strong> y <strong>Cavalry</strong>, y se eleva a <strong>3+</strong> para <strong>Chariot, Monster y War Machine</strong>. Así, los modelos grandes ya no pueden alcanzar la mejor tirada de salvación del juego, tratando de potenciar infantería y caballería frente a grandes monstruos y carros.</p>
+
+<div class="errata-box">
+  <p><strong>Rulebook p. 227 “Crunch”:</strong>  
+“If the path of the cannonball meets a hill, impassable terrain or a high linear obstacle, it stops immediately. No further models are hit.”</p>
+
+  <p><em>REGLA ORIGINAL: “If the cannonball hits impassable terrain or a high linear obstacle, it stops immediately. No further models are hit.”</em></p>
+</div>
+<p>CAMBIO: Se añade que la <strong>trayectoria</strong> de la bola de cañón también se detiene al contactar con una <strong>colina</strong> y no solo con terreno impasable u obstáculos altos, de modo que las colinas bloquean el rebote del proyectil igual que un muro.</p>
+
+<div class="errata-box">
+  <p><strong>Rulebook p. 286 “Dead or Fled”:</strong>  
+“Each enemy unit that has been reduced to 25% of its starting Unit Strength or less at the end of the battle or, if its Unit Strength is equal to its starting Wounds, to 25% of its starting Wounds or less at the end of the battle, is worth a number of Victory Points equal to 50% of its points cost (rounding fractions up).”</p>
+</div>
+<p><em>REGLA ORIGINAL: “Each enemy unit that has been reduced to less than 25% of its starting Unit Strength at the end of the battle is worth a number of Victory Points equal to 25% of its points cost (rounding fractions up).”</em></p>
+
+<p>CAMBIO:</p>
+<ol>
+  <li>La condición ahora incluye el <strong>25 % exacto</strong> (antes era “menos del 25 %”).</li>
+  <li>Afecta <strong>también</strong> a unidades cuya <strong>PU dependa de las heridas iniciales</strong> (como monstruos, dragones, etc.).</li>
+  <li>La recompensa pasa de <strong>25 % a 50 %</strong> del coste en puntos, duplicando los VP que otorga una unidad muy mermada.</li>
+</ol>
+
+<table>
+  <thead>
+    <tr>
+      <th>Arma</th>
+      <th>Reglas Originales (Rulebook)</th>
+      <th>FAQ / Errata v1.5.1</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Mayal (Flail)</strong></td>
+      <td><strong>Perfil:</strong> R Combat, S +2, AP -2, <em>Requires Two Hands</em>.<br /><strong>Notas:</strong> El modificador de Fuerza solo se aplica durante la <strong>primera ronda</strong> de combate.</td>
+      <td><strong>Perfil:</strong> R Combat, S +2, AP -2, <em>Armour Bane (1), Requires Two Hands</em>.<br /><strong>Notas:</strong> El modificador de Fuerza <strong>y</strong> Armour Bane (1) se aplican <strong>solo contra las miniaturas cargadas ese turno</strong>.</td>
+    </tr>
+    <tr>
+      <td><strong>Alabarda (Halberd)</strong></td>
+      <td><strong>Perfil:</strong> R Combat, S +1, AP -1, <em>Armour Bane (1), Requires Two Hands</em>. :contentReference[oaicite:2]{index=2}</td>
+      <td><strong>Perfil:</strong> R Combat, S +1, AP -1 (-2 contra el enemigo cargado), <em>Armour Bane (1), Requires Two Hands</em>.<br /><strong>Notas:</strong> AP -2 se aplica <strong>solo contra las miniaturas cargadas ese turno</strong>.</td>
+    </tr>
+    <tr>
+      <td><strong>Estrella de la Mañana (Morning Star)</strong></td>
+      <td><strong>Perfil:</strong> R Combat, S +1, AP -1, –.<br /><strong>Notas:</strong> El modificador de Fuerza solo se aplica durante la <strong>primera ronda</strong> de combate. :contentReference[oaicite:4]{index=4}</td>
+      <td><strong>Perfil:</strong> R Combat, S +1, AP -1, <em>Armour Bane (1).</em><br /><strong>Notas:</strong> El modificador de Fuerza <strong>y</strong> Armour Bane (1) se aplican <strong>solo contra las miniaturas cargadas ese turno</strong>.</td>
+    </tr>
+    <tr>
+      <td><strong>Lanza de Caballería (Lance)</strong></td>
+      <td><strong>Perfil:</strong> R Combat, S +2, AP -2, <em>Armour Bane (1).</em><br /><strong>Notas:</strong> Solo ‘cavalry/monster’. Puede usarse <strong>solo el turno de la carga</strong>; en turnos posteriores se debe usar arma de mano. :contentReference[oaicite:6]{index=6}</td>
+      <td>(Perfil sin cambios)<br /><strong>Notas (revisadas):</strong> Puede usarse solo el turno de la carga <strong>y</strong> sus modificadores de S +2 y AP -2 se aplican <strong>solo contra las miniaturas cargadas ese turno</strong>.</td>
+    </tr>
+  </tbody>
+</table>]]></content><author><name></name></author><category term="articulo" /><summary type="html"><![CDATA[Continuamos con las **FAQs TOW 1.5** esta vez con reglas sobre **Armas de Guerra**, **Reinos de Magia** y **Objetos Mágicos**.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.elheraldodelviejomundo.com/assets/img/2025-06/banner-faq3.jpg" /><media:content medium="image" url="https://www.elheraldodelviejomundo.com/assets/img/2025-06/banner-faq3.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">FAQs de ToW 1.5 - Reglas Especiales.</title><link href="https://www.elheraldodelviejomundo.com/articulo/2025/06/27/rulebook_faq2.html" rel="alternate" type="text/html" title="FAQs de ToW 1.5 - Reglas Especiales." /><published>2025-06-27T22:05:00+00:00</published><updated>2025-06-27T22:05:00+00:00</updated><id>https://www.elheraldodelviejomundo.com/articulo/2025/06/27/rulebook_faq2</id><content type="html" xml:base="https://www.elheraldodelviejomundo.com/articulo/2025/06/27/rulebook_faq2.html"><![CDATA[<p><em>Publicado originalmente el 28‑jun‑2025.</em></p>
 
 <h1 id="faqs-tow-15---rulebook-parte-2-reglas-especiales">FAQs ToW 1.5 - Rulebook Parte 2: Reglas Especiales.</h1>
 
@@ -1319,21 +1404,4 @@ Si quieres competir en 2025, ¡toca afilar la pluma y mandar la lista cuanto ant
 
 <p>Quizá la gran conclusión que a menudo pasamos por alto es que la editorial nos está invitando —con reglas, recursos y un lenguaje compartido— a coger las riendas de nuestra comunidad y profesionalizarla. Si lo hacemos, el Viejo Mundo tendrá no solo pasado y presente, sino un futuro en el que todos podremos cabalgar.</p>
 
-<p><strong>Nos reencontramos en unos días con la segunda entrega</strong>, donde desgranaremos los <strong>Emparejamientos</strong> en un torneo individual, normas para <strong>creación de listas</strong> y la <strong>distribución del campo de batalla</strong>. ¡No faltéis!</p>]]></content><author><name></name></author><category term="articulo" /><summary type="html"><![CDATA[El **Heraldo del Viejo Mundo** empieza hoy una serie de artículos en la que traduciremos y comentaremos la **Matched Play Guide** en **español** (Guía de Juego Equilibrado) que Games Workshop lanzará en los próximos meses. Comenzamos con una visión general de la guía y nos centraremos en los primeros capítulos: **Valor ante el deshonor** y **Organización de un evento**. En los próximos días habrá nuevas entregas.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.elheraldodelviejomundo.com/assets/img/2025-06/matched_play_guide.png" /><media:content medium="image" url="https://www.elheraldodelviejomundo.com/assets/img/2025-06/matched_play_guide.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Almanaque del Viejo Mundo – Esculpir la fuerza expedicionaria de Cathay</title><link href="https://www.elheraldodelviejomundo.com/noticias/2025/06/18/old-world-almanack-sculpting-the-cathayan-expeditionary-force.html" rel="alternate" type="text/html" title="Almanaque del Viejo Mundo – Esculpir la fuerza expedicionaria de Cathay" /><published>2025-06-18T00:00:00+00:00</published><updated>2025-06-18T00:00:00+00:00</updated><id>https://www.elheraldodelviejomundo.com/noticias/2025/06/18/old-world-almanack-sculpting-the-cathayan-expeditionary-force</id><content type="html" xml:base="https://www.elheraldodelviejomundo.com/noticias/2025/06/18/old-world-almanack-sculpting-the-cathayan-expeditionary-force.html"><![CDATA[<p>En las últimas semanas, el Almanaque del Viejo Mundo ha explorado en profundidad los conceptos detrás de Grand Cathay. Con las miniaturas disponibles para pre-pedido en pocos días, la atención se centra ahora en estas maravillas de plástico. Se organizó una reunión con los escultores del Warhammer Design Studio: Alastair, Giorgio, Nicholas y Ray, junto a Dan del equipo ‘Eavy Metal, para hablar sobre cómo dieron vida al arte conceptual.</p>
-
-<p>Uno de los aspectos más singulares de trabajar en Grand Cathay fue su visibilidad previa. Gracias al videojuego Total War: Warhammer III, ya existía un ejército completo y Creative Assembly había compartido una gran cantidad de arte conceptual. El objetivo era cumplir y superar las expectativas, adaptando los elementos visuales del videojuego a las miniaturas, manteniendo el detalle sin hacerlas visualmente abrumadoras. Un ejemplo de esto es la armadura de escamas, que se refinó para ser gráfica y audaz, adecuada para las miniaturas.</p>
-
-<p>Los Guerreros de Jade fueron un punto de partida esencial, estableciendo un lugar en la jerarquía del ejército. Estos soldados no son campesinos desaliñados, sino guerreros marciales, bien vestidos y entrenados. La armadura de escamas sobre tela les da una apariencia robusta y resistente, ideal tanto si están equipados con lanzas o espadas y escudos octagonales. Además, hay suficientes cabezas para construir las veinte miniaturas como masculinas o femeninas, o mezclarlas en el regimiento.</p>
-
-<p>Los Lanceros de Jade se desarrollaron para sentirse más elitistas, con armaduras más pesadas y armas más ornamentadas. La armadura de los jinetes tiene cuellos elevados, lo que les beneficia en la carga. La paleta de colores para estas miniaturas se basa en el rojo, con armaduras que presentan sashes y elementos en verde jade, reflejando la conexión con las Provincias del Norte y Nan-Gau.</p>
-
-<p>El Gran Cañón de Cathay presenta un equipo que, aunque uniforme en el videojuego, se diversificó en las miniaturas, cada miembro del equipo mostrando su personalidad. El diseño incluye un ogro mercenario para cargar el cañón, una adición que refleja el mundo de Warhammer. La pintura de tonos de piel predominantemente asiáticos fue un desafío, buscando una consistencia en la gama mientras se respetaba la diversidad.</p>
-
-<p>Los Maestros de las Puertas de las Ciudades Celestiales fueron desarrollados después de los Guerreros y Lanceros de Jade, elevando los detalles para que funcionen como generales. El casco del caballo se expandió a una máscara de dragón completa, y se añadieron detalles más ornamentados. Las miniaturas son modulares, permitiendo intercambiar cabezas y armas entre los personajes.</p>
-
-<p>El equipo regresará para discutir la creación del Farol Celestial, el Centinela Cathayano, el Señor Shugengan y Miao Ying. El sábado se podrán pre-ordenar todas las miniaturas, excepto Miao Ying, que estará disponible más adelante en el año junto a un segundo Diario Arcano.</p>
-
-<div style="margin-top:3em;padding:1em;background:#fef8e6;border:1px solid #eadbbd;border-radius:8px;">
-<strong>Conclusiones:</strong> La introducción de Grand Cathay en Warhammer: The Old World no solo amplía el catálogo de miniaturas con una estética rica y detallada, sino que también redefine el metajuego estratégico. Las nuevas unidades, como los Guerreros de Jade y los Lanceros de Jade, ofrecen una opción de tropas élite que desafía el enfoque tradicional de ejércitos humanos en el Viejo Mundo, proporcionando una alternativa a los ejércitos más desaliñados del Imperio. Esta sofisticación táctica, unida a la posibilidad de personalizar las miniaturas con cabezas intercambiables, añade profundidad estratégica al juego. Además, estas miniaturas, disponibles al 15 % en El Arca Negra, prometen ser un codiciado objeto de coleccionismo, especialmente por su fidelidad al arte conceptual del videojuego. 
-</div>
-<p><a href="https://www.warhammer-community.com/en-gb/articles/aglktgbi/old-world-almanack-sculpting-the-cathayan-expeditionary-force/">Leer noticia original ➜</a></p>]]></content><author><name></name></author><category term="noticias" /><summary type="html"><![CDATA[En el último Almanaque del Viejo Mundo, los escultores del Warhammer Design Studio nos llevan tras bambalinas para revelar el proceso creativo detrás de las nuevas miniaturas de la fuerza expedicionaria de Cathay. Con el lanzamiento de estas figuras a solo días de distancia, el equipo comparte cómo transformaron el arte conceptual de Grand Cathay en impresionantes miniaturas de plástico. Desde la armadura de escamas hasta los detalles ornamentales inspirados en la historia, cada pieza ha sido diseñada para capturar la esencia de este fascinante ejército. ¡Prepárate para sumergirte en un mundo de lujo y artesanía mientras descubres cómo estas figuras cobran vida!]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://assets.warhammer-community.com/tow_cathayminis-jun18-image1_wide-otrk64uorf.jpg" /><media:content medium="image" url="https://assets.warhammer-community.com/tow_cathayminis-jun18-image1_wide-otrk64uorf.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+<p><strong>Nos reencontramos en unos días con la segunda entrega</strong>, donde desgranaremos los <strong>Emparejamientos</strong> en un torneo individual, normas para <strong>creación de listas</strong> y la <strong>distribución del campo de batalla</strong>. ¡No faltéis!</p>]]></content><author><name></name></author><category term="articulo" /><summary type="html"><![CDATA[El **Heraldo del Viejo Mundo** empieza hoy una serie de artículos en la que traduciremos y comentaremos la **Matched Play Guide** en **español** (Guía de Juego Equilibrado) que Games Workshop lanzará en los próximos meses. Comenzamos con una visión general de la guía y nos centraremos en los primeros capítulos: **Valor ante el deshonor** y **Organización de un evento**. En los próximos días habrá nuevas entregas.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.elheraldodelviejomundo.com/assets/img/2025-06/matched_play_guide.png" /><media:content medium="image" url="https://www.elheraldodelviejomundo.com/assets/img/2025-06/matched_play_guide.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
