@@ -1,0 +1,85 @@
+{
+  "tiendas": [
+    {"name": "Atlántica Juegos", "city": "Madrid", "url": "https://www.atlanticajuegos.com", "email": "estrategia@atlanticajuegos.com"},
+    {"name": "Ludus Belli", "city": "Móstoles (Madrid)", "url": "https://www.ludusbelli.com", "email": "hola@ludusbelli.com"},
+    {"name": "WarGen Wargames", "city": "Madrid", "url": "https://www.facebook.com/WargenWargames", "email": null},
+    {"name": "E-Minis Málaga", "city": "Málaga", "url": "https://www.e-minis.net", "email": "info@e-minis.net"},
+    {"name": "E-Minis La Línea", "city": "La Línea de la Concepción (Cádiz)", "url": "https://www.e-minis.net", "email": "lalinea@e-minis.net"},
+    {"name": "More Hobby Games", "city": "Barcelona", "url": "https://www.morehobbygames.com", "email": "info@morehobbygames.com"},
+    {"name": "Snafu Store", "city": "Sabadell (Barcelona)", "url": "https://www.snafustore.com", "email": "info@snafustore.com"},
+    {"name": "Infernal Forge", "city": "Barcelona", "url": "https://www.infernalforge.com", "email": "info@infernalforge.com"},
+    {"name": "Bandua Wargames", "city": "Lugo", "url": "https://banduawargames.com", "email": "info@banduawargames.com"},
+    {"name": "La Fortaleza Miniaturas", "city": "A Coruña", "url": "https://www.instagram.com/fortaleza_miniaturas/", "email": "soporte@lafortalezaminiaturas.es"},
+    {"name": "Empire Games", "city": "Sevilla", "url": "https://www.empiregames.es", "email": "info@empiregames.es"},
+    {"name": "War Lotus", "city": "Granada", "url": "https://warlotus.com", "email": "contacto@warlotus.com"},
+    {"name": "Estalia", "city": "Córdoba", "url": "https://estaliacordoba.com", "email": "estalia@gmail.com"},
+    {"name": "Warpaint", "city": "Valencia", "url": "https://warpaint.es", "email": "valencia@warpaint.es"},
+    {"name": "La Última Fortaleza", "city": "Alicante", "url": "https://www.laultimafortaleza.com", "email": null},
+    {"name": "DualGames", "city": "Murcia", "url": "https://www.dualgames.es", "email": null},
+    {"name": "La Escotilla", "city": "Murcia (online/local)", "url": "https://laescotillajuegos.com", "email": "info@laescotillajuegos.com"},
+    {"name": "Multiverso War", "city": "Mazarrón (Murcia)", "url": "https://multiversowar.com", "email": null},
+    {"name": "TPK Hobby & Games", "city": "Zaragoza", "url": "https://tpkhobbygames.com", "email": "info@tpkhobbygames.com"},
+    {"name": "El Orco Rojo", "city": "Valladolid", "url": "https://www.elorcorojo.com", "email": null},
+    {"name": "Distrito Zero (Santander)", "city": "Santander", "url": "https://distritozero.es", "email": null},
+    {"name": "Distrito Zero (Torrelavega)", "city": "Torrelavega (Cantabria)", "url": "https://distritozero.es", "email": null},
+    {"name": "Distrito Zero (Tolosa)", "city": "Tolosa (Gipuzkoa)", "url": "https://distritozero.es", "email": null},
+    {"name": "MKZ Games", "city": "Bilbao", "url": "https://www.mkzgames.es", "email": "contacto@mkzgames.es"},
+    {"name": "Hangar Rebelde", "city": "Oviedo", "url": "https://www.hangarrebelde.com", "email": "info@hangarrebelde.com"},
+    {"name": "Hobby Shop Wargames", "city": "Alcalá de Henares (Madrid)", "url": "https://www.instagram.com/hobbyshopwargames/", "email": null},
+    {"name": "Kekolandia Miniatures", "city": null, "url": "https://www.instagram.com/kekolandia_miniatures/", "email": null},
+    {"name": "Valhalla Wargames", "city": "Burgos", "url": "https://www.instagram.com/valhalla_burgos/", "email": null},
+    {"name": "Battle Bunker Vitoria", "city": "Vitoria-Gasteiz", "url": "https://www.instagram.com/battlebunkervg/", "email": null},
+    {"name": "GoblinTrader Madrid Sur", "city": "Madrid", "url": "https://www.goblintrader.es/es/madrid", "email": null},
+    {"name": "Kingdom Wargames", "city": "Madrid", "url": "https://www.instagram.com/kingdomwargames/", "email": null}
+  ],
+
+  "clubes_asociaciones": [
+    {"name": "WARLOGS", "city": "Logroño", "url": "https://asociacionwarlogs.wordpress.com/"},
+    {"name": "Las Tablillas Sagradas", "city": "Badajoz", "url": "https://lastablillassagradas.blogspot.com/"},
+    {"name": "Albahammer", "city": "Albacete", "url": "https://albahammer.blogspot.com/"},
+    {"name": "Custodios de Morr", "city": "Valencia", "url": "https://custodiosdemorr.blogspot.com/"},
+    {"name": "Escribas del Viejo Mundo", "city": "Barcelona (Vallromanes)", "url": "https://www.instagram.com/escribasdelviejomundo/"},
+    {"name": "Liderazgo 10", "city": "Madrid", "url": "https://www.instagram.com/liderazgo10_wfb/"},
+    {"name": "PanzerHammer", "city": "Paracuellos del Jarama (Madrid)", "url": "https://www.instagram.com/clubpanzerhammer/"},
+    {"name": "Ciudadela del Plomo", "city": "Valladolid", "url": "https://www.instagram.com/ciudadela_del_plomo/"},
+    {"name": "BilboHammer", "city": "Bilbao", "url": "https://www.instagram.com/bilbohammerclub/"},
+    {"name": "El Jabalí Pisador", "city": "Valencia (área sur)", "url": "https://eljabalipisador.com"},
+    {"name": "Karak Yakka", "city": "Yecla (Murcia)", "url": "https://karakyakka.wordpress.com/"},
+    {"name": "Abades de Maisontaal", "city": "Córdoba", "url": "https://twitter.com/abmaisontaal"},
+    {"name": "El Templo de Myrmidia", "city": "Sevilla", "url": "https://www.facebook.com/p/El-Templo-de-Myrmidia-100083518924778"},
+    {"name": "Antebellum", "city": "Almería", "url": null},
+    {"name": "Asociación Wargames Granada", "city": "Granada", "url": "https://www.instagram.com/wargamesgranada/"},
+    {"name": "Séptimo Grado", "city": "Leganés (Madrid)", "url": "http://www.septimogrado.org/"},
+    {"name": "Atalaya Vigía", "city": "Zaragoza", "url": "https://www.instagram.com/atalayavigia/"},
+    {"name": "La Guarida", "city": "Barakaldo (Bizkaia)", "url": "https://www.laguaridaclub.com"},
+    {"name": "Ludus Foramontanos", "city": "Santander", "url": "https://www.facebook.com/LudusForamontanos/"},
+    {"name": "El Pony Pisador", "city": "Burgos", "url": null},
+    {"name": "Club Mournibal", "city": "Barcelona", "url": "https://www.instagram.com/mournibal/"}
+  ],
+
+  "blogs_webs": [
+    {"name": "Leyendas en Miniatura", "url": "https://www.leyendasenminiatura.com"},
+    {"name": "¡Cargad!", "url": "https://cargad.com"},
+    {"name": "TorneosWarhammer.com", "url": "https://torneoswarhammer.com"},
+    {"name": "Pícnic en Drakenhof (YouTube)", "url": "https://www.youtube.com/channel/UCLU9pqOwF9bnkaCR6A-SfvQ"},
+    {"name": "Warhammer Reforged (Blog)", "url": "http://whreforged.blogspot.com"}
+  ],
+
+  "foros_agendas": [
+    {"name": "La Armada", "url": "https://laarmada.net"},
+    {"name": "Warhammer Aquí", "url": "https://warhammeraqui.mforos.com"},
+    {"name": "The 9th Age – foro España", "url": "https://community.the-ninth-age.com/board/119-spain/"},
+    {"name": "Juegarhammer (Mapa de jugadores)", "url": "https://www.facebook.com/juegarhammer"}
+  ],
+
+  "redes_sociales": [
+    {"name": "Warhammer Reforged (Twitter)", "url": "https://twitter.com/WHReforged"},
+    {"name": "Warhammer Reforged (Instagram)", "url": "https://www.instagram.com/warhammer_reforged/"},
+    {"name": "Warhammer Reforged (Facebook)", "url": "https://www.facebook.com/whreforged/"},
+    {"name": "The 9th Age Castellano (Facebook group)", "url": "https://www.facebook.com/groups/t9acastellano/"},
+    {"name": "9th Age España (Instagram)", "url": "https://www.instagram.com/9thageespana/"},
+    {"name": "Warhammer Fantasy Castellano (Facebook group)", "url": "https://www.facebook.com/groups/300887290025648/"},
+    {"name": "Manuscritos de Nuth – MDN (Facebook group)", "url": "https://www.facebook.com/groups/493974797643716/"},
+    {"name": "Oldhammer España (Facebook group)", "url": "https://www.facebook.com/groups/OldhammerSpain/"}
+  ]
+}

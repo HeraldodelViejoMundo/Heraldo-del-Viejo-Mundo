@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <title>FAQs de ToW 1.5 - Reglas Especiales.</title>
+  <!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>FAQs de ToW 1.5 - Reglas Especiales. | https://El Heraldo del Viejo Mundo</title>
+<meta name="generator" content="Jekyll v4.3.4" />
+<meta property="og:title" content="FAQs de ToW 1.5 - Reglas Especiales." />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Continúamos desentrañando el domuento más importante publiado hasta la fecha por Games Workshop para The Old World . Vamos con las Reglas especiales FAQs TOW 1.5." />
+<meta property="og:description" content="Continúamos desentrañando el domuento más importante publiado hasta la fecha por Games Workshop para The Old World . Vamos con las Reglas especiales FAQs TOW 1.5." />
+<link rel="canonical" href="https://www.elheraldodelviejomundo.com/articulo/2025/06/27/rulebook_faq2.md.save" />
+<meta property="og:url" content="https://www.elheraldodelviejomundo.com/articulo/2025/06/27/rulebook_faq2.md.save" />
+<meta property="og:site_name" content="https://El Heraldo del Viejo Mundo" />
+<meta property="og:image" content="https://www.elheraldodelviejomundo.com/assets/img/2025-06/banner-faq2.jpg" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2025-06-27T23:00:00+00:00" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta property="twitter:image" content="https://www.elheraldodelviejomundo.com/assets/img/2025-06/banner-faq2.jpg" />
+<meta property="twitter:title" content="FAQs de ToW 1.5 - Reglas Especiales." />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2025-06-27T23:00:00+00:00","datePublished":"2025-06-27T23:00:00+00:00","description":"Continúamos desentrañando el domuento más importante publiado hasta la fecha por Games Workshop para The Old World . Vamos con las Reglas especiales FAQs TOW 1.5.","headline":"FAQs de ToW 1.5 - Reglas Especiales.","image":"https://www.elheraldodelviejomundo.com/assets/img/2025-06/banner-faq2.jpg","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.elheraldodelviejomundo.com/articulo/2025/06/27/rulebook_faq2.md.save"},"url":"https://www.elheraldodelviejomundo.com/articulo/2025/06/27/rulebook_faq2.md.save"}</script>
+<!-- End Jekyll SEO tag -->
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+
+  <!-- Estilos del tema minima -->
+  <link rel="stylesheet" href="/assets/main.css">
+
+
+  <!-- Hoja de estilo de Cookie Consent (v3) -->
+  <link rel="stylesheet"
+        href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css" />
+
+  <!-- Nuestro CSS personalizado -->
+  <link rel="stylesheet" href="/assets/custom.css">
+
+</head>
+
+<body>
+  <!-- Google Analytics (G-5309GK77Y4) se cargará tras el consentimiento -->
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){ dataLayer.push(arguments); }
+
+    function loadGA () {
+      var s = document.createElement('script');
+      s.async = true;
+      s.src   = 'https://www.googletagmanager.com/gtag/js?id=G-5309GK77Y4';
+      s.onload = function () {
+        gtag('js', new Date());
+        gtag('config', 'G-5309GK77Y4');
+      };
+      document.head.appendChild(s);
+    }
+  </script>
+
+  <!-- Script de Cookie Consent (deferred para ejecutarse tras parsear el HTML) -->
+  <script src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js" defer></script>
+
+<!-- Inicialización de Cookie Consent -->
+  <script>
+    window.addEventListener('load', function () {
+      window.cookieconsent.initialise({
+        palette: {
+          popup:  { background: '#4a2e0e' },
+          button: { background: '#b87333' }
+        },
+        theme: 'classic',
+
+        /* Modo “opt-in” para pedir consentimiento explícito */
+        type: 'opt-in',
+
+        content: {
+          message: 'Este sitio usa cookies para análisis anónimos.',
+          allow:   'Aceptar',
+          deny:    'Rechazar',
+          link:    'Más info',
+          href:    'https://policies.google.com/technologies/cookies?hl=es'
+        },
+
+        onStatusChange: function () {
+          if (this.hasConsented()) { // solo carga GA si acepta
+            loadGA();
+          }
+        }
+      });
+    });  
+  </script>
+
+  <div class="page-content">
+    <div style="max-width: 780px; margin: 0 auto; line-height: 1.6; font-family: Georgia, serif; font-size: 1.05em; color: #2d1d00;">
+
+  
+
+
+  
+    <p>
+      <img src="/assets/img/2025-06/banner-faq2.jpg"
+           alt="Imagen del artículo"
+           style="width:100%;max-width:600px;margin:0 0 1em;">
+    </p>
+  
+
+  <style>
+    div[style] p {
+      margin-bottom: 1em;
+    }
+
+    div[style] img {
+      display: block;
+      margin: 1em auto;
+      max-width: 100%;
+      height: auto;
+      border-radius: 4px;
+    }
+
+    div[style] em {
+      color: #765c2b;
+    }
+  </style>
+
+
+  *Publicado originalmente el 28‑jun‑2025.*
+
+# FAQs ToW 1.5 - Rulebook Parte 2: Reglas Especiales.
+
+El nuevo paquete de FAQ y erratas sacude sobre todo la **fase de magia**: ahora cada Mago está limitado a lanzar tantos hechizos como su **Nivel de Hechicería** y ve reducidos a la mitad los bonificadores para **lanzar** y **dispersar**, con ajustes que aclaran quién queda silenciado tras una **disfunción**, permiten dispersar **vórtices** a distancia de la plantilla y devuelven utilidad a los Magos trabados. Frente a esos cambios profundos, sólo hay una modificación relevante de combate —el +1 de **Close Order** exige llegar a **10 PU**— y una simple aclaración de reglas sobre las **salvaciones especiales**, que confirma que ningún modificador de armadura las afecta. El resultado global es un juego donde la magia se vuelve menos explosiva y más táctica, la masa de las unidades cuenta todavía más y la distinción entre protección física y mágica queda cristalina.
+
+<div class="errata-box" markdown="1">
+**ERRATA (FAQ v1.5.1, p. 175 “Poisoned Attacks”):**
+“For each roll To Hit of a natural 6 a model with Poisoned Attacks makes, they may apply a +2 modifier to one of their rolls To Wound.”
+
+*REGLA ORIGINAL (Rulebook p. 175 “Poisoned Attacks): If a model with Poisoned Attacks rolls a natural 6 when making a roll To Hit, that hit will wound automatically.*
+</div>
+La errata cambia por completo la mecánica del veneno: el 6 natural **ya no** provoca **herida automática**, sino un **+2 a Herir**. Esto reduce drásticamente la eficacia de las “*death star*” de arqueros con veneno, porque contra criaturas de Resistencia alta (T 6-8) siguen necesitando una tirada de herir (p.ej., pasan de herir siempre a hacerlo solo a 4+ o 5+). Segundo garrotazo que se llevan, en beneficio de los monstruos de R alta.
+
+<div class="errata-box" markdown="1"> **ERRATA (FAQ v1.5.1, p. 176 “Regeneration (X+)”):** “Immediately after a Wound is lost, but before models with zero Wounds remaining are removed from play, a model with this special rule may make a ‘Regeneration save’ roll by rolling a D6 and comparing the result to its ‘Regeneration value’, shown in brackets after the name of this special rule (shown here as ‘X+’). If the Regeneration save roll equals or exceeds the model’s Regeneration value, the lost Wound is recovered, but is still counted for the purposes of calculating the combat result. Rules that affect armour values do not affect Regeneration values unless stated otherwise.” 
+*REGLA ORIGINAL (Rulebook p. 176): A model with this special rule can make a ‘Regeneration’ save. The armour value of a Regeneration save is shown in brackets after the name of this special rule (shown here as ‘X+’). A Regeneration save can never be modified by the AP characteristic of a weapon and can be made in addition to an armour save and a Ward save. However, any wounds saved by a Regeneration save are still counted for the purposes of calculating the combat result.
+
+Note that models with this special rule are often vulnerable to the Flaming Attacks or Magical Attacks special rules.”* 
+
+</div>
+Con la errata, la tirada de **Regeneración** se realiza inmediatamente **después** *de perder cada herida*. Esto significa que ahora se aplica también a heridas causadas por **terreno peligroso**, por **inestabilidad** de No-Muertos, Khemri o Demonios y, sobre todo, que cambia la forma de interactuar con las armas con **Daño Múltiple (X)**: *primero calculas cuántas heridas se pierden* y *luego haces una salvación independiente **por cada una** de ellas*. Antes, al ser una salvación previa al daño, no protegía frente a terrenos peligrosos y se hacía una sola tirada contra todo el potencial del Daño Múltiple. Las heridas regeneradas *siguen contando* para el resultado del combate.
+
+
+<div class="errata-box" markdown="1"> **ERRATA (FAQ v1.5.1, p. 177 “Stomp Attacks (X)”):** “Stomp Attacks are attacks made in combat that must be made last, after all other attacks have been made, including attacks made at Initiative 1. They hit automatically and use the unmodified Strength of the model making them.” 
+*REGLA ORIGINAL (Rulebook p. 177): “Stomp Attacks (X) Some creatures are so massive that their sheer bulk is a threat all of its own. The number of Stomp Attacks caused varies from model to model, and will be shown in brackets after the name of this special rule (shown here as ‘X’). Often, this is determined by the roll of a dice. Resolving Stomp Attacks: Stomp Attacks can only be made by a model that is in base contact with the enemy. Stomp Attacks are attacks made in combat that always strike at Initiative 1 (regardless of modifiers), and that hit automatically using the unmodified Strength characteristic of the model.”*
+
+</div>
+La errata redefine el momento en que se resuelven los Stomp Attacks: *ya no se consideran ataques a Iniciativa 1* que se ejecutan junto con el resto de golpes a esa velocidad, sino que deben hacerse **después** de que todos los demás ataques *—incluidos los de Iniciativa 1—* se hayan resuelto. Esto significa que, si la miniatura con Stomp muere antes, aunque sea en el paso de I1, pierde la oportunidad de pisotear. La regla sigue exigiendo estar en contacto *peana con peana*, mantiene el impacto automático y la Fuerza **sin modificar**, pero su potencia se reduce porque ahora depende de que el portador sobreviva a toda la secuencia de ataques anteriores.
+
+
+<div class="errata-box" markdown="1"> **ERRATA (FAQ v1.5.1, p. 178 “Stupidity”):** “Unless it is fleeing or engaged in combat, a unit with this special rule must make a Stupidity test by testing against its Leadership during the Start of Turn sub-phase of each of its turns. If this test is failed, the unit succumbs to Stupidity until its next Start of Turn sub-phase. A unit that has succumbed to Stupidity:
+• Cannot move.
+• Cannot shoot or cast spells.
+• Cannot attempt a Wizardly dispel.
+• Must ‘Hold’ if charged by an enemy.” 
+
+*REGLA ORIGINAL (Rulebook p. 178): “Dull-witted creatures can often become hopelessly confused by the tumult of battle.
+
+Unless it is engaged in combat, a unit with this special rule must make a ‘Stupidity’ test during the Start of Turn sub-phase of its turn. To make a Stupidity test, test against the unit’s Leadership characteristic. If this test is failed, the unit becomes Stupid. A Stupid unit: • Moves during the Compulsory Moves sub-phase. • Must move straight ahead, without performing any manoeuvres. • Cannot march or declare a charge.
+A unit or mount that does not have this special rule becomes subject to it when joined or ridden by a character that does (Stupidity is contagious).”*
+
+</div>
+La errata convierte la Estupidez en un estado de parálisis total que dura hasta la siguiente subfase de inicio de turno: la unidad ya no avanza automáticamente, sino que queda inmóvil, no dispara ni lanza magia y, si la cargan, sólo puede aguantar. Esto hace que fallar la prueba sea mucho más severo y, a la vez, elimina movimientos involuntarios que podían desbaratar planes. Es un buen garrotazo a la horda Troll y obliga a jugadores del caos y bestias a sopesar los riesgos de tirar en la [Tabla de la Mirada de los Dioses](https://impriwars.com/p/consola-de-la-mirada-de-los-dioses). El contagio a la unidad y la pérdida del efecto cuando el personaje la abandona siguen siendo idénticos según la propia FAQ.
+
+<div class="errata-box" markdown="1"> **ERRATA (FAQ v1.5.1, p. 178 “Swiftstride”):** “A unit which consists entirely of models with this special rule increases its maximum possible charge range by 3\" and, before making a Charge, Flee or Pursuit roll, may choose to apply a +D6 modifier to the result.” 
+*REGLA ORIGINAL (Rulebook p. 178): “Mounted warriors, warbeasts and chariots, amongst others, are swift and deadly, crossing the battlefields of the Old World with unexpected speed.
+
+A unit with this special rule increases its maximum possible charge range by 3" and, when it makes a Charge, Flee or Pursuit roll, may apply a +D6 modifier to the result.”* 
+</div>
+Aclara que el beneficio sólo se aplica si **todos** los miembros de la unidad tienen Swiftstride y el +D6 se decide **antes** de tirar, no después de ver el resultado.1~<div class="errata-box" markdown="1"> **ERRATA (FAQ v1.5.1, p. 178 “Stupidity”):** “Unless it is fleeing or engaged in combat, a unit with this special rule must make a Stupidity test by testing against its Leadership during the Start of Turn sub-phase of each of its turns. If this test is failed, the unit succumbs to Stupidity until its next Start of Turn sub-phase. A unit that has succumbed to Stupidity:
+• Cannot move.
+• Cannot shoot or cast spells.
+• Cannot attempt a Wizardly dispel.
+• Must ‘Hold’ if charged by an enemy.” 
+
+*REGLA ORIGINAL (Rulebook p. 178): “Dull-witted creatures can often become hopelessly confused by the tumult of battle.
+
+Unless it is engaged in combat, a unit with this special rule must make a ‘Stupidity’ test during the Start of Turn sub-phase of its turn. To make a Stupidity test, test against the unit’s Leadership characteristic. If this test is failed, the unit becomes Stupid. A Stupid unit: • Moves during the Compulsory Moves sub-phase. • Must move straight ahead, without performing any manoeuvres. • Cannot march or declare a charge.
+A unit or mount that does not have this special rule becomes subject to it when joined or ridden by a character that does (Stupidity is contagious).”*
+
+</div>
+La errata convierte la Estupidez en un estado de parálisis total que dura hasta la siguiente subfase de inicio de turno: la unidad ya no avanza automáticamente, sino que queda inmóvil, no dispara ni lanza magia y, si la cargan, sólo puede aguantar. Esto hace que fallar la prueba sea mucho más severo y, a la vez, elimina movimientos involuntarios que podían desbaratar planes. Es un buen garrotazo a la horda Troll y obliga a jugadores del caos y bestias a sopesar los riesgos de tirar en la [Tabla de la Mirada de los Dioses](https://impriwars.com/p/consola-de-la-mirada-de-los-dioses). El contagio a la unidad y la pérdida del efecto cuando el personaje la abandona siguen siendo idénticos según la propia FAQ.
+
+<div class="errata-box" markdown="1"> **ERRATA (FAQ v1.5.1, p. 178 “Swiftstride”):** “A unit which consists entirely of models with this special rule increases its maximum possible charge range by 3\" and, before making a Charge, Flee or Pursuit roll, may choose to apply a +D6 modifier to the result.” 
+*REGLA ORIGINAL (Rulebook p. 178): “Mounted warriors, warbeasts and chariots, amongst others, are swift and deadly, crossing the battlefields of the Old World with unexpected speed.
+
+A unit with this special rule increases its maximum possible charge range by 3" and, when it makes a Charge, Flee or Pursuit roll, may apply a +D6 modifier to the result.”* 
+</div>
+Aclara que el beneficio sólo se aplica si **todos** los miembros de la unidad tienen Swiftstride y el +D6 se decide **antes** de tirar, no después de ver el resultado.1~<div class="errata-box" markdown="1"> **ERRATA (FAQ v1.5.1, p. 178 “Stupidity”):** “Unless it is fleeing or engaged in combat, a unit with this special rule must make a Stupidity test by testing against its Leadership during the Start of Turn sub-phase of each of its turns. If this test is failed, the unit succumbs to Stupidity until its next Start of Turn sub-phase. A unit that has succumbed to Stupidity:
+• Cannot move.
+• Cannot shoot or cast spells.
+• Cannot attempt a Wizardly dispel.
+• Must ‘Hold’ if charged by an enemy.” 
+
+*REGLA ORIGINAL (Rulebook p. 178): “Dull-witted creatures can often become hopelessly confused by the tumult of battle.
+
+Unless it is engaged in combat, a unit with this special rule must make a ‘Stupidity’ test during the Start of Turn sub-phase of its turn. To make a Stupidity test, test against the unit’s Leadership characteristic. If this test is failed, the unit becomes Stupid. A Stupid unit: • Moves during the Compulsory Moves sub-phase. • Must move straight ahead, without performing any manoeuvres. • Cannot march or declare a charge.
+A unit or mount that does not have this special rule becomes subject to it when joined or ridden by a character that does (Stupidity is contagious).”*
+
+</div>
+La errata convierte la Estupidez en un estado de parálisis total que dura hasta la siguiente subfase de inicio de turno: la unidad ya no avanza automáticamente, sino que queda inmóvil, no dispara ni lanza magia y, si la cargan, sólo puede aguantar. Esto hace que fallar la prueba sea mucho más severo y, a la vez, elimina movimientos involuntarios que podían desbaratar planes. Es un buen garrotazo a la horda Troll y obliga a jugadores del caos y bestias a sopesar los riesgos de tirar en la [Tabla de la Mirada de los Dioses](https://impriwars.com/p/consola-de-la-mirada-de-los-dioses). El contagio a la unidad y la pérdida del efecto cuando el personaje la abandona siguen siendo idénticos según la propia FAQ.
+
+<div class="errata-box" markdown="1"> **ERRATA (FAQ v1.5.1, p. 178 “Swiftstride”):** “A unit which consists entirely of models with this special rule increases its maximum possible charge range by 3\" and, before making a Charge, Flee or Pursuit roll, may choose to apply a +D6 modifier to the result.” 
+*REGLA ORIGINAL (Rulebook p. 178): “Mounted warriors, warbeasts and chariots, amongst others, are swift and deadly, crossing the battlefields of the Old World with unexpected speed.
+
+A unit with this special rule increases its maximum possible charge range by 3" and, when it makes a Charge, Flee or Pursuit roll, may apply a +D6 modifier to the result.”* 
+</div>
+Aclara que el beneficio sólo se aplica si **todos** los miembros de la unidad tienen Swiftstride y el +D6 se decide **antes** de tirar, no después de ver el resultado.
+
+
+
+
+  </div>
+
+  <div id="disqus_thread"></div>
+<script>
+  /* Configuración dinámica con variables de Jekyll */
+  var disqus_config = function () {
+    this.page.url        = 'https://www.elheraldodelviejomundo.com/articulo/2025/06/27/rulebook_faq2.md.save';
+    this.page.identifier = '/articulo/2025/06/27/rulebook_faq2.md.save';
+  };
+
+  (function () { /* NO EDITAR DEBAJO DE ESTA LÍNEA */
+    var d = document, s = d.createElement('script');
+    s.src = 'https://heraldo-1.disqus.com/embed.js';   /* shortname = heraldo-1 */
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+  })();
+</script>
+<noscript>Activa JavaScript para ver los comentarios de <a href="https://disqus.com/?ref_noscript">Disqus</a>.</noscript>
+
+
+</div>
+
+  </div>
+</body>
+</html>
