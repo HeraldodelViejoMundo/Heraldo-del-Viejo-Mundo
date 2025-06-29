@@ -76,10 +76,10 @@ CAMBIO:
 ---
 # Reinos de Magia
 ---
-## Battle Magic – p. 321
+## **Battle Magic – p. 321**
 
 **Pillar of Fire**:  
-*“Whilst in play, the template is treated as difficult terrain. The template scatters D6" during every Start of Turn sub-phase (see page 95). Any enemy unit that moves through the template, or that the template moves over, suffers D3+3 Strength 3 hits, each with an AP of -2.” * 
+*“Whilst in play, the template is treated as difficult terrain. The template scatters D6" during every Start of Turn sub-phase (see page 95). Any enemy unit that moves through the template, or that the template moves over, suffers D3+3 Strength 3 hits, each with an AP of -2.”* 
 Explicación: el pilar se convierte en terreno difícil, se desplaza al azar cada turno y causa un número fijo de impactos; ya no permanece estático ni usa la antigua tabla de impactos.
 
 **Arcane Urgency**:  
@@ -94,86 +94,73 @@ Explicación: la maldición de pánico ahora es más asequible de lanzar.
 
 ## **Daemonology – p. 323**
 
-*Steed of Shadows*: “Casting Value 8+.” :contentReference[oaicite:3]{index=3}  
+*Steed of Shadows: “Casting Value 8+.”*
 Explicación: el salto de sombras requiere un esfuerzo mágico moderado en vez de bajo.
 
-*Daemonic Vessel*: “Casting Value 9+.” :contentReference[oaicite:4]{index=4}  
+*Daemonic Vessel: “Casting Value 9+.”*  
 Explicación: invocar el receptáculo demoníaco resulta un poco más duro que antes.
 
-*Vortex of Chaos*:  
-“Whilst in play, the template is treated as difficult terrain. The template scatters D6" during every Start of Turn sub-phase (see page 95). Any unit (friend or foe) that moves through the template, or that the template moves over, suffers D6+1 Strength 3 hits, each with an AP of -.” :contentReference[oaicite:5]{index=5}  
+*Vortex of Chaos: “Whilst in play, the template is treated as difficult terrain. The template scatters D6" during every Start of Turn sub-phase (see page 95). Any unit (friend or foe) that moves through the template, or that the template moves over, suffers D6+1 Strength 3 hits, each with an AP of -.”*
 Explicación: se normaliza el comportamiento a la mecánica de vórtices móviles y se especifica daño fijo a todas las unidades.
 
 ---
 
-**Dark Magic – p. 325**
+## **Dark Magic – p. 325**
 
-*Infernal Gateway*: “Casting Value 9+.” :contentReference[oaicite:6]{index=6}  
+*Infernal Gateway: “Casting Value 9+.”*  
 Explicación: el portón infernal exige menos poder para abrirse, aumentando su fiabilidad.
 
 ---
 
-**Elementalism – p. 327**
+## **Elementalism – p. 327**
 
-*Flaming Sword*: “Casting Value 7+.” :contentReference[oaicite:7]{index=7}  
+*Flaming Sword: “Casting Value 7+.”*  
 Explicación: la espada ígnea pasa a ser un hechizo de baja dificultad, alineada con otros potenciadores de combate.
 
-*Summon Elemental Spirit*:  
-“Whilst in play, the template is treated as difficult terrain over which no line of sight can be drawn. The template scatters D6" during every Start of Turn sub-phase (see page 95). Any enemy unit that moves through the template, or that the template moves over, suffers D3+3 Strength 4 hits, each with an AP of -1.” :contentReference[oaicite:8]{index=8}  
+*Summon Elemental Spirit: “Whilst in play, the template is treated as difficult terrain over which no line of sight can be drawn. The template scatters D6" during every Start of Turn sub-phase (see page 95). Any enemy unit that moves through the template, or that the template moves over, suffers D3+3 Strength 4 hits, each with an AP of -1.”*   
 Explicación: el espíritu elemental bloquea la visión y causa daño constante mientras se desplaza, clarificando su interacción con el terreno.
 
-*Earthen Ramparts*: “Casting Value 9+.” :contentReference[oaicite:9]{index=9}  
+*Earthen Ramparts: “Casting Value 9+.”*  
 Explicación: erigir las murallas pétreas es algo más exigente.
 
-*Travel Mystical Pathway*:  
-“Remove the unit and replace it anywhere completely within 12" of its original location, but not within 6" of any enemy models.” :contentReference[oaicite:10]{index=10}  
+*Travel Mystical Pathway: “Remove the unit and replace it anywhere completely within 12" of its original location, but not within 6" of any enemy models.”*   
 Explicación: se precisa la distancia mínima de seguridad respecto a enemigos y la limitación de haber movido.
 
 ---
 
-**High Magic – p. 329**
+## **High Magic – p. 329**
 
-*Shield of Saphery*: “Casting Value 8+.” :contentReference[oaicite:11]{index=11}  
+*Shield of Saphery: “Casting Value 8+.”*  
 Explicación: la barrera protectora se vuelve ligeramente más difícil de conjurar.
 
 ---
 
-**Illusion – p. 331**
+## **Illusion – p. 331**
 
-*Confounding Convocation*: “Casting Value 8+.” :contentReference[oaicite:12]{index=12}  
+*Confounding Convocation: “Casting Value 8+.”*   
 Explicación: aumenta la dificultad para aturdir a la unidad objetivo.
 
-*Miasmic Mirage*: “Casting Value 10+.” :contentReference[oaicite:13]{index=13}  
+*Miasmic Mirage: “Casting Value 10+.”*   
 Explicación: la neblina ilusoria se equilibra subiendo su coste de lanzamiento.
 
----
+## **Necromancy – p. 333**
 
-**Necromancy – p. 333**
-
-*Deathly Cabal*: “Casting Value 8+.” :contentReference[oaicite:14]{index=14}  
+*Deathly Cabal: “Casting Value 8+.”*   
 Explicación: formar el círculo de muerte ahora requiere un compromiso mágico medio.
 
-*Spiritual Vortex*:  
-“Casting Value 10+. Whilst within 8" of one or more Spiritual Vortexes, enemy units suffer a -1 Leadership (mín. 2) and no pueden usar la Presencia Inspiradora del General.” :contentReference[oaicite:15]{index=15}  
+*Spiritual Vortex: “Casting Value 10+. Whilst within 8" of one or more Spiritual Vortexes, enemy units suffer a -1 Leadership (mín. 2) and no pueden usar la Presencia Inspiradora del General.”*   
 Explicación: se endurece el lanzamiento y se detalla el radio de penalización y la interacción con el liderazgo.
 
-*Curse of Years*: “Casting Value 9+.” :contentReference[oaicite:16]{index=16}  
+*Curse of Years: “Casting Value 9+.”*  
 Explicación: marchitar a la unidad cobra un punto extra de poder, frenando su abuso.
 
----
+## **Waaagh! Magic – p. 334**
 
-**Waaagh! Magic – p. 334**
-
-*Fist of Gork (or Mork)*: “Casting Value 8+.” :contentReference[oaicite:17]{index=17}  
+*Fist of Gork (or Mork): “Casting Value 8+.”*  
 Explicación: la potenciación de la peña se iguala a otros conjuros ofensivos de su nivel.
 
----
-
-**Waaagh! Magic – p. 335**
-
-*’Ere We Go!*: “Casting Value 8+.” :contentReference[oaicite:18]{index=18}  
+*’Ere We Go!*: “Casting Value 8+.”*   
 Explicación: el cántico de guerra orco pasa a ser más fácil de entonar.
 
-*Foot of Gork (or Mork)*:  
-“Whilst in play, the template is treated as difficult terrain. The template scatters 2D6" during every Start of Turn sub-phase (see page 95). Any unit (friend or foe) that moves through the template, or that the template moves over, suffers D3+3 Strength 5 hits, each with an AP of -1.” :contentReference[oaicite:19]{index=19}  
+*Foot of Gork (or Mork): “Whilst in play, the template is treated as difficult terrain. The template scatters 2D6" during every Start of Turn sub-phase (see page 95). Any unit (friend or foe) that moves through the template, or that the template moves over, suffers D3+3 Strength 5 hits, each with an AP of -1.”*   
 Explicación: la pisada divina se convierte en vórtice en movimiento con impactos fijos, afectando a aliados y enemigos por igual.
