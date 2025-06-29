@@ -100,6 +100,8 @@ p {
 .wrapper p,
 .post-content p,
 article.post p {
+  text-align: justify;
+  text-justify: inter-word;
   max-width: 1200px;
   margin: 0 auto;
   font-size: 1.4rem;
@@ -175,4 +177,10 @@ p.regla-original {
   aside {
     display: none;
   }
+}
+
+
+/* Tamaño reducido solo para tablas grandes de erratas */
+.tabla-peq {
+  font-size: 0.7em;   /* Ajusta este valor si quieres aún más pequeño */
 }
