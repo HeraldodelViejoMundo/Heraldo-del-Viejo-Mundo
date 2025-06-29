@@ -37,7 +37,7 @@ CAMBIO: Se aclara que los modificadores de *Fuerza +2* y *Penetración de Armadu
 
 • ‘Chariot’, ‘monster’ or ‘war machine’ can never have an armour value better than 3+.  
 
-Any bonuses, regardless of their source, that would improve a model’s armour further have no effect." :contentReference[oaicite:0]{index=0}  
+Any bonuses, regardless of their source, that would improve a model’s armour further have no effect."   
 
 *REGLA ORIGINAL: "Regardless of the armour it wears or the equipment it carries, a model can never have an armour value better than 2+. Any bonuses, be they granted by equipment, special rules, spells or from any other source, that would improve a model’s armour further have no effect."*   
 </div>
@@ -76,7 +76,7 @@ CAMBIO:
 ---
 # Reinos de Magia
 ---
-##Battle Magic – p. 321
+## Battle Magic – p. 321
 
 **Pillar of Fire**:  
 *“Whilst in play, the template is treated as difficult terrain. The template scatters D6" during every Start of Turn sub-phase (see page 95). Any enemy unit that moves through the template, or that the template moves over, suffers D3+3 Strength 3 hits, each with an AP of -2.” * 
@@ -92,7 +92,7 @@ Explicación: la maldición de pánico ahora es más asequible de lanzar.
 
 ---
 
-**Daemonology – p. 323**
+## **Daemonology – p. 323**
 
 *Steed of Shadows*: “Casting Value 8+.” :contentReference[oaicite:3]{index=3}  
 Explicación: el salto de sombras requiere un esfuerzo mágico moderado en vez de bajo.
