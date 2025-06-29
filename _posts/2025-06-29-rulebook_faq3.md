@@ -66,14 +66,14 @@ CAMBIO:
 3. La recompensa pasa de **25 % a 50 %** del coste en puntos, duplicando los VP que otorga una unidad muy mermada.
 
 ---
-<div class="tabla-peq">
+{:.tabla-peq}
 | Arma | Reglas Originales (Rulebook) | FAQ / Errata v1.5.1 |
 |------|-----------------------------|---------------------|
 | **Mayal (Flail)** | **Perfil:** R Combat, S +2, AP -2, *Requires Two Hands*.<br>**Notas:** El modificador de Fuerza solo se aplica durante la **primera ronda** de combate.  | **Perfil:** R Combat, S +2, AP -2, *Armour Bane (1), Requires Two Hands*.<br>**Notas:** El modificador de Fuerza **y** Armour Bane (1) se aplican **solo contra las miniaturas cargadas ese turno**.  |
 | **Alabarda (Halberd)** | **Perfil:** R Combat, S +1, AP -1, *Armour Bane (1), Requires Two Hands*. | **Perfil:** R Combat, S +1, AP -1 (-2 contra el enemigo cargado), *Armour Bane (1), Requires Two Hands*.<br>**Notas:** AP -2 se aplica **solo contra las miniaturas cargadas ese turno**.  |
 | **Estrella de la Mañana (Morning Star)** | **Perfil:** R Combat, S +1, AP -1, –.<br>**Notas:** El modificador de Fuerza solo se aplica durante la **primera ronda** de combate.  | **Perfil:** R Combat, S +1, AP -1, *Armour Bane (1).*<br>**Notas:** El modificador de Fuerza **y** Armour Bane (1) se aplican **solo contra las miniaturas cargadas ese turno**.  |
 | **Lanza de Caballería (Lance)** | **Perfil:** R Combat, S +2, AP -2, *Armour Bane (1).*<br>**Notas:** Solo ‘cavalry/monster’. Puede usarse **solo el turno de la carga**; en turnos posteriores se debe usar arma de mano. | (Perfil sin cambios)<br>**Notas (revisadas):** Puede usarse solo el turno de la carga **y** sus modificadores de S +2 y AP -2 se aplican **solo contra las miniaturas cargadas ese turno**.  |
-</div>
+
 ---
 # Reinos de Magia
 ---
