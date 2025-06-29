@@ -67,7 +67,7 @@ CAMBIO:
 
 ---
 
-{.tabla-peq { font-size: 0.9em; }
+{:.tabla-peq}
 | Arma | Reglas Originales (Rulebook) | FAQ / Errata v1.5.1 |
 |------|-----------------------------|---------------------|
 | **Mayal (Flail)** | **Perfil:** R Combat, S +2, AP -2, *Requires Two Hands*.<br>**Notas:** El modificador de Fuerza solo se aplica durante la **primera ronda** de combate.  | **Perfil:** R Combat, S +2, AP -2, *Armour Bane (1), Requires Two Hands*.<br>**Notas:** El modificador de Fuerza **y** Armour Bane (1) se aplican **solo contra las miniaturas cargadas ese turno**.  |
