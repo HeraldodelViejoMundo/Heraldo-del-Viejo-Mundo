@@ -102,7 +102,7 @@ Explicación: el *Vórtice del Caos* se convierte en **terreno difícil**, se **
 
 ## Dark Magic – p. 325
 
-*Infernal Gateway:** *“Casting Value 9+.”*  
+**Infernal Gateway:** *“Casting Value 9+.”*  
 Explicación: modifica su dificultad.
 
 ## Elementalism – p. 327
@@ -121,7 +121,7 @@ Explicación: se limita la distancia que puede teletransportarse la unidad requi
 
 ## High Magic – p. 329
 
-*Shield of Saphery:** *“Casting Value 8+.”*  
+**Shield of Saphery:** *“Casting Value 8+.”*  
 Explicación: modifica su dificultad.
 
 ## Illusion – p. 331
@@ -155,3 +155,28 @@ Explicación: modifica su dificultad.
 
 **Foot of Gork (or Mork):** *“Whilst in play, the template is treated as difficult terrain. The template scatters 2D6" during every Start of Turn sub-phase (see page 95). Any unit (friend or foe) that moves through the template, or that the template moves over, suffers D3+3 Strength 5 hits, each with an AP of -1.”*   
 Explicación: el **Pie de Gorko (o Morko)** se convierte en un vórtice que es **terreno difícil**, se **dispersa** (scatter) pudiendo moverse al azar y *causa impactos* a **amigos y enemigos**. Esto significa que *podría no moverse* si en el dado de dispersión sale la *diana* y que no causa impactos a las miniaturas del bando que lo lanzó, pero sí es *terreno difícil para todos*.
+
+---
+# Objetos Mágicos
+---
+
+**Ogre Blade**:  
+Errata: *“Change the Points to ‘75’.”*  
+Explicación: La Espada Ogra sube de 65 → 75 puntos, impidiendo que se use junto al talismán de protección.
+
+**Berserker Blade**:  
+Errata (nuevo perfil):
+
+    R       S     AP   Reglas especiales
+    Combat  S+1    –   Extra Attacks (+1), Impetuous, Magical Attacks
+    Notas: El portador es Impetuous.
+
+Explicación: Se sustituye Frenzy por Extra Attacks (+1) e Impetuous. Mantiene el +1 F y gana un ataque extra; solo debe cargar si puede (Impetuous), evitando la obligación permanente de Frenzy. El coste sigue siendo 20 puntos.
+
+**Bedazzling Helm**:  
+Errata: *“Añadir al inicio de la regla: ‘Solo modelos de tipo ‘infantry’ o ‘cavalry’.’”*  
+Explicación: El Yelmo Deslumbrante queda restringido a Infantería o Caballería; ya no puede equiparse en monstruos, carros ni monturas grandes, evitando combinaciones excesivamente resistentes.
+
+**Ruby Ring of Ruin**:  
+Errata: *“Cambiar el coste a ‘35’ puntos y la regla a: ‘El portador puede lanzar el hechizo Fireball … como hechizo Vinculado, con un Power Level de 1.’”*  
+Explicación: El Anillo Rubí pasa de 30 → 35 puntos pero su Power Level baja de 2 → 1; bajándole el bonificador, por lo que hace más difícil que salga.
