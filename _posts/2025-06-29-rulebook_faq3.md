@@ -66,6 +66,7 @@ CAMBIO:
 3. La recompensa pasa de **25 % a 50 %** del coste en puntos, duplicando los VP que otorga una unidad muy mermada.
 
 ---
+
 {.tabla-peq { font-size: 0.9em; }
 | Arma | Reglas Originales (Rulebook) | FAQ / Errata v1.5.1 |
 |------|-----------------------------|---------------------|
