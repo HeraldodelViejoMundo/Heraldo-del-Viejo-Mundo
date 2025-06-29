@@ -14,8 +14,7 @@ excerpt: >
 
 # FAQs ToW 1.5 - Rulebook Parte 2: Reglas Especiales.
 
-El nuevo paquete de FAQ y erratas sacude sobre todo la **fase de magia**: ahora cada Mago está limitado a lanzar tantos hechizos como su **Nivel de Hechicería** y ve reducidos a la mitad los bonificadores para **lanzar** y **dispersar**, con ajustes que aclaran quién queda silenciado tras una **disfunción**, permiten dispersar **vórtices** a distancia de la plantilla y devuelven utilidad a los Magos trabados. Frente a esos cambios profundos, sólo hay una modificación relevante de combate —el +1 de **Close Order** exige llegar a **10 PU**— y una simple aclaración de reglas sobre las **salvaciones especiales**, que confirma que ningún modificador de armadura las afecta. El resultado global es un juego donde la magia se vuelve menos explosiva y más táctica, la masa de las unidades cuenta todavía más y la distinción entre protección física y mágica queda cristalina.
-
+Games Workshop ha sorprendido con las FAQs v1.5.1, un paquete de erratas que reescribe buena parte de las **reglas especiales** del reglamento de Warhammer: The Old World. Este segundo análisis se centra en esos retoques: desde peuqeñas aclaraciones sobre que la mayoría de las minis deben tener una regla poder aplicarla, hasta la redefinición de reglas icónicas como envenenados.
 
 <div class="errata-box" markdown="1">
 **Rulebook p. 161 “Heavy Casualties”:**

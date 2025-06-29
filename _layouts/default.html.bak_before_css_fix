@@ -6,19 +6,15 @@
   {% seo %}
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-
-
   <!-- Estilos del tema minima -->
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
-
-
-  <!-- Hoja de estilo de Cookie Consent (v3) -->
-  <link rel="stylesheet"
-        href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css" />
 
   <!-- Nuestro CSS personalizado -->
   <link rel="stylesheet" href="{{ "/assets/custom.css" | relative_url }}">
 
+  <!-- Hoja de estilo de Cookie Consent (v3) -->
+  <link rel="stylesheet"
+        href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css" />
 </head>
 
 <body>
