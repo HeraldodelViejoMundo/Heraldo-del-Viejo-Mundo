@@ -1,4 +1,4 @@
-% assign mostrar_todo = include.full | default: false %}
+{% assign mostrar_todo = include.full | default: false %}
 
 {% capture mes_actual %}{{ site.time | date: "%m" }}{% endcapture %}
 {% capture año_actual %}{{ site.time | date: "%Y" }}{% endcapture %}
@@ -13,10 +13,16 @@
   {% assign partes = linea | split: ' ' %}
   {% assign dia = partes[1] | plus: 0 %}
   {% assign mes = partes[3] %}
+  {% assign año_bloque = partes[5] %}
   {% assign mes_numerico = mes | replace: "enero", "01" | replace: "febrero", "02" | replace: "marzo", "03" | replace: "abril", "04" | replace: "mayo", "05" | replace: "junio", "06" | replace: "julio", "07" | replace: "agosto", "08" | replace: "septiembre", "09" | replace: "octubre", "10" | replace: "noviembre", "11" | replace: "diciembre", "12" %}
 
-  {% if mostrar_todo or mes_numerico == mes_actual %}
+  {% if mostrar_todo or (mes_numerico == mes_actual and año_bloque == año_actual) %}
 ---
 {{ bloque | strip }}
   {% endif %}
 {% endfor %}
+
+
+
+
+
