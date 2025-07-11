@@ -4,4 +4,4 @@ title: Torneos
 permalink: /torneos/
 ---
 
-{% include agenda_torneos.html full=true %}
+{% include agenda_torneos_completa.html %}
