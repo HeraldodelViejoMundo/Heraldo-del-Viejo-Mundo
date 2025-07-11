@@ -184,3 +184,36 @@ p.regla-original {
 .tabla-peq {
   font-size: 0.7em;   /* Ajusta este valor si quieres aún más pequeño */
 }
+
+.navbar-fixed {
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  background-color: #2e1a06;
+  border-bottom: 2px solid #b87333;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+  padding: 0.5em 0;
+  text-align: center;
+}
+
+.navbar-links {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: inline-flex;
+  gap: 1.5em;
+  font-family: 'Georgia', serif;
+  font-weight: bold;
+  font-size: 1rem;
+}
+
+.navbar-links a {
+  color: #f9f0dc;
+  text-decoration: none;
+  padding: 0.2em 0.4em;
+}
+
+.navbar-links a:hover {
+  color: #ffffff;
+  text-decoration: underline;
+}
