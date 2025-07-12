@@ -217,3 +217,29 @@ p.regla-original {
   color: #ffffff;
   text-decoration: underline;
 }
+
+/* --- Compactar y resaltar “Próximos Torneos” -------------------- */
+.tournament-list{
+  font-size: .93rem;
+  line-height: 1.25;
+  margin: 0;          /* eliminamos espacios extra */
+}
+
+/* fecha en negrita, mismo tono que la cabecera */
+.tournament-list .fecha,
+.tournament-list strong{
+  display:block;
+  font-size: 1rem;
+  font-weight: 700;
+  color:#2e1a06;
+  margin: .3em 0 .05em;
+}
+
+/* nombre del torneo ligeramente destacado y pegado a la fecha */
+.tournament-list .nombre{
+  display:block;
+  font-weight: 600;
+  color:#5e3000;
+  margin: 0 0 .15em;
+}
+/* --------------------------------------------------------------- */
