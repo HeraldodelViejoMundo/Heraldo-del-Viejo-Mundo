@@ -133,6 +133,36 @@
     div[style] em {
       color: #765c2b;
     }
+
+    /* Galería de imágenes adicionales: grid responsivo */
+    .heraldo-galeria {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+      gap: 0.6em;
+      margin: 1.5em 0;
+    }
+    .heraldo-galeria img {
+      width: 100%;
+      height: 180px;
+      object-fit: cover;
+      border-radius: 4px;
+      margin: 0;
+      cursor: pointer;
+      transition: transform 0.15s ease;
+    }
+    .heraldo-galeria img:hover {
+      transform: scale(1.02);
+    }
+    .heraldo-galeria-titulo {
+      font-family: Georgia, serif;
+      font-size: 1.1em;
+      font-weight: bold;
+      color: #4e3b1f;
+      margin-top: 2em;
+      margin-bottom: 0.5em;
+      border-top: 1px solid #eadbbd;
+      padding-top: 1em;
+    }
   </style>
 
 
@@ -285,6 +315,8 @@ Quien lo controle al final de la partida obtiene +200 VP. Si dos unidades elegib
 
 
 
+  
+  
 
   </div>
 
