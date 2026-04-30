@@ -174,7 +174,8 @@ p.regla-original {
     padding: 0.6em 1em;
   }
 
-  aside {
+  /* Ocultar asides "huérfanos" pero respetar las columnas de la portada */
+  aside:not(.home-col) {
     display: none;
   }
 }
@@ -192,7 +193,7 @@ p.regla-original {
   background-color: #2e1a06;
   border-bottom: 2px solid #b87333;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
-  padding: 0.5em 0;
+  padding: 0.5em 0.6em;
   text-align: center;
 }
 
@@ -201,7 +202,10 @@ p.regla-original {
   margin: 0;
   padding: 0;
   display: inline-flex;
+  flex-wrap: wrap;
+  justify-content: center;
   gap: 1.5em;
+  row-gap: 0.4em;
   font-family: 'Georgia', serif;
   font-weight: bold;
   font-size: 1rem;
@@ -216,6 +220,81 @@ p.regla-original {
 .navbar-links a:hover {
   color: #ffffff;
   text-decoration: underline;
+}
+
+@media (max-width: 700px) {
+  .navbar-fixed { padding: 0.45em 0.5em; }
+  .navbar-links {
+    gap: 0.9em;
+    row-gap: 0.35em;
+    font-size: 0.92rem;
+  }
+  .navbar-links a { padding: 0.15em 0.25em; }
+}
+
+@media (max-width: 380px) {
+  .navbar-links {
+    gap: 0.7em;
+    font-size: 0.86rem;
+  }
+}
+
+/* === Layout responsive de la portada === */
+.home-banner {
+  width: 100%;
+  height: auto;
+  max-height: 240px;
+  object-fit: contain;
+  display: block;
+  margin-bottom: 2em;
+}
+
+.home-wrap {
+  display: flex;
+  justify-content: center;
+}
+
+.home-cols {
+  display: flex;
+  gap: 2em;
+  align-items: flex-start;
+  max-width: 1400px;
+  width: 100%;
+  padding: 0 2em;
+  box-sizing: border-box;
+}
+
+.home-col-left  { flex: 0 0 280px; padding: 0.5em; }
+.home-col-main  { flex: 1 1 620px; max-width: 780px; margin-top: 0; min-width: 0; }
+.home-col-right { flex: 0 0 320px; padding: 0.5em; }
+
+/* En móvil/tableta estrecha, apilamos: central, luego torneos, luego YouTube */
+@media (max-width: 900px) {
+  .home-banner { margin-bottom: 1em; max-height: 160px; }
+  .home-cols {
+    flex-direction: column;
+    padding: 0 1em;
+    gap: 1.5em;
+  }
+  .home-col-left,
+  .home-col-main,
+  .home-col-right {
+    flex: 1 1 auto;
+    max-width: 100%;
+    width: 100%;
+    padding: 0;
+  }
+  /* Reordenar: central primero, luego torneos, luego YouTube */
+  .home-col-main  { order: 1; }
+  .home-col-left  { order: 2; }
+  .home-col-right { order: 3; }
+}
+
+/* Que las imágenes y vídeos de la columna central no rebasen */
+.home-col-main img,
+.home-col-main iframe {
+  max-width: 100%;
+  height: auto;
 }
 
 /* --- Compactar y resaltar “Próximos Torneos” -------------------- */

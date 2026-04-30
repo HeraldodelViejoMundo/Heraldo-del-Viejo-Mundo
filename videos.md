@@ -181,11 +181,33 @@ permalink: /videos/
     text-align: right;
   }
 
-  @media (max-width: 600px) {
+  /* Por defecto (desktop): mostrar versión desktop, ocultar móvil */
+  .vm-more-mobile { display: none; }
+
+  @media (max-width: 700px) {
     .vm-title { font-size: 2.2em; }
     .vm-channel-logo { width: 60px; height: 60px; }
     .vm-channel-name { font-size: 1.4em; }
     .vm-page { padding: 1.5em 0.8em 2.5em; }
+    .vm-grid {
+      grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+      gap: 1em;
+    }
+    /* En móvil, ocultamos las tarjetas 5-8 */
+    .vm-card-extra { display: none; }
+    /* Y conmutamos los textos "más" */
+    .vm-more-desktop { display: none; }
+    .vm-more-mobile { display: block; }
+  }
+
+  @media (max-width: 480px) {
+    .vm-grid {
+      grid-template-columns: 1fr;
+    }
+    .vm-channel-head { gap: 0.8em; }
+    .vm-channel-logo { width: 52px; height: 52px; border-width: 2px; }
+    .vm-channel-name { font-size: 1.25em; }
+    .vm-page { padding: 1.2em 0.6em 2em; }
   }
 </style>
 
@@ -239,7 +261,7 @@ permalink: /videos/
 
     <div class="vm-grid">
       {%- for v in canal_videos limit: 8 -%}
-      <a class="vm-card" href="{{ v.url | relative_url }}">
+      <a class="vm-card{% if forloop.index > 4 %} vm-card-extra{% endif %}" href="{{ v.url | relative_url }}">
         <div class="vm-thumb-wrap">
           {%- if v.thumbnail -%}
           <img class="vm-thumb" src="{{ v.thumbnail }}" alt="{{ v.title | escape }}" loading="lazy">
@@ -256,8 +278,15 @@ permalink: /videos/
       {%- endfor -%}
     </div>
 
+    {%- comment -%}
+      En desktop: si hay más de 8, mostrar los X-8 restantes.
+      En móvil: solo se ven 4, así que el "más" es X-4 (incluyendo los ocultos del 5-8).
+    {%- endcomment -%}
     {%- if canal_videos.size > 8 -%}
-    <p class="vm-more">… y {{ canal_videos.size | minus: 8 }} más en el archivo del canal.</p>
+    <p class="vm-more vm-more-desktop">… y {{ canal_videos.size | minus: 8 }} más en el archivo del canal.</p>
+    {%- endif -%}
+    {%- if canal_videos.size > 4 -%}
+    <p class="vm-more vm-more-mobile">… y {{ canal_videos.size | minus: 4 }} más en el archivo del canal.</p>
     {%- endif -%}
   </section>
 
