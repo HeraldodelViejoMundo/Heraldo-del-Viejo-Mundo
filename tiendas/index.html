@@ -510,7 +510,11 @@
     if (s.web) {
       meta.push('🌐 ' + escapeHtml(s.web));
     }
-    if (s.email) meta.push('✉ <a href="mailto:' + escapeHtml(s.email) + '">' + escapeHtml(s.email) + '</a>');
+    if (s.email) {
+      const emails = s.email.split(/\s*[·,]\s*/).filter(e => e.trim());
+      const links = emails.map(e => '<a href="mailto:' + escapeHtml(e) + '">' + escapeHtml(e) + '</a>');
+      meta.push('✉ ' + links.join(' · '));
+    }
     if (meta.length) html += '<div class="tn-card-meta">' + meta.join(' · ') + '</div>';
     if (s.notes) html += '<div class="tn-card-notes">' + escapeHtml(s.notes) + '</div>';
     html += '</div>';
