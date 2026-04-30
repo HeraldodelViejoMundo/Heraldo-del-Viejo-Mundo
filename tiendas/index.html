@@ -159,6 +159,31 @@
     margin: 0 auto 2em;
     max-width: 760px;
   }
+  .tn-mission {
+    max-width: 760px;
+    margin: 0 auto 1.5em;
+    text-align: justify;
+    color: #3a2410;
+    font-size: 1.05em;
+    line-height: 1.55;
+    padding: 0 0.5em;
+  }
+  .tn-mission p {
+    margin: 0 0 0.9em;
+    text-indent: 1.5em;
+  }
+  .tn-mission p:first-child::first-letter {
+    font-family: 'UnifrakturCook', 'Cormorant Garamond', Georgia, serif;
+    font-size: 2.6em;
+    float: left;
+    line-height: 0.9;
+    padding: 0.05em 0.1em 0 0;
+    color: #8b5a2b;
+    font-weight: 700;
+  }
+  .tn-mission p:first-child {
+    text-indent: 0;
+  }
 
   /* Mapa */
   #tn-map {
@@ -375,8 +400,18 @@
 </p>
 <div class="tn-divider">⚜ &nbsp; ❦ &nbsp; ⚜</div>
 
+<div class="tn-mission">
+  <p>
+    <strong>El Heraldo del Viejo Mundo</strong> nace con la voluntad de ser <em>punto de encuentro y herramienta de cabecera</em> para cuantos servimos en las filas del Viejo Mundo bajo la lengua de Cervantes: jugadores veteranos que recuerdan las viejas batallas, pintores que dan vida a las miniaturas, generales noveles que se inician en estas tierras y todo aquel que, en suma, comparta la afición por <em>Warhammer&nbsp;Fantasy</em> y <em>Warhammer: The Old World</em>.
+  </p>
+  <p>
+    En ese empeño se enmarca este <strong>Mapa de los Mercaderes</strong>: un directorio cuidadosamente reunido de las tiendas que sostienen el hobby a lo largo y ancho de la geografía hispana —desde los reinos del norte hasta las marcas del sur—, para que ningún general quede sin saber dónde proveer su ejército ni en qué mesa lo desplegará.
+  </p>
+</div>
+
 <div class="tn-disclaimer">
-  Última actualización: <strong>abril de 2026</strong>. Los datos pueden variar; conviene confirmar horarios y dirección antes de desplazarse. ¿Falta tu tienda o hay algún error? <a href="mailto:contacto@elheraldodelviejomundo.com" style="color:#8b5a2b;">Avísanos</a>.
+  Última actualización: <strong>abril de 2026</strong>. Los datos pueden variar con el tiempo; conviene confirmar horarios y dirección antes de desplazarse.<br />
+  ¿Falta alguna tienda o hay algún dato incorrecto? Háznoslo saber escribiendo a <a href="mailto:heraldo@elheraldodelviejomundo.com" style="color:#8b5a2b;font-weight:600;">heraldo@elheraldodelviejomundo.com</a> y lo corregiremos en la siguiente revisión.
 </div>
 
 <div id="tn-map"></div>
@@ -453,8 +488,7 @@
     let meta = [];
     if (s.phone) meta.push('☎ ' + escapeHtml(s.phone));
     if (s.web) {
-      let web = s.web.startsWith('http') ? s.web : 'https://' + s.web;
-      meta.push('<a href="' + escapeHtml(web) + '" target="_blank" rel="noopener">' + escapeHtml(s.web) + '</a>');
+      meta.push('🌐 ' + escapeHtml(s.web));
     }
     if (meta.length) html += '<div class="tn-popup-meta">' + meta.join(' · ') + '</div>';
     return html;
@@ -474,8 +508,7 @@
     let meta = [];
     if (s.phone) meta.push('☎ ' + escapeHtml(s.phone));
     if (s.web) {
-      let web = s.web.startsWith('http') ? s.web : 'https://' + s.web;
-      meta.push('🔗 <a href="' + escapeHtml(web) + '" target="_blank" rel="noopener">' + escapeHtml(s.web) + '</a>');
+      meta.push('🌐 ' + escapeHtml(s.web));
     }
     if (s.email) meta.push('✉ <a href="mailto:' + escapeHtml(s.email) + '">' + escapeHtml(s.email) + '</a>');
     if (meta.length) html += '<div class="tn-card-meta">' + meta.join(' · ') + '</div>';
