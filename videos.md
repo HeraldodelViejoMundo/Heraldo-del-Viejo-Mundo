@@ -19,7 +19,7 @@ permalink: /videos/
   Whitelist de canales (mismo orden que en video_bot.py).
   Cualquier vídeo cuyo `channel:` no esté en esta lista se ignora.
 {%- endcomment -%}
-{%- assign whitelist = "La Forja del Fénix|La Alianza del Viejo Mundo|13th Warrior|Moria Wargames|La Taberna del Enano|La Taberna del Guerrero|La Posada del Martillo|Juegos y Dados|Leyendas en Miniatura|La Escotilla Estaliana Podcast" | split: "|" -%}
+{%- assign whitelist = "La Forja del Fénix|La Alianza del Viejo Mundo|13th Warrior|Moria Wargames|La Taberna del Enano|La Taberna del Guerrero|La Posada del Martillo|Juegos y Dados|Leyendas en Miniatura|La Escotilla Estaliana Podcast|Legión del Turia|Las arenas de Nehekhara" | split: "|" -%}
 
 {%- assign sorted_videos = site.videos | sort: "date" | reverse -%}
 
