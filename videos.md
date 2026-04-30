@@ -206,7 +206,7 @@ permalink: /videos/
   Cada item: "Nombre del canal::slug-del-logo"
   El slug debe coincidir con assets/canales/<slug>.jpg
 {%- endcomment -%}
-{%- assign whitelist_raw = "La Forja del Fénix::la-forja-del-fenix|La Alianza del Viejo Mundo::la-alianza-del-viejo-mundo|13th Warrior::13th-warrior|Moria Wargames::moria-wargames|La Taberna del Enano::la-taberna-del-enano|La Taberna del Guerrero::la-taberna-del-guerrero|La Posada del Martillo::la-posada-del-martillo|Juegos y Dados::juegos-y-dados|Leyendas en Miniatura::leyendas-en-miniatura|La Escotilla Estaliana Podcast::la-escotilla-estaliana-podcast|Legión del Turia::legion-del-turia|Las arenas de Nehekhara::las-arenas-de-nehekhara" | split: "|" -%}
+{%- assign whitelist_raw = "La Forja del Fénix::la-forja-del-fenix|La Alianza del Viejo Mundo::la-alianza-del-viejo-mundo|13th Warrior::13th-warrior|Moria Wargames::moria-wargames|La Taberna del Enano::la-taberna-del-enano|La Taberna del Guerrero::la-taberna-del-guerrero|La Posada del Martillo::la-posada-del-martillo|Juegos y Dados::juegos-y-dados|Leyendas en Miniatura::leyendas-en-miniatura|La Escotilla Estaliana Podcast::la-escotilla-estaliana-podcast|Legión del Turia::legion-del-turia|Las arenas de Nehekhara::las-arenas-de-nehekhara|Pícnic en Drakenhof::picnic-en-drakenhof" | split: "|" -%}
 
 {%- assign sorted_videos = site.videos | sort: "date" | reverse -%}
 
