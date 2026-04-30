@@ -279,11 +279,33 @@
     text-align: right;
   }
 
-  @media (max-width: 600px) {
+  /* Por defecto (desktop): mostrar versión desktop, ocultar móvil */
+  .vm-more-mobile { display: none; }
+
+  @media (max-width: 700px) {
     .vm-title { font-size: 2.2em; }
     .vm-channel-logo { width: 60px; height: 60px; }
     .vm-channel-name { font-size: 1.4em; }
     .vm-page { padding: 1.5em 0.8em 2.5em; }
+    .vm-grid {
+      grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+      gap: 1em;
+    }
+    /* En móvil, ocultamos las tarjetas 5-8 */
+    .vm-card-extra { display: none; }
+    /* Y conmutamos los textos "más" */
+    .vm-more-desktop { display: none; }
+    .vm-more-mobile { display: block; }
+  }
+
+  @media (max-width: 480px) {
+    .vm-grid {
+      grid-template-columns: 1fr;
+    }
+    .vm-channel-head { gap: 0.8em; }
+    .vm-channel-logo { width: 52px; height: 52px; border-width: 2px; }
+    .vm-channel-name { font-size: 1.25em; }
+    .vm-page { padding: 1.2em 0.6em 2em; }
   }
 </style>
 
@@ -374,7 +396,7 @@
             Warhammer The Old World - Torneo Kingdom Alcorcón 2000pts
           </div>
         </div>
-      </a><a class="vm-card" href="/videos/2025-07-13-yt-ZpoNzVLGRT8.html">
+      </a><a class="vm-card vm-card-extra" href="/videos/2025-07-13-yt-ZpoNzVLGRT8.html">
         <div class="vm-thumb-wrap"><img class="vm-thumb" src="https://i.ytimg.com/vi/ZpoNzVLGRT8/hqdefault.jpg" alt="Warhammer The Old World 1.5 - Torneo Kingdom 2000 puntos Nuevas Faqs" loading="lazy" /><div class="vm-play"></div>
         </div>
         <div class="vm-card-body">
@@ -383,7 +405,7 @@
             Warhammer The Old World 1.5 - Torneo Kingdom 2000 puntos Nuevas Faqs
           </div>
         </div>
-      </a><a class="vm-card" href="/videos/2025-07-12-yt-GlADiu_508E.html">
+      </a><a class="vm-card vm-card-extra" href="/videos/2025-07-12-yt-GlADiu_508E.html">
         <div class="vm-thumb-wrap"><img class="vm-thumb" src="https://i.ytimg.com/vi/GlADiu_508E/hqdefault.jpg" alt="Clasificatorio Mundial 2025 Warhammer The Old World: Bretonia vs Enanos del Caos - Análisis Completo" loading="lazy" /><div class="vm-play"></div>
         </div>
         <div class="vm-card-body">
@@ -392,7 +414,7 @@
             Clasificatorio Mundial 2025 Warhammer The Old WorldBretonia vs Enanos del Caos - Análisis Co...
           </div>
         </div>
-      </a><a class="vm-card" href="/videos/2025-07-11-yt-HHQgVN1mIqc.html">
+      </a><a class="vm-card vm-card-extra" href="/videos/2025-07-11-yt-HHQgVN1mIqc.html">
         <div class="vm-thumb-wrap"><img class="vm-thumb" src="https://i.ytimg.com/vi/HHQgVN1mIqc/hqdefault.jpg" alt="Análisis Matched Play Warhammer The Old World 1.5 con nuestra experiencia." loading="lazy" /><div class="vm-play"></div>
         </div>
         <div class="vm-card-body">
@@ -401,7 +423,7 @@
             Análisis Matched Play Warhammer The Old World 1.5 con nuestra experiencia.
           </div>
         </div>
-      </a><a class="vm-card" href="/videos/2025-07-09-yt-2LFa-tZuqvE.html">
+      </a><a class="vm-card vm-card-extra" href="/videos/2025-07-09-yt-2LFa-tZuqvE.html">
         <div class="vm-thumb-wrap"><img class="vm-thumb" src="https://i.ytimg.com/vi/2LFa-tZuqvE/hqdefault.jpg" alt="Warhammer The Old World 1.5 - Enanos vs Demonios del Caos con Reglas y FAQs Actualizadas" loading="lazy" /><div class="vm-play"></div>
         </div>
         <div class="vm-card-body">
@@ -410,7 +432,7 @@
             Warhammer The Old World 1.5 - Enanos vs Demonios del Caos con Reglas y FAQs Actualizadas
           </div>
         </div>
-      </a></div><p class="vm-more">… y 2 más en el archivo del canal.</p></section><section class="vm-channel">
+      </a></div><p class="vm-more vm-more-desktop">… y 2 más en el archivo del canal.</p><p class="vm-more vm-more-mobile">… y 6 más en el archivo del canal.</p></section><section class="vm-channel">
     <div class="vm-channel-head">
       <img class="vm-channel-logo" src="/assets/canales/13th-warrior.jpg" alt="Logo de 13th Warrior" loading="lazy" />
       <div class="vm-channel-info">
@@ -457,7 +479,7 @@
             🎲&quot;BRETONIA VS HOMBRES BESTIA&quot;🎲2500 PUNTOS INFORME DE BATALLA #warhammertheoldworld...
           </div>
         </div>
-      </a><a class="vm-card" href="/videos/2025-07-15-yt-PGp3a9Lg59g.html">
+      </a><a class="vm-card vm-card-extra" href="/videos/2025-07-15-yt-PGp3a9Lg59g.html">
         <div class="vm-thumb-wrap"><img class="vm-thumb" src="https://i.ytimg.com/vi/PGp3a9Lg59g/hqdefault.jpg" alt="🎲&amp;quot;ARCANE JOURNAL ELFOS SILVANOS&amp;quot;🎲TRASFONDO TOW #68 (PODCAST) -  #warhammer #theoldworld #tow" loading="lazy" /><div class="vm-play"></div>
         </div>
         <div class="vm-card-body">
@@ -466,7 +488,7 @@
             🎲&quot;ARCANE JOURNAL ELFOS SILVANOS&quot;🎲TRASFONDO TOW #68 (PODCAST) -  #warhammer #theold...
           </div>
         </div>
-      </a><a class="vm-card" href="/videos/2025-07-13-yt-I-0UXNRK4AI.html">
+      </a><a class="vm-card vm-card-extra" href="/videos/2025-07-13-yt-I-0UXNRK4AI.html">
         <div class="vm-thumb-wrap"><img class="vm-thumb" src="https://i.ytimg.com/vi/I-0UXNRK4AI/hqdefault.jpg" alt="🎲&amp;quot;BRETONIA VS EXILIADOS (BRETONIA)&amp;quot;🎲2500 PUNTOS INFORME DE BATALLA #warhammertheoldworld" loading="lazy" /><div class="vm-play"></div>
         </div>
         <div class="vm-card-body">
@@ -475,7 +497,7 @@
             🎲&quot;BRETONIA VS EXILIADOS (BRETONIA)&quot;🎲2500 PUNTOS INFORME DE BATALLA #warhammertheol...
           </div>
         </div>
-      </a><a class="vm-card" href="/videos/2025-07-10-yt-kN3RYBtzkEA.html">
+      </a><a class="vm-card vm-card-extra" href="/videos/2025-07-10-yt-kN3RYBtzkEA.html">
         <div class="vm-thumb-wrap"><img class="vm-thumb" src="https://i.ytimg.com/vi/kN3RYBtzkEA/hqdefault.jpg" alt="🎲VUELVEN LOS PERROS DE LA GUERRA???🎲NOTICIAS TOW #29 #theoldworld" loading="lazy" /><div class="vm-play"></div>
         </div>
         <div class="vm-card-body">
@@ -484,7 +506,7 @@
             🎲VUELVEN LOS PERROS DE LA GUERRA???🎲NOTICIAS TOW #29 #theoldworld
           </div>
         </div>
-      </a><a class="vm-card" href="/videos/2025-07-07-yt-W26eg2-5UC4.html">
+      </a><a class="vm-card vm-card-extra" href="/videos/2025-07-07-yt-W26eg2-5UC4.html">
         <div class="vm-thumb-wrap"><img class="vm-thumb" src="https://i.ytimg.com/vi/W26eg2-5UC4/hqdefault.jpg" alt="🎲LA RUEDA DE LA MUERTE SKAVEN🎲TRASFONDO TOW #70 (PODCAST) -  #warhammer #theoldworld #tow" loading="lazy" /><div class="vm-play"></div>
         </div>
         <div class="vm-card-body">
@@ -493,7 +515,7 @@
             🎲LA RUEDA DE LA MUERTE SKAVEN🎲TRASFONDO TOW #70 (PODCAST) -  #warhammer #theoldworld #tow
           </div>
         </div>
-      </a></div><p class="vm-more">… y 19 más en el archivo del canal.</p></section><section class="vm-channel">
+      </a></div><p class="vm-more vm-more-desktop">… y 19 más en el archivo del canal.</p><p class="vm-more vm-more-mobile">… y 23 más en el archivo del canal.</p></section><section class="vm-channel">
     <div class="vm-channel-head">
       <img class="vm-channel-logo" src="/assets/canales/moria-wargames.jpg" alt="Logo de Moria Wargames" loading="lazy" />
       <div class="vm-channel-info">
@@ -540,7 +562,7 @@
             Guerreros del Caos vs Grand Cathay | The Old World | 2000p
           </div>
         </div>
-      </a><a class="vm-card" href="/videos/2026-03-02-yt-Evr4uQ91jog.html">
+      </a><a class="vm-card vm-card-extra" href="/videos/2026-03-02-yt-Evr4uQ91jog.html">
         <div class="vm-thumb-wrap"><img class="vm-thumb" src="https://i.ytimg.com/vi/Evr4uQ91jog/maxresdefault.jpg" alt="Condes Vampiro (Lahmia) vs Skavens (Clan Eshin) | Warhammer Fantasy 6a ed MDNR | 2000p" loading="lazy" /><div class="vm-play"></div>
         </div>
         <div class="vm-card-body">
@@ -549,7 +571,7 @@
             Condes Vampiro (Lahmia) vs Skavens (Clan Eshin) | Warhammer Fantasy 6a ed MDNR | 2000p
           </div>
         </div>
-      </a><a class="vm-card" href="/videos/2025-07-07-yt-dNPVVgCUXjA.html">
+      </a><a class="vm-card vm-card-extra" href="/videos/2025-07-07-yt-dNPVVgCUXjA.html">
         <div class="vm-thumb-wrap"><img class="vm-thumb" src="https://i.ytimg.com/vi/dNPVVgCUXjA/hqdefault.jpg" alt="BATALLA POST FAQs! Guerreros del Caos vs Demonios de Tzeentch | The Old World 2000p Open Battle" loading="lazy" /><div class="vm-play"></div>
         </div>
         <div class="vm-card-body">
@@ -558,7 +580,7 @@
             BATALLA POST FAQs! Guerreros del Caos vs Demonios de Tzeentch | The Old World 2000p Open Battle
           </div>
         </div>
-      </a><a class="vm-card" href="/videos/2025-06-26-yt-pMm-s52VRBA.html">
+      </a><a class="vm-card vm-card-extra" href="/videos/2025-06-26-yt-pMm-s52VRBA.html">
         <div class="vm-thumb-wrap"><img class="vm-thumb" src="https://i.ytimg.com/vi/pMm-s52VRBA/hqdefault.jpg" alt="TEORIHAMMER #11 | FAQs para The Old World, Cambios DRÁSTICOS para el juego! Nos toca estudiar gente!" loading="lazy" /><div class="vm-play"></div>
         </div>
         <div class="vm-card-body">
@@ -567,7 +589,7 @@
             TEORIHAMMER #11 | FAQs para The Old World, Cambios DRÁSTICOS para el juego! Nos toca estudia...
           </div>
         </div>
-      </a><a class="vm-card" href="/videos/2025-06-21-yt-Sikz2e9SF4M.html">
+      </a><a class="vm-card vm-card-extra" href="/videos/2025-06-21-yt-Sikz2e9SF4M.html">
         <div class="vm-thumb-wrap"><img class="vm-thumb" src="https://i.ytimg.com/vi/Sikz2e9SF4M/hqdefault.jpg" alt="TEORIHAMMER #10 | Arcane Journal Hombres Bestia | Trasfondo en castellano y reglas!" loading="lazy" /><div class="vm-play"></div>
         </div>
         <div class="vm-card-body">
@@ -576,7 +598,7 @@
             TEORIHAMMER #10 | Arcane Journal Hombres Bestia | Trasfondo en castellano y reglas!
           </div>
         </div>
-      </a></div><p class="vm-more">… y 3 más en el archivo del canal.</p></section><section class="vm-channel">
+      </a></div><p class="vm-more vm-more-desktop">… y 3 más en el archivo del canal.</p><p class="vm-more vm-more-mobile">… y 7 más en el archivo del canal.</p></section><section class="vm-channel">
     <div class="vm-channel-head">
       <img class="vm-channel-logo" src="/assets/canales/la-taberna-del-enano.jpg" alt="Logo de La Taberna del Enano" loading="lazy" />
       <div class="vm-channel-info">
@@ -728,7 +750,7 @@
             Warhammer Fantasy RolePlay | Lustria | Reseña
           </div>
         </div>
-      </a><a class="vm-card" href="/videos/2025-07-20-yt-eCcdfYJ6iBA.html">
+      </a><a class="vm-card vm-card-extra" href="/videos/2025-07-20-yt-eCcdfYJ6iBA.html">
         <div class="vm-thumb-wrap"><img class="vm-thumb" src="https://i.ytimg.com/vi/eCcdfYJ6iBA/hqdefault.jpg" alt="Reseña de Calles Primigenias | La Llamada de Cthulhu" loading="lazy" /><div class="vm-play"></div>
         </div>
         <div class="vm-card-body">
@@ -737,7 +759,7 @@
             Reseña de Calles Primigenias | La Llamada de Cthulhu
           </div>
         </div>
-      </a><a class="vm-card" href="/videos/2025-07-13-yt-WB17_eAvPRI.html">
+      </a><a class="vm-card vm-card-extra" href="/videos/2025-07-13-yt-WB17_eAvPRI.html">
         <div class="vm-thumb-wrap"><img class="vm-thumb" src="https://i.ytimg.com/vi/WB17_eAvPRI/hqdefault.jpg" alt="Dungeons &amp;amp; Dragons Adventurer 65-66-67-68-69 | Reseña" loading="lazy" /><div class="vm-play"></div>
         </div>
         <div class="vm-card-body">
@@ -746,7 +768,7 @@
             Dungeons &amp; Dragons Adventurer 65-66-67-68-69 | Reseña
           </div>
         </div>
-      </a><a class="vm-card" href="/videos/2025-07-06-yt-1qDd-VB6XVY.html">
+      </a><a class="vm-card vm-card-extra" href="/videos/2025-07-06-yt-1qDd-VB6XVY.html">
         <div class="vm-thumb-wrap"><img class="vm-thumb" src="https://i.ytimg.com/vi/1qDd-VB6XVY/hqdefault.jpg" alt="The Walking Dead All Out War | Hilltop Collection" loading="lazy" /><div class="vm-play"></div>
         </div>
         <div class="vm-card-body">
@@ -755,7 +777,7 @@
             The Walking Dead All Out War | Hilltop Collection
           </div>
         </div>
-      </a><a class="vm-card" href="/videos/2025-06-29-yt-lm3yrKGv9X0.html">
+      </a><a class="vm-card vm-card-extra" href="/videos/2025-06-29-yt-lm3yrKGv9X0.html">
         <div class="vm-thumb-wrap"><img class="vm-thumb" src="https://i.ytimg.com/vi/lm3yrKGv9X0/hqdefault.jpg" alt="Las Aventuras de Gotrek y Félix | Sexto Omnibus | Warhammer Chronicles" loading="lazy" /><div class="vm-play"></div>
         </div>
         <div class="vm-card-body">
@@ -764,7 +786,7 @@
             Las Aventuras de Gotrek y Félix | Sexto Omnibus | Warhammer Chronicles
           </div>
         </div>
-      </a></div><p class="vm-more">… y 5 más en el archivo del canal.</p></section><section class="vm-channel">
+      </a></div><p class="vm-more vm-more-desktop">… y 5 más en el archivo del canal.</p><p class="vm-more vm-more-mobile">… y 9 más en el archivo del canal.</p></section><section class="vm-channel">
     <div class="vm-channel-head">
       <img class="vm-channel-logo" src="/assets/canales/leyendas-en-miniatura.jpg" alt="Logo de Leyendas en Miniatura" loading="lazy" />
       <div class="vm-channel-info">
@@ -811,7 +833,7 @@
             El Trono de Cucharas #3 Sobre listas amistosas, duras y originales
           </div>
         </div>
-      </a><a class="vm-card" href="/videos/2025-07-15-yt-F6NAbRsQJBE.html">
+      </a><a class="vm-card vm-card-extra" href="/videos/2025-07-15-yt-F6NAbRsQJBE.html">
         <div class="vm-thumb-wrap"><img class="vm-thumb" src="https://i.ytimg.com/vi/F6NAbRsQJBE/hqdefault.jpg" alt="V Torneo Battlebunker Vitoria de Warhammer Fantasy 6ª: La Tormenta del WHAAAGH" loading="lazy" /><div class="vm-play"></div>
         </div>
         <div class="vm-card-body">
@@ -820,7 +842,7 @@
             V Torneo Battlebunker Vitoria de Warhammer Fantasy 6ªLa Tormenta del WHAAAGH
           </div>
         </div>
-      </a><a class="vm-card" href="/videos/2025-07-01-yt-biXM7yu7jg4.html">
+      </a><a class="vm-card vm-card-extra" href="/videos/2025-07-01-yt-biXM7yu7jg4.html">
         <div class="vm-thumb-wrap"><img class="vm-thumb" src="https://i.ytimg.com/vi/biXM7yu7jg4/hqdefault.jpg" alt="BESTIAS DEL CAOS VS BESTIAS DEL CAOS - 1500p | WARHAMMER FANTASY | Informe de Batalla #30" loading="lazy" /><div class="vm-play"></div>
         </div>
         <div class="vm-card-body">
@@ -829,7 +851,7 @@
             BESTIAS DEL CAOS VS BESTIAS DEL CAOS - 1500p | WARHAMMER FANTASY | Informe de Batalla #30
           </div>
         </div>
-      </a><a class="vm-card" href="/videos/2025-06-05-yt-ivXCBBQKhDs.html">
+      </a><a class="vm-card vm-card-extra" href="/videos/2025-06-05-yt-ivXCBBQKhDs.html">
         <div class="vm-thumb-wrap"><img class="vm-thumb" src="https://i.ytimg.com/vi/ivXCBBQKhDs/hqdefault.jpg" alt="Nuevo vídeo de Leyendas en Miniatura: ¡MATADORES! - Warhammer Fantasy Escaramuzas #2" loading="lazy" /><div class="vm-play"></div>
         </div>
         <div class="vm-card-body">
@@ -838,7 +860,7 @@
             ¡MATADORES! - Warhammer Fantasy Escaramuzas #2
           </div>
         </div>
-      </a></div></section><section class="vm-channel">
+      </a></div><p class="vm-more vm-more-mobile">… y 3 más en el archivo del canal.</p></section><section class="vm-channel">
     <div class="vm-channel-head">
       <img class="vm-channel-logo" src="/assets/canales/la-escotilla-estaliana-podcast.jpg" alt="Logo de La Escotilla Estaliana Podcast" loading="lazy" />
       <div class="vm-channel-info">
@@ -885,7 +907,7 @@
             41. Lo sagrado y lo profano. Fran de Camas.
           </div>
         </div>
-      </a><a class="vm-card" href="/videos/2025-06-30-yt-A2JHinM8pt4.html">
+      </a><a class="vm-card vm-card-extra" href="/videos/2025-06-30-yt-A2JHinM8pt4.html">
         <div class="vm-thumb-wrap"><img class="vm-thumb" src="https://i.ytimg.com/vi/A2JHinM8pt4/hqdefault.jpg" alt="40. Entrevista a Molino Siempre." loading="lazy" /><div class="vm-play"></div>
         </div>
         <div class="vm-card-body">
@@ -894,7 +916,7 @@
             40. Entrevista a Molino Siempre.
           </div>
         </div>
-      </a><a class="vm-card" href="/videos/2025-06-13-yt-CzDoicEeRXo.html">
+      </a><a class="vm-card vm-card-extra" href="/videos/2025-06-13-yt-CzDoicEeRXo.html">
         <div class="vm-thumb-wrap"><img class="vm-thumb" src="https://i.ytimg.com/vi/CzDoicEeRXo/hqdefault.jpg" alt="39.  ¡La Cumbre del Hobby!" loading="lazy" /><div class="vm-play"></div>
         </div>
         <div class="vm-card-body">
@@ -903,7 +925,7 @@
             39.  ¡La Cumbre del Hobby!
           </div>
         </div>
-      </a><a class="vm-card" href="/videos/2025-05-29-yt-jMhrWoEGQLI.html">
+      </a><a class="vm-card vm-card-extra" href="/videos/2025-05-29-yt-jMhrWoEGQLI.html">
         <div class="vm-thumb-wrap"><img class="vm-thumb" src="https://i.ytimg.com/vi/jMhrWoEGQLI/hqdefault.jpg" alt="Nuevo vídeo de La Escotilla Estaliana Podcast: 38  Crossover con La Cripta del Plástico." loading="lazy" /><div class="vm-play"></div>
         </div>
         <div class="vm-card-body">
@@ -912,7 +934,7 @@
             38  Crossover con La Cripta del Plástico.
           </div>
         </div>
-      </a></div></section><section class="vm-channel">
+      </a></div><p class="vm-more vm-more-mobile">… y 3 más en el archivo del canal.</p></section><section class="vm-channel">
     <div class="vm-channel-head">
       <img class="vm-channel-logo" src="/assets/canales/legion-del-turia.jpg" alt="Logo de Legión del Turia" loading="lazy" />
       <div class="vm-channel-info">
