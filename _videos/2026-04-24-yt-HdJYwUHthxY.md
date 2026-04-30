@@ -11,14 +11,14 @@ duration_seconds: 11138
 duration_minutes: 185
 source: whitelist
 excerpt: >
-  La Escotilla Estaliana Podcast dedica una larga conversación al hobby de pintura y modelismo junto a Paco Moya, con espacio para sus primeros pasos en Warhammer, el regreso a los pinceles y la cuestión de repintar miniaturas antiguas. También asoman bustos, maestros de pintura y concursos dentro y fuera de España.
+  La Escotilla Estaliana Podcast dedica una larga conversación a Paco Moya, centrada en la pintura de miniaturas como faceta artesanal y competitiva del hobby. Entre primeros pasos en Warhammer, regreso a los pinceles, maestros, bustos y concursos, el episodio parece moverse entre memoria aficionada y charla de pintura en profundidad.
 ---
 
 ## 52. La pintura de miniaturas con Paco Moya.
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/HdJYwUHthxY" frameborder="0" allowfullscreen></iframe>
 
-La Escotilla Estaliana Podcast dedica una larga conversación al hobby de pintura y modelismo junto a Paco Moya, con espacio para sus primeros pasos en Warhammer, el regreso a los pinceles y la cuestión de repintar miniaturas antiguas. También asoman bustos, maestros de pintura y concursos dentro y fuera de España.
+La Escotilla Estaliana Podcast dedica una larga conversación a Paco Moya, centrada en la pintura de miniaturas como faceta artesanal y competitiva del hobby. Entre primeros pasos en Warhammer, regreso a los pinceles, maestros, bustos y concursos, el episodio parece moverse entre memoria aficionada y charla de pintura en profundidad.
 
 📅 Publicado el 24/04/2026 a las 04:00
 🔗 [Ver en YouTube](https://www.youtube.com/watch?v=HdJYwUHthxY)

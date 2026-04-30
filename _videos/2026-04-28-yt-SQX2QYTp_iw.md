@@ -11,14 +11,14 @@ duration_seconds: 1834
 duration_minutes: 30
 source: whitelist
 excerpt: >
-  13th warrior presenta un vídeo de partida con Chisvi, en un formato que parece orientado al juego con miembros de su comunidad. La descripción no concreta ejércitos, puntos ni escenario, así que queda como una pieza breve para ver mesa y dinámica de juego sin más contexto previo.
+  13th warrior presenta una partida con un suscriptor, en un formato que parece centrarse en la experiencia de juego más que en un emparejamiento anunciado con detalle. Al no indicarse ejércitos ni puntos en la descripción, queda como un vídeo informe abierto para ver mesa, decisiones y dinámica de partida.
 ---
 
 ## 🎲"PARTIDA CON SUBSCRIPTORES (CHISVI)"🎲
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/SQX2QYTp_iw" frameborder="0" allowfullscreen></iframe>
 
-13th warrior presenta un vídeo de partida con Chisvi, en un formato que parece orientado al juego con miembros de su comunidad. La descripción no concreta ejércitos, puntos ni escenario, así que queda como una pieza breve para ver mesa y dinámica de juego sin más contexto previo.
+13th warrior presenta una partida con un suscriptor, en un formato que parece centrarse en la experiencia de juego más que en un emparejamiento anunciado con detalle. Al no indicarse ejércitos ni puntos en la descripción, queda como un vídeo informe abierto para ver mesa, decisiones y dinámica de partida.
 
 📅 Publicado el 28/04/2026 a las 10:30
 🔗 [Ver en YouTube](https://www.youtube.com/watch?v=SQX2QYTp_iw)

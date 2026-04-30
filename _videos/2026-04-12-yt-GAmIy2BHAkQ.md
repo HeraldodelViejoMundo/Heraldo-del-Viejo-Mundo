@@ -11,14 +11,14 @@ duration_seconds: 995
 duration_minutes: 16
 source: whitelist
 excerpt: >
-  Juegos y Dados dedica una reseña de 16 minutos a la reciente Caja de Iniciación de Pathfinder 2a edición Remaster publicada en castellano por Devir Iberia. Una pieza de análisis útil para quienes alternan wargames y rol, o simplemente quieren tomar el pulso a otra propuesta de fantasía en mesa.
+  Juegos y Dados dedica una reseña breve a la Caja de Iniciación de Pathfinder 2a edición Remaster, publicada recientemente en castellano por Devir Iberia. Aunque queda fuera de The Old World, puede interesar a quienes alternan miniaturas, dados y juegos de rol en la misma mesa.
 ---
 
 ## Pathfinder 2a edición Remaster  Caja de Iniciación | Reseña
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/GAmIy2BHAkQ" frameborder="0" allowfullscreen></iframe>
 
-Juegos y Dados dedica una reseña de 16 minutos a la reciente Caja de Iniciación de Pathfinder 2a edición Remaster publicada en castellano por Devir Iberia. Una pieza de análisis útil para quienes alternan wargames y rol, o simplemente quieren tomar el pulso a otra propuesta de fantasía en mesa.
+Juegos y Dados dedica una reseña breve a la Caja de Iniciación de Pathfinder 2a edición Remaster, publicada recientemente en castellano por Devir Iberia. Aunque queda fuera de The Old World, puede interesar a quienes alternan miniaturas, dados y juegos de rol en la misma mesa.
 
 📅 Publicado el 12/04/2026 a las 15:03
 🔗 [Ver en YouTube](https://www.youtube.com/watch?v=GAmIy2BHAkQ)

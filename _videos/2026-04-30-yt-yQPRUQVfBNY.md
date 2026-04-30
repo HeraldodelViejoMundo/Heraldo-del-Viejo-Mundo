@@ -11,14 +11,14 @@ duration_seconds: 4990
 duration_minutes: 83
 source: whitelist
 excerpt: >
-  La legion del Turia presenta un nuevo vídeo informe de The Old World a 2.000 puntos, con Guerreros del Caos y Hombres Bestia disputándose la primacía del bando del Mal. La partida suma además el regreso de Víctor a la mesa con bárbaros recién pintados.
+  La legion del Turia presenta un nuevo vídeo informe a 2.000 puntos con un duelo interno del bando del Mal entre Guerreros del Caos y Hombres Bestia. La partida trae de vuelta a Víctor a la mesa y añade el aliciente hobby de nuevas unidades de bárbaros recién pintadas.
 ---
 
 ## WARHAMMER The Old World 2 000 puntos Guerreros del Caos vs Hombres Bestia
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/yQPRUQVfBNY" frameborder="0" allowfullscreen></iframe>
 
-La legion del Turia presenta un nuevo vídeo informe de The Old World a 2.000 puntos, con Guerreros del Caos y Hombres Bestia disputándose la primacía del bando del Mal. La partida suma además el regreso de Víctor a la mesa con bárbaros recién pintados.
+La legion del Turia presenta un nuevo vídeo informe a 2.000 puntos con un duelo interno del bando del Mal entre Guerreros del Caos y Hombres Bestia. La partida trae de vuelta a Víctor a la mesa y añade el aliciente hobby de nuevas unidades de bárbaros recién pintadas.
 
 📅 Publicado el 30/04/2026 a las 08:01
 🔗 [Ver en YouTube](https://www.youtube.com/watch?v=yQPRUQVfBNY)

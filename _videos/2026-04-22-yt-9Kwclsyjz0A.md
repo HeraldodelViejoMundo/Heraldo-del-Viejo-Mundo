@@ -11,14 +11,14 @@ duration_seconds: 4650
 duration_minutes: 77
 source: whitelist
 excerpt: >
-  La Taberna del Enano presenta un vídeo informe con tono narrativo en torno al ataque de Skarsnik y su horda contra Karaz-a-Karak, con los enanos defendiendo su fortaleza ancestral frente a la marea verde. Una partida planteada como choque de voluntades, con atmósfera de asedio y amenaza creciente en The Old World.
+  La Taberna del Enano presenta un vídeo informe de tono narrativo centrado en el asalto de Skarsnik y su horda goblin contra Karaz-a-Karak. En algo más de una hora, el enfrentamiento plantea una defensa desesperada de los enanos entre murallas, túneles y presagios bajo la montaña.
 ---
 
 ## Informe de batalla  | Asedio a Karaz-a-Karak | Warhammer The Old World
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/9Kwclsyjz0A" frameborder="0" allowfullscreen></iframe>
 
-La Taberna del Enano presenta un vídeo informe con tono narrativo en torno al ataque de Skarsnik y su horda contra Karaz-a-Karak, con los enanos defendiendo su fortaleza ancestral frente a la marea verde. Una partida planteada como choque de voluntades, con atmósfera de asedio y amenaza creciente en The Old World.
+La Taberna del Enano presenta un vídeo informe de tono narrativo centrado en el asalto de Skarsnik y su horda goblin contra Karaz-a-Karak. En algo más de una hora, el enfrentamiento plantea una defensa desesperada de los enanos entre murallas, túneles y presagios bajo la montaña.
 
 📅 Publicado el 22/04/2026 a las 16:00
 🔗 [Ver en YouTube](https://www.youtube.com/watch?v=9Kwclsyjz0A)

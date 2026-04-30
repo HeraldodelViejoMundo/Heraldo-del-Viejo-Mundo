@@ -11,14 +11,14 @@ duration_seconds: 10590
 duration_minutes: 176
 source: whitelist
 excerpt: >
-  Leyendas en Miniatura dedica una extensa entrega de su podcast a reflexionar sobre el juego narrativo en Warhammer, desde campañas en escalera o de grupo hasta propuestas de gran escala. La charla incorpora además noticias del hobby y torneos, con varias voces invitadas aportando enfoques sobre narrativa y competición.
+  Leyendas en Miniatura dedica casi tres horas de podcast al juego narrativo en Warhammer, con noticias del hobby, torneos y una conversación sobre campañas a distintas escalas. La charla incorpora varias voces invitadas y aborda también la posibilidad de plantear torneos con un enfoque narrativo.
 ---
 
 ## El Trono de Cucharas #4 : Ideas para una "campaña mundial" - Juego narrativo y ¿torneos narrativos?
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/jC1sSyyTnIc" frameborder="0" allowfullscreen></iframe>
 
-Leyendas en Miniatura dedica una extensa entrega de su podcast a reflexionar sobre el juego narrativo en Warhammer, desde campañas en escalera o de grupo hasta propuestas de gran escala. La charla incorpora además noticias del hobby y torneos, con varias voces invitadas aportando enfoques sobre narrativa y competición.
+Leyendas en Miniatura dedica casi tres horas de podcast al juego narrativo en Warhammer, con noticias del hobby, torneos y una conversación sobre campañas a distintas escalas. La charla incorpora varias voces invitadas y aborda también la posibilidad de plantear torneos con un enfoque narrativo.
 
 📅 Publicado el 09/04/2026 a las 15:30
 🔗 [Ver en YouTube](https://www.youtube.com/watch?v=jC1sSyyTnIc)

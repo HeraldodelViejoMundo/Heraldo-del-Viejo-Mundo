@@ -11,14 +11,14 @@ duration_seconds: 603
 duration_minutes: 10
 source: whitelist
 excerpt: >
-  Juegos y Dados dedica una reseña breve a Lustria, suplemento para la cuarta edición de Warhammer Fantasy RolePlay, con el foco en su interés para campañas de tono oscuro y clásico dentro del imaginario de Warhammer Fantasy. Una pieza de análisis útil para quienes también disfrutan explorando el Viejo Mundo más allá del tablero.
+  Juegos y Dados dedica una reseña breve a Lustria, suplemento para la cuarta edición de Warhammer Fantasy RolePlay, destacando su interés para campañas ambientadas en el Viejo Mundo y aventuras de tono oscuro. Un vídeo de análisis útil para quienes disfrutan del trasfondo clásico de Warhammer Fantasy más allá del campo de batalla.
 ---
 
 ## Warhammer Fantasy RolePlay | Lustria | Reseña
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/uPuLwdko4mw" frameborder="0" allowfullscreen></iframe>
 
-Juegos y Dados dedica una reseña breve a Lustria, suplemento para la cuarta edición de Warhammer Fantasy RolePlay, con el foco en su interés para campañas de tono oscuro y clásico dentro del imaginario de Warhammer Fantasy. Una pieza de análisis útil para quienes también disfrutan explorando el Viejo Mundo más allá del tablero.
+Juegos y Dados dedica una reseña breve a Lustria, suplemento para la cuarta edición de Warhammer Fantasy RolePlay, destacando su interés para campañas ambientadas en el Viejo Mundo y aventuras de tono oscuro. Un vídeo de análisis útil para quienes disfrutan del trasfondo clásico de Warhammer Fantasy más allá del campo de batalla.
 
 📅 Publicado el 01/03/2026 a las 16:59
 🔗 [Ver en YouTube](https://www.youtube.com/watch?v=uPuLwdko4mw)
