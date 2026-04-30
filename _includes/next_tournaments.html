@@ -1,4 +1,51 @@
-{% include agenda_torneos_mes_actual.html %}
+{%- comment -%}
+  Próximos torneos para la portada. Lee de site.data.tournaments.
+  Muestra hasta 5: prioriza Arca Negra, después Madrid, después resto. Por fecha asc.
+{%- endcomment -%}
+
+{%- assign hoy = site.time | date: '%s' | times: 1 -%}
+{%- assign limite = 5 -%}
+{%- assign all = site.data.tournaments | default: empty -%}
+
+{%- if all == empty or all.size == 0 -%}
+  <p style="margin:0; padding:0.5em; font-size:0.92em; color:#6b4423; font-style:italic;">
+    Sin torneos publicados todavía.<br>
+    <a href="/torneos/" style="color:#8b5a2b; font-weight:600;">Ver agenda completa</a>
+  </p>
+{%- else -%}
 <div class="tournament-list">
-  {% include agenda_torneos_mes_actual.html %}
+  {%- assign sliced = all | slice: 0, limite -%}
+  {%- for t in sliced -%}
+  <a href="/torneos/" class="tournament-card-mini" style="
+        display:block;
+        text-decoration:none;
+        color:inherit;
+        padding:0.55em 0.6em;
+        margin-bottom:0.45em;
+        background:#fbf6e9;
+        border:1px solid #c9a872;
+        border-left:4px solid {%- if t.fuente == 'arca_negra' -%}#a02020{%- elsif t.es_madrid -%}#b87333{%- else -%}#8b5a2b{%- endif -%};
+        border-radius:3px;
+        font-size:0.88em;
+        line-height:1.3;
+      ">
+    <div style="font-weight:700; color:#4a2e0e; font-size:0.95em; margin-bottom:0.15em;">
+      {{ t.fecha | date: "%d/%m" }}{%- if t.fecha_fin -%}–{{ t.fecha_fin | date: "%d/%m" }}{%- endif -%}
+      &nbsp;·&nbsp;
+      <span style="color:#8b5a2b; font-weight:600; font-size:0.88em;">{{ t.sistema }}</span>
+    </div>
+    <div style="color:#3a2410; font-size:0.92em;">
+      {{ t.nombre | truncate: 56 }}
+    </div>
+    <div style="color:#6b4423; font-size:0.82em; font-style:italic;">
+      {{ t.ciudad | default: "Por determinar" }}
+    </div>
+  </a>
+  {%- endfor -%}
+  <div style="text-align:center; margin-top:0.5em;">
+    <a href="/torneos/" style="font-size:0.85em; color:#8b5a2b; font-style:italic;">
+      Ver agenda completa →
+    </a>
+  </div>
 </div>
+{%- endif -%}

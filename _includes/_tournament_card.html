@@ -1,0 +1,71 @@
+{%- comment -%}
+  Tarjeta individual de torneo. Espera una variable `t` con el dict del torneo.
+{%- endcomment -%}
+{%- assign t = include.t -%}
+
+{%- comment -%} Slug del sistema para CSS {%- endcomment -%}
+{%- assign sistema_slug = t.sistema | downcase | replace: " ", "-" | replace: "whfb-", "" | replace: "the-", "" | replace: "warhammer-", "" -%}
+
+<div class="tn-card{% if t.fuente == 'arca_negra' %} featured{% endif %}">
+  <span class="tn-fuente">
+    {%- case t.fuente -%}
+      {%- when "arca_negra" -%}El Arca Negra
+      {%- when "torneos_warhammer" -%}torneoswarhammer
+      {%- when "newrecruit" -%}New Recruit
+      {%- when "bcp" -%}BCP
+      {%- when "email" -%}envío directo
+      {%- else -%}{{ t.fuente }}
+    {%- endcase -%}
+  </span>
+
+  <span class="tn-chip {{ sistema_slug }}">{{ t.sistema }}</span>
+
+  <div class="tn-fecha">
+    {%- assign meses = "ene,feb,mar,abr,may,jun,jul,ago,sep,oct,nov,dic" | split: "," -%}
+    {%- assign m_num = t.fecha | date: "%m" | plus: 0 | minus: 1 -%}
+    {%- assign mes_corto = meses[m_num] -%}
+    {{ t.fecha | date: "%d" }} {{ mes_corto }}
+    {%- if t.fecha_fin and t.fecha_fin != t.fecha -%}
+      {%- assign m_num_fin = t.fecha_fin | date: "%m" | plus: 0 | minus: 1 -%}
+      {%- assign mes_fin = meses[m_num_fin] -%}
+      <span class="tn-fecha-fin">→ {{ t.fecha_fin | date: "%d" }} {{ mes_fin }}</span>
+    {%- endif -%}
+  </div>
+
+  <div class="tn-ciudad{% if t.es_madrid %} madrid{% endif %}">📍 {{ t.ciudad | default: "Por determinar" }}</div>
+
+  <div class="tn-name">{{ t.nombre }}</div>
+
+  <div class="tn-meta">
+    {%- if t.puntos -%}
+    <div class="tn-meta-row"><strong>Puntos:</strong> {{ t.puntos }}</div>
+    {%- endif -%}
+    {%- if t.plazas -%}
+    <div class="tn-meta-row"><strong>Plazas:</strong> {{ t.plazas }}</div>
+    {%- endif -%}
+    {%- if t.precio -%}
+    <div class="tn-meta-row"><strong>Inscripción:</strong> {{ t.precio }}</div>
+    {%- endif -%}
+    {%- if t.organizador -%}
+    <div class="tn-meta-row"><strong>Organiza:</strong> {{ t.organizador }}</div>
+    {%- endif -%}
+    {%- if t.direccion and t.direccion != t.ciudad -%}
+    <div class="tn-meta-row"><strong>Dirección:</strong> {{ t.direccion }}</div>
+    {%- endif -%}
+  </div>
+
+  {%- if t.notas -%}
+  <div class="tn-notas">{{ t.notas }}</div>
+  {%- endif -%}
+
+  {%- if t.url_bases or t.url_inscripcion -%}
+  <div class="tn-links">
+    {%- if t.url_bases -%}
+    <a href="{{ t.url_bases }}" target="_blank" rel="noopener">📜 Bases</a>
+    {%- endif -%}
+    {%- if t.url_inscripcion -%}
+    <a href="{{ t.url_inscripcion }}" target="_blank" rel="noopener">✍ Inscripción</a>
+    {%- endif -%}
+  </div>
+  {%- endif -%}
+</div>

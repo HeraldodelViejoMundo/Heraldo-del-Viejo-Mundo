@@ -4,4 +4,620 @@ title: Torneos
 permalink: /torneos/
 ---
 
-{% include agenda_torneos_completa.html %}
+<style>
+  /* === Estética Viejo Mundo === */
+  .tn-page {
+    background-color: #f4ecd8;
+    background-image:
+      radial-gradient(ellipse at top left, rgba(139, 90, 43, 0.08) 0%, transparent 60%),
+      radial-gradient(ellipse at bottom right, rgba(74, 46, 14, 0.08) 0%, transparent 60%),
+      url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='180' height='180' viewBox='0 0 180 180'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='2' stitchTiles='stitch'/><feColorMatrix values='0 0 0 0 0.27 0 0 0 0 0.18 0 0 0 0 0.07 0 0 0 0.06 0'/></filter><rect width='100%25' height='100%25' filter='url(%23n)'/></svg>");
+    color: #3a2410;
+    font-family: 'Cormorant Garamond', 'EB Garamond', Georgia, 'Times New Roman', serif;
+    padding: 2.5em 1.5em 4em;
+    border-top: 4px double #8b5a2b;
+    border-bottom: 4px double #8b5a2b;
+  }
+  .tn-wrap { max-width: 1200px; margin: 0 auto; }
+
+  .tn-title {
+    font-family: 'UnifrakturCook', 'Cormorant Garamond', Georgia, serif;
+    font-size: 3em;
+    text-align: center;
+    color: #4a2e0e;
+    margin: 0 0 0.1em;
+    letter-spacing: 0.04em;
+    font-weight: 700;
+    text-shadow: 1px 1px 0 rgba(0,0,0,0.06);
+  }
+  .tn-subtitle {
+    text-align: center;
+    font-style: italic;
+    color: #6b4423;
+    margin: 0 auto 1em;
+    max-width: 760px;
+    font-size: 1.1em;
+  }
+  .tn-divider {
+    text-align: center;
+    color: #8b5a2b;
+    font-size: 1.5em;
+    margin: 0.4em 0 1.2em;
+    letter-spacing: 0.5em;
+  }
+
+  /* CTA */
+  .tn-cta {
+    text-align: center;
+    margin: 1em 0 2em;
+  }
+  .tn-cta-btn {
+    display: inline-block;
+    padding: 0.7em 1.6em;
+    background: #4a2e0e;
+    color: #f9f0dc !important;
+    border: 2px solid #b87333;
+    border-radius: 4px;
+    font-weight: 700;
+    font-size: 1.05em;
+    text-decoration: none !important;
+    box-shadow: 0 2px 5px rgba(74,46,14,0.3);
+    transition: transform 0.12s, background 0.12s;
+    font-family: 'Cormorant Garamond', Georgia, serif;
+  }
+  .tn-cta-btn:hover {
+    background: #8b5a2b;
+    transform: translateY(-1px);
+    text-decoration: none !important;
+  }
+
+  /* Cabeceras de sección */
+  .tn-section-head {
+    font-family: 'Cormorant Garamond', Georgia, serif;
+    font-size: 1.7em;
+    font-weight: 700;
+    color: #4a2e0e;
+    margin: 1.5em 0 0.6em;
+    padding-bottom: 0.3em;
+    border-bottom: 2px solid #c9a872;
+  }
+  .tn-section-head::before {
+    content: "❦ ";
+    color: #b87333;
+    font-size: 0.85em;
+  }
+  .tn-section-head.madrid::before { color: #a02020; }
+
+  /* Grid de torneos */
+  .tn-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(330px, 1fr));
+    gap: 1.2em;
+    margin-bottom: 2em;
+  }
+
+  /* Tarjeta de torneo */
+  .tn-card {
+    background: #fbf6e9;
+    border: 1px solid #c9a872;
+    border-left: 5px solid #8b5a2b;
+    border-radius: 3px;
+    padding: 1em 1.2em 1.1em;
+    box-shadow: 0 1px 3px rgba(74, 46, 14, 0.12);
+    position: relative;
+  }
+  .tn-card.featured {
+    border-left-color: #a02020;
+    background: linear-gradient(to right, rgba(160, 32, 32, 0.06), #fbf6e9 35%);
+  }
+
+  /* Cabecera de la tarjeta: chip de sistema + fecha + ciudad */
+  .tn-chip {
+    display: inline-block;
+    font-size: 0.78em;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    padding: 0.2em 0.55em;
+    border-radius: 3px;
+    background: #8b5a2b;
+    color: #fbf6e9;
+    margin-bottom: 0.4em;
+  }
+  /* Colores por sistema */
+  .tn-chip.tow      { background: #a02020; }
+  .tn-chip.octava   { background: #2d5016; }
+  .tn-chip.sexta-pura       { background: #1f3a5f; }
+  .tn-chip.sexta-ampliada   { background: #3a5fa0; }
+  .tn-chip.sexta-manuscritos{ background: #5a3a8b; }
+  .tn-chip.t9a      { background: #6b4226; }
+  .tn-chip.reforged { background: #8b6914; }
+  .tn-chip.mordheim { background: #4a2e0e; }
+  .tn-chip.otro     { background: #6b4423; }
+
+  .tn-fecha {
+    font-size: 1.4em;
+    font-weight: 700;
+    color: #4a2e0e;
+    line-height: 1;
+    margin-bottom: 0.25em;
+    font-family: 'Cormorant Garamond', Georgia, serif;
+  }
+  .tn-fecha-fin { font-size: 0.7em; color: #8b5a2b; font-weight: 500; }
+
+  .tn-ciudad {
+    font-size: 1em;
+    color: #8b5a2b;
+    font-weight: 600;
+    font-style: italic;
+    margin-bottom: 0.5em;
+  }
+  .tn-ciudad.madrid { color: #a02020; }
+
+  .tn-name {
+    font-size: 1.05em;
+    font-weight: 600;
+    color: #3a2410;
+    margin-bottom: 0.45em;
+    line-height: 1.3;
+  }
+
+  .tn-meta {
+    font-size: 0.86em;
+    color: #6b4423;
+    line-height: 1.5;
+  }
+  .tn-meta strong { color: #3a2410; font-weight: 600; }
+  .tn-meta-row { margin-bottom: 0.15em; }
+
+  .tn-notas {
+    margin-top: 0.55em;
+    padding-top: 0.5em;
+    border-top: 1px dashed #c9a872;
+    font-size: 0.88em;
+    color: #3a2410;
+    font-style: italic;
+  }
+
+  .tn-links {
+    margin-top: 0.6em;
+    font-size: 0.85em;
+  }
+  .tn-links a {
+    display: inline-block;
+    margin-right: 0.8em;
+    color: #8b5a2b;
+    font-weight: 600;
+    text-decoration: none;
+    border-bottom: 1px solid #c9a872;
+  }
+  .tn-links a:hover { color: #a02020; border-bottom-color: #a02020; }
+
+  .tn-fuente {
+    position: absolute;
+    top: 0.6em;
+    right: 0.8em;
+    font-size: 0.7em;
+    color: #b87333;
+    font-style: italic;
+    opacity: 0.7;
+  }
+
+  .tn-empty {
+    text-align: center;
+    padding: 2.5em 1em;
+    color: #6b4423;
+    font-style: italic;
+    font-size: 1.05em;
+    background: rgba(201, 168, 114, 0.12);
+    border: 1px dashed #c9a872;
+    border-radius: 3px;
+    margin-bottom: 2em;
+  }
+
+  /* Bloque editorial */
+  .tn-mission {
+    max-width: 760px;
+    margin: 0 auto 1.2em;
+    text-align: justify;
+    color: #3a2410;
+    font-size: 1.02em;
+    line-height: 1.55;
+    padding: 0 0.5em;
+  }
+  .tn-mission p { margin: 0 0 0.8em; text-indent: 1.5em; }
+  .tn-mission p:first-child { text-indent: 0; }
+  .tn-mission p:first-child::first-letter {
+    font-family: 'UnifrakturCook', 'Cormorant Garamond', Georgia, serif;
+    font-size: 2.6em;
+    float: left;
+    line-height: 0.9;
+    padding: 0.05em 0.1em 0 0;
+    color: #8b5a2b;
+    font-weight: 700;
+  }
+
+  /* Formulario */
+  .tn-form-wrap {
+    margin-top: 3em;
+    padding-top: 2em;
+    border-top: 4px double #8b5a2b;
+  }
+  .tn-form-head {
+    font-family: 'Cormorant Garamond', Georgia, serif;
+    font-size: 2em;
+    text-align: center;
+    color: #4a2e0e;
+    margin: 0 0 0.3em;
+  }
+  .tn-form-intro {
+    text-align: center;
+    color: #6b4423;
+    font-style: italic;
+    margin: 0 auto 1.5em;
+    max-width: 720px;
+  }
+  .tn-form {
+    max-width: 720px;
+    margin: 0 auto;
+    background: #fbf6e9;
+    border: 1px solid #c9a872;
+    border-radius: 4px;
+    padding: 1.5em 1.8em;
+    box-shadow: 0 2px 6px rgba(74,46,14,0.1);
+  }
+  .tn-form-row {
+    margin-bottom: 1em;
+  }
+  .tn-form-row.two-cols {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1em;
+  }
+  .tn-form label {
+    display: block;
+    font-weight: 600;
+    color: #4a2e0e;
+    font-size: 0.95em;
+    margin-bottom: 0.25em;
+  }
+  .tn-form label .opt { font-weight: 400; color: #8b5a2b; font-size: 0.88em; font-style: italic; }
+  .tn-form input[type=text],
+  .tn-form input[type=date],
+  .tn-form input[type=number],
+  .tn-form input[type=email],
+  .tn-form input[type=url],
+  .tn-form select,
+  .tn-form textarea {
+    width: 100%;
+    padding: 0.5em 0.65em;
+    border: 1px solid #c9a872;
+    border-radius: 3px;
+    background: #fefcf6;
+    font-family: 'Cormorant Garamond', Georgia, serif;
+    font-size: 1em;
+    color: #3a2410;
+    box-sizing: border-box;
+  }
+  .tn-form textarea {
+    min-height: 100px;
+    resize: vertical;
+  }
+  .tn-form select:focus,
+  .tn-form input:focus,
+  .tn-form textarea:focus {
+    outline: none;
+    border-color: #8b5a2b;
+    box-shadow: 0 0 0 2px rgba(139,90,43,0.15);
+  }
+  .tn-form-submit {
+    text-align: center;
+    margin-top: 1.5em;
+  }
+  .tn-form-submit button {
+    background: #4a2e0e;
+    color: #f9f0dc;
+    border: 2px solid #b87333;
+    padding: 0.7em 2em;
+    font-size: 1.05em;
+    font-weight: 700;
+    border-radius: 4px;
+    cursor: pointer;
+    font-family: 'Cormorant Garamond', Georgia, serif;
+    box-shadow: 0 2px 5px rgba(74,46,14,0.3);
+  }
+  .tn-form-submit button:hover {
+    background: #8b5a2b;
+  }
+  .tn-form-help {
+    margin-top: 1em;
+    font-size: 0.85em;
+    color: #6b4423;
+    font-style: italic;
+    text-align: center;
+  }
+
+  .tn-otro-wrap { display: none; margin-top: 0.5em; }
+  .tn-otro-wrap.visible { display: block; }
+
+  /* Atribución */
+  .tn-credits {
+    margin-top: 2em;
+    text-align: center;
+    font-size: 0.85em;
+    color: #6b4423;
+    font-style: italic;
+  }
+  .tn-credits a { color: #8b5a2b; font-weight: 600; }
+
+  /* Móvil */
+  @media (max-width: 700px) {
+    .tn-title { font-size: 2.3em; }
+    .tn-page { padding: 1.5em 0.8em 2.5em; }
+    .tn-grid { grid-template-columns: 1fr; }
+    .tn-form-row.two-cols { grid-template-columns: 1fr; }
+    .tn-form { padding: 1em; }
+  }
+</style>
+
+<a href="{{ '/' | relative_url }}">
+  <img src="{{ '/assets/bannerheraldo.png' | relative_url }}" alt="Cabecera El Heraldo del Viejo Mundo" style="width:100%; height:auto; max-height:240px; object-fit:contain; display:block; margin-bottom: 1.5em;">
+</a>
+
+<div class="tn-page">
+<div class="tn-wrap">
+
+<h1 class="tn-title">Crónica de las Hostilidades</h1>
+<p class="tn-subtitle">
+  Agenda de torneos de <em>The Old World</em>, <em>Warhammer Fantasy</em> en sus diversas ediciones, <em>The Ninth Age</em>, <em>Reforged</em> y <em>Mordheim</em>.
+</p>
+<div class="tn-divider">⚜ &nbsp; ❦ &nbsp; ⚜</div>
+
+<div class="tn-mission">
+  <p>
+    Toda batalla en el Viejo Mundo merece ser anunciada. En esta página reunimos los <strong>torneos confirmados de las próximas cinco semanas</strong> en suelo español, sea cual sea el reglamento bajo el que se libren: la nueva edición de <em>The Old World</em>, la canónica Sexta —pura, ampliada o con sus manuscritos—, la veterana Octava, las propuestas comunitarias de <em>The Ninth Age</em> y <em>Reforged</em>, y los duelos urbanos de <em>Mordheim</em>.
+  </p>
+  <p>
+    El listado se nutre automáticamente de varias fuentes y se cruza con los envíos directos de organizadores. Si vas a celebrar un torneo, no dudes en anunciarlo: pulsa el botón inferior y rellena el formulario.
+  </p>
+</div>
+
+<div class="tn-cta">
+  <a href="#anuncia" class="tn-cta-btn">📢 Anuncia tu torneo</a>
+</div>
+
+{%- assign torneos = site.data.tournaments | default: empty -%}
+
+{%- if torneos == empty or torneos.size == 0 -%}
+
+<div class="tn-empty">
+  Aún no hay torneos publicados en la agenda. Vuelve pronto, o anuncia el tuyo abajo.
+</div>
+
+{%- else -%}
+
+{%- comment -%}
+  Separar Madrid del resto.
+{%- endcomment -%}
+{%- assign madrid_list = torneos | where: "es_madrid", true -%}
+{%- assign resto_list = torneos | where_exp: "t", "t.es_madrid != true" -%}
+
+{%- if madrid_list.size > 0 -%}
+<h2 class="tn-section-head madrid">Torneos en Madrid y alrededores</h2>
+<div class="tn-grid">
+  {%- for t in madrid_list -%}
+    {% include _tournament_card.html t=t %}
+  {%- endfor -%}
+</div>
+{%- endif -%}
+
+{%- if resto_list.size > 0 -%}
+<h2 class="tn-section-head">Por toda España</h2>
+<div class="tn-grid">
+  {%- for t in resto_list -%}
+    {% include _tournament_card.html t=t %}
+  {%- endfor -%}
+</div>
+{%- endif -%}
+
+{%- endif -%}
+
+<div class="tn-credits">
+  Datos compilados de <a href="https://torneoswarhammer.com/" target="_blank" rel="noopener">torneoswarhammer.com</a>,
+  <a href="https://elarcanegra.com/" target="_blank" rel="noopener">El Arca Negra</a>,
+  <a href="https://www.newrecruit.eu/" target="_blank" rel="noopener">New Recruit</a>,
+  <a href="https://www.bestcoastpairings.com/" target="_blank" rel="noopener">Best Coast Pairings</a>
+  y los envíos de la propia comunidad.
+</div>
+
+<div class="tn-divider" style="margin-top:2em;">⚜ &nbsp; ❦ &nbsp; ⚜</div>
+
+<!-- ============ FORMULARIO ============ -->
+<div id="anuncia" class="tn-form-wrap">
+  <h2 class="tn-form-head">Anuncia tu torneo</h2>
+  <p class="tn-form-intro">
+    Rellena los campos y pulsa <strong>Enviar</strong>. Tu envío llegará a nuestra mesa
+    de moderación; si todo es correcto, aparecerá en el Heraldo en pocos días.
+  </p>
+
+  <form class="tn-form" id="tn-tournament-form" novalidate>
+    <div class="tn-form-row">
+      <label for="f-nombre">Nombre del torneo <span class="opt">(opcional)</span></label>
+      <input type="text" id="f-nombre" maxlength="120">
+    </div>
+
+    <div class="tn-form-row two-cols">
+      <div>
+        <label for="f-fecha">Fecha *</label>
+        <input type="date" id="f-fecha" required>
+      </div>
+      <div>
+        <label for="f-fecha-fin">Fecha fin <span class="opt">(si dura 2 días)</span></label>
+        <input type="date" id="f-fecha-fin">
+      </div>
+    </div>
+
+    <div class="tn-form-row">
+      <label for="f-sistema">Sistema *</label>
+      <select id="f-sistema" required>
+        <option value="">— Selecciona —</option>
+        <option value="The Old World">The Old World</option>
+        <option value="WHFB Octava">WHFB Octava</option>
+        <option value="WHFB Sexta Pura">WHFB Sexta Pura</option>
+        <option value="WHFB Sexta Ampliada">WHFB Sexta Ampliada</option>
+        <option value="WHFB Sexta Manuscritos">WHFB Sexta Manuscritos</option>
+        <option value="The Ninth Age">The Ninth Age (T9A)</option>
+        <option value="Warhammer Reforged">Warhammer Reforged</option>
+        <option value="Mordheim">Mordheim</option>
+        <option value="Otro">Otro (indica cuál)</option>
+      </select>
+      <div class="tn-otro-wrap" id="f-otro-wrap">
+        <label for="f-otro" style="margin-top:0.6em;">¿Cuál? *</label>
+        <input type="text" id="f-otro" maxlength="60">
+      </div>
+    </div>
+
+    <div class="tn-form-row two-cols">
+      <div>
+        <label for="f-ciudad">Ciudad *</label>
+        <input type="text" id="f-ciudad" required maxlength="60">
+      </div>
+      <div>
+        <label for="f-puntos">Puntos <span class="opt">(opcional)</span></label>
+        <input type="number" id="f-puntos" min="500" max="5000" step="50">
+      </div>
+    </div>
+
+    <div class="tn-form-row">
+      <label for="f-direccion">Dirección <span class="opt">(opcional)</span></label>
+      <input type="text" id="f-direccion" maxlength="160">
+    </div>
+
+    <div class="tn-form-row two-cols">
+      <div>
+        <label for="f-plazas">Plazas <span class="opt">(opcional)</span></label>
+        <input type="number" id="f-plazas" min="2" max="500">
+      </div>
+      <div>
+        <label for="f-precio">Precio <span class="opt">(opcional)</span></label>
+        <input type="text" id="f-precio" maxlength="40" placeholder="p. ej. 25 € o Gratis">
+      </div>
+    </div>
+
+    <div class="tn-form-row two-cols">
+      <div>
+        <label for="f-bases">URL de las bases <span class="opt">(opcional)</span></label>
+        <input type="url" id="f-bases">
+      </div>
+      <div>
+        <label for="f-inscripcion">URL de inscripción <span class="opt">(opcional)</span></label>
+        <input type="url" id="f-inscripcion">
+      </div>
+    </div>
+
+    <div class="tn-form-row">
+      <label for="f-organizador">Organizador <span class="opt">(opcional, p. ej. tu tienda o club)</span></label>
+      <input type="text" id="f-organizador" maxlength="80">
+    </div>
+
+    <div class="tn-form-row">
+      <label for="f-contacto">Tu email de contacto * <span class="opt">(no se publica)</span></label>
+      <input type="email" id="f-contacto" required>
+    </div>
+
+    <div class="tn-form-row">
+      <label for="f-notas">Notas <span class="opt">(opcional)</span></label>
+      <textarea id="f-notas" maxlength="800" placeholder="Lo que quieras añadir: ediciones permitidas, reglas especiales, premios, etc."></textarea>
+    </div>
+
+    <div class="tn-form-submit">
+      <button type="submit">📜 Enviar a la mesa de moderación</button>
+    </div>
+    <p class="tn-form-help">
+      Al pulsar enviar se abrirá tu cliente de correo con el mensaje preparado.
+      Solo tendrás que confirmar el envío.
+    </p>
+  </form>
+</div>
+
+</div>
+</div>
+
+<script>
+(function() {
+  const form = document.getElementById('tn-tournament-form');
+  const sistemaSel = document.getElementById('f-sistema');
+  const otroWrap = document.getElementById('f-otro-wrap');
+  const otroInput = document.getElementById('f-otro');
+
+  sistemaSel.addEventListener('change', function() {
+    if (this.value === 'Otro') {
+      otroWrap.classList.add('visible');
+      otroInput.required = true;
+    } else {
+      otroWrap.classList.remove('visible');
+      otroInput.required = false;
+    }
+  });
+
+  function val(id) {
+    const el = document.getElementById(id);
+    return (el && el.value) ? el.value.trim() : '';
+  }
+
+  form.addEventListener('submit', function(e) {
+    e.preventDefault();
+
+    // Validación básica
+    const fecha = val('f-fecha');
+    const sistema = val('f-sistema');
+    const ciudad = val('f-ciudad');
+    const contacto = val('f-contacto');
+    if (!fecha || !sistema || !ciudad || !contacto) {
+      alert('Faltan campos obligatorios: fecha, sistema, ciudad o email de contacto.');
+      return;
+    }
+    let sistemaFinal = sistema;
+    if (sistema === 'Otro') {
+      const otro = val('f-otro');
+      if (!otro) { alert('Indica qué sistema es.'); return; }
+      sistemaFinal = 'Otro: ' + otro;
+    }
+
+    // Construir cuerpo en formato clave: valor
+    const lines = [];
+    lines.push('# Envío de torneo a El Heraldo del Viejo Mundo');
+    lines.push('# Por favor, no edites las claves de la izquierda.');
+    lines.push('');
+    if (val('f-nombre')) lines.push('nombre: ' + val('f-nombre'));
+    lines.push('fecha: ' + fecha);
+    if (val('f-fecha-fin')) lines.push('fecha_fin: ' + val('f-fecha-fin'));
+    lines.push('sistema: ' + sistemaFinal);
+    lines.push('ciudad: ' + ciudad);
+    if (val('f-direccion')) lines.push('direccion: ' + val('f-direccion'));
+    if (val('f-puntos')) lines.push('puntos: ' + val('f-puntos'));
+    if (val('f-plazas')) lines.push('plazas: ' + val('f-plazas'));
+    if (val('f-precio')) lines.push('precio: ' + val('f-precio'));
+    if (val('f-bases')) lines.push('url_bases: ' + val('f-bases'));
+    if (val('f-inscripcion')) lines.push('url_inscripcion: ' + val('f-inscripcion'));
+    if (val('f-organizador')) lines.push('organizador: ' + val('f-organizador'));
+    lines.push('contacto: ' + contacto);
+    const notas = val('f-notas');
+    if (notas) {
+      lines.push('notas: |');
+      notas.split('\n').forEach(l => lines.push('  ' + l));
+    }
+
+    // Asunto
+    let asunto = '[TORNEO] ';
+    asunto += val('f-nombre') || (sistemaFinal + ' · ' + ciudad);
+    asunto += ' · ' + fecha;
+
+    const mailto = 'mailto:heraldo@elheraldodelviejomundo.com'
+      + '?subject=' + encodeURIComponent(asunto)
+      + '&body=' + encodeURIComponent(lines.join('\n'));
+
+    window.location.href = mailto;
+  });
+})();
+</script>
