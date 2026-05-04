@@ -61,16 +61,16 @@ Cordo, en su crónica oficial, lo resumió sin filtros: *"100 jugadores, con un 
 
 ## Galería
 
-![Mesa del VII Torneo Leyendas en Miniatura]({{ "https://torneoswarhammer.com/wp-content/uploads/2026/01/twfb_leyendas_en_miniatura_07_03-1024x576.jpg" }})
+![Mesa del VII Torneo Leyendas en Miniatura](/assets/posts/leyendas-mini-vii-03.jpg)
 *Imagen: Torneos Warhammer (<a href="https://torneoswarhammer.com/cronica-vii-torneo-leyendas-en-miniatura-warhammer-fantasy-leganes-2025/" rel="nofollow">cronica-vii-torneo-leyendas-en-miniatura-warhammer-fantasy-leganes-2025</a>)*
 
-![Despliegue de ejércitos en el VII Torneo]({{ "https://torneoswarhammer.com/wp-content/uploads/2026/01/twfb_leyendas_en_miniatura_07_05-1024x576.jpg" }})
+![Despliegue de ejércitos en el VII Torneo](/assets/posts/leyendas-mini-vii-05.jpg)
 *Imagen: Torneos Warhammer*
 
-![Vista general de las mesas en El Arca Negra]({{ "https://torneoswarhammer.com/wp-content/uploads/2026/01/twfb_leyendas_en_miniatura_07_15-1024x576.jpg" }})
+![Vista general de las mesas en El Arca Negra](/assets/posts/leyendas-mini-vii-15.jpg)
 *Imagen: Torneos Warhammer*
 
-![Detalle de combate en mesa]({{ "https://torneoswarhammer.com/wp-content/uploads/2026/01/twfb_leyendas_en_miniatura_07_18-1024x576.jpg" }})
+![Detalle de combate en mesa](/assets/posts/leyendas-mini-vii-18.jpg)
 *Imagen: Torneos Warhammer*
 
 ## Fuentes
