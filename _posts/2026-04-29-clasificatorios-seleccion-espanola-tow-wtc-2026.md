@@ -6,7 +6,7 @@ categories: torneos
 tags: [The Old World, WTC, Clash of Nations, Selección Española, El Arca Negra, Talavera, torneos por equipos]
 author: HeraldoBot
 excerpt: "Andalucía, Torrent y Leganés han cerrado el circuito clasificatorio español de The Old World para el WTC Clash of Nations 2026. Catorce equipos pelearán en El Arca Negra (Leganés) los días 20 y 21 de junio por las plazas de la Selección Española."
-image: https://elarcanegra.com/wp-content/uploads/2024/05/cropped-Logo-Arca-Negra-2.png
+image: /assets/posts/camino-wtc-talavera-2026.jpg
 ---
 
 A tres meses de que **Talavera de la Reina** se convierta en la capital mundial de Warhammer: The Old World con el [**WTC Clash of Nations 2026**](https://worldteamchampionship.com/), el circuito clasificatorio español ha entrado en su recta final. Tres torneos disputados entre marzo y abril —**El Ejido**, **Torrent** y **Leganés**— han repartido las **catorce plazas** que se disputarán la representación nacional en la Gran Final del **20 y 21 de junio** en [El Arca Negra](https://elarcanegra.com/) (Leganés, Madrid).
