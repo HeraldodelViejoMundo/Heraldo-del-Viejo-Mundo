@@ -18,13 +18,13 @@ Sobre la mesa, **3 partidas tematizadas a 2.000 puntos** en mesas de 180×120 cm
 
 ## La sede: El Arca Negra estrena papel de anfitrión
 
-El torneo cambió de casa este año. Tras varias ediciones en otras sedes madrileñas, Cordo eligió [El Arca Negra](https://elarcanegra.com/) para acoger la VII edición, atraído por el **espacio amplio y diáfano** que permitía desplegar las cincuenta mesas necesarias con holgura. La tienda, especializada en wargames, cuenta con dos plantas, un stock potente de Games Workshop, AK Interactive e [ImpriWars](https://impriwars.com/), y un equipo que demostró estar a la altura del reto logístico de hospedar a cien jugadores durante toda una jornada. El portal [Torneos Warhammer](https://torneoswarhammer.com/cronica-vii-torneo-leyendas-en-miniatura-warhammer-fantasy-leganes-2025/) describió el local como *"un nuevo espacio que no sólo cuenta con material de marcas de referencia en wargames, sino que también cuenta con un amplio espacio para el desarrollo de eventos y torneos"*.
+El torneo cambió de casa este año. Tras varias ediciones en otras sedes madrileñas, Cordo eligió [El Arca Negra](https://elarcanegra.com/) para acoger la VII edición, atraído por el **espacio amplio y diáfano** que permitía desplegar las cincuenta mesas necesarias con holgura. La tienda, especializada en wargames, cuenta con dos plantas, un stock potente de Games Workshop, AK Interactive e [ImpriWars](https://impriwars.com/), y un equipo que demostró estar a la altura del reto logístico de hospedar a cien jugadores durante toda una jornada. El portal <a href="https://torneoswarhammer.com/cronica-vii-torneo-leyendas-en-miniatura-warhammer-fantasy-leganes-2025/" rel="nofollow">Torneos Warhammer</a> describió el local como *"un nuevo espacio que no sólo cuenta con material de marcas de referencia en wargames, sino que también cuenta con un amplio espacio para el desarrollo de eventos y torneos"*.
 
 El trato recibido por jugadores y organización fue uno de los puntos más comentados en los resúmenes posteriores: aparcamiento fácil, ambiente cuidado, pedidos atendidos al momento y un equipo de tienda volcado con el evento.
 
 ## El podio: ElloriN se lleva la cuchara dorada
 
-Tras tres rondas a cara de perro, el ranking final quedó así, según la [crónica publicada por Torneos Warhammer](https://torneoswarhammer.com/cronica-vii-torneo-leyendas-en-miniatura-warhammer-fantasy-leganes-2025/):
+Tras tres rondas a cara de perro, el ranking final quedó así, según la <a href="https://torneoswarhammer.com/cronica-vii-torneo-leyendas-en-miniatura-warhammer-fantasy-leganes-2025/" rel="nofollow">crónica publicada por Torneos Warhammer</a>:
 
 - **1.º — ElloriN**, con **Altos Elfos: Cracia**
 - **2.º — Titu**, con Condes Vampiro
@@ -49,7 +49,7 @@ Como guinda, El Arca Negra cedió para el sorteo final una **miniatura de edici�
 
 ## Patrocinadores: el músculo del oldhammer
 
-Llegar a las cien plazas con un nivel de premios decente exige red de patrocinadores, y la VII edición sumó a un buen plantel del panorama nacional: [Akaro Dice](https://akarodice.com/), [Dragon's Lake Miniatures](https://dragonslakeminiaturas.com/), [Gamemat.eu](https://www.gamemat.eu/), [ImpriWars](https://impriwars.com/c/bandejas-de-movimiento/para-peana-cuadrada) —que aportó sus bandejas de movimiento para peana cuadrada, indispensables en un torneo de Sexta Ampliada—, [Last Sword](https://lastsword.com/), [Lezo](https://www.verkami.com/projects/39094-lezo-el-comic-ii), [Txarli Factory](https://txarlifactory.com/) y [Warbag](https://warbag4wargames.com/), además de la propia tienda anfitriona. No por casualidad, ImpriWars es también una de las marcas con presencia constante en el stock de El Arca Negra.
+Llegar a las cien plazas con un nivel de premios decente exige red de patrocinadores, y la VII edición sumó a un buen plantel del panorama nacional: [Akaro Dice](https://akarodice.com/), <a href="https://dragonslakeminiaturas.com/" rel="nofollow">Dragon's Lake Miniatures</a>, <a href="https://www.gamemat.eu/" rel="nofollow">Gamemat.eu</a>, [ImpriWars](https://impriwars.com/c/bandejas-de-movimiento/para-peana-cuadrada) —que aportó sus bandejas de movimiento para peana cuadrada, indispensables en un torneo de Sexta Ampliada—, [Last Sword](https://lastsword.com/), [Lezo](https://www.verkami.com/projects/39094-lezo-el-comic-ii), <a href="https://txarlifactory.com/" rel="nofollow">Txarli Factory</a> y <a href="https://warbag4wargames.com/" rel="nofollow">Warbag</a>, además de la propia tienda anfitriona. No por casualidad, ImpriWars es también una de las marcas con presencia constante en el stock de El Arca Negra.
 
 ## La voz de la comunidad: Pícnic en Drakenhof, Clan Kharnuz y el resumen audiovisual
 
@@ -62,7 +62,7 @@ Cordo, en su crónica oficial, lo resumió sin filtros: *"100 jugadores, con un 
 ## Galería
 
 ![Mesa del VII Torneo Leyendas en Miniatura]({{ "https://torneoswarhammer.com/wp-content/uploads/2026/01/twfb_leyendas_en_miniatura_07_03-1024x576.jpg" }})
-*Imagen: Torneos Warhammer ([cronica-vii-torneo-leyendas-en-miniatura-warhammer-fantasy-leganes-2025](https://torneoswarhammer.com/cronica-vii-torneo-leyendas-en-miniatura-warhammer-fantasy-leganes-2025/))*
+*Imagen: Torneos Warhammer (<a href="https://torneoswarhammer.com/cronica-vii-torneo-leyendas-en-miniatura-warhammer-fantasy-leganes-2025/" rel="nofollow">cronica-vii-torneo-leyendas-en-miniatura-warhammer-fantasy-leganes-2025</a>)*
 
 ![Despliegue de ejércitos en el VII Torneo]({{ "https://torneoswarhammer.com/wp-content/uploads/2026/01/twfb_leyendas_en_miniatura_07_05-1024x576.jpg" }})
 *Imagen: Torneos Warhammer*
@@ -75,7 +75,7 @@ Cordo, en su crónica oficial, lo resumió sin filtros: *"100 jugadores, con un 
 
 ## Fuentes
 
-- [Crónica del VII Torneo en Torneos Warhammer](https://torneoswarhammer.com/cronica-vii-torneo-leyendas-en-miniatura-warhammer-fantasy-leganes-2025/)
+- <a href="https://torneoswarhammer.com/cronica-vii-torneo-leyendas-en-miniatura-warhammer-fantasy-leganes-2025/" rel="nofollow">Crónica del VII Torneo en Torneos Warhammer</a>
 - [Resumen oficial en Leyendas en Miniatura](https://www.leyendasenminiatura.com/2025/12/resumen-del-vii-torneo-leyendas-en.html)
 - [Anuncio del torneo (septiembre 2025)](https://www.leyendasenminiatura.com/2025/09/anuncio-vii-torneo-leyendas-en-miniatura.html)
 - [Vídeo resumen oficial (canal Leyendas en Miniatura, editado por Flogus)](https://www.youtube.com/watch?v=WlqAKvSqP20)

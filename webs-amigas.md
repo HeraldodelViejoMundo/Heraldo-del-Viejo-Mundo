@@ -199,7 +199,7 @@ permalink: /webs-amigas/
   <h2 class="wa-section-head">Torneos y eventos</h2>
   <div class="wa-grid">
 
-    <a class="wa-card wa-featured" href="https://torneoswarhammer.com/" target="_blank" rel="noopener">
+    <a class="wa-card wa-featured" href="https://torneoswarhammer.com/" target="_blank" rel="noopener nofollow">
       <div class="wa-card-name">Torneos Warhammer</div>
       <div class="wa-card-domain">torneoswarhammer.com</div>
       <div class="wa-card-desc">

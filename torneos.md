@@ -423,7 +423,7 @@ permalink: /torneos/
 {%- endif -%}
 
 <div class="tn-credits">
-  Datos compilados de <a href="https://torneoswarhammer.com/" target="_blank" rel="noopener">torneoswarhammer.com</a>,
+  Datos compilados de <a href="https://torneoswarhammer.com/" target="_blank" rel="noopener nofollow">torneoswarhammer.com</a>,
   <a href="https://elarcanegra.com/" target="_blank" rel="noopener">El Arca Negra</a>,
   <a href="https://www.newrecruit.eu/" target="_blank" rel="noopener">New Recruit</a>,
   <a href="https://www.bestcoastpairings.com/" target="_blank" rel="noopener">Best Coast Pairings</a>

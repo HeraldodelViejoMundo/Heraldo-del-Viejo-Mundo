@@ -15,7 +15,7 @@ El recorrido no ha estado exento de polémica: una sanción inédita en El Ejido
 
 ## El marco: qué es el WTC Clash of Nations y por qué Talavera
 
-El [**World Team Championship**](https://worldteamchampionship.com/) es el torneo internacional por selecciones nacionales más consolidado del wargaming competitivo. En su edición de **The Old World 2025**, celebrada en **Leoben (Austria)**, reunió a 18 naciones con equipos completos. La edición de **2026** se traslada a **Talavera de la Reina** en septiembre, en una organización pilotada por la red de tiendas y clubes que ha hecho de la ciudad toledana —con Invasión Talavera y el [GT Talavera](https://www.gttalavera.com/) de El Cobrador del Waaagh— uno de los polos del hobby en Europa continental.
+El [**World Team Championship**](https://worldteamchampionship.com/) es el torneo internacional por selecciones nacionales más consolidado del wargaming competitivo. En su edición de **The Old World 2025**, celebrada en **Leoben (Austria)**, reunió a 18 naciones con equipos completos. La edición de **2026** se traslada a **Talavera de la Reina** en septiembre, en una organización pilotada por la red de tiendas y clubes que ha hecho de la ciudad toledana —con Invasión Talavera y el <a href="https://www.gttalavera.com/" rel="nofollow">GT Talavera</a> de El Cobrador del Waaagh— uno de los polos del hobby en Europa continental.
 
 El formato confirmado por [worldteamchampionship.com](https://worldteamchampionship.com/) y por la cobertura de [Woehammer](https://woehammer.com/2026/04/11/old-world-wtc-clash-of-nations-2026/) (11 de abril de 2026) mantiene los pilares del WTC:
 
@@ -46,7 +46,7 @@ El primer clasificatorio del año se disputó en el [**Círculo Cultural y Recre
 
 El torneo dejó también el primer episodio disciplinario destacable del circuito. Durante una de las rondas, un jugador del equipo **Espera** fue sancionado con dos penalizaciones de **-10 Tournament Points** vía el sistema de **Bonus Points** del reglamento: la primera por insultos durante una partida, la segunda por acusar a su rival de utilizar **dados trucados** y por dirigirse de forma improcedente a la organización.
 
-Las dos sanciones quedaron **documentadas en el log oficial de NewRecruit**, lo que es relevante en sí mismo: el sistema de Bonus Points negativos forma parte de la mecánica estándar del *Swedish-style* —utilizada desde hace años por El Cobrador del Waaagh en el [GT Talavera](https://www.gttalavera.com/)— y su función primaria no es punitiva sino de **trazabilidad**. La sanción no impidió a Espera seguir compitiendo, pero sí dejó constancia documental del incidente.
+Las dos sanciones quedaron **documentadas en el log oficial de NewRecruit**, lo que es relevante en sí mismo: el sistema de Bonus Points negativos forma parte de la mecánica estándar del *Swedish-style* —utilizada desde hace años por El Cobrador del Waaagh en el <a href="https://www.gttalavera.com/" rel="nofollow">GT Talavera</a>— y su función primaria no es punitiva sino de **trazabilidad**. La sanción no impidió a Espera seguir compitiendo, pero sí dejó constancia documental del incidente.
 
 El caso ha sido tratado por el circuito con discreción y sin filtraciones públicas del nombre del jugador implicado. Por respeto al procedimiento y a los implicados, **El Heraldo no nombrará al jugador** ni reproducirá el detalle exacto del cruce.
 
@@ -103,7 +103,7 @@ La Gran Final se disputará en [**El Arca Negra**](https://elarcanegra.com/) (Ca
 
 El calendario español de TOW para los próximos meses dibuja un arco coherente. Entre mayo y junio se mantienen activos torneos individuales en distintas tiendas y clubes de la península, así como el torneo de la Asociación Pineda de Wargames —tres rondas individuales, veinte plazas agotadas antes de abrir inscripciones formales—. Internacionalmente, el [**UKTC**](https://www.ukteamchampionship.com/) organiza en junio un torneo por equipos de cuatro jugadores en **Leeds** que muchos circuitos europeos están utilizando como entrenamiento natural antes del WTC.
 
-La **Gran Final del Arca Negra** del 20 y 21 de junio cerrará el calendario español justo antes del verano. Después, la temporada culmina íntegramente en Talavera: primero con el [**WTC Clash of Nations**](https://worldteamchampionship.com/) en septiembre, y luego con el [**GT Talavera 2026**](https://www.gttalavera.com/) —ya confirmado por El Cobrador del Waaagh— el **30 de octubre** en los Salones Prado del Arca de Pepino (Toledo). Toda la temporada 2026 del wargaming español, en definitiva, mira a una misma ciudad.
+La **Gran Final del Arca Negra** del 20 y 21 de junio cerrará el calendario español justo antes del verano. Después, la temporada culmina íntegramente en Talavera: primero con el [**WTC Clash of Nations**](https://worldteamchampionship.com/) en septiembre, y luego con el <a href="https://www.gttalavera.com/" rel="nofollow"><strong>GT Talavera 2026</strong></a> —ya confirmado por El Cobrador del Waaagh— el **30 de octubre** en los Salones Prado del Arca de Pepino (Toledo). Toda la temporada 2026 del wargaming español, en definitiva, mira a una misma ciudad.
 
 <div style="background-color: #fff8dc; border-left: 4px solid #d4a017; padding: 16px 20px; margin: 24px 0; font-style: italic;">
 <strong>El análisis del Heraldo:</strong> el circuito clasificatorio 2026 deja dos lecturas que conviene no separar. La primera es positiva: tres torneos celebrados, catorce equipos clasificados, un podio en Leganés que confirma el alto nivel competitivo de la escena madrileña —donde uno de los favoritos se quedó en el tercer cajón— y una representación geográfica real desde Baleares hasta Andalucía. La segunda es de calado: la asimetría reglamentaria entre clasificatorios —caps en Andalucía y Leganés, no caps en Torrent— ha tenido consecuencias clasificatorias demostrables y deja un debate técnico que el circuito tendrá que cerrar antes del próximo ciclo. La sanción de El Ejido, por su parte, demuestra que el sistema de Bonus Points funciona como dispositivo de trazabilidad. Catorce equipos, una sede y dos meses por delante: en junio veremos qué España viaja a Talavera.
@@ -118,7 +118,7 @@ La **Gran Final del Arca Negra** del 20 y 21 de junio cerrará el calendario esp
 - [Canal de YouTube Alianza del Viejo Mundo](https://www.youtube.com/@oldworldmadrid)
 - [Red de Comunidades de Wargames (Linktree)](https://linktr.ee/rcwarhammer)
 - [El Arca Negra — sede de la Gran Final](https://elarcanegra.com/)
-- [GT Talavera 2026 — calendario oficial](https://www.gttalavera.com/)
+- <a href="https://www.gttalavera.com/" rel="nofollow">GT Talavera 2026 — calendario oficial</a>
 - [Taller de Leonardo (Instagram)](https://www.instagram.com/taller_de_leonardo/) — ganadores del clasificatorio de Leganés.
 - [Asociación Pineda de Wargames (directorio municipal)](https://www.pinedademar.cat/el-municipi/directori-entitats/culturals/associacio-pineda-de-war-games) — club del equipo La Taverna del Llop Blanc.
 - [Centro Comercial Las Américas (Torrent)](https://cc-lasamericas.com/) — sede del clasificatorio Corona de Aragón.
