@@ -38,7 +38,11 @@
       {{ t.nombre | truncate: 56 }}
     </div>
     <div style="color:{%- if t.es_madrid -%}#1a1a1a; font-weight:600;{%- else -%}#6b4423; font-style:italic;{%- endif -%} font-size:0.82em;">
-      {{ t.ciudad | default: "Por determinar" }}
+      {%- if t.fuente == 'arca_negra' -%}
+        El Arca Negra<br>{{ t.ciudad | default: "Leganés (Madrid)" }}
+      {%- else -%}
+        {{ t.ciudad | default: "Por determinar" }}
+      {%- endif -%}
     </div>
   </a>
   {%- endfor -%}
