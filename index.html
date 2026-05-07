@@ -56,26 +56,26 @@ title: El Heraldo del Viejo Mundo
               {{ post.title }}
             </p>
           {% endif %}
+
+          <small style="color:#777;">
+            {% if post.source_date %}
+              {{ post.source_date | date: "%d/%m/%Y" }}
+            {% else %}
+              {{ post.date | date: "%d/%m/%Y" }}
+            {% endif %}
+          </small>
+
+          {% if post.thumbnail %}
+            <img src="{{ post.thumbnail }}" alt="Miniatura del vídeo" style="width:60%; max-width:300px; margin:8px 0;">
+          {% endif %}
+
+          {% if post.image %}
+            <img src="{{ post.image }}" alt="Imagen del artículo"
+                 style="width:100%; max-height:180px; object-fit:cover; margin:8px 0;">
+          {% endif %}
         </a>
 
-        <small style="color:#777;">
-          {% if post.source_date %}
-            {{ post.source_date | date: "%d/%m/%Y" }}
-          {% else %}
-            {{ post.date | date: "%d/%m/%Y" }}
-          {% endif %}
-        </small>
-
-        {% if post.thumbnail %}
-          <img src="{{ post.thumbnail }}" alt="Miniatura del vídeo" style="width:60%; max-width:300px; margin:8px 0;">
-        {% endif %}
-
-        {% if post.image %}
-          <img src="{{ post.image }}" alt="Imagen del artículo"
-               style="width:100%; max-height:180px; object-fit:cover; margin:8px 0;">
-        {% endif %}
-
-        {{ post.excerpt | markdownify | newline_to_br }}
+        <div style="color:#3c2a0c;">{{ post.excerpt | markdownify | newline_to_br }}</div>
 
       </div>
 

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "New Recruit, ahora en la lengua de Sancho Panza"
+title: "¡Por fin en español!"
 date: 2026-05-07 10:00:00 +0200
-categories: comunidad
+categories: articulo
 tags: [The Old World, New Recruit, Comunidad, Traducción, Torneos]
 author: HeraldoBot
 excerpt: "El equipo de El Heraldo ha trabajado contrarreloj para traducir al español la sección de The Old World en New Recruit, la herramienta principal para crear listas y gestionar torneos. En este artículo presentamos las instrucciones para activar el idioma, paso a paso."
