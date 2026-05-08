@@ -11,14 +11,14 @@ duration_seconds: 1518
 duration_minutes: 25
 source: whitelist
 excerpt: >
-  Juegos y Dados se aparta aquí del wargame para ofrecer una reseña de rol centrada en la edición Vigésimo Aniversario de Hombre Lobo El Apocalipsis publicada por Nosolorol, repasando sus mecánicas, sensaciones de juego y la valoración general sobre si merece la pena.
+  Juegos y Dados se aparta aquí del campo de batalla para ofrecer una reseña de rol centrada en la edición Vigésimo Aniversario de Hombre Lobo El Apocalipsis publicada por Nosolorol. El vídeo parece repasar mecánicas, sensaciones de juego y una valoración sobre si merece la pena acercarse a esta edición.
 ---
 
 ## Hombre Lobo El Apocalipsis 20 Edición | Reseña
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/9WGWYTNALdU" frameborder="0" allowfullscreen></iframe>
 
-Juegos y Dados se aparta aquí del wargame para ofrecer una reseña de rol centrada en la edición Vigésimo Aniversario de Hombre Lobo El Apocalipsis publicada por Nosolorol, repasando sus mecánicas, sensaciones de juego y la valoración general sobre si merece la pena.
+Juegos y Dados se aparta aquí del campo de batalla para ofrecer una reseña de rol centrada en la edición Vigésimo Aniversario de Hombre Lobo El Apocalipsis publicada por Nosolorol. El vídeo parece repasar mecánicas, sensaciones de juego y una valoración sobre si merece la pena acercarse a esta edición.
 
 📅 Publicado el 03/05/2026 a las 15:10
 🔗 [Ver en YouTube](https://www.youtube.com/watch?v=9WGWYTNALdU)

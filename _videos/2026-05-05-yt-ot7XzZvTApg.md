@@ -11,14 +11,14 @@ duration_seconds: 747
 duration_minutes: 12
 source: whitelist
 excerpt: >
-  La Taberna del Enano presenta una muestra de hobby centrada en su ejército enano para Warhammer The Old World, recorriendo las unidades que lo componen, de los rompehierros a la artillería pesada. Un vídeo breve de exposición de colección y despliegue, con sabor a fortaleza y agravios pendientes.
+  La Taberna del Enano presenta una muestra de su ejército enano para Warhammer The Old World, con un repaso visual a sus unidades, de los rompehierros a la artillería pesada. Un vídeo breve de hobby y colección, centrado en enseñar el despliegue y el carácter del ejército.
 ---
 
 ## El Ejército Enano de Yor  | Presentación de Ejército | Warhammer The Old World
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/ot7XzZvTApg" frameborder="0" allowfullscreen></iframe>
 
-La Taberna del Enano presenta una muestra de hobby centrada en su ejército enano para Warhammer The Old World, recorriendo las unidades que lo componen, de los rompehierros a la artillería pesada. Un vídeo breve de exposición de colección y despliegue, con sabor a fortaleza y agravios pendientes.
+La Taberna del Enano presenta una muestra de su ejército enano para Warhammer The Old World, con un repaso visual a sus unidades, de los rompehierros a la artillería pesada. Un vídeo breve de hobby y colección, centrado en enseñar el despliegue y el carácter del ejército.
 
 📅 Publicado el 05/05/2026 a las 13:19
 🔗 [Ver en YouTube](https://www.youtube.com/watch?v=ot7XzZvTApg)
