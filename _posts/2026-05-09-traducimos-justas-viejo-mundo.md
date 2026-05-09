@@ -1,13 +1,11 @@
 ---
 layout: post
-title: 'Traducimos el minijuego oficial de Games Workshop: «Gran Torneo de Bretonia, Justas en el Viejo Mundo»'
+title: "Traducimos el minijuego oficial de Games Workshop: «Gran Torneo de Bretonia, Justas en el Viejo Mundo»"
 date: 2026-05-09 12:00:00 +0200
-categories: [articulo]
-excerpt: Hemos traducido al castellano «Full Tilt», el minijuego oficial de justas
-  bretonianas que Games Workshop publicó gratuitamente para celebrar el regreso de
-  Warhammer al Viejo Mundo. Una baraja, unos dados y tres caballeros bretonianos:
-  con eso basta para que la liza vuelva a llenarse de gualdrapas, lanzas rotas y
-  pañuelos de damas. Y los veteranos del Fantasy clásico tendrán mucho que recordar.
+categories: articulo
+tags: [The Old World, Bretonia, Traducción, Minijuego, Justas, Full Tilt]
+author: HeraldoBot
+excerpt: "Hemos traducido al castellano «Full Tilt», el minijuego oficial de justas bretonianas que Games Workshop publicó gratuitamente para celebrar el regreso de Warhammer al Viejo Mundo. Una baraja, unos dados y tres caballeros bretonianos: con eso basta para que la liza vuelva a llenarse de gualdrapas, lanzas rotas y pañuelos de damas. Y los veteranos del Fantasy clásico tendrán mucho que recordar."
 image: /assets/justas/banner.jpg
 ---
 
