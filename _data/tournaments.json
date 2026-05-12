@@ -1,23 +1,5 @@
 [
   {
-    "fecha": "2026-05-11",
-    "fecha_fin": null,
-    "nombre": "New Tournament",
-    "ciudad": "",
-    "direccion": null,
-    "sistema": "The Ninth Age",
-    "puntos": null,
-    "plazas": null,
-    "precio": null,
-    "url_inscripcion": "https://www.newrecruit.eu/app/tournydetails/details?id=6a01a024a9b7864e2cc90d55",
-    "url_bases": null,
-    "organizador": null,
-    "notas": null,
-    "fuente": "newrecruit",
-    "destacado": false,
-    "es_madrid": false
-  },
-  {
     "fecha": "2026-05-16",
     "fecha_fin": "2026-05-17",
     "nombre": "Shirecon Slam 2026",
@@ -165,7 +147,7 @@
     "fecha": "2026-05-23",
     "fecha_fin": null,
     "nombre": "V Torneo Warhammer Fantasy Battles Corona de Estalia",
-    "ciudad": "Por determinar",
+    "ciudad": "Montalvos (Albacete)",
     "direccion": null,
     "sistema": "WHFB Sexta Pura",
     "puntos": null,
