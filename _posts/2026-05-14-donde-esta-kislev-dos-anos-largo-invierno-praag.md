@@ -24,26 +24,7 @@ El trasfondo, eso sí, está cuidado: Kislev es la nación más norteña del Vie
 
 ## Los conceptos de 2020-2021: el arranque que se quedó congelado
 
-La presencia visual de Kislev en la comunicación de GW se concentra en una ventana muy concreta. En marzo de 2020 *Warhammer Community* publica los primeros conceptos —firmados por **Mark Bedford** de Forge World— de la **Guardia de Hielo**, descrita como una formación de élite de mujeres guerreras, igual de hábiles con arco y espada, capaces de canalizar la magia elemental al estilo de la propia Reina de Hielo. Los bocetos jugaban con armas que parecían imbuidas de magia, estandartes que evocaban el modelo clásico de la Reina de Hielo y una estética que mezclaba referencias cosacas y de Europa del Este.
-
-En esa misma tanda y en actualizaciones posteriores se mencionaron unidades clásicas pendientes de remodelado —**Ungoles a caballo** y **Lanceros Alados**—, además de los **Kossars** y los **Boyardos** como vertebradores de cualquier futura Grand Army. En julio de 2021 GW publicó otra actualización con un mapa fuertemente kislevita y una entrevista a Andy Hoare titulada en torno a "Kislev Ascendant". Y en febrero de 2022 cerró el ciclo con un texto centrado en **Praag** y la **caballería de osos**, presentada como tótem vivo más que como simple montura, con varios niveles de armadura para distinguir veteranía. **El último post de Warhammer Community específicamente dedicado a Kislev en The Old World data del 22 de febrero de 2022**, dos días antes del inicio de la invasión rusa de Ucrania —coincidencia que [Bell of Lost Souls](https://www.belloflostsouls.net/2025/11/warhammer-the-old-world-whatever-happened-to-the-kislev-army.html) ha apuntado más de una vez como hipótesis para el parón posterior, sin confirmación de GW.
-
-## La cronología 2024-2026: ausencias muy elocuentes
-
-Repasando lo emitido por *Warhammer Community* y los grandes eventos de la marca desde el lanzamiento del juego en enero de 2024, el patrón es nítido:
-
-- **Las Vegas Open 2025 (enero)**: el roadmap muestra un décimo "hueco" misterioso entre los nueve Core. [Cargad](https://cargad.com/) lo cubre el 17 de enero apostando claramente por Cathay (no Kislev), basándose en la estética del teaser y en su asociación con el Arcane Journal.
-- **Primer semestre de 2025**: salen Elfos Silvanos (31 de mayo), Hombres Bestia (14 de junio) y Cathay primera oleada con su Battalion (5 de julio).
-- **Big Summer Preview 2025**: el espacio de The Old World se reparte entre la Wave 2 de Cathay —magic items nuevos, *Astromancers* anunciados como teaser— y los previews de Reyes Funerarios (*Royal Heralds*) y de la nueva remesa de bárbaros del Caos. **Kislev no aparece en ninguno de los dos bloques del preview**.
-- **6 de septiembre de 2025**: pre-orden de Cathay Wave 2 y *Matched Play Guide*.
-- **18 de octubre de 2025**: los Reyes Funerarios reciben sus *Royal Heralds* y un *Arcane Journal*.
-- **Warhammer World Championships 2025 (noviembre, Atlanta)**: el slot de The Old World se lo lleva entero Cathay con la *Defenders of the Great Bastion Army Reinforcement Set* (53 miniaturas, dos *Astromancers* con familiar *Crowman*, ocho *Crane Gun Teams*, doce *Iron Hail Gunners* y treinta *Peasant Levy*) y el Arcane Journal **The Breaching of the Great Bastion**. Cero menciones a Kislev en el directo.
-- **6 de diciembre de 2025**: pre-orden de los nuevos bárbaros del Caos en plástico y del Arcane Journal **The Razing of Westerland**.
-- **Adepticon 2026 (marzo)**: no hubo preview específico de The Old World. Creadores anglosajones como *The Square Based Podcast* y diversos vídeos de YouTube —el más visto titulado abiertamente "No Adepticon Preview"— invitaron a no leerlo como una catástrofe sino como pausa lógica tras un 2025 muy cargado.
-- **14 de marzo de 2026**: lanzamiento de *Defenders of the Great Bastion* (segunda oleada fuerte de Cathay).
-- **27 de abril de 2026**: [Spikey Bits](https://spikeybits.com/old-world-new-releases-roadmap-previews/) publica una actualización mayor del roadmap, firmada por Rob Baer. Su conclusión es escueta: el único ejército **confirmado** pendiente de salir sigue siendo Kislev, pero no hay fecha y el ritmo se ha vuelto más espaciado. A día de redacción no consta, en el calendario público, un *Warhammer Day stream* específico de The Old World en este ciclo.
-
-En todo este recorrido, la sección **Old World Almanack** de *Warhammer Community* ha publicado dossiers de diseño para los *Marauder Tribes* y para Cathay, pero ni un solo Almanack dedicado a Kislev desde la apertura del programa.
+Entre marzo de 2020 y febrero de 2022, *Warhammer Community* publicó los primeros conceptos kislevitas: la **Guardia de Hielo** firmada por Mark Bedford (Forge World), los **Lanceros Alados** y **Ungoles a caballo** pendientes de remodelado, los **Kossars** y **Boyardos** como base de la futura Grand Army, y el último texto dedicado a **Praag** y la **caballería de osos**. **Ese último post data del 22 de febrero de 2022**, dos días antes del inicio de la invasión rusa de Ucrania —coincidencia que [Bell of Lost Souls](https://www.belloflostsouls.net/2025/11/warhammer-the-old-world-whatever-happened-to-the-kislev-army.html) ha apuntado como hipótesis para el parón posterior, sin confirmación de GW. Desde entonces, silencio.
 
 ## Lo que escriben los grandes medios: BoLS, Spikey Bits y compañía
 
