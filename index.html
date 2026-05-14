@@ -53,7 +53,7 @@ title: El Heraldo del Viejo Mundo
             </p>
           {% elsif post.categories.size == 1 and post.categories[0] == "articulo" %}
             <p style="margin:0; font-size:1.3em; font-weight:bold; color:#4a2e0e;">
-              {{ post.title }}
+              {{ post.title | replace: " || ", "<br>" }}
             </p>
           {% endif %}
 

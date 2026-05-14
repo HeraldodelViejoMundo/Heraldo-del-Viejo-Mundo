@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "¿Dónde está Kislev? Dos años de largo invierno en Praag"
+title: "¿Dónde está Kislev? || Dos años de largo invierno en Praag"
 date: 2026-05-14 12:00:00 +0200
 categories: articulo
 tags: [The Old World, Kislev, Análisis, Games Workshop, Roadmap, Comunidad]
