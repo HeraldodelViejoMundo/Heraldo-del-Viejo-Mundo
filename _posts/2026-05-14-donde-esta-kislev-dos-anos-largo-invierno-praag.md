@@ -5,11 +5,15 @@ date: 2026-05-14 12:00:00 +0200
 categories: articulo
 tags: [The Old World, Kislev, Análisis, Games Workshop, Roadmap, Comunidad]
 author: HeraldoBot
-excerpt: "A dos años y cuatro meses del lanzamiento de Warhammer: The Old World, Kislev sigue siendo la única facción Core sin libro propio, sin línea de plástico y sin fecha en el calendario oficial. Repasamos lo que GW ha dicho —y lo que no— sobre la nación de la Reina de Hielo, los rumores que circulan y todo lo que la comunidad está haciendo mientras tanto."
+excerpt: "A dos años y cuatro meses del lanzamiento de Warhammer: The Old World, Kislev sigue siendo la única facción Core sin libro propio, sin línea de plástico y sin fecha en el calendario oficial. Repasamos lo que GW ha dicho —y lo que no— sobre la nación de la Reina de Hielo, los rumores que circulan y todo lo que la comunidad está haciendo mientras tanto. Además, en nuestra sección de Trasfondo encontrarás un artículo dedicado al reino de la Reina de Hielo con su historia, sus gentes y un relato breve original."
 image: /assets/posts/donde-esta-kislev/banner.webp
 ---
 
 <p style="font-size: 1.15em; font-style: italic; color: #5c3e10; border-left: 4px solid #1f3a5f; padding: 0.8em 1.2em; background: #fef8e6; margin: 0 0 1.8em 0;">A 14 de mayo de 2026, con <strong>The Old World</strong> cumpliendo dos años y cuatro meses en el mercado, Kislev sigue siendo la única de las facciones Core mencionadas en el desarrollo original del juego que <strong>no tiene libro propio, ni línea de plástico, ni una fecha en el calendario oficial de Games Workshop</strong>. No es una sorpresa para quien haya seguido la cobertura de Warhammer Community en los últimos años; sí lo es la persistencia de ese silencio cuando Cathay —la otra "nueva" facción teaseada en 2020-2021— acaba de recibir su segunda oleada con la <em>Defenders of the Great Bastion Army Reinforcement Set</em> en marzo de 2026. Conviene, antes de imaginar escenarios, ordenar lo que de verdad sabemos.</p>
+
+<p style="text-align: center; margin: 0 0 2em 0; padding: 1em; background: rgba(244, 236, 216, 0.5); border-left: 4px solid #8b5a2b; font-style: italic;">
+📜 Para conocer en profundidad la historia, las gentes y las tierras de Kislev en el lore oficial de <em>The Old World</em>, puedes leer nuestro <a href="{{ '/trasfondo/kislev/' | relative_url }}" style="color: #a02020; font-weight: bold; text-decoration: none;">artículo de trasfondo dedicado al reino de la Reina de Hielo</a>, que incluye además un relato breve original.
+</p>
 
 ## Lo que existe oficialmente: lore en el rulebook, nada más
 
@@ -75,3 +79,7 @@ Ninguna de las tres explica el silencio comunicativo total, que es lo que más i
 <div style="margin-top:3em;padding:1em;background:#fef8e6;border:1px solid #eadbbd;border-radius:8px;">
 <strong>Conclusiones:</strong> Dos años en, The Old World ha cumplido con casi todo lo que prometió en 2023: Bretonia, Reyes Funerarios, Orcos y Goblins, Enanos, Guerreros del Caos, Altos Elfos, Elfos Silvanos, Hombres Bestia, Imperio y, fuera del set inicial, Cathay con dos oleadas. Quedan Kislev, los ejércitos Legacy en libro pleno y los rumores de Dogs of War. Sobre Kislev no hay calendario, pero tampoco hay puerta cerrada: la mención sigue en el rulebook, en el mapa, en el AJ de bárbaros, y en la única ranura "confirmada pero sin fecha" del roadmap a 27 de abril de 2026. Mientras tanto, la comunidad ya ha aprendido a desplegar Kossars con kitbash y caballería de osos con resina. Para Kislev, el invierno se ha hecho largo; no parece, sin embargo, que vaya a ser eterno.
 </div>
+
+<p style="text-align: center; margin: 2em 0; padding: 1.2em; background: rgba(244, 236, 216, 0.5); border-left: 4px solid #8b5a2b; font-style: italic;">
+⚜ Si has llegado hasta aquí y quieres profundizar en quién es Kislev más allá del tablero, te invitamos a leer nuestro <a href="{{ '/trasfondo/kislev/' | relative_url }}" style="color: #a02020; font-weight: bold; text-decoration: none;">artículo de trasfondo sobre el reino de la Reina de Hielo</a> en la sección de Trasfondo del Heraldo. Incluye además un relato breve original ambientado en la estepa kislevita.
+</p>
