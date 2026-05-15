@@ -1,0 +1,118 @@
+---
+layout: default
+title: Trasfondo de Kislev
+permalink: /trasfondo/kislev/
+---
+
+<a href="{{ '/trasfondo/' | relative_url }}">
+  <img src="{{ '/assets/bannerheraldo.png' | relative_url }}" alt="Cabecera El Heraldo del Viejo Mundo" style="width:100%; height:auto; max-height:240px; object-fit:contain; display:block; margin-bottom: 2em;">
+</a>
+
+<div style="max-width: 800px; margin: 0 auto; padding: 0 1.5em 3em 1.5em; font-family: 'Cormorant Garamond', Georgia, serif; font-size: 1.15em; line-height: 1.7; color: #2b1e10;">
+
+  <p style="text-align: center; margin-bottom: 0.5em;">
+    <a href="{{ '/trasfondo/' | relative_url }}" style="color: #8b5a2b; text-decoration: none; font-size: 0.95em;">← Volver al Trasfondo</a>
+  </p>
+
+  <h1 style="text-align: center; font-family: 'UnifrakturCook', 'Cormorant Garamond', serif; color: #4a2e0e; font-size: 2.4em; margin-bottom: 0.2em;">Trasfondo de Kislev</h1>
+
+  <p style="text-align: center; color: #8b5a2b; font-style: italic; margin-bottom: 2em;">El reino del hielo y la lanza, primera barrera del Viejo Mundo frente al Norte</p>
+
+  <hr style="border: none; border-top: 1px solid #c9a96e; margin: 2em 0;">
+
+<p>Al norte del Imperio, allí donde los bosques se rinden a la estepa y los ríos se cubren de hielo durante medio año, se extiende un reino que el sur entiende mal y teme peor. Los hombres y mujeres de Altdorf o Nuln hablan de Kislev como de una tierra de bárbaros a caballo, de chamanas envueltas en pieles y de jinetes con el torso desnudo bajo la ventisca. Es una caricatura cómoda, y como casi todas las caricaturas cómodas, falsa. Kislev no es menos culta que el Imperio ni menos antigua que Bretonia: es, simplemente, distinta. Su carácter lo ha forjado el viento del norte, y el viento del norte arrastra cosas peores que el frío.</p>
+
+<h2 style="color: #4a2e0e; font-family: 'Cormorant Garamond', serif; margin-top: 2em;">La tierra y sus gentes</h2>
+
+<p>Kislev vive con la cara vuelta hacia una sola dirección. Al sur la protegen los bosques imperiales y las Montañas del Fin del Mundo, una frontera que apenas exige vigilancia. Al norte, en cambio, no la protege nada. Más allá de sus fronteras septentrionales se abren las tierras malditas que rodean el Yermo del Caos, y todo lo que llega de aquella dirección llega armado. Vivir en Kislev es vivir mirando ese horizonte.</p>
+
+<p>El reino no nació de sus tierras actuales. Su origen está mucho más al este, en las estepas inacabables donde los pueblos nómadas seguían a sus caballos y a sus rebaños bajo cielos sin árboles. De allí vinieron los Ungols primero y, siglos después, los Gospodar, cruzando el Paso Alto bajo la espada de la Khan-Reina Miska. Los nativos de las tierras que hoy ocupan los kislevitas eran guerreros temibles por derecho propio, pero no pudieron resistir a los recién llegados. Como tantas tribus antes que ellos en la larga marcha desde el este, juraron lealtad a la Khan-Reina y fueron absorbidos en el creciente imperio kislevita.</p>
+
+<p>De aquella herencia esteparia procede todo lo que sorprende al viajero meridional: los arqueros a caballo que disparan con el torso desnudo incluso bajo la nieve, los caballeros que cabalgan osos en lugar de corceles, los trineos de guerra envueltos en escarcha que se deslizan sobre los lagos helados. No son extravagancias bárbaras. Son la memoria de un pueblo que aprendió la guerra cabalgando por mares de hierba antes de aprenderla defendiendo murallas.</p>
+
+<h2 style="color: #4a2e0e; font-family: 'Cormorant Garamond', serif; margin-top: 2em;">Las grandes ciudades del este</h2>
+
+<p>Pocos en el Viejo Mundo recuerdan que el dominio kislevita se extendió en otros tiempos hasta los confines de Gran Cathay. Aún hoy, mucho más allá de las Montañas del Fin del Mundo, sobreviven las grandes ciudades que las Khan-Reinas de antaño levantaron como puentes entre el oriente y el occidente.</p>
+
+<p>En el este profundo se alza Kharakorsi, ciudad de comerciantes que unifica a las tribus de la estepa en miles de leguas a la redonda. Más al oeste, cerca de la Montaña Flotante, se yergue la Gran Rasputia, conocida como la Encrucijada del Mundo: de ella parten caminos que llegan hasta tierras que ni los cartógrafos imperiales saben nombrar. Y, vigilando el extremo occidental del Camino de las Calaveras, está Zamoski, la Puerta del Oblast, donde el oriente y el occidente se dan la mano con desconfianza.</p>
+
+<p>Recorrer la Estepa Oriental sigue siendo, sin embargo, una empresa para los desesperados o los muy bien armados. Tribus de bárbaros del Caos, bandas de incursores Hobgoblins y partidas de Ogros acechan a las caravanas. Pocos viajeros se aventuran solos: los mercaderes parten en convoyes inmensos, y los ejércitos avanzan en formación cerrada, sabiendo que un descuido puede convertir a un regimiento entero en huesos blanqueando bajo el sol.</p>
+
+<h2 style="color: #4a2e0e; font-family: 'Cormorant Garamond', serif; margin-top: 2em;">La Tzarina y la magia del hielo</h2>
+
+<p>Kislev no es gobernada por hombres, ni lo ha sido nunca en su memoria. Desde Miska, la primera Khan-Reina que unificó a los Gospodar bajo un solo estandarte, el trono ha pasado de una mujer a otra, y siempre acompañado de algo que el sur llama brujería y los kislevitas llaman, simplemente, su derecho.</p>
+
+<p>La actual soberana es la Tzarina Mishenka Romanoff, conocida en todas las cortes del Viejo Mundo como la Reina del Hielo. El sobrenombre no es ornamental. Las Khan-Reinas extraen su poder de la tierra misma, y la tierra de Kislev responde a su llamada con un frío que no es sólo meteorológico. Mishenka da forma a los Vientos de la Magia de un modo que ningún mago imperial sabría imitar, congelando el aliento de sus enemigos antes de que la primera flecha haya salido del arco.</p>
+
+<p>Esta unión entre la soberana y la tierra viene de antiguo. Ya a Miska, la fundadora, su propio pueblo y también sus enemigos le atribuyeron en vida toda clase de poderes sobrenaturales, la mayoría sólo en parte ciertos. Siglos después, Mishenka cultiva esa misma niebla de misterio. La acompañan a la guerra las Brujas del Hielo, hechiceras envueltas en pieles blancas cuyos conjuros pueden inclinar una batalla con un viento helado o una lluvia de esquirlas de escarcha. Más que sus hechizos, sin embargo, es lo que representan: la prueba viviente de que la Tzarina tiene la tierra de su parte, y de que sus soldados pelean por algo más que un sueldo y una bandera.</p>
+
+<h2 style="color: #4a2e0e; font-family: 'Cormorant Garamond', serif; margin-top: 2em;">El príncipe Alexis</h2>
+
+<p>Mishenka tiene un solo hijo, Alexis Romanoff, y en él descansa la sucesión del reino. El joven príncipe no ha heredado el dominio mágico de su madre: ha tomado otro camino, el de la lanza, la espada y la silla de montar. Está igual de cómodo a lomos de un caballo que sobre el lomo de un Oso de Guerra, y ha conducido más de una campaña al norte contra tribus de bárbaros del Caos, hordas de Orcos y Goblins y partidas de incursores noscanos.</p>
+
+<p>Para inquietud de su madre, Alexis sueña con cabalgar más allá del Territorio Troll y empujar las fronteras de Kislev hacia el norte, recuperando para la civilización tierras que el Caos lleva siglos disputando. Mishenka escucha esos sueños con la paciencia de quien ya ha visto a muchos jóvenes prometedores morir tratando de hacer realidad sueños parecidos.</p>
+
+<p>Hay, sin embargo, una idea de su hijo que la Tzarina sí toma en serio. Alexis ha hablado más de una vez de la necesidad de un Imperio unificado bajo un solo líder, porque presiente que llegará el día en que los Dioses Oscuros marchen hacia el sur y todas las naciones de los Hombres tengan que enfrentarse a ellos como una sola. La idea es buena. El problema, según ambos reconocen en voz baja, es que aún no han encontrado a nadie con la voluntad ni la visión suficiente para unir a los fragmentados pueblos del sur.</p>
+
+<h2 style="color: #4a2e0e; font-family: 'Cormorant Garamond', serif; margin-top: 2em;">Una cortina entre dos mundos</h2>
+
+<p>Kislev es próspera. Sus bosques y minas alimentan a sus ciudades, y el comercio con el este y el sur ha llenado sus arcas durante generaciones. Pero ninguna de estas riquezas explica por qué Kislev existe. Existe porque alguien tiene que estar ahí. Porque entre las puertas del Imperio y el Yermo del Caos hace falta una tierra cuyos habitantes no huyan cuando el cielo del norte se oscurece, los Vientos de la Magia se vuelven hostiles y los exploradores dejan de regresar.</p>
+
+<p>Esa tierra es Kislev. Sus guerreros son menos numerosos que los del Imperio, su tecnología menos refinada que la de Bretonia, sus ciudades menos antiguas que las de Tilea. Y, sin embargo, cuando llega la hora del juicio, son ellos los primeros en montar, los primeros en ver al enemigo y los primeros en caer. El sur lo olvida con frecuencia. El norte nunca.</p>
+
+  <p style="text-align: center; font-size: 1.5em; color: #8b5a2b; margin: 2.5em 0 1.5em 0; letter-spacing: 0.3em;">⚜ ❦ ⚜</p>
+
+  <h2 style="color: #4a2e0e; font-family: 'Cormorant Garamond', serif; text-align: center; font-size: 1.6em;">Crónica de Kislev</h2>
+
+  <ul style="list-style: none; padding-left: 0; max-width: 700px; margin: 1.5em auto;">
+    <li style="margin-bottom: 1em; padding-left: 1em; border-left: 3px solid #8b5a2b;"><strong>1494 CI</strong> — La Khan-Reina Miska, hija de Radii Bokha, conduce a los Gospodar a través del Paso Alto, empujando a las tribus Ungol hacia el oeste.</li>
+    <li style="margin-bottom: 1em; padding-left: 1em; border-left: 3px solid #8b5a2b;"><strong>1524 CI</strong> — Bajo la Khan-Reina Shoika, hija de Miska, comienzan las obras de la capital, Kislev. Shoika adopta el título de Tzarina.</li>
+    <li style="margin-bottom: 1em; padding-left: 1em; border-left: 3px solid #8b5a2b;"><strong>2010 – 2145 CI</strong> — Las Guerras de los Condes Vampiro azotan el norte del Imperio y sus fronteras. Kislev mantiene la línea frente a las incursiones procedentes del Yermo del Caos mientras el sur sangra.</li>
+    <li style="margin-bottom: 1em; padding-left: 1em; border-left: 3px solid #8b5a2b;"><strong>Era actual</strong> — La Tzarina Mishenka Romanoff reina desde la capital. Su hijo, el príncipe Alexis, lidera las campañas del norte contra bárbaros del Caos, hordas pielverdes y piratas noscanos. Las grandes ciudades orientales de Kharakorsi, Gran Rasputia y Zamoski siguen sosteniendo el corredor que une el Viejo Mundo con la lejana Cathay.</li>
+  </ul>
+
+  <p style="text-align: center; font-size: 1.5em; color: #8b5a2b; margin: 3em 0 1.5em 0; letter-spacing: 0.3em;">⚜ ❦ ⚜</p>
+
+  <h2 style="color: #4a2e0e; font-family: 'Cormorant Garamond', serif; text-align: center; font-size: 1.8em; margin-top: 2em;">El silencio sobre la estepa</h2>
+
+  <p style="text-align: center; color: #8b5a2b; font-style: italic; margin-bottom: 2em;">Relato breve</p>
+
+<p>Ravlov cabalgaba el último, como hacían siempre los veteranos.</p>
+
+<p>No por costumbre marcial ni por ordenanza de regimiento, sino porque desde hacía años había aprendido que el último jinete es el que vuelve la cabeza. El que cuenta a los suyos. El que, si los cuenta y faltan, sabe a quién faltan. Esa noche faltaba Yuri Sevchenko, y por eso Ravlov no apartaba la mirada del horizonte por donde habían venido, como si el muchacho pudiera todavía aparecer al galope, sucio y avergonzado, pidiendo perdón por el retraso.</p>
+
+<p>No iba a aparecer. Ravlov lo sabía con la misma certeza con que sabía que el alba llegaría en tres horas y que el caballo bajo él tenía sed. Lo había visto caer. Lo había visto, sobre todo, antes de caer: la lanza demasiado adelantada, el peso mal repartido en los estribos, el codo derecho un dedo más alto de lo que un húsar veterano habría permitido. Errores pequeños. Errores que en cualquier otra clase de combate se corrigen con un grito y una bofetada al volver al campamento. Pero los bárbaros del norte no perdonan los errores pequeños. Los coleccionan. Los cuelgan después de los cinturones, junto a los demás trofeos.</p>
+
+<p>Las alas de su armadura crujieron levemente al ritmo del trote. El sonido lo acompañaba desde hacía treinta y dos inviernos, y ya no lo oía con los oídos sino con alguna otra parte de sí mismo, alguna parte que se había vuelto de madera y plumas con el tiempo. Decían que aquel ruido aterraba a los caballos enemigos. Decían también muchas otras cosas sobre los Húsares Alados, casi todas exageraciones. Ravlov llevaba demasiados años bajo aquellas alas para creer ya en nada que no pudiera tocar con la mano enguantada.</p>
+
+<p><em>Y, sin embargo</em>, pensó, <em>creo en ellos.</em></p>
+
+<p>Ellos, los del norte. Los bárbaros. Aquella tarde, antes de la carga, había mirado al enemigo desde la cresta de la colina y había sentido, como siempre, una mezcla extraña de desprecio y de algo más difícil de nombrar. Algo parecido al asombro. Porque eran hombres. Bajo las pieles, bajo las pinturas, bajo los cuernos forjados o crecidos —en algunos ya no se distinguía cuál era cuál—, eran hombres. Habían nacido como nace cualquier niño en Kislev, en el Imperio, en cualquier parte: llorando, hambrientos, indefensos. Y, sin embargo, en algún punto de su vida, habían decidido que valía la pena vender el alma por una vida más corta y un nombre que nadie recordaría.</p>
+
+<p>Esa era la pregunta que volvía cada vez que regresaba de una cabalgada como esta. ¿Qué los mueve?</p>
+
+<p>Ravlov había pensado en ello durante años, y nunca había encontrado una respuesta que le bastara. Los sacerdotes de Ursun hablaban de tentación. Los chamanes de los pueblos del este hablaban de espíritus que se meten en los hombres por las heridas. Las Brujas del Hielo, las pocas veces que se dignaban a contestar, sonreían como si la pregunta fuera infantil y decían que el norte siempre llama, y que algunos hombres tienen el oído más débil que otros. Tal vez fuera eso. Tal vez no.</p>
+
+<p>Lo que Ravlov sabía, porque lo había visto, era que un bárbaro del Caos no luchaba como lucha un hombre que defiende su tierra o que codicia la ajena. Luchaba como lucha quien ya ha hecho cuentas con la muerte y ha decidido que no le importa. Eso era lo verdaderamente terrible. Un campesino del Imperio peleaba para volver a casa. Un orco peleaba porque era su naturaleza. Un bárbaro del Caos peleaba para ofrecer su agonía como un regalo. Y contra eso, pensaba Ravlov, no hay coraza ni lanza que valga. Solo había una cosa que valía, y era la disciplina. Mantener la formación. Aguantar el galope. No mirar a los ojos al que tienes delante, porque los ojos de los hombres del norte ya no son ojos de hombre, y mirar dentro de ellos es como asomarse a un pozo helado donde uno ve, al fondo, su propia cara.</p>
+
+<p>Yuri había mirado. Ravlov estaba seguro. El muchacho era valiente, era hábil, era todo lo que un Húsar Alado debía ser a los diecinueve años. Pero había mirado. Y eso, en la estepa, basta para morir.</p>
+
+<p>El caballo aminoró el paso por sí solo. La luna, casi llena, dibujaba la línea negra de los abedules a la izquierda, y más allá se intuía la silueta de la palizada del puesto avanzado donde los esperaban con caldo caliente y vendas. Los otros jinetes ya descendían hacia las luces. Ravlov no se apresuró. Tenía aún unos minutos para sí mismo, y los aprovechó como un avaro aprovecha las monedas que le quedan.</p>
+
+<p>Pensó en la madre de Yuri. Vivía en un pueblo cuyo nombre no recordaba, cerca del río Lynsk, y era una mujer de manos rojas y silencio largo. Le había entregado a su hijo seis inviernos atrás, con la solemnidad con la que se entrega el trigo al molino. <em>Devuélvamelo</em>, había dicho. No: <em>cuídelo</em>. <em>Devuélvamelo.</em> Como si supiera ya, desde aquel mismo día, que un día Ravlov volvería sin él y tendría que llamar a su puerta.</p>
+
+<p>Pensó también, sin querer, en su propio hijo, muerto en otra estepa hacía ya tantos inviernos que el dolor se había convertido en una piedra lisa, fácil de llevar en el bolsillo. Eso le pasaba a todos los veteranos. Acumulaban piedras lisas. Algunos no podían ya ni montar de tanto peso.</p>
+
+<p><em>Los bárbaros se entregan al Caos</em>, se dijo Ravlov por última vez aquella noche, <em>porque no soportan llevar piedras.</em></p>
+
+<p>Era una respuesta como cualquier otra. No la mejor. Pero le bastó para empujar al caballo cuesta abajo, hacia las antorchas y el caldo, hacia la mañana siguiente en que habría que volver a montar y volver a cabalgar el último, contando a los suyos. Las alas crujieron una vez más a su espalda, y por un momento, solo por un momento, le pareció que el ruido se parecía al de un viento que viniera del norte.</p>
+
+<p>Pero no era el viento. Era él, simplemente, que seguía vivo.</p>
+
+  <p style="text-align: center; font-size: 1.5em; color: #8b5a2b; margin: 2.5em 0 1.5em 0; letter-spacing: 0.3em;">⚜ ❦ ⚜</p>
+
+  <p style="text-align: center; margin-top: 2em;">
+    <a href="{{ '/trasfondo/' | relative_url }}" style="color: #8b5a2b; text-decoration: none;">← Volver al Trasfondo</a>
+  </p>
+
+</div>
