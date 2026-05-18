@@ -1,0 +1,66 @@
+{%- comment -%}
+  Navegación entre las 5 partes de la serie "Matched Play Guide Revelado en Español".
+  Uso: {% include matched_play_nav.html current=N %}  (N de 1 a 5)
+{%- endcomment -%}
+
+{%- assign current_part = include.current | plus: 0 -%}
+
+{%- assign part1 = site.posts | where: "slug", "matched-play-guide-parte1" | first -%}
+{%- assign part2 = site.posts | where: "slug", "matched-play-guide-parte2" | first -%}
+{%- assign part3 = site.posts | where: "slug", "matched-play-guide-parte3" | first -%}
+{%- assign part4 = site.posts | where: "slug", "matched-play-guide-parte4" | first -%}
+{%- assign part5 = site.posts | where: "slug", "matched-play-guide-parte5" | first -%}
+
+<aside style="margin: 3em 0 1em 0; padding: 1.6em 1.8em; background: #f4ecd8; border: 1px solid #c8a866; border-radius: 8px; font-family: Georgia, serif;">
+
+  <div style="text-align: center; color: #8b5a2b; font-size: 0.95em; letter-spacing: 0.15em; margin-bottom: 0.3em;">⚜ ❦ ⚜</div>
+
+  <h3 style="font-family: 'Cormorant Garamond', Georgia, serif; font-size: 1.5em; color: #4a2e0e; margin: 0 0 0.3em 0; text-align: center;">
+    Serie: Matched Play Guide Revelado en Español
+  </h3>
+
+  <p style="text-align: center; font-style: italic; color: #6b4423; margin: 0 0 1.4em 0; font-size: 0.95em;">
+    Cinco entregas con la traducción y el análisis completo de la Guía de Juego Equilibrado de <em>The Old World</em>.
+  </p>
+
+  <ol style="list-style: none; padding: 0; margin: 0; counter-reset: heraldo-part;">
+
+    {%- assign parts = "" | split: "" -%}
+    {%- assign parts = parts | push: part1 -%}
+    {%- assign parts = parts | push: part2 -%}
+    {%- assign parts = parts | push: part3 -%}
+    {%- assign parts = parts | push: part4 -%}
+    {%- assign parts = parts | push: part5 -%}
+
+    {%- assign labels = "1ª Parte|2ª Parte|3ª Parte|4ª Parte|5ª Parte" | split: "|" -%}
+    {%- assign summaries = "Visión general · Valour Before Dishonour · Organización del evento · Sistema de puntuación|Emparejamientos suizos · Composición (Open War / Grand Melee / Combined Arms) · Colocación de terreno|Los seis escenarios oficiales · Objetivos secundarios · Condiciones de victoria|Juego por parejas · Torneos por equipos · Sistema Vanguardia / Línea / Retaguardia|Eventos de escalada · Los doce Objetivos Secretos · Conclusiones generales" | split: "|" -%}
+
+    {%- for p in parts -%}
+      {%- assign idx = forloop.index -%}
+      {%- assign label = labels[forloop.index0] -%}
+      {%- assign summary = summaries[forloop.index0] -%}
+
+      {%- if idx == current_part -%}
+        <li style="display: flex; align-items: flex-start; gap: 0.9em; padding: 0.7em 0.9em; margin: 0.4em 0; background: #fef8e6; border-left: 4px solid #a02020; border-radius: 4px;">
+          <span style="flex-shrink: 0; font-family: 'Cormorant Garamond', Georgia, serif; font-size: 1.4em; font-weight: bold; color: #a02020; min-width: 1.2em;">{{ idx }}</span>
+          <div>
+            <strong style="color: #4a2e0e; font-size: 1.05em;">{{ label }} <span style="font-weight: normal; font-style: italic; color: #8b5a2b;">— estás aquí</span></strong><br>
+            <span style="color: #6b4423; font-size: 0.92em;">{{ summary }}</span>
+          </div>
+        </li>
+      {%- else -%}
+        <li style="display: flex; align-items: flex-start; gap: 0.9em; padding: 0.7em 0.9em; margin: 0.4em 0; background: transparent; border-left: 4px solid #c8a866; border-radius: 4px; transition: background 0.15s;">
+          <span style="flex-shrink: 0; font-family: 'Cormorant Garamond', Georgia, serif; font-size: 1.4em; font-weight: bold; color: #8b5a2b; min-width: 1.2em;">{{ idx }}</span>
+          <div>
+            <a href="{{ p.url | relative_url }}" style="color: #4a2e0e; font-weight: bold; text-decoration: none; font-size: 1.05em; border-bottom: 1px dotted #8b5a2b;">{{ label }}</a><br>
+            <span style="color: #6b4423; font-size: 0.92em;">{{ summary }}</span>
+          </div>
+        </li>
+      {%- endif -%}
+    {%- endfor -%}
+
+  </ol>
+
+  <div style="text-align: center; color: #8b5a2b; font-size: 0.95em; letter-spacing: 0.15em; margin-top: 1.2em;">⚜ ❦ ⚜</div>
+
+</aside>

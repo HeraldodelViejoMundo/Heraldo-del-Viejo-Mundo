@@ -196,3 +196,5 @@ Luego, durante el torneo, los consejos de última hora, el apoyo de los compañe
 Y después del torneo... se recordará durante meses aquella carga fallida que nos dejó fuera, aquel "despiste sospechoso" del rival que casi cambia la partida y todas esas circunstancias que hacen de este hobby un mundo tan bonito como divertido.
 
 En un par de días volveremos con la quita y última sección de la serie, que espero que os esté resultando útil y entretenida. Mientras tanto, ¡pintad insensatos!
+
+{% include matched_play_nav.html current=4 %}

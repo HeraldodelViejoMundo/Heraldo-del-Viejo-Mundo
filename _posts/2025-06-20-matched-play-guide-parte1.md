@@ -97,3 +97,5 @@ Listas transparentes, escenarios equilibrados, código de conducta y método de 
 Quizá la gran conclusión que a menudo pasamos por alto es que la editorial nos está invitando —con reglas, recursos y un lenguaje compartido— a coger las riendas de nuestra comunidad y profesionalizarla. Si lo hacemos, el Viejo Mundo tendrá no solo pasado y presente, sino un futuro en el que todos podremos cabalgar.
 
 **Nos reencontramos en unos días con la segunda entrega**, donde desgranaremos los **Emparejamientos** en un torneo individual, normas para **creación de listas** y la **distribución del campo de batalla**. ¡No faltéis!
+
+{% include matched_play_nav.html current=1 %}

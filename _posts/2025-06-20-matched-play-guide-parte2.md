@@ -126,3 +126,5 @@ A ello se suma un sistema de *emparejamientos suizo claro* y una *guía de coloc
 Quedan, eso sí, dos sombras que la guía no termina de disipar: mantener la posibilidad de emplear hasta el 50 % de los puntos en personajes, que resta demasiada importancia a la tropa, y la penalización por portaestandarte abatido que desalienta un elemento icónico. Con todo, el saldo es positivo: unas bases de composición coherentes, emparejamientos transparentes y mesas equilibradas son el primer paso para que ligas locales y grandes eventos hablen el mismo idioma y, sobre todo, para que cada partida empiece con la sensación de que el verdadero reto será en el tablero, no en la hoja de reglas.
 
 En un par de días publicaremos la *tercera parte* de esta serie de artículos sobre *Nuevos Escenarios y Objetivos Secundarios* 
+
+{% include matched_play_nav.html current=2 %}

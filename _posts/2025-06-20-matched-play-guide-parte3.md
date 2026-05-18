@@ -165,3 +165,5 @@ Los **seis Escenarios de Juego Equilibrado** y el sistema de **objetivos secunda
 Para los organizadores esta parte resulta fundamental: la guía sugiere qué secundarios y despliegues acompañan mejor cada escenario, de modo que montar un torneo equilibrado reulta mucho más sencillo que tratar de improvisar o ceñirse a unos pocos escenarios como pasaba hasta ahora. Estos mapas llegarán a las mesas sobre un terreno de juego más homogéneo que en la temporada pasada. Con tableros que premian la iniciativa y objetivos que penalizan la pasividad, la escena competitiva gana frescura continua… y los jugadores un motivo real para pintar esas unidades básicas que antes languidecían en la vitrina.
 
 Continuaremos en unos días con la **cuarta parte** de esta guía centrándonos en el **juego por parejas** y **torneos por equipos**.
+
+{% include matched_play_nav.html current=3 %}

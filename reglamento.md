@@ -29,6 +29,17 @@ permalink: /reglamento/
       </p>
     </a>
 
+    <a href="{{ '/articulo/2025/06/20/matched-play-guide-parte1.html' | relative_url }}"
+       style="display:block; text-decoration:none; color:inherit; background:#f4ecd8; border:1px solid #c8a866; border-radius:8px; padding:1.4em 1.6em; box-shadow: 0 2px 6px rgba(0,0,0,0.08); transition: transform 0.15s ease, box-shadow 0.15s ease;"
+       onmouseover="this.style.transform='translateY(-3px)';this.style.boxShadow='0 6px 14px rgba(0,0,0,0.15)';"
+       onmouseout="this.style.transform='translateY(0)';this.style.boxShadow='0 2px 6px rgba(0,0,0,0.08)';">
+      <div style="font-size: 0.85em; color: #a02020; text-transform: uppercase; letter-spacing: 0.08em; margin-bottom: 0.4em;">Juego competitivo · 5 entregas</div>
+      <h3 style="margin: 0 0 0.5em 0; font-family: 'Cormorant Garamond', Georgia, serif; font-size: 1.5em; color: #4a2e0e;">Matched Play Guide en Español</h3>
+      <p style="margin: 0; font-size: 0.95em; color: #5c3e10; line-height: 1.5;">
+        Traducción y análisis completo de la <em>Guía de Juego Equilibrado</em> de Games Workshop para <em>The Old World</em>: composición de listas, emparejamientos suizos, los seis escenarios oficiales, torneos por equipos y objetivos secretos.
+      </p>
+    </a>
+
     <div style="background:#faf6ec; border:1px dashed #c8a866; border-radius:8px; padding:1.4em 1.6em; opacity:0.75;">
       <div style="font-size: 0.85em; color: #6b4423; text-transform: uppercase; letter-spacing: 0.08em; margin-bottom: 0.4em;">Próximamente</div>
       <h3 style="margin: 0 0 0.5em 0; font-family: 'Cormorant Garamond', Georgia, serif; font-size: 1.5em; color: #6b4423;">Más contenido en preparación</h3>
