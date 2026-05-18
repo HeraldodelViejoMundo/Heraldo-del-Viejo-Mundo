@@ -9,6 +9,8 @@ excerpt: 'El **Heraldo del Viejo Mundo** empieza hoy una serie de artículos en 
 
 ---
 
+{% include matched_play_nav_mini.html current=1 %}
+
 *Publicado originalmente el 20-jun-2025.*
 
 # Matched Play Guide Revelado en Español — 1ª Parte  

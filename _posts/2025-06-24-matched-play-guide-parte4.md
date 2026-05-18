@@ -8,6 +8,8 @@ image: /assets/img/2025-06/parte4.png
 excerpt: 'Hoy exploraremos los formatos de juego colectivo de la nueva *Guía de Juego Equilibrado* de *The Old World*: **Juego por Parejas** y **Torneos por Equipos**. Aprende a compartir puntos, coordinar listas y dominar los emparejamientos. Alíate con tu compañero de aventuras o lidera a tu escuadrón de Generales —desmitifica los torneos, que no dejan de ser jornadas de risas y minis bonitas sin mayor pretensión.'
 ---
 
+{% include matched_play_nav_mini.html current=4 %}
+
 *Publicado originalmente el 24‑jun‑2025.*
 
 # Matched Play Guide Revelado en Español — 4ª Parte

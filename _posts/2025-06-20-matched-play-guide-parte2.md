@@ -8,6 +8,8 @@ image: /assets/img/2025-06/parte2.png
 excerpt: 'En la **Parte 2** de nuestra cobertura desvelamos el sistema que propone Games Workshop de **Emparejamientos** para torneos. Descubre las **Restricciones** de los **Modos de Juego** —de *Guerra Abierta*, *Gran Melee* y *Armas Combinadas*— y por qué tu héroe de más de 500 puntos quizá se quede en el banquillo. Te mostramos la fórmula oficial para la *colocación Terreno* y evitar mesas desiertas… o atascadas de escenografía. Cuatro minutos de lectura que afilarán tus listas y tu estrategia para el próximo torneo: ¡no te lo pierdas!'
 ---
 
+{% include matched_play_nav_mini.html current=2 %}
+
 *Publicado originalmente el 22‑jun‑2025.*
 
 # Matched Play Guide Revelado en Español — 2ª Parte

@@ -8,6 +8,8 @@ image: /assets/img/2025-06/parte5.png
 excerpt: 'Concluimos esta +revisión+ de la **Guía de Juego Competitivo** de **The Old World** con un breve artículo sobre cómo organizar *Eventos de Escalada*, en los que los ejércitos crecen ronda a ronda. También presentamos los **Objetivos Secretos** —*12 misiones sorpresa* con recompensas en *Puntos de Victoria* que pondrán a prueba la versatilidad y la táctica de cada comandante. Y por último una sección de **conclusiones** a modo de cierre sobre la propia guía en su conjunto.'
 ---
 
+{% include matched_play_nav_mini.html current=5 %}
+
 *Publicado originalmente el 24‑jun‑2025.*
 
 # Matched Play Guide Revelado en Español — 5ª Parte

@@ -8,6 +8,8 @@ image: /assets/img/2025-06/parte3.png
 excerpt: 'En esta **tercera** entrega diseccionamos los seis **Escenarios de Torneo** y el sistema completo de **Objetivos Secundarios** que trae la inminente Guía de Juego Equilibrado de The Old World. Mapas, despliegues y bonificaciones que pueden cambiar el rumbo de la partida.'
 ---
 
+{% include matched_play_nav_mini.html current=3 %}
+
 *Publicado originalmente el 23‑jun‑2025.*
 
 
