@@ -1,6 +1,6 @@
 ---
 layout: post
-title: FAQs de ToW 1.5 - Reglas Especiales.
+title: FAQs de ToW 1.5 - Armas de Guerra, Reinos de Magia y Objetos Mágicos.
 date: 2025-06-29 14:00:00 +0200
 source_date: '2025-06-29'
 categories: ['articulo']
