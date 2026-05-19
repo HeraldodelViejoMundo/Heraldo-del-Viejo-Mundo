@@ -140,10 +140,10 @@ p.regla-original {
   margin: 0.6em 0 1.4em 0;
 }
 
-/* 10b. Cajas FAQ NUEVA (rosa) y REVISADA (azul) */
+/* 10b. Cajas FAQ NUEVA (fondo pergamino con etiqueta roja) y REVISADA (azul) */
 .faq-nueva {
-  background: #fdeef0;
-  border: 1px solid #e8b0b8;
+  background: #faf3e3;
+  border: 1px solid #d6c08a;
   border-left: 4px solid #c8324a;
   border-radius: 8px;
   padding: 1em;
