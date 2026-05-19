@@ -10,6 +10,8 @@ excerpt: >
   por Games Workshop para **The Old World** . En este capítulo nos centramos en las **Reglas especiales**
   **FAQs TOW 1.5**.
 ---
+
+{% include faqs_nav_mini.html current=2 %}
 *Publicado originalmente el 28‑jun‑2025.*
 
 # FAQs ToW 1.5 - Rulebook Parte 2: Reglas Especiales.
@@ -242,3 +244,5 @@ La regla *¡Cuidado señor!* también exige ahora cinco compañeros del **mismo 
 </div>
 Ahora, cuando uno de los duelistas muere antes de que la montura tenga la oportunidad de golpear, esos ataques se pierden y ya no generan heridas ni puntos de Overkill. También hace que se pierdan los stomps si el enemigo ha muerto antes de que estos se produzcann. Desaparece la táctica de “rematar” con la montura tras la muerte del oponente, lo que iguala el riesgo entre héroes a pie y jinetes y hace más valiosa la iniciativa del propio personaje.
 
+
+{% include faqs_nav.html current=2 %}

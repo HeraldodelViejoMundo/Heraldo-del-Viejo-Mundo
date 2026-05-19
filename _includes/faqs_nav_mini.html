@@ -1,0 +1,33 @@
+{%- comment -%}
+  Mini-navegación compacta para la cabecera de cada artículo de la serie "FAQs de ToW".
+  Uso: {% include faqs_nav_mini.html current=N %}  (N de 1 a 4)
+{%- endcomment -%}
+
+{%- assign current_part = include.current | plus: 0 -%}
+
+{%- assign part1 = site.posts | where: "slug", "rulebook_faq1" | first -%}
+{%- assign part2 = site.posts | where: "slug", "rulebook_faq2" | first -%}
+{%- assign part3 = site.posts | where: "slug", "rulebook_faq3" | first -%}
+{%- assign part4 = site.posts | where: "slug", "rulebook_faq152" | first -%}
+
+{%- assign parts = "" | split: "" -%}
+{%- assign parts = parts | push: part1 -%}
+{%- assign parts = parts | push: part2 -%}
+{%- assign parts = parts | push: part3 -%}
+{%- assign parts = parts | push: part4 -%}
+
+<nav style="margin: 0 0 1.8em 0; padding: 0.55em 0.9em; background: #f4ecd8; border: 1px solid #c8a866; border-radius: 6px; font-family: Georgia, serif; font-size: 0.88em; color: #6b4423; display: flex; flex-wrap: wrap; align-items: center; gap: 0.4em 0.7em;">
+  <span style="color: #8b5a2b; font-style: italic;">Serie FAQs ToW ({{ current_part }} / 4):</span>
+  {%- for p in parts -%}
+    {%- assign idx = forloop.index -%}
+    {%- if idx == current_part -%}
+      <span style="color: #a02020; font-weight: bold;">{{ idx }}</span>
+    {%- else -%}
+      <a href="{{ p.url | relative_url }}" style="color: #4a2e0e; text-decoration: none; border-bottom: 1px dotted #8b5a2b;">{{ idx }}</a>
+    {%- endif -%}
+    {%- unless forloop.last %} <span style="color: #c8a866;">·</span> {% endunless -%}
+  {%- endfor -%}
+  <span style="margin-left: auto; padding-left: 0.6em;">
+    <a href="{{ '/reglamento/' | relative_url }}" style="color: #8b5a2b; text-decoration: none; border-bottom: 1px dotted #8b5a2b;">Reglamento ↗</a>
+  </span>
+</nav>

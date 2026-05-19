@@ -8,6 +8,8 @@ image: /assets/img/2025-06/banner-faq3.jpg
 excerpt: >
   Continuamos con las **FAQs TOW 1.5** esta vez con reglas sobre **Armas de Guerra**, **Reinos de Magia** y **Objetos Mágicos**.
 ---
+
+{% include faqs_nav_mini.html current=3 %}
 *Publicado originalmente el 29‑jun‑2025.*
 
 # FAQs ToW 1.5 - Rulebook Parte 2: Reglas Especiales.
@@ -180,3 +182,5 @@ Explicación: El Yelmo Deslumbrante queda restringido a Infantería o Caballerí
 **Ruby Ring of Ruin**:  
 Errata: *“Cambiar el coste a ‘35’ puntos y la regla a: ‘El portador puede lanzar el hechizo Fireball … como hechizo Vinculado, con un Power Level de 1.’”*  
 Explicación: El Anillo Rubí pasa de 30 → 35 puntos pero su Power Level baja de 2 → 1; bajándole el bonificador, por lo que hace más difícil que salga.
+
+{% include faqs_nav.html current=3 %}

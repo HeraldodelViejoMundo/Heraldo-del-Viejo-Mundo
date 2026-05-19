@@ -11,6 +11,8 @@ excerpt: >
   revolucionador e influyente que ha publicado Games Workshop hasta la fecha
   sobre *The Old World*. Empezamos por las **reglas básicas**.
 ---
+
+{% include faqs_nav_mini.html current=1 %}
 *Publicado originalmente el 26‑jun‑2025.*
 
 # FAQs ToW 1.5 - Rulebook Parte 1: Reglas básicas - Magia, Cargas y Combate.
@@ -125,3 +127,5 @@ Ahora los **ataques de apoyo** solo se permiten a la miniaturas que están **inm
 La errata **restringe** el bonificador de *Iniciativa por carga* a la *fase de Combate* del turno en que la unidad cargó, en lugar de mantenerlo durante todo el turno. Así, el aumento ya no se aplica a pruebas de Iniciativa en *fases anteriores* (por ejemplo, hechizos). Además, aclara que modifica el atributo de iniciativa (importante por si hubiera algún chequeo de Ini en la fase de combate), para que no haya dudas.
 
 
+
+{% include faqs_nav.html current=1 %}
