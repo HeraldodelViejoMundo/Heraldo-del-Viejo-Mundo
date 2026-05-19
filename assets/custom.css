@@ -140,6 +140,80 @@ p.regla-original {
   margin: 0.6em 0 1.4em 0;
 }
 
+/* 10b. Cajas FAQ NUEVA (rosa) y REVISADA (azul) */
+.faq-nueva {
+  background: #fdeef0;
+  border: 1px solid #e8b0b8;
+  border-left: 4px solid #c8324a;
+  border-radius: 8px;
+  padding: 1em;
+  margin: 2em 0;
+  font-size: 0.85em;
+  font-family: Georgia, serif;
+  color: #3c2a0c;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.06);
+  position: relative;
+}
+
+.faq-revisada {
+  background: #e8f1fb;
+  border: 1px solid #b0c8e8;
+  border-left: 4px solid #2a6abf;
+  border-radius: 8px;
+  padding: 1em;
+  margin: 2em 0;
+  font-size: 0.85em;
+  font-family: Georgia, serif;
+  color: #3c2a0c;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.06);
+  position: relative;
+}
+
+.faq-nueva::before {
+  content: "NUEVA";
+  position: absolute;
+  top: -0.6em;
+  right: 0.8em;
+  background: #c8324a;
+  color: #fff;
+  font-size: 0.65em;
+  font-weight: bold;
+  letter-spacing: 0.1em;
+  padding: 0.15em 0.6em;
+  border-radius: 4px;
+  font-family: Georgia, serif;
+}
+
+.faq-revisada::before {
+  content: "REVISADA";
+  position: absolute;
+  top: -0.6em;
+  right: 0.8em;
+  background: #2a6abf;
+  color: #fff;
+  font-size: 0.65em;
+  font-weight: bold;
+  letter-spacing: 0.1em;
+  padding: 0.15em 0.6em;
+  border-radius: 4px;
+  font-family: Georgia, serif;
+}
+
+.faq-nueva strong,
+.faq-revisada strong {
+  display: block;
+  font-weight: bold;
+  font-size: 1.05em;
+  margin-bottom: 0.5em;
+  color: #4a2e0e;
+}
+
+.faq-nueva p,
+.faq-revisada p {
+  text-align: left;
+  text-justify: auto;
+}
+
 /* 11. Banner de cookies centrado */
 .cc-window {
   max-width: 420px;
