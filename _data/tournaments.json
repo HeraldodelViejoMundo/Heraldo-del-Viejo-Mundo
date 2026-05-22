@@ -1,23 +1,5 @@
 [
   {
-    "fecha": "2026-05-21",
-    "fecha_fin": null,
-    "nombre": "New Tournament",
-    "ciudad": "",
-    "direccion": null,
-    "sistema": "WHFB Octava",
-    "puntos": null,
-    "plazas": null,
-    "precio": null,
-    "url_inscripcion": "https://www.newrecruit.eu/app/tournydetails/details?id=6a0ec3c9cd145ece59f92d09",
-    "url_bases": null,
-    "organizador": null,
-    "notas": null,
-    "fuente": "newrecruit",
-    "destacado": false,
-    "es_madrid": false
-  },
-  {
     "fecha": "2026-05-23",
     "fecha_fin": null,
     "nombre": "IX TORNEO TOW 23 mayo",
