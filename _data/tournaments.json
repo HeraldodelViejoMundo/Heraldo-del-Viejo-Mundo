@@ -1,23 +1,5 @@
 [
   {
-    "fecha": "2026-05-25",
-    "fecha_fin": "2026-07-31",
-    "nombre": "I LIGA NACIONAL TOW",
-    "ciudad": "",
-    "direccion": null,
-    "sistema": "The Old World",
-    "puntos": null,
-    "plazas": null,
-    "precio": null,
-    "url_inscripcion": "https://www.newrecruit.eu/app/tournydetails/details?id=69f25902ebb57d3c2741b5e2",
-    "url_bases": null,
-    "organizador": null,
-    "notas": null,
-    "fuente": "newrecruit",
-    "destacado": false,
-    "es_madrid": false
-  },
-  {
     "fecha": "2026-05-28",
     "fecha_fin": "2026-06-30",
     "nombre": "Pre ETC online Tournament",
@@ -482,6 +464,24 @@
     "organizador": null,
     "notas": null,
     "fuente": "newrecruit",
+    "destacado": false,
+    "es_madrid": false
+  },
+  {
+    "fecha": "2026-06-20",
+    "fecha_fin": null,
+    "nombre": "Torneo Marca d’Egara 2026",
+    "ciudad": "Terrassa (Barcelona)",
+    "direccion": null,
+    "sistema": "WHFB Sexta Pura",
+    "puntos": null,
+    "plazas": null,
+    "precio": null,
+    "url_inscripcion": "mailto:eventosmarcaegara@gmail.com",
+    "url_bases": null,
+    "organizador": null,
+    "notas": null,
+    "fuente": "torneos_warhammer",
     "destacado": false,
     "es_madrid": false
   },
