@@ -306,6 +306,24 @@
     "es_madrid": false
   },
   {
+    "fecha": "2026-06-07",
+    "fecha_fin": null,
+    "nombre": "Torneo The Old World War Lotus - Junio 2026",
+    "ciudad": "Granada (Granada)",
+    "direccion": null,
+    "sistema": "The Old World",
+    "puntos": 2000,
+    "plazas": null,
+    "precio": null,
+    "url_inscripcion": "mailto:contacto@warlotus.com",
+    "url_bases": null,
+    "organizador": null,
+    "notas": null,
+    "fuente": "torneos_warhammer",
+    "destacado": false,
+    "es_madrid": false
+  },
+  {
     "fecha": "2026-06-13",
     "fecha_fin": null,
     "nombre": "Torneo Warhammer Fantasy Battles TuliStudio - Junio 2026",
