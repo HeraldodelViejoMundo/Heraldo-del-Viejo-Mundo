@@ -11,14 +11,14 @@ duration_seconds: 1303
 duration_minutes: 21
 source: whitelist
 excerpt: >
-  Las arenas de Nehekhara presenta un vídeo informe de The Old World con regla de torneo, enfrentando a Orcos y Goblins contra Guerreros del Caos. La partida pone el foco en la entrada de Galrauch, primer personaje especial que prueban, y en si su elevado coste se compensa sobre la mesa.
+  Las arenas de Nehekhara presenta un vídeo informe de The Old World con regla de torneo, enfrentando a Orcos y Goblins contra Guerreros del Caos. La partida tiene como foco destacado la entrada de Galrauch, primer personaje especial que prueban, valorando si su versatilidad compensa su elevado coste en puntos.
 ---
 
 ## TOW - Orcos y Goblins VS Guerreros del Caos
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/AzTHMM6F8ko" frameborder="0" allowfullscreen></iframe>
 
-Las arenas de Nehekhara presenta un vídeo informe de The Old World con regla de torneo, enfrentando a Orcos y Goblins contra Guerreros del Caos. La partida pone el foco en la entrada de Galrauch, primer personaje especial que prueban, y en si su elevado coste se compensa sobre la mesa.
+Las arenas de Nehekhara presenta un vídeo informe de The Old World con regla de torneo, enfrentando a Orcos y Goblins contra Guerreros del Caos. La partida tiene como foco destacado la entrada de Galrauch, primer personaje especial que prueban, valorando si su versatilidad compensa su elevado coste en puntos.
 
 📅 Publicado el 31/05/2026 a las 11:36
 🔗 [Ver en YouTube](https://www.youtube.com/watch?v=AzTHMM6F8ko)
