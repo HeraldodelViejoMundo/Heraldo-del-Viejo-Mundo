@@ -6,8 +6,7 @@ categories: articulo
 tags: [The Old World, Reyes Funerarios, Coronas Renegadas, Matadores, Marcha de Batalla, Arcane Journal, Games Workshop]
 author: El Heraldo del Viejo Mundo
 excerpt: "El Arcane Journal La Guerra de la Furia de Settra lleva en las mesas desde el pasado octubre, y de todo lo que trae —trasfondo, nuevas reglas para los Reyes Funerarios y dos Ejércitos de Infamia— lo que más ha calado es Marcha de Batalla, el formato de patrullas para partidas pequeñas que ya llena torneos en Metrópolis, El Arca Negra y la asociación toledana RuneSword. Repasamos el libro, enlazamos su trasfondo y anunciamos la serie de artículos de reglas que viene de camino."
-# Sube aquí la portada del Arcane Journal o una foto de las miniaturas y descomenta la línea:
-# image: /assets/posts/furia-de-settra/banner.webp
+image: /assets/posts/furia-de-settra/banner.webp
 ---
 
 <p style="font-size: 1.15em; font-style: italic; color: #5c3e10; border-left: 4px solid #a02020; padding: 0.8em 1.2em; background: #fef8e6; margin: 0 0 1.8em 0;">El Arcane Journal <strong>La Guerra de la Furia de Settra</strong> salió a la venta el pasado octubre, y desde entonces no ha dejado de dar guerra en las mesas. Lo curioso es que, de todo lo que trae el libro —trasfondo, juguetes nuevos para los Reyes Funerarios y dos ejércitos inéditos—, lo que de verdad ha prendido entre la afición no son los huesos de Khemri, sino una sección que sirve a cualquier ejército: <strong>Marcha de Batalla</strong>, el formato de "patrullas" para partidas pequeñas. Aquí en España ya se juegan torneos con él en <strong>Metrópolis Center</strong> (Madrid), en <a href="https://elarcanegra.com" style="color: #a02020; font-weight: bold; text-decoration: none;">El Arca Negra</a> y en la asociación toledana <strong>RuneSword</strong>.</p>
@@ -19,6 +18,11 @@ excerpt: "El Arcane Journal La Guerra de la Furia de Settra lleva en las mesas d
 ## Un libro de campaña, no de ejército
 
 A diferencia de un Arcane Journal al uso, que amplía una sola facción, *La Guerra de la Furia de Settra* es ante todo un **libro de campaña**. Sus 48 páginas narran la invasión que Settra el Imperecedero lanzó contra los Reinos Fronterizos y las Cuevas en su marcha hacia las puertas de Bretonia, una historia de venganza que mezcla a los Reyes Funerarios de Khemri con caballeros bretonianos, Enanos de las fortalezas de la montaña, mercenarios sin patria y los Matadores del culto de Grimnir. Toda esa parte la hemos contado en detalle en [nuestro artículo de trasfondo]({{ '/trasfondo/furia-de-settra/' | relative_url }}); aquí nos centramos en lo que el libro pone sobre la mesa.
+
+<figure style="margin: 2em 0;">
+  <img src="{{ '/assets/posts/furia-de-settra/hueste-khemri.webp' | relative_url }}" alt="La falange no muerta de los Reyes Funerarios de Khemri avanzando con escudos y carros bajo un cielo dorado" style="width:100%; border-radius: 8px;">
+  <figcaption style="font-size:0.85em; color:#5c3e10; text-align:center; margin-top:0.5em; font-style:italic;">Las legiones de Khemri marchan hacia las puertas de Bretonia: falanges de guerreros esqueléticos, carros y estandartes del Culto Mortuorio.</figcaption>
+</figure>
 
 ## Qué trae el suplemento
 
