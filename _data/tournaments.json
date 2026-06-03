@@ -468,6 +468,24 @@
     "es_madrid": false
   },
   {
+    "fecha": "2026-07-01",
+    "fecha_fin": "2026-08-31",
+    "nombre": "LD3 The Pre-WTC Teams Tournament",
+    "ciudad": "",
+    "direccion": null,
+    "sistema": "The Old World",
+    "puntos": null,
+    "plazas": null,
+    "precio": null,
+    "url_inscripcion": "https://www.newrecruit.eu/app/tournydetails/details?id=6979e246376987bff648bc1f",
+    "url_bases": null,
+    "organizador": null,
+    "notas": null,
+    "fuente": "newrecruit",
+    "destacado": false,
+    "es_madrid": false
+  },
+  {
     "fecha": "2026-07-03",
     "fecha_fin": "2026-07-05",
     "nombre": "Bootcamp 7",
@@ -554,6 +572,24 @@
     "organizador": null,
     "notas": null,
     "fuente": "newrecruit",
+    "destacado": false,
+    "es_madrid": false
+  },
+  {
+    "fecha": "2026-07-08",
+    "fecha_fin": null,
+    "nombre": "Liga The Old World Hobby MIniatures – Verano 2026",
+    "ciudad": "Reus (Tarragona)",
+    "direccion": null,
+    "sistema": "The Old World",
+    "puntos": 2000,
+    "plazas": null,
+    "precio": null,
+    "url_inscripcion": "https://hobbyminiatures.com/producto/liga-the-old-world-verano-2026/?utm_source=torneoswarhammer&utm_medium=torneos&utm_campaign=ficha_torneo&utm_content=inscripcion&tw_origen=ficha&tw_tipo=torneo&tw_id=315",
+    "url_bases": "https://hobbyminiatures.com/producto/liga-the-old-world-verano-2026/?utm_source=torneoswarhammer&utm_medium=torneos&utm_campaign=ficha_torneo&utm_content=bases&tw_origen=ficha&tw_tipo=torneo&tw_id=315",
+    "organizador": null,
+    "notas": null,
+    "fuente": "torneos_warhammer",
     "destacado": false,
     "es_madrid": false
   }
