@@ -396,6 +396,24 @@
     "es_madrid": false
   },
   {
+    "fecha": "2026-06-28",
+    "fecha_fin": null,
+    "nombre": "III Torneo Patrullas - Runesword",
+    "ciudad": "",
+    "direccion": null,
+    "sistema": "The Old World",
+    "puntos": null,
+    "plazas": null,
+    "precio": null,
+    "url_inscripcion": "https://www.newrecruit.eu/app/tournydetails/details?id=6a1f4b772fb46266fcae29b3",
+    "url_bases": null,
+    "organizador": null,
+    "notas": null,
+    "fuente": "newrecruit",
+    "destacado": false,
+    "es_madrid": false
+  },
+  {
     "fecha": "2026-07-01",
     "fecha_fin": "2026-08-31",
     "nombre": "LD3 The Pre-WTC Teams Tournament",
