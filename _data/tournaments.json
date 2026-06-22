@@ -1,23 +1,5 @@
 [
   {
-    "fecha": "2026-06-21",
-    "fecha_fin": null,
-    "nombre": "I Gran Encuentro The Old World Pucela Wargames",
-    "ciudad": "Valladolid (Valladolid)",
-    "direccion": "Calle Loza, 10, Valladolid 47004, España",
-    "sistema": "The Old World",
-    "puntos": 2000,
-    "plazas": 16,
-    "precio": null,
-    "url_inscripcion": "mailto:theoldworld@pucelawargames.es?subject=Inscripci%C3%B3n%20al%20%22I%20Gran%20Encuentro%20The%20Old%20World%20Pucela%20Wargames%22&body=Nombre%20del%20jugador%0D%0AMail%0D%0ATel%C3%A9fono%0D%0ACiudad%0D%0AEn%20el%20asunto%20se%20pondr%C3%A1%20%E2%80%9C%28Nombre%20correspondiente%29%20TOWjunioPW%E2%80%9D",
-    "url_bases": "https://drive.google.com/file/d/14i-CF434kaBcEejBcNZ45UvtzrCIwJ8X/view?usp=drivesdk&utm_source=torneoswarhammer&utm_medium=torneos&utm_campaign=ficha_torneo&utm_content=bases&tw_origen=ficha&tw_tipo=torneo&tw_id=249",
-    "organizador": "Asociación Pucela Wargames",
-    "notas": null,
-    "fuente": "torneos_warhammer",
-    "destacado": false,
-    "es_madrid": false
-  },
-  {
     "fecha": "2026-06-27",
     "fecha_fin": null,
     "nombre": "I Torneo Warhammer Fantasy Battles Martillo de Magritta",
