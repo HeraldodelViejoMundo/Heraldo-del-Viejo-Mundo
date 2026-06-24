@@ -1,5 +1,23 @@
 [
   {
+    "fecha": "2026-06-26",
+    "fecha_fin": "2026-07-13",
+    "nombre": "Liga wakacyjna ",
+    "ciudad": "",
+    "direccion": null,
+    "sistema": "The Ninth Age",
+    "puntos": null,
+    "plazas": null,
+    "precio": null,
+    "url_inscripcion": "https://www.newrecruit.eu/app/tournydetails/details?id=6a3b9232f4460a50c01df885",
+    "url_bases": null,
+    "organizador": null,
+    "notas": null,
+    "fuente": "newrecruit",
+    "destacado": false,
+    "es_madrid": false
+  },
+  {
     "fecha": "2026-06-27",
     "fecha_fin": null,
     "nombre": "I Torneo Warhammer Fantasy Battles Martillo de Magritta",
