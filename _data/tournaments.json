@@ -1,15 +1,15 @@
 [
   {
     "fecha": "2026-06-26",
-    "fecha_fin": "2026-07-13",
-    "nombre": "Liga wakacyjna ",
+    "fecha_fin": null,
+    "nombre": "New Tournament",
     "ciudad": "",
     "direccion": null,
     "sistema": "The Ninth Age",
     "puntos": null,
     "plazas": null,
     "precio": null,
-    "url_inscripcion": "https://www.newrecruit.eu/app/tournydetails/details?id=6a3b9232f4460a50c01df885",
+    "url_inscripcion": "https://www.newrecruit.eu/app/tournydetails/details?id=6a3e3456b45776840bead81c",
     "url_bases": null,
     "organizador": null,
     "notas": null,
