@@ -126,6 +126,24 @@
     "es_madrid": false
   },
   {
+    "fecha": "2026-07-06",
+    "fecha_fin": "2026-08-09",
+    "nombre": "LD3 The WTC GT 2",
+    "ciudad": "",
+    "direccion": null,
+    "sistema": "The Old World",
+    "puntos": null,
+    "plazas": null,
+    "precio": null,
+    "url_inscripcion": "https://www.newrecruit.eu/app/tournydetails/details?id=6a2f98fa7e9b9ee83c4f5819",
+    "url_bases": null,
+    "organizador": null,
+    "notas": null,
+    "fuente": "newrecruit",
+    "destacado": false,
+    "es_madrid": false
+  },
+  {
     "fecha": "2026-07-08",
     "fecha_fin": null,
     "nombre": "Liga The Old World Hobby MIniatures – Verano 2026",
