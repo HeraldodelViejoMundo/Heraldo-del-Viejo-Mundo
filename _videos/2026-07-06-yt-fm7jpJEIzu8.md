@@ -11,14 +11,14 @@ duration_seconds: 7893
 duration_minutes: 131
 source: whitelist
 excerpt: >
-  La legion del Turia presenta un vídeo informe de The Old World a 2.000 puntos, con el choque clásico entre las tropas del Imperio y los Hombres Bestia. La descripción lo plantea como una partida de tono histórico y muy marcada por la oposición entre orden y Caos.
+  La legion del Turia presenta un batrep de The Old World a 2.000 puntos con el clásico choque entre el Imperio y los Hombres Bestia. La descripción lo plantea como un duelo de sabor muy Warhammer Fantasy, con orden frente a Caos en una partida larga y con espacio para ver el enfrentamiento desarrollarse.
 ---
 
 ## WARHAMMER The Old World: 2.000 puntos: Imperio vs Hombres Bestia
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/fm7jpJEIzu8" frameborder="0" allowfullscreen></iframe>
 
-La legion del Turia presenta un vídeo informe de The Old World a 2.000 puntos, con el choque clásico entre las tropas del Imperio y los Hombres Bestia. La descripción lo plantea como una partida de tono histórico y muy marcada por la oposición entre orden y Caos.
+La legion del Turia presenta un batrep de The Old World a 2.000 puntos con el clásico choque entre el Imperio y los Hombres Bestia. La descripción lo plantea como un duelo de sabor muy Warhammer Fantasy, con orden frente a Caos en una partida larga y con espacio para ver el enfrentamiento desarrollarse.
 
 📅 Publicado el 06/07/2026 a las 08:00
 🔗 [Ver en YouTube](https://www.youtube.com/watch?v=fm7jpJEIzu8)
