@@ -11,14 +11,14 @@ duration_seconds: 3249
 duration_minutes: 54
 source: whitelist
 excerpt: >
-  13th warrior dedica una sesión larga a comentar la FAQ 1.5.3, con un enfoque que parece orientado al impacto de sus cambios en mesa y en la preparación de partidas. La descripción no detalla contenidos concretos, así que conviene tomarlo como un análisis general de actualización y posibles implicaciones de juego.
+  13th warrior dedica casi una hora a comentar la actualización 1.5.3 de las FAQ, en un formato de análisis orientado a jugadores de The Old World. Por lo que sugiere el título, el vídeo se centra en repasar cambios y posibles implicaciones para partidas, listas y preparación de torneos.
 ---
 
 ## 🎲"FAQ 1.5.3 ANALISIS"🎲
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/dRwgq-N3yTY" frameborder="0" allowfullscreen></iframe>
 
-13th warrior dedica una sesión larga a comentar la FAQ 1.5.3, con un enfoque que parece orientado al impacto de sus cambios en mesa y en la preparación de partidas. La descripción no detalla contenidos concretos, así que conviene tomarlo como un análisis general de actualización y posibles implicaciones de juego.
+13th warrior dedica casi una hora a comentar la actualización 1.5.3 de las FAQ, en un formato de análisis orientado a jugadores de The Old World. Por lo que sugiere el título, el vídeo se centra en repasar cambios y posibles implicaciones para partidas, listas y preparación de torneos.
 
 📅 Publicado el 08/07/2026 a las 17:28
 🔗 [Ver en YouTube](https://www.youtube.com/watch?v=dRwgq-N3yTY)
