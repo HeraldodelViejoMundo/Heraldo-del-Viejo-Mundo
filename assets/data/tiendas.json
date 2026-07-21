@@ -45,6 +45,21 @@
   "geo_quality": "address"
  },
  {
+  "name": "The Dragon Chamber Games",
+  "kind": "IND",
+  "chain": null,
+  "ccaa": "Andalucía",
+  "province": "Almería",
+  "address": "C/ Hermanos Pinzón 54, 04005 Almería",
+  "phone": "624 68 66 58",
+  "web": "https://thedragonchambergames.com",
+  "email": null,
+  "notes": "Juegos de mesa, TCG, rol, Warhammer, The Old World y modelismo",
+  "lat": 36.8407116,
+  "lon": -2.4550668,
+  "geo_quality": "address"
+ },
+ {
   "name": "Amuleto",
   "kind": "IND",
   "chain": null,
@@ -795,18 +810,18 @@
   "geo_quality": "address"
  },
  {
-  "name": "Gamegame",
+  "name": "La Biblioteca Negra",
   "kind": "IND",
   "chain": null,
   "ccaa": "Castilla-La Mancha",
   "province": "Cuenca",
-  "address": "C/ Río Tórtola 49, Cuenca",
+  "address": "C/ Teruel 1, 16004 Cuenca",
   "phone": null,
   "web": null,
   "email": null,
-  "notes": null,
-  "lat": 40.057751,
-  "lon": -2.128377,
+  "notes": "Juegos de mesa, wargames y Warhammer. Instagram: @labiblionegra",
+  "lat": 40.06873,
+  "lon": -2.1352423,
   "geo_quality": "address"
  },
  {
