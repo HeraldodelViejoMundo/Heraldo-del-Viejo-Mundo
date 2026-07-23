@@ -1,23 +1,5 @@
 [
   {
-    "fecha": "2026-07-22",
-    "fecha_fin": null,
-    "nombre": "New Tournament",
-    "ciudad": "",
-    "direccion": null,
-    "sistema": "The Old World",
-    "puntos": null,
-    "plazas": null,
-    "precio": null,
-    "url_inscripcion": "https://www.newrecruit.eu/app/tournydetails/details?id=6a612fb0666e551a4ae65072",
-    "url_bases": null,
-    "organizador": null,
-    "notas": null,
-    "fuente": "newrecruit",
-    "destacado": false,
-    "es_madrid": false
-  },
-  {
     "fecha": "2026-07-24",
     "fecha_fin": "2026-07-26",
     "nombre": "Bootcamp 8 - Herford",
