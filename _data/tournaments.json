@@ -1,15 +1,15 @@
 [
   {
-    "fecha": "2026-08-02",
+    "fecha": "2026-08-03",
     "fecha_fin": null,
-    "nombre": "New Tournament",
+    "nombre": "Heart Breaker III",
     "ciudad": "",
     "direccion": null,
     "sistema": "The Ninth Age",
     "puntos": null,
     "plazas": null,
     "precio": null,
-    "url_inscripcion": "https://www.newrecruit.eu/app/tournydetails/details?id=6a6f60b905b03e9514b23c35",
+    "url_inscripcion": "https://www.newrecruit.eu/app/tournydetails/details?id=6a71092eceda7cffdddef589",
     "url_bases": null,
     "organizador": null,
     "notas": null,
@@ -180,24 +180,6 @@
     "es_madrid": false
   },
   {
-    "fecha": "2026-08-16",
-    "fecha_fin": null,
-    "nombre": "Mythic -PdW the old world",
-    "ciudad": "",
-    "direccion": null,
-    "sistema": "The Old World",
-    "puntos": null,
-    "plazas": null,
-    "precio": null,
-    "url_inscripcion": "https://www.newrecruit.eu/app/tournydetails/details?id=6a6fb729c85c09a18b3eff06",
-    "url_bases": null,
-    "organizador": null,
-    "notas": null,
-    "fuente": "newrecruit",
-    "destacado": false,
-    "es_madrid": false
-  },
-  {
     "fecha": "2026-08-22",
     "fecha_fin": null,
     "nombre": "Torneo Mordheim Ciudad Maldita - Agosto 2026",
@@ -272,7 +254,7 @@
   {
     "fecha": "2026-08-23",
     "fecha_fin": null,
-    "nombre": "Welcome to Wrexhammer - Battle March ",
+    "nombre": "Welcome to Wrexhammer - The First March ",
     "ciudad": "",
     "direccion": null,
     "sistema": "The Old World",
@@ -446,6 +428,24 @@
     "organizador": null,
     "notas": null,
     "fuente": "torneos_warhammer",
+    "destacado": false,
+    "es_madrid": false
+  },
+  {
+    "fecha": "2026-09-06",
+    "fecha_fin": null,
+    "nombre": "Zeist 9th age games day September",
+    "ciudad": "",
+    "direccion": null,
+    "sistema": "The Ninth Age",
+    "puntos": null,
+    "plazas": null,
+    "precio": null,
+    "url_inscripcion": "https://www.newrecruit.eu/app/tournydetails/details?id=6a70d5c735149a66c422f956",
+    "url_bases": null,
+    "organizador": null,
+    "notas": null,
+    "fuente": "newrecruit",
     "destacado": false,
     "es_madrid": false
   }
