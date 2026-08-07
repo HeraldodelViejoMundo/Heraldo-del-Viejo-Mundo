@@ -18,6 +18,24 @@
     "es_madrid": false
   },
   {
+    "fecha": "2026-08-07",
+    "fecha_fin": null,
+    "nombre": "Pachangita",
+    "ciudad": "Ponferrada",
+    "direccion": "Ponferrada, España",
+    "sistema": "The Old World",
+    "puntos": null,
+    "plazas": null,
+    "precio": null,
+    "url_inscripcion": "https://www.bestcoastpairings.com/event/iRgZt1TeLsrC",
+    "url_bases": null,
+    "organizador": "Ponfe",
+    "notas": null,
+    "fuente": "bcp",
+    "destacado": false,
+    "es_madrid": false
+  },
+  {
     "fecha": "2026-08-08",
     "fecha_fin": "2026-08-09",
     "nombre": "ETC Dragon Trios",
@@ -178,6 +196,24 @@
     "fuente": "newrecruit",
     "destacado": false,
     "es_madrid": false
+  },
+  {
+    "fecha": "2026-08-23",
+    "fecha_fin": null,
+    "nombre": "Torneo The Old World Gladius Games - Agosto 2026",
+    "ciudad": "Alcala de Henares (Madrid)",
+    "direccion": null,
+    "sistema": "The Old World",
+    "puntos": 1500,
+    "plazas": null,
+    "precio": null,
+    "url_inscripcion": "https://gladiusgames.net/es/eventos/7901-torneo-the-old-world-1500-ptos-23082026.html?utm_source=torneoswarhammer&utm_medium=torneos&utm_campaign=ficha_torneo&utm_content=inscripcion&tw_origen=ficha&tw_tipo=torneo&tw_id=415",
+    "url_bases": null,
+    "organizador": null,
+    "notas": null,
+    "fuente": "torneos_warhammer",
+    "destacado": false,
+    "es_madrid": true
   },
   {
     "fecha": "2026-08-23",
