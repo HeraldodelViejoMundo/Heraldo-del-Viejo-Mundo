@@ -1,5 +1,23 @@
 [
   {
+    "fecha": "2026-08-10",
+    "fecha_fin": "2026-10-10",
+    "nombre": "7.Sezon Upper Bracket",
+    "ciudad": "",
+    "direccion": null,
+    "sistema": "The Ninth Age",
+    "puntos": null,
+    "plazas": null,
+    "precio": null,
+    "url_inscripcion": "https://www.newrecruit.eu/app/tournydetails/details?id=6a79e90841cbb260486573d5",
+    "url_bases": null,
+    "organizador": null,
+    "notas": null,
+    "fuente": "newrecruit",
+    "destacado": false,
+    "es_madrid": false
+  },
+  {
     "fecha": "2026-08-15",
     "fecha_fin": null,
     "nombre": "Lübecker Marzipanmoshen",
@@ -38,7 +56,7 @@
   {
     "fecha": "2026-08-17",
     "fecha_fin": "2026-10-07",
-    "nombre": "Pré Inter Online Tournament",
+    "nombre": "En attendant l'IR 2",
     "ciudad": "",
     "direccion": null,
     "sistema": "The Ninth Age",
@@ -232,6 +250,24 @@
     "fuente": "torneos_warhammer",
     "destacado": false,
     "es_madrid": true
+  },
+  {
+    "fecha": "2026-08-30",
+    "fecha_fin": null,
+    "nombre": "Spilldag Drammen",
+    "ciudad": "",
+    "direccion": null,
+    "sistema": "The Ninth Age",
+    "puntos": null,
+    "plazas": null,
+    "precio": null,
+    "url_inscripcion": "https://www.newrecruit.eu/app/tournydetails/details?id=6a79942bf4b945b966cf5d6a",
+    "url_bases": null,
+    "organizador": null,
+    "notas": null,
+    "fuente": "newrecruit",
+    "destacado": false,
+    "es_madrid": false
   },
   {
     "fecha": "2026-08-30",
