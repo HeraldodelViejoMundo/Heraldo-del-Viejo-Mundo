@@ -1,41 +1,5 @@
 [
   {
-    "fecha": "2026-08-12",
-    "fecha_fin": null,
-    "nombre": "New Tournament",
-    "ciudad": "",
-    "direccion": null,
-    "sistema": "The Ninth Age",
-    "puntos": null,
-    "plazas": null,
-    "precio": null,
-    "url_inscripcion": "https://www.newrecruit.eu/app/tournydetails/details?id=6a7c328aeba01d5b5efb6023",
-    "url_bases": null,
-    "organizador": null,
-    "notas": null,
-    "fuente": "newrecruit",
-    "destacado": false,
-    "es_madrid": false
-  },
-  {
-    "fecha": "2026-08-12",
-    "fecha_fin": null,
-    "nombre": "Partidita",
-    "ciudad": "Ponferrada",
-    "direccion": "Ponferrada, España",
-    "sistema": "The Old World",
-    "puntos": null,
-    "plazas": null,
-    "precio": null,
-    "url_inscripcion": "https://www.bestcoastpairings.com/event/IXvIJBQJxpXJ",
-    "url_bases": null,
-    "organizador": "Ponfe",
-    "notas": null,
-    "fuente": "bcp",
-    "destacado": false,
-    "es_madrid": false
-  },
-  {
     "fecha": "2026-08-15",
     "fecha_fin": null,
     "nombre": "Lübecker Marzipanmoshen",
@@ -142,6 +106,24 @@
     "fuente": "newrecruit",
     "destacado": false,
     "es_madrid": false
+  },
+  {
+    "fecha": "2026-08-23",
+    "fecha_fin": null,
+    "nombre": "X TORNEO TOW 23 agosto",
+    "ciudad": "Leganés (Madrid)",
+    "direccion": "El Arca Negra · C/ Rey Pastor 48, 28914 Leganés",
+    "sistema": "The Old World",
+    "puntos": null,
+    "plazas": null,
+    "precio": "15 €",
+    "url_inscripcion": "https://elarcanegra.com/products/x-torneo-tow-23-agosto",
+    "url_bases": null,
+    "organizador": "El Arca Negra",
+    "notas": null,
+    "fuente": "arca_negra",
+    "destacado": true,
+    "es_madrid": true
   },
   {
     "fecha": "2026-08-23",
@@ -324,7 +306,7 @@
     "es_madrid": false
   },
   {
-    "fecha": "2026-09-03",
+    "fecha": "2026-09-02",
     "fecha_fin": "2026-09-23",
     "nombre": "LD3 The Pre-WTC RTT 2026",
     "ciudad": "",
