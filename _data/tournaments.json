@@ -1,23 +1,5 @@
 [
   {
-    "fecha": "2026-08-16",
-    "fecha_fin": "2026-09-27",
-    "nombre": "41st Clashing Roundabouts 9",
-    "ciudad": "",
-    "direccion": null,
-    "sistema": "The Ninth Age",
-    "puntos": null,
-    "plazas": null,
-    "precio": null,
-    "url_inscripcion": "https://www.newrecruit.eu/app/tournydetails/details?id=6a72fc9abe601576eafab683",
-    "url_bases": null,
-    "organizador": null,
-    "notas": null,
-    "fuente": "newrecruit",
-    "destacado": false,
-    "es_madrid": false
-  },
-  {
     "fecha": "2026-08-17",
     "fecha_fin": "2026-10-07",
     "nombre": "En attendant l'IR 2",
@@ -68,6 +50,24 @@
     "organizador": null,
     "notas": null,
     "fuente": "newrecruit",
+    "destacado": false,
+    "es_madrid": false
+  },
+  {
+    "fecha": "2026-08-22",
+    "fecha_fin": null,
+    "nombre": "1° campeonato por la tejonera",
+    "ciudad": "Ponferrada",
+    "direccion": "Ponferrada, España",
+    "sistema": "The Old World",
+    "puntos": null,
+    "plazas": null,
+    "precio": null,
+    "url_inscripcion": "https://www.bestcoastpairings.com/event/8sk8pXau9lL9",
+    "url_bases": null,
+    "organizador": "Ponfe",
+    "notas": null,
+    "fuente": "bcp",
     "destacado": false,
     "es_madrid": false
   },
