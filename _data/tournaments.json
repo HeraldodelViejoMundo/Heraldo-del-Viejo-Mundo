@@ -1,23 +1,5 @@
 [
   {
-    "fecha": "2026-08-17",
-    "fecha_fin": "2026-10-07",
-    "nombre": "En attendant l'IR 2",
-    "ciudad": "",
-    "direccion": null,
-    "sistema": "The Ninth Age",
-    "puntos": null,
-    "plazas": null,
-    "precio": null,
-    "url_inscripcion": "https://www.newrecruit.eu/app/tournydetails/details?id=6a78eb7b93ad4605f96e6db2",
-    "url_bases": null,
-    "organizador": null,
-    "notas": null,
-    "fuente": "newrecruit",
-    "destacado": false,
-    "es_madrid": false
-  },
-  {
     "fecha": "2026-08-22",
     "fecha_fin": null,
     "nombre": "Torneo Mordheim Ciudad Maldita - Agosto 2026",
@@ -122,6 +104,24 @@
     "organizador": null,
     "notas": null,
     "fuente": "torneos_warhammer",
+    "destacado": false,
+    "es_madrid": true
+  },
+  {
+    "fecha": "2026-08-23",
+    "fecha_fin": null,
+    "nombre": "Torneo de mañana de TOW",
+    "ciudad": "Alcalá de Henares",
+    "direccion": "Calle Cánovas del Castillo, 5, Alcalá de Henares 28807, España",
+    "sistema": "The Old World",
+    "puntos": null,
+    "plazas": 24,
+    "precio": null,
+    "url_inscripcion": "https://www.bestcoastpairings.com/event/3AXucvRe9jsd",
+    "url_bases": null,
+    "organizador": "Calle Cánovas del Castillo, 5, Alcalá de Henares 28807, España",
+    "notas": null,
+    "fuente": "bcp",
     "destacado": false,
     "es_madrid": true
   },
