@@ -1,23 +1,5 @@
 [
   {
-    "fecha": "2026-08-24",
-    "fecha_fin": null,
-    "nombre": "New Tournament",
-    "ciudad": "",
-    "direccion": null,
-    "sistema": "The Ninth Age",
-    "puntos": null,
-    "plazas": null,
-    "precio": null,
-    "url_inscripcion": "https://www.newrecruit.eu/app/tournydetails/details?id=6a8bee0d1d01f43c9e8afb83",
-    "url_bases": null,
-    "organizador": null,
-    "notas": null,
-    "fuente": "newrecruit",
-    "destacado": false,
-    "es_madrid": false
-  },
-  {
     "fecha": "2026-08-28",
     "fecha_fin": "2026-10-31",
     "nombre": "Warhammer-board Liga 13",
