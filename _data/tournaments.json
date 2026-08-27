@@ -520,5 +520,23 @@
     "fuente": "newrecruit",
     "destacado": false,
     "es_madrid": false
+  },
+  {
+    "fecha": "2026-09-30",
+    "fecha_fin": null,
+    "nombre": "Torneo The Old World Moria Wargames",
+    "ciudad": "Burgos (Burgos)",
+    "direccion": null,
+    "sistema": "The Old World",
+    "puntos": null,
+    "plazas": null,
+    "precio": null,
+    "url_inscripcion": "https://torneoswarhammer.com/torneos/detalle?torneo=194",
+    "url_bases": null,
+    "organizador": null,
+    "notas": null,
+    "fuente": "torneos_warhammer",
+    "destacado": false,
+    "es_madrid": false
   }
 ]
