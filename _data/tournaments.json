@@ -592,5 +592,23 @@
     "fuente": "newrecruit",
     "destacado": false,
     "es_madrid": false
+  },
+  {
+    "fecha": "2026-10-23",
+    "fecha_fin": "2026-10-25",
+    "nombre": "Sól Kiczora 10.2026",
+    "ciudad": "",
+    "direccion": null,
+    "sistema": "The Ninth Age",
+    "puntos": null,
+    "plazas": null,
+    "precio": null,
+    "url_inscripcion": "https://www.newrecruit.eu/app/tournydetails/details?id=6aa7a2f74176cfbd2533f996",
+    "url_bases": null,
+    "organizador": null,
+    "notas": null,
+    "fuente": "newrecruit",
+    "destacado": false,
+    "es_madrid": false
   }
 ]
