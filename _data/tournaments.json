@@ -1,23 +1,5 @@
 [
   {
-    "fecha": "2026-09-20",
-    "fecha_fin": null,
-    "nombre": "Battle March",
-    "ciudad": "Barcelona",
-    "direccion": "Passeig de Sant Joan, 17, Barcelona 08010, España",
-    "sistema": "The Old World",
-    "puntos": null,
-    "plazas": 16,
-    "precio": null,
-    "url_inscripcion": "https://www.bestcoastpairings.com/event/StX1qPSFzRi9",
-    "url_bases": null,
-    "organizador": "Passeig de Sant Joan, 17, Barcelona 08010, España",
-    "notas": null,
-    "fuente": "bcp",
-    "destacado": false,
-    "es_madrid": false
-  },
-  {
     "fecha": "2026-09-21",
     "fecha_fin": "2026-11-16",
     "nombre": "In-Tempo - Old World",
@@ -34,6 +16,24 @@
     "fuente": "bcp",
     "destacado": false,
     "es_madrid": true
+  },
+  {
+    "fecha": "2026-09-21",
+    "fecha_fin": null,
+    "nombre": "New Tournament",
+    "ciudad": "",
+    "direccion": null,
+    "sistema": "Mordheim",
+    "puntos": null,
+    "plazas": null,
+    "precio": null,
+    "url_inscripcion": "https://www.newrecruit.eu/app/tournydetails/details?id=6ab140d7ecdb8b3d2b7b057b",
+    "url_bases": null,
+    "organizador": null,
+    "notas": null,
+    "fuente": "newrecruit",
+    "destacado": false,
+    "es_madrid": false
   },
   {
     "fecha": "2026-09-21",
@@ -398,6 +398,24 @@
   {
     "fecha": "2026-10-11",
     "fecha_fin": null,
+    "nombre": "Spilldag Drammen ",
+    "ciudad": "",
+    "direccion": null,
+    "sistema": "The Ninth Age",
+    "puntos": null,
+    "plazas": null,
+    "precio": null,
+    "url_inscripcion": "https://www.newrecruit.eu/app/tournydetails/details?id=6ab0e4251225e20e62ca6dab",
+    "url_bases": null,
+    "organizador": null,
+    "notas": null,
+    "fuente": "newrecruit",
+    "destacado": false,
+    "es_madrid": false
+  },
+  {
+    "fecha": "2026-10-11",
+    "fecha_fin": null,
     "nombre": "Warhammer The Old World: Champion of Pilsen",
     "ciudad": "",
     "direccion": null,
@@ -698,6 +716,24 @@
     "organizador": null,
     "notas": null,
     "fuente": "torneos_warhammer",
+    "destacado": false,
+    "es_madrid": false
+  },
+  {
+    "fecha": "2026-10-26",
+    "fecha_fin": "2026-12-06",
+    "nombre": "Doom of Legends 2026",
+    "ciudad": "",
+    "direccion": null,
+    "sistema": "The Ninth Age",
+    "puntos": null,
+    "plazas": null,
+    "precio": null,
+    "url_inscripcion": "https://www.newrecruit.eu/app/tournydetails/details?id=6aad8343948a632ee3712d09",
+    "url_bases": null,
+    "organizador": null,
+    "notas": null,
+    "fuente": "newrecruit",
     "destacado": false,
     "es_madrid": false
   }
