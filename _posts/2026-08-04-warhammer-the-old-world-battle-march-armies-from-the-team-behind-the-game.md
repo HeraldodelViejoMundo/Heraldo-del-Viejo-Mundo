@@ -48,7 +48,7 @@ Quinn ha elegido Wolves of the Sea para sus Guerreros del Caos, con los Bárbaro
 
 Su Hechicero del Caos, representado por una hechicera, combina el cuerpo de un Bárbaro con la capa y los brazos de Kralmaw, de la gama de Hombres Bestia. La conversión conserva la estética de los Bárbaros, pero le da una presencia extraña y reconocible. Las unidades pequeñas también han permitido personalizar buena parte del ejército. Su carro, concebido como pieza central, lleva tripulantes Bárbaros y caballos de los Jinetes Bárbaros a los que se han retirado cuidadosamente los jinetes.
 
-JTY ha aprovechado Marcha de Batalla para reunir una Hueste de Matadores sin embarcarse en un ejército de 2.000 puntos. La selección incluye Matadores, Buscamuertes y un Lanzagoblins, dirigidos por un Slayer of Legend. Unas runas escogidas completan una fuerza plenamente utilizable, aunque no se detallan sus nombres ni su configuración.
+JTY ha aprovechado Marcha de Batalla para reunir una Hueste de Matadores sin embarcarse en un ejército de 2.000 puntos. La selección incluye Matadores, Buscamuertes y un Goblin-Hewer, dirigidos por un Matador de Leyenda. Unas runas escogidas completan una fuerza plenamente utilizable, aunque no se detallan sus nombres ni su configuración.
 
 El acabado recupera la estética de las miniaturas clásicas de ‘Eavy Metal: barbas y crestas naranjas, pantalones vistosos y bordes de peana verde brillante. El formato permite así dar salida a un pequeño grupo de modelos clásicos sin convertirlo en una colección masiva.
 
