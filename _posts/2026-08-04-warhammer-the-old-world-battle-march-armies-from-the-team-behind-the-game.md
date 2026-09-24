@@ -12,13 +12,13 @@ title_original: 'Warhammer: The Old World Battle March armies from the team behi
 title_translated: 'Warhammer: The Old World – Ejércitos de Marcha de Batalla del equipo
   que crea el juego'
 excerpt: Con las nuevas cajas de Marcha de Batalla de Guerreros del Caos y Gran Catay
-  en reserva este fin de semana, el equipo de The Old World muestra sus propias fuerzas
+  en reserva el fin de semana del 8 y 9 de agosto, el equipo de The Old World muestra sus propias fuerzas
   para este formato reducido. Adam presenta un ejército de Orcos y Goblins con una
   sólida base de infantería, mientras Quinn apuesta por la movilidad y las conversiones
   en una fuerza del Caos de 500 puntos. Sus proyectos ilustran cómo aprovechar una
   colección existente o empezar otra con vistas a ampliarla.
 summary: Con las nuevas cajas de Marcha de Batalla de Guerreros del Caos y Gran Catay
-  en reserva este fin de semana, el equipo de The Old World muestra sus propias fuerzas
+  en reserva el fin de semana del 8 y 9 de agosto, el equipo de The Old World muestra sus propias fuerzas
   para este formato reducido. Adam presenta un ejército de Orcos y Goblins con una
   sólida base de infantería, mientras Quinn apuesta por la movilidad y las conversiones
   en una fuerza del Caos de 500 puntos. Sus proyectos ilustran cómo aprovechar una
@@ -38,7 +38,7 @@ images:
 *Publicado originalmente el 4 de agosto de 2026.*
 
 
-Las cajas de Marcha de Batalla de Guerreros del Caos y Gran Catay entran en prepedido este fin de semana. Durante el desarrollo de Battle March: General’s Companion, las partidas del equipo de The Old World animaron a varios de sus integrantes a preparar fuerzas para este formato reducido. Algunas salen de colecciones mayores; otras nacen como proyectos independientes o como primer paso hacia un ejército completo.
+Las cajas de Marcha de Batalla de Guerreros del Caos y Gran Catay entraron en prepedido el fin de semana del 8 y 9 de agosto. Durante el desarrollo de Battle March: General’s Companion, las partidas del equipo de The Old World animaron a varios de sus integrantes a preparar fuerzas para este formato reducido. Algunas salen de colecciones mayores; otras nacen como proyectos independientes o como primer paso hacia un ejército completo.
 
 Adam ha comenzado su ejército de Orcos y Goblins con dos unidades de 20 Guerreros Orcos, un núcleo sólido de infantería apoyado por cinco Jinetes de Jabalí, que aportan velocidad y pegada, y unos Ogros clásicos. Al mando están un Kaudillo y un Chamán Orco: en el trasfondo de la fuerza, las visiones del chamán alimentan las ambiciones del jefe y lo empujan a dirigir su propio ¡Waaagh! Las pinturas Contrast han ayudado a sacar adelante un proyecto que llevaba pendiente desde su juventud.
 

@@ -16,14 +16,14 @@ excerpt: Warhammer Community presenta cinco cajas de ejército para Marcha de Ba
   fuerzas, con combinaciones de infantería, caballería y personajes adaptadas a este
   formato reducido. Cuatro de las cajas corresponden a ejércitos de ejemplo del nuevo
   suplemento, mientras que los Elfos Silvanos se suman como quinta opción. Las reservas
-  llegarán próximamente, todavía sin fecha concreta.
+  llegarían más adelante, sin fecha concreta en el momento del anuncio.
 summary: Warhammer Community presenta cinco cajas de ejército para Marcha de Batalla,
   la modalidad de The Old World para partidas de entre 400 y 750 puntos. Imperio,
   Hombres Bestia, Orcos y Goblins, Altos Elfos y Elfos Silvanos tendrán sus propias
   fuerzas, con combinaciones de infantería, caballería y personajes adaptadas a este
   formato reducido. Cuatro de las cajas corresponden a ejércitos de ejemplo del nuevo
   suplemento, mientras que los Elfos Silvanos se suman como quinta opción. Las reservas
-  llegarán próximamente, todavía sin fecha concreta.
+  llegarían más adelante, sin fecha concreta en el momento del anuncio.
 image: https://assets.warhammer-community.com/articles/0-2026/july/wc13-07/tow_battlemarchboxes-jul17-masthead-om8qvncytc.jpg
 images:
 - https://assets.warhammer-community.com/articles/0-2026/july/wc13-07/tow_battlemarchboxes-jul17-masthead-om8qvncytc.jpg
@@ -39,7 +39,7 @@ images:
 *Publicado originalmente el 17 de julio de 2026.*
 
 
-El reglamento actualizado de The Old World y el suplemento Battle March: General’s Companion llegan mañana a las tiendas. A estos libros se sumarán próximamente cinco cajas de ejército para Marcha de Batalla: Imperio, Hombres Bestia, Orcos y Goblins, Altos Elfos y Elfos Silvanos.
+El reglamento actualizado de The Old World y el suplemento Battle March: General’s Companion llegaron a las tiendas el sábado 18 de julio. A estos libros se sumarían más adelante cinco cajas de ejército para Marcha de Batalla: Imperio, Hombres Bestia, Orcos y Goblins, Altos Elfos y Elfos Silvanos.
 
 Marcha de Batalla permite disputar partidas rápidas con ejércitos de entre 400 y 750 puntos, con ajustes de reglas pensados para ese tamaño. Mantiene las maniobras, la profundidad táctica y las cargas decisivas del juego a mayor escala, pero con tiempo para encadenar un par de partidas en una sesión corta. Se pueden crear listas propias o utilizar los ejércitos de ejemplo equilibrados del suplemento. Cuatro de esas listas tendrán su propia caja; la quinta incorpora una fuerza de Elfos Silvanos.
 
@@ -49,11 +49,11 @@ Los Hombres Bestia presentan una fuerza rápida y peligrosa. Su caja contiene un
 
 Orcos y Goblins apuestan por la movilidad y la pegada. La caja reúne un Jefe Orco en jabalí, un Chamán Goblin, un Portaestandarte de Batalla, 15 Guerreros Orcos con distintas opciones de armamento, cinco Jinetes de Lobo Goblins con distintas opciones de armamento, cinco Jinetes de Jabalí Orcos también con opciones de armamento y un Carro de Jabalíes Orco.
 
-Los Altos Elfos aportan tropas de élite acostumbradas a combatir en inferioridad numérica. Incluyen un Señor Alto Elfo de la Guardia del Mar, 10 Guardias del Mar de Lothern, cinco Sombríos que pueden montarse como Hermanas de Avelorn, cinco Guardianes de Ellyrion, un Escolta Celeste de Lothern y un Carro de Tiranoc que también puede montarse como Carro de Leones de Cracia.
+Los Altos Elfos aportan tropas de élite acostumbradas a combatir en inferioridad numérica. Incluyen un Señor Alto Elfo de la Guardia del Mar, 10 Guardias del Mar de Lothern, cinco Sombríos que pueden montarse como Hermanas de Avelorn, cinco Guardianes de Ellyrion, un Cortacielos de Lothern y un Carro de Tiranoc que también puede montarse como Carro de Leones de Cracia.
 
 Los Elfos Silvanos completan la selección con una fuerza de ataques rápidos y contundentes. Su caja contiene a Araloth, Señor de Talsyn, 10 Guardias Eternos, cinco Hermanas de la Espina, cuatro Jinetes del Bosque con arcos largos y ocho Guardias del Bosque con arcos largos.
 
-Las cinco cajas entrarán en prepedido próximamente. Todavía no se han anunciado precios ni una fecha concreta para sus reservas o su llegada a tiendas.
+En el momento del anuncio, las cinco cajas aún no tenían precio ni fecha de reserva o de llegada a tiendas.
 
 <div style="margin-top:3em;padding:1em;background:#fef8e6;border:1px solid #eadbbd;border-radius:8px;">
 <strong>Conclusiones:</strong> GW apuesta por vender ejércitos pequeños completos como puerta de entrada a nuevas facciones, una propuesta especialmente atractiva cuando empezar otra colección suele implicar un proyecto largo. Cuatro cajas trasladan al plástico las listas de ejemplo del suplemento: esa correspondencia reduce la incertidumbre al comprar, aunque conviene respetar su configuración al montar las opciones alternativas. La caja de Elfos Silvanos queda fuera de esa correspondencia explícita y merece una comprobación aparte con el libro. Sin precios anunciados, el argumento de compra es la comodidad de reunir una fuerza para Marcha de Batalla, no un ahorro que todavía no puede calcularse.

@@ -38,7 +38,7 @@ images:
 *Publicado originalmente el 3 de julio de 2026.*
 
 
-La nueva caja básica de Warhammer: The Old World reunirá un ejército de Gran Catay, un reglamento actualizado y el estreno de las nuevas miniaturas de Guerreros del Caos. La preventa está anunciada para el día siguiente a la publicación del anuncio original, sin una fecha de calendario en el texto. Los nuevos Aspiring Champions, Guerreros del Caos y Caballeros del Caos estarán disponibles por primera vez en esta caja; el Dragón del Caos llegará más adelante, todavía sin fecha ni precio anunciados.
+La nueva caja básica de Warhammer: The Old World reunirá un ejército de Gran Catay, un reglamento actualizado y el estreno de las nuevas miniaturas de Guerreros del Caos. La preventa se abrió el sábado 4 de julio. Los nuevos Aspiring Champions, Guerreros del Caos y Caballeros del Caos estarán disponibles por primera vez en esta caja; el Dragón del Caos llegará más adelante, todavía sin fecha ni precio anunciados.
 
 Christian, Steve, Ethan y Alastair han construido la renovación alrededor de una imagen de batalla: Bárbaros que cargan por delante de los implacables Guerreros del Caos, un Campeón del Caos en Montura Demoníaca que busca adversarios dignos junto a sus Caballeros, y un Señor del Caos o un Señor Hechicero que domina el campo desde un dragón. La gama debía encajar tanto en Norsca y los Desiertos del Caos como en el propio Viejo Mundo, tomando como punto de partida los Bárbaros del Caos y Jinetes Bárbaros recientemente renovados.
 
