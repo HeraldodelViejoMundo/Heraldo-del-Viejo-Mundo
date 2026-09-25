@@ -17,21 +17,44 @@ title: El Heraldo del Viejo Mundo
     <main class="home-col home-col-main">
       <h2 style="margin: 0 0 0.2em 0;">Últimas noticias de <em>The Old World</em></h2>
 
+      {%- comment -%} Señal de vida con datos reales: torneos futuros en la agenda y fecha del último vídeo. Si falta un dato, se omite. {%- endcomment -%}
+      {%- assign hoy_iso = site.time | date: '%Y-%m-%d' -%}
+      {%- assign n_torneos = 0 -%}
+      {%- for t in site.data.tournaments -%}
+        {%- assign f_iso = t.fecha_fin | default: t.fecha | date: '%Y-%m-%d' -%}
+        {%- if t.fecha and f_iso >= hoy_iso -%}{%- assign n_torneos = n_torneos | plus: 1 -%}{%- endif -%}
+      {%- endfor -%}
+      {%- assign ahora_ts = site.time | date: '%s' | plus: 0 -%}
+      {%- assign ult_video = nil -%}
+      {%- assign vids_ord = site.videos | sort: "date" -%}
+      {%- for v in vids_ord -%}
+        {%- if v.date -%}{%- assign v_ts = v.date | date: '%s' | plus: 0 -%}{%- if v_ts <= ahora_ts -%}{%- assign ult_video = v -%}{%- endif -%}{%- endif -%}
+      {%- endfor -%}
+      {%- if n_torneos > 0 or ult_video -%}
+      <p style="margin:0 0 0.8em 0; font-size:0.92em; color:#6b4e17;">
+        {%- if n_torneos > 0 -%}<a href="{{ '/torneos/' | relative_url }}" style="color:#8b5a2b; font-weight:600;">Agenda: {{ n_torneos }} {% if n_torneos == 1 %}próximo torneo{% else %}próximos torneos{% endif %}</a>{%- endif -%}
+        {%- if n_torneos > 0 and ult_video %} · {% endif -%}
+        {%- if ult_video -%}<a href="{{ '/videos/' | relative_url }}" style="color:#8b5a2b; font-weight:600;">Último vídeo: {{ ult_video.date | date: "%d/%m/%Y" }}</a>{%- endif -%}
+      </p>
+      {%- endif %}
+
       {% for post in paginator.posts %}
 
       <div style="background: #fdf6e3; border: 1px solid #e0d3af; border-radius: 10px; padding: 1em; margin-bottom: 0.6em; box-shadow: 0 2px 6px rgba(0,0,0,0.1); font-family: Georgia, serif;">
 
         <a href="{{ post.url | relative_url }}" style="text-decoration: none;">
-          {% if post.categories contains "noticias" and post.title_original and post.title_translated %}
+          {% if post.categories contains "noticias" %}
             <p style="margin-bottom:0.1em; font-size:0.9em; font-weight:bold; color:#6b4e17;">
-              Hoy, en Warhammer Community
+              Warhammer Community
             </p>
             <p style="margin:0; font-size:1.4em; font-weight:bold; color:#4a2e0e;">
+              {{ post.title_translated | default: post.title }}
+            </p>
+            {% if post.title_original and post.title_original != post.title_translated %}
+            <p style="margin-top:0.2em; font-size:0.95em; font-style:italic; color:#6b4e17;">
               {{ post.title_original }}
             </p>
-            <p style="margin-top:0.2em; font-size:1.1em; color:#3c2a0c;">
-              {{ post.title_translated }}
-            </p>
+            {% endif %}
           {% elsif post.categories.size == 1 and post.categories[0] == "videos" %}
             <p style="margin-bottom:0.1em; font-size:0.9em; font-weight:bold; color:#6b4e17;">
               🎥 Nuevo vídeo de
