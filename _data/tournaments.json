@@ -1,23 +1,5 @@
 [
   {
-    "fecha": "2026-09-30",
-    "fecha_fin": null,
-    "nombre": "Torneo The Old World Moria Wargames",
-    "ciudad": "Burgos (Burgos)",
-    "direccion": null,
-    "sistema": "The Old World",
-    "puntos": null,
-    "plazas": null,
-    "precio": null,
-    "url_inscripcion": "https://torneoswarhammer.com/torneos/the-old-world-moria-wargames/",
-    "url_bases": null,
-    "organizador": null,
-    "notas": null,
-    "fuente": "torneos_warhammer",
-    "destacado": false,
-    "es_madrid": false
-  },
-  {
     "fecha": "2026-10-03",
     "fecha_fin": null,
     "nombre": "Torneo 6d6 TOW",
@@ -70,6 +52,24 @@
     "fuente": "torneos_warhammer",
     "destacado": false,
     "es_madrid": true
+  },
+  {
+    "fecha": "2026-10-04",
+    "fecha_fin": null,
+    "nombre": "Torneo The Old World War Lotus - Octubre 2026",
+    "ciudad": "Granada (Granada)",
+    "direccion": null,
+    "sistema": "The Old World",
+    "puntos": 2000,
+    "plazas": null,
+    "precio": null,
+    "url_inscripcion": "https://warlotus.com/eventos/11801--tow-mensual-old-world-4-de-octubre.html?utm_source=torneoswarhammer&utm_medium=torneos&utm_campaign=ficha_torneo&utm_content=inscripcion&tw_origen=ficha&tw_tipo=torneo&tw_id=481",
+    "url_bases": null,
+    "organizador": null,
+    "notas": null,
+    "fuente": "torneos_warhammer",
+    "destacado": false,
+    "es_madrid": false
   },
   {
     "fecha": "2026-10-10",
