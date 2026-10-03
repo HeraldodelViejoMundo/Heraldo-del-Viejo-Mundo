@@ -286,5 +286,41 @@
     "fuente": "torneos_warhammer",
     "destacado": false,
     "es_madrid": false
+  },
+  {
+    "fecha": "2026-11-07",
+    "fecha_fin": null,
+    "nombre": "I Torneo Warhammer Fantasy por Parejas Wargames Granada",
+    "ciudad": "Granada (Granada)",
+    "direccion": null,
+    "sistema": "WHFB Sexta Ampliada",
+    "puntos": 1000,
+    "plazas": null,
+    "precio": null,
+    "url_inscripcion": "https://torneoswarhammer.com/torneos/i-fantasy-battles-por-parejas-wargames-granada/",
+    "url_bases": "https://docs.google.com/document/d/1zotKrGAkeYcaeeMv9IByvV5hl-qP4lwVsT2Dk2uLYtU/?utm_source=torneoswarhammer&utm_medium=torneos&utm_campaign=ficha_torneo&utm_content=bases&tw_origen=ficha&tw_tipo=torneo&tw_id=316",
+    "organizador": null,
+    "notas": null,
+    "fuente": "torneos_warhammer",
+    "destacado": false,
+    "es_madrid": false
+  },
+  {
+    "fecha": "2026-11-07",
+    "fecha_fin": null,
+    "nombre": "V Warhammer Fantasy Villa de Navaridas",
+    "ciudad": "Navaridas (Álava)",
+    "direccion": null,
+    "sistema": "WHFB Sexta Ampliada",
+    "puntos": 2000,
+    "plazas": null,
+    "precio": null,
+    "url_inscripcion": "https://torneoswarhammer.com/torneos/v-fantasy-battles-villa-de-navaridas/",
+    "url_bases": "https://torneoswarhammer.com/bases-v-villa-de-navaridas-el-ascenso-desde-el-abismo-warhammer-fantasy-6-ampliada-navaridas-2026",
+    "organizador": null,
+    "notas": null,
+    "fuente": "torneos_warhammer",
+    "destacado": false,
+    "es_madrid": false
   }
 ]
