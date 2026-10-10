@@ -250,5 +250,23 @@
     "fuente": "torneos_warhammer",
     "destacado": false,
     "es_madrid": false
+  },
+  {
+    "fecha": "2026-11-14",
+    "fecha_fin": null,
+    "nombre": "VI Torneo Warhammer Fantasy Tablillas del Guadiana",
+    "ciudad": "Badajoz (Badajoz)",
+    "direccion": null,
+    "sistema": "WHFB Sexta Pura",
+    "puntos": 2000,
+    "plazas": null,
+    "precio": null,
+    "url_inscripcion": "mailto:lastablillassagradas@gmail.com?subject=Inscripci%C3%B3n%20al%20%22VI%20Torneo%20Warhammer%20Fantasy%20Tablillas%20del%20Guadiana%22",
+    "url_bases": "https://torneoswarhammer.com/wp-content/docsTW/bases/vi-torneo-warhammer-fantasy-tablillas-del-guadiana-2026-bases.pdf",
+    "organizador": null,
+    "notas": null,
+    "fuente": "torneos_warhammer",
+    "destacado": false,
+    "es_madrid": false
   }
 ]
