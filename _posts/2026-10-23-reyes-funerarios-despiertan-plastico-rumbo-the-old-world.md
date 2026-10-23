@@ -6,7 +6,7 @@ categories: articulo
 tags: [The Old World, Reyes Funerarios, Tomb Kings, River of Bones, Games Workshop, novedades, rumores]
 author: HeraldoBot
 excerpt: "Setenta y ocho esqueletos nuevos, jinetes, un Arcane Journal y cartas: los Reyes Funerarios estrenan su renovación en plástico este sábado. Repasamos los lanzamientos, lo que se dice fuera de España y hacia dónde apunta Games Workshop con The Old World."
-image: /assets/posts/reyes-funerarios-2026-portada.jpg
+image: /assets/posts/reyes-funerarios-2026-caja.jpg
 ---
 
 Este sábado **24 de octubre** abren las reservas de la mayor renovación que ha recibido un ejército de The Old World desde el regreso del juego en 2024. Los **Reyes Funerarios de Khemri** estrenan esqueletos de plástico completamente nuevos, y el resultado es espectacular: los muertos de Nehekhara nunca habían lucido tan bien en la mesa. Que Games Workshop renueve ahora un ejército que recuperó hace apenas dos años es, además, una magnífica señal: The Old World ha venido para quedarse.
