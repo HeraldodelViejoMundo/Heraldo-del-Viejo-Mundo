@@ -23,7 +23,7 @@ Según el [Sunday Preview del 18 de octubre](https://www.warhammer-community.com
 
 ![Arcane Journal: The River of Bones](/assets/posts/reyes-funerarios-2026-journal.jpg)
 
-A esto se suman los **Jinetes Esqueleto**, revelados el [12 de octubre](https://www.warhammer-community.com/en-gb/articles/k2y7ynx8/new-skeleton-horsemen-thunder-into-the-old-world/). Es un kit de 10 jinetes que se pueden montar como Jinetes o como Arqueros a Caballo, en una unidad de 10 o en dos de 5, con mando completo para ambas versiones. Todavía no tienen fecha.
+A esto se suman los **Jinetes Esqueleto**, revelados el [12 de octubre](https://www.warhammer-community.com/en-gb/articles/k2y7ynx8/new-skeleton-horsemen-thunder-into-the-old-world/). Es un kit de 10 jinetes que se pueden montar como Jinetes o como Arqueros a Caballo, en una unidad de 10 o en dos de 5, con mando completo para ambas versiones. Todavía no tienen fecha. Eso sí, la caballería nueva pasa de peanas de 25×50 a 30×60 mm, así que quien ya tenga sus jinetes montados tendrá que recurrir a los maravillosos adaptadores de peana de ImpriWars, que sin duda son la mejor opción para no tener que arrancar nuestras miniaturas de sus peanas, con el riesgo que ello conlleva.
 
 ![Los nuevos Jinetes Esqueleto](/assets/posts/reyes-funerarios-2026-jinetes.jpg)
 
@@ -54,10 +54,6 @@ La acogida a las miniaturas es casi unánime. El veterano reseñista británico 
 [Wargame Portal](https://wargameportal.com/blogs/warhammer-previews-reveals-and-news/the-tomb-kings-finally-get-the-skeleton-refresh-they-needed) lo considera uno de los lanzamientos más importantes del año para The Old World, precisamente porque *"it replaces the models you actually need dozens of"* («renueva las miniaturas de las que necesitas decenas»). Y añade: *"They just look like they belong in 2026 now"* («ahora sí parecen miniaturas de 2026»).
 
 **[Spikey Bits](https://spikeybits.com/tomb-kings-host-of-nehekhara-army-reinforcement-set-review-breakdown/)** es igual de claro con la caja de refuerzo. Calcula que ahorra unos **150 dólares** frente a comprar las unidades por separado y que aporta unos **500 puntos** de ejército. La define como *"the easiest way to turn a reinforcement box into a real army"* («la forma más sencilla de convertir una caja de refuerzos en un ejército de verdad»), y sobre los bloques de 36 esqueletos dice que son *"exactly the kind of thing you want marching across the table in a 2,000-point game!"* («justo lo que quieres ver marchando por la mesa en una partida a 2.000 puntos»). Su consejo es reservarla pronto, porque cree que se agotará rápido.
-
-## ¿Y las peanas?
-
-La caballería nueva pasa de peanas de 25×50 a **30×60 mm**, y los carros van en 60×100 mm. Para quien ya tenga el ejército montado no hay que dramatizar. Habrá que recurrir a los maravillosos **adaptadores de peana de ImpriWars**, que sin duda son la mejor opción para no tener que arrancar nuestras miniaturas de sus peanas, con el riesgo que ello conlleva. Así las miniaturas antiguas y las nuevas pueden convivir en el mismo ejército sin problemas.
 
 ## Una nueva etapa para The Old World
 
