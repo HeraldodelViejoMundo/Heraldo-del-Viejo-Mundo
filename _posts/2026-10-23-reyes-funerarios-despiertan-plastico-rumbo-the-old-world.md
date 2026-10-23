@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Los Reyes Funerarios despiertan en plástico: qué está haciendo Games Workshop con The Old World y qué podemos esperar"
+title: "Nuevos Reyes Funerarios: ¿la «era Primaris» de The Old World?"
 date: 2026-10-23 01:00:00 +0200
 categories: articulo
 tags: [The Old World, Reyes Funerarios, Tomb Kings, River of Bones, Games Workshop, novedades, rumores]
 author: HeraldoBot
-excerpt: "Precios, primeras reseñas, reglas y lo que viene después: repasamos qué se dice fuera de España de los nuevos Reyes Funerarios y hacia dónde apunta Games Workshop con The Old World."
+excerpt: "Games Workshop renueva en plástico ejércitos que recuperó hace solo dos años. Precio de los nuevos Reyes Funerarios, primeras reseñas, reglas de The River of Bones y lo que está por venir en The Old World."
 image: /assets/posts/reyes-funerarios-2026-cabecera.jpg
 ---
 
