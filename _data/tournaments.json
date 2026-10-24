@@ -358,5 +358,41 @@
     "fuente": "torneos_warhammer",
     "destacado": false,
     "es_madrid": true
+  },
+  {
+    "fecha": "2026-11-28",
+    "fecha_fin": null,
+    "nombre": "I Torneo Warhammer Fantasy La Batalla Final (Caballeros de Estalia)",
+    "ciudad": "Picaña (Valencia)",
+    "direccion": null,
+    "sistema": "WHFB Sexta Ampliada",
+    "puntos": 5000,
+    "plazas": null,
+    "precio": null,
+    "url_inscripcion": "mailto:caballerosdeestalia@gmail.com?subject=Inscripci%C3%B3n%20al%20%22I%20Torneo%20Warhammer%20Fantasy%20La%20Batalla%20Final%20%28Caballeros%20de%20Estalia%29%22&body=-%20Tu%20nombre%20completo%20y%20apodo%20%28si%20quieres%20que%20lo%20usemos%29%3A%0D%0A-%20Club%20de%20juego%20%28Si%20lo%20tuvieras%29%3A%0D%0A-%20N%C3%BAmero%20de%20tel%C3%A9fono%3A%0D%0A-%20Facci%C3%B3n%20con%20la%20que%20jugar%C3%A1s%3A",
+    "url_bases": "https://torneoswarhammer.com/wp-content/docsTW/bases/i-fantasy-battles-la-batalla-final-caballeros-de-estalia-2026-bases.pdf",
+    "organizador": null,
+    "notas": null,
+    "fuente": "torneos_warhammer",
+    "destacado": false,
+    "es_madrid": false
+  },
+  {
+    "fecha": "2026-11-28",
+    "fecha_fin": null,
+    "nombre": "Torneo Warhammer Fantasy Egara Juga 2026",
+    "ciudad": "Terrassa (Barcelona)",
+    "direccion": null,
+    "sistema": "WHFB Sexta Pura",
+    "puntos": null,
+    "plazas": null,
+    "precio": null,
+    "url_inscripcion": "https://torneoswarhammer.com/torneos/fantasy-battles-egara-juga-2026/",
+    "url_bases": null,
+    "organizador": null,
+    "notas": null,
+    "fuente": "torneos_warhammer",
+    "destacado": false,
+    "es_madrid": false
   }
 ]
