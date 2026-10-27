@@ -5285,5 +5285,53 @@
     Este sitio usa cookies anónimas para análisis de tráfico (Google Analytics con IP anonimizada). No se realiza seguimiento publicitario.
   </footer>
 
+  <!-- Medición de eventos para Google Analytics: vídeos, YouTube e inscripciones a torneos -->
+  <script>
+  (function(){
+    function ev(n,p){ if(typeof gtag==='function'){ gtag('event',n,p||{}); } }
+    function txt(s){ return (s||'').replace(/\s+/g,' ').trim().slice(0,100); }
+    document.addEventListener('click',function(e){
+      var a=e.target.closest ? e.target.closest('a') : null;
+      if(!a || !a.href){ return; }
+      if(a.hasAttribute('data-ga-inscripcion')){
+        ev('inscripcion_torneo',{torneo:txt(a.getAttribute('data-ga-inscripcion')),link_url:a.href,origen:location.pathname});
+        return;
+      }
+      if(a.hostname===location.hostname && /^\/videos\/.+\.html$/.test(a.pathname)){
+        ev('abrir_video',{video_title:txt(a.getAttribute('title')||a.textContent)||a.pathname,video_page:a.pathname,origen:location.pathname});
+        return;
+      }
+      if(/(^|\.)youtube\.com$|(^|\.)youtu\.be$/.test(a.hostname)){
+        ev('clic_youtube',{link_url:a.href,origen:location.pathname});
+      }
+    },true);
+    var ifr=[].slice.call(document.querySelectorAll('iframe[src*="youtube.com/embed/"],iframe[src*="youtube-nocookie.com/embed/"]'));
+    if(!ifr.length){ return; }
+    ifr.forEach(function(f,i){
+      if(!f.id){ f.id='hvm-yt-'+i; }
+      if(f.src.indexOf('enablejsapi=1')<0){
+        f.src=f.src+(f.src.indexOf('?')<0?'?':'&')+'enablejsapi=1&origin='+encodeURIComponent(location.origin);
+      }
+    });
+    var previo=window.onYouTubeIframeAPIReady;
+    window.onYouTubeIframeAPIReady=function(){
+      if(previo){ previo(); }
+      ifr.forEach(function(f){
+        var enviado=false;
+        var vid=(f.src.match(/embed\/([^?&\/]+)/)||[])[1]||'';
+        new YT.Player(f.id,{events:{onStateChange:function(s){
+          if(s.data===1 && !enviado){
+            enviado=true;
+            ev('video_play',{video_id:vid,video_title:txt(document.title),origen:location.pathname});
+          }
+        }}});
+      });
+    };
+    var s=document.createElement('script');
+    s.src='https://www.youtube.com/iframe_api';
+    document.head.appendChild(s);
+  })();
+  </script>
+
 </body>
 </html>
