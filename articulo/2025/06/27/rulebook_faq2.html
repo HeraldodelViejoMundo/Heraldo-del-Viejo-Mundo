@@ -445,7 +445,8 @@ Estas cuatro erratas tratan de transformar a la infantería regular y pesada (F 
         return;
       }
       if(a.hostname===location.hostname && /^\/videos\/.+\.html$/.test(a.pathname)){
-        ev('abrir_video',{video_title:txt(a.getAttribute('title')||a.textContent)||a.pathname,video_page:a.pathname,origen:location.pathname});
+        var im=a.querySelector('img');
+        ev('abrir_video',{video_title:txt((im&&im.alt)||a.getAttribute('title')||a.textContent)||a.pathname,video_page:a.pathname,origen:location.pathname});
         return;
       }
       if(/(^|\.)youtube\.com$|(^|\.)youtu\.be$/.test(a.hostname)){
