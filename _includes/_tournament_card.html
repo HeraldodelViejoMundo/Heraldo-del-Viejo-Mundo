@@ -64,7 +64,7 @@
     <a href="{{ t.url_bases }}" target="_blank" rel="noopener">📜 Bases</a>
     {%- endif -%}
     {%- if t.url_inscripcion -%}
-    <a href="{{ t.url_inscripcion }}" target="_blank" rel="noopener">✍ Inscripción</a>
+    <a href="{{ t.url_inscripcion }}" target="_blank" rel="noopener" data-ga-inscripcion="{{ t.nombre | default: t.ciudad | escape }}">✍ Inscripción</a>
     {%- endif -%}
   </div>
   {%- endif -%}

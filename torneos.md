@@ -620,6 +620,7 @@ permalink: /torneos/
       });
       const data = await response.json();
       if (data.success) {
+        if (typeof gtag === 'function') { gtag('event', 'torneo_enviado', { sistema: sistemaFinal, ciudad: ciudad }); }
         statusEl.style.color = '#2d5016';
         statusEl.innerHTML = '✅ ¡Enviado! Tu torneo ha llegado a la mesa de moderación. Aparecerá en el Heraldo en pocos días si todo es correcto.';
         form.reset();
