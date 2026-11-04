@@ -252,6 +252,24 @@
     "es_madrid": true
   },
   {
+    "fecha": "2026-11-25",
+    "fecha_fin": null,
+    "nombre": "Torneo Octava Ed. WHFB Senescales de Gondor",
+    "ciudad": "Leganés (Madrid)",
+    "direccion": "El Arca Negra · C/ Rey Pastor 48, 28914 Leganés",
+    "sistema": "WHFB Octava",
+    "puntos": null,
+    "plazas": null,
+    "precio": "15 €",
+    "url_inscripcion": "https://elarcanegra.com/products/torneo-octava-ed-whfb-senescales-de-gondor",
+    "url_bases": null,
+    "organizador": "El Arca Negra",
+    "notas": null,
+    "fuente": "arca_negra",
+    "destacado": true,
+    "es_madrid": true
+  },
+  {
     "fecha": "2026-11-28",
     "fecha_fin": null,
     "nombre": "I Torneo Warhammer Fantasy La Batalla Final (Caballeros de Estalia)",
