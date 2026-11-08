@@ -69,7 +69,7 @@ permalink: /reglamento/
       <div style="font-size: 0.85em; color: #a02020; text-transform: uppercase; letter-spacing: 0.08em; margin-bottom: 0.4em;">Juegos de la comunidad · Gratuito</div>
       <h3 style="margin: 0 0 0.5em 0; font-family: 'Cormorant Garamond', Georgia, serif; font-size: 1.5em; color: #4a2e0e;">Black Death City</h3>
       <p style="margin: 0; font-size: 0.95em; color: #5c3e10; line-height: 1.5;">
-        Guía en castellano del juego de escaramuzas gratuito de Sam Pearson, exjefe de diseño de Games Workshop y heredero de <em>Mordheim</em>: qué necesitas, facciones, resumen de reglas y enlaces de descarga oficiales.
+        Guía en castellano del juego de escaramuzas gratuito de Sam Pearson, exjefe de diseño de Games Workshop y heredero de <em>Mordheim</em>: qué necesitas, facciones, resumen de reglas, la nueva campaña de la versión 1.10 y enlaces de descarga oficiales.
       </p>
     </a>
 

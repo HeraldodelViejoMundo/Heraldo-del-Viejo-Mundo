@@ -62,9 +62,11 @@ En el foro francés, un usuario resumía la pregunta que todos nos hacemos: ¿po
 
 ## Lo que falta
 
+> **Actualización (8 de noviembre de 2026):** el 6 de noviembre salió la **versión 1.10**, que ya incluye la primera versión de las **reglas de campaña** (bastiones con mejoras, propiedades en la Ciudad, heridas, experiencia, exploración, curiosidades y reliquias) y varios ajustes para Death Covens y Guild Mercenaries. Lo contamos en nuestra [guía del Reglamento](/reglamento/black-death-city/). Solo falta el final de la campaña y las otras cuatro facciones.
+
 Black Death City es un **documento de pruebas**. El propio Pearson avisa en la introducción de que hay huecos para diagramas y muchos números de página en «xx». Y falta lo más importante: las **reglas de campaña**, con experiencia, heridas permanentes, propiedades en la ciudad e ingresos de plata. Las describe como su primera prioridad, y Bell of Lost Souls lo deja claro: *"campaign play is where it will live or die"*. Después llegarán las otras cuatro facciones, una a una, y Tabletop Battles habla de variantes en solitario y cooperativas.
 
-Mientras tanto hay comunidad en Discord, un constructor de bandas hecho por los fans y una versión nueva del reglamento cada pocas semanas (la 1.03 es del 11 de octubre).
+Mientras tanto hay comunidad en [Discord](https://discord.gg/eujfUWeufD), con más de 3.700 jugadores, un constructor de bandas hecho por los fans y una versión nueva del reglamento cada pocas semanas.
 
 ## Cómo conseguirlo
 
