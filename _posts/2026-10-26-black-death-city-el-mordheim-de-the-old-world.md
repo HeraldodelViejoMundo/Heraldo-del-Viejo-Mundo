@@ -68,6 +68,18 @@ Black Death City es un **documento de pruebas**. El propio Pearson avisa en la i
 
 Mientras tanto hay comunidad en [Discord](https://discord.gg/eujfUWeufD), con más de 3.700 jugadores, un constructor de bandas hecho por los fans y una versión nueva del reglamento cada pocas semanas.
 
+## Lo que se cuece en el Discord oficial
+
+El juego se está haciendo a la vista de todos. El [Discord oficial](https://discord.gg/eujfUWeufD) pasa ya de **3.700 miembros** y Pearson lo usa como taller abierto:
+
+- **Una pregunta cada semana.** Los miércoles plantea una consulta a la comunidad: qué esperan de la campaña, cómo mejorar los escenarios, qué le falta a los Guild Mercenaries… Y ha llegado a hacer **encuestas sobre el precio en plata de cada arma** cuerpo a cuerpo y a distancia para equilibrar el juego con los datos de los jugadores.
+- **Adelantos antes de cada versión.** Antes de la 1.10 enseñó cinco avances de la campaña. El más celebrado: un **generador de espadas legendarias** en la tabla de reliquias, inspirado confesamente en los viejos libros *Realm of Chaos*, con dos tablas de 36 resultados que se combinan para crear el arma. También la exploración, planteada como un «elige tu propia aventura» en el que decides cuántos exploradores mandas y cómo actúan ante lo que encuentran, y seis mejoras de bastión distintas para cada facción.
+- **Herramientas de los fans.** Ya hay constructores de bandas hechos por la comunidad, como la web *Fantasy City Warbands* o *The Black Ledger*, que ya funciona en la web y prepara aplicación para iPhone (algunos jugadores avisan de que aún tiene errores), e incluso un **generador de historia de la Ciudad** con tablas para que cada grupo invente la suya.
+- **Traducciones.** Hay una traducción no oficial al francés en marcha, y el jugador **Tzencho** ha hecho una **traducción no oficial al español** del reglamento, que comparte en el servidor con quien se la pide.
+- **Jugadores en España.** En el canal para buscar partida hay hilos de **Madrid, Barcelona, La Coruña y Mallorca**, además de Buenos Aires.
+
+Una curiosidad: el trasfondo es deliberadamente escaso. En septiembre Pearson preguntó a la comunidad si quería una sección de historia detallada, porque la Ciudad ni siquiera tiene nombre. Lo que hay hoy lo contamos en nuestro [Trasfondo de Black Death City](/trasfondo/black-death-city/).
+
 ## Cómo conseguirlo
 
 Gratis, en la web oficial. Hemos preparado en nuestra sección de Reglamento [una guía en castellano de Black Death City](/reglamento/black-death-city/) con lo que necesitas, las facciones, el resumen de las reglas y los enlaces de descarga oficiales del reglamento completo. Y si tenéis por casa esa caja de Skaven o esos esqueletos que no sabíais en qué usar, ya tenéis excusa.

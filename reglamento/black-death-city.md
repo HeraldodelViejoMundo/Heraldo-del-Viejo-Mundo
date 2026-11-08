@@ -74,6 +74,7 @@ permalink: /reglamento/black-death-city/
   <h2 style="font-family: 'Cormorant Garamond', Georgia, serif; font-size: 1.9em; color: #4a2e0e; margin: 1.5em 0 0.6em 0;">3. Las facciones</h2>
 
   <p>Cada banda se recluta con <strong>1.000 monedas de plata</strong> y pertenece a una de las cuatro facciones disponibles. Cada facción tiene <strong>cuatro orígenes</strong> que determinan el líder, modifican la composición de la banda y asignan un bastión (<em>Stronghold</em>) para la campaña, además de dos saberes de magia propios, habilidades y equipo exclusivos. El autor ha anunciado que irán llegando más hasta completar <strong>ocho facciones</strong>.</p>
+  <p>Si quieres conocer la historia de cada facción y de la Ciudad, la contamos en el <a href="{{ '/trasfondo/black-death-city/' | relative_url }}" style="color:#a02020;">Trasfondo de Black Death City</a>.</p>
 
   <div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 1em; margin: 1.2em 0 1.5em 0;">
     <div style="background:#faf6ec; border:1px solid #c8a866; border-radius:8px; padding:1.1em 1.3em;">
