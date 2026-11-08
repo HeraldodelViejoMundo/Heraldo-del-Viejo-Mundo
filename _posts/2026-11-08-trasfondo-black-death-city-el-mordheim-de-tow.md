@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Trasfondo de Black Death City, el Mordheim de TOW"
-date: 2026-11-08 15:00:00 +0100
+date: 2026-11-08 14:30:00 +0100
 categories: articulo
 tags: [Black Death City, Mordheim, Sam Pearson, trasfondo, escaramuzas]
 author: HeraldoBot
