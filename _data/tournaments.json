@@ -234,6 +234,24 @@
     "es_madrid": true
   },
   {
+    "fecha": "2026-11-22",
+    "fecha_fin": null,
+    "nombre": "Goblin Torneo Barcelona The Old World - Noviembre 2026",
+    "ciudad": "Barcelona (Barcelona)",
+    "direccion": null,
+    "sistema": "The Old World",
+    "puntos": 750,
+    "plazas": null,
+    "precio": null,
+    "url_inscripcion": "https://torneoswarhammer.com/torneos/goblin-torneo-barcelona-the-old-world-noviembre-2026/",
+    "url_bases": null,
+    "organizador": null,
+    "notas": null,
+    "fuente": "torneos_warhammer",
+    "destacado": false,
+    "es_madrid": false
+  },
+  {
     "fecha": "2026-11-25",
     "fecha_fin": null,
     "nombre": "Torneo Octava Ed. WHFB Senescales de Gondor",
@@ -320,6 +338,24 @@
     "organizador": null,
     "notas": null,
     "fuente": "newrecruit",
+    "destacado": false,
+    "es_madrid": false
+  },
+  {
+    "fecha": "2026-12-12",
+    "fecha_fin": null,
+    "nombre": "I Torneo Warhammer Fantasy Battles CR Hammer 2026",
+    "ciudad": "Albacete (Albacete)",
+    "direccion": null,
+    "sistema": "WHFB Sexta Pura",
+    "puntos": 1500,
+    "plazas": null,
+    "precio": null,
+    "url_inscripcion": "mailto:crhammer1982@gmail.com?subject=Inscripci%C3%B3n%20al%20%22I%20Torneo%20Warhammer%20Fantasy%20Battles%20CR%20Hammer%202026%22",
+    "url_bases": null,
+    "organizador": null,
+    "notas": null,
+    "fuente": "torneos_warhammer",
     "destacado": false,
     "es_madrid": false
   }
