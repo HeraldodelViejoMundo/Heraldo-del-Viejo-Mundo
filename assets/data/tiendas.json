@@ -2055,6 +2055,21 @@
   "geo_quality": "address"
  },
  {
+  "name": "PC Chamartín",
+  "kind": "IND",
+  "chain": null,
+  "ccaa": "Comunidad de Madrid",
+  "province": "Comunidad de Madrid",
+  "address": "C/ Colombia 14-B, 28016 Madrid (Chamartín)",
+  "phone": "910 011 276 / 607 055 766",
+  "web": "pcchamartin.com",
+  "email": "info@pc-chamartin.com",
+  "notes": "Tienda de informática con punto de venta de Warhammer 40.000, Age of Sigmar y Citadel Colour.",
+  "lat": 40.456885,
+  "lon": -3.675641,
+  "geo_quality": "address"
+ },
+ {
   "name": "Toy Planet Yupi",
   "kind": "IND",
   "chain": null,
