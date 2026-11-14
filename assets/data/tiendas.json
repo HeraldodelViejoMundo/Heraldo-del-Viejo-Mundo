@@ -1,20 +1,5 @@
 [
  {
-  "name": "Callejón 57 Comics",
-  "kind": "IND",
-  "chain": null,
-  "ccaa": "Andalucía",
-  "province": "Almería",
-  "address": "C/ Sevilla 57, 04700 El Ejido (Almería)",
-  "phone": null,
-  "web": null,
-  "email": null,
-  "notes": null,
-  "lat": 36.771148,
-  "lon": -2.81625,
-  "geo_quality": "address"
- },
- {
   "name": "Gamevip",
   "kind": "IND",
   "chain": null,
@@ -27,21 +12,6 @@
   "notes": "Tienda de juegos y wargames",
   "lat": 36.837365,
   "lon": -2.458353,
-  "geo_quality": "address"
- },
- {
-  "name": "Hobbyzona",
-  "kind": "IND",
-  "chain": null,
-  "ccaa": "Andalucía",
-  "province": "Almería",
-  "address": "C/ San Leopoldo 4, 04740 Roquetas de Mar (Almería)",
-  "phone": null,
-  "web": null,
-  "email": null,
-  "notes": null,
-  "lat": 36.763399,
-  "lon": -2.612722,
   "geo_quality": "address"
  },
  {
@@ -72,21 +42,6 @@
   "notes": null,
   "lat": 36.130478,
   "lon": -5.443653,
-  "geo_quality": "address"
- },
- {
-  "name": "E-minis.net",
-  "kind": "IND",
-  "chain": null,
-  "ccaa": "Andalucía",
-  "province": "Cádiz",
-  "address": "C/ Sol 51, 11300 La Línea de la Concepción",
-  "phone": null,
-  "web": null,
-  "email": null,
-  "notes": null,
-  "lat": 36.163246,
-  "lon": -5.355737,
   "geo_quality": "address"
  },
  {
@@ -255,21 +210,6 @@
   "geo_quality": "address"
  },
  {
-  "name": "Centro Recreativo Millenium",
-  "kind": "IND",
-  "chain": null,
-  "ccaa": "Andalucía",
-  "province": "Jaén",
-  "address": "C/ Dr. Eduardo Arroyo 10, Jaén",
-  "phone": null,
-  "web": null,
-  "email": null,
-  "notes": null,
-  "lat": 37.768275,
-  "lon": -3.790551,
-  "geo_quality": "address"
- },
- {
   "name": "Vulcania Wargames",
   "kind": "IND",
   "chain": null,
@@ -312,21 +252,6 @@
   "notes": null,
   "lat": 36.717132,
   "lon": -4.421848,
-  "geo_quality": "address"
- },
- {
-  "name": "E-Minis Málaga",
-  "kind": "IND",
-  "chain": null,
-  "ccaa": "Andalucía",
-  "province": "Málaga",
-  "address": "C/ Alfambra (Edif. Marte esq. Alago), Málaga",
-  "phone": null,
-  "web": null,
-  "email": null,
-  "notes": "Torneos competitivos",
-  "lat": 36.710762,
-  "lon": -4.441938,
   "geo_quality": "address"
  },
  {
@@ -675,21 +600,6 @@
   "geo_quality": "address"
  },
  {
-  "name": "Shogun Salamanca",
-  "kind": "IND",
-  "chain": null,
-  "ccaa": "Castilla y León",
-  "province": "Salamanca",
-  "address": "C/ Padilleros 11 bajo, Salamanca",
-  "phone": null,
-  "web": null,
-  "email": null,
-  "notes": null,
-  "lat": 40.96846,
-  "lon": -5.662315,
-  "geo_quality": "address"
- },
- {
   "name": "MGK Soria",
   "kind": "IND",
   "chain": null,
@@ -750,36 +660,6 @@
   "geo_quality": "address"
  },
  {
-  "name": "Idea Publicidad",
-  "kind": "IND",
-  "chain": null,
-  "ccaa": "Castilla y León",
-  "province": "Ávila",
-  "address": "C/ Bilbao 13 bajos, Ávila",
-  "phone": null,
-  "web": null,
-  "email": null,
-  "notes": null,
-  "lat": 40.657195,
-  "lon": -4.662668,
-  "geo_quality": "city"
- },
- {
-  "name": "La Mazmorra del Androide",
-  "kind": "IND",
-  "chain": null,
-  "ccaa": "Castilla-La Mancha",
-  "province": "Albacete",
-  "address": "C/ Blasco de Garay 10, Albacete",
-  "phone": null,
-  "web": null,
-  "email": null,
-  "notes": null,
-  "lat": 38.991947,
-  "lon": -1.859002,
-  "geo_quality": "address"
- },
- {
   "name": "Casa Escudero",
   "kind": "IND",
   "chain": null,
@@ -792,21 +672,6 @@
   "notes": null,
   "lat": 39.387476,
   "lon": -3.210984,
-  "geo_quality": "address"
- },
- {
-  "name": "Zona 84 Books & Games",
-  "kind": "IND",
-  "chain": null,
-  "ccaa": "Castilla-La Mancha",
-  "province": "Ciudad Real",
-  "address": "C/ Calatrava 24, 13001 Ciudad Real",
-  "phone": null,
-  "web": "libreriaserendipia.com",
-  "email": null,
-  "notes": null,
-  "lat": 39.16116,
-  "lon": -3.854873,
   "geo_quality": "address"
  },
  {
@@ -945,21 +810,6 @@
   "geo_quality": "address"
  },
  {
-  "name": "Candamio",
-  "kind": "IND",
-  "chain": null,
-  "ccaa": "Cataluña",
-  "province": "Barcelona",
-  "address": "C/ Església 246, Calella",
-  "phone": null,
-  "web": null,
-  "email": null,
-  "notes": null,
-  "lat": 41.38258,
-  "lon": 2.177073,
-  "geo_quality": "city"
- },
- {
   "name": "Crisis Juegos (Leganés)",
   "kind": "IND",
   "chain": null,
@@ -1005,21 +855,6 @@
   "geo_quality": "city"
  },
  {
-  "name": "Dragon Age Wargames",
-  "kind": "IND",
-  "chain": null,
-  "ccaa": "Cataluña",
-  "province": "Barcelona",
-  "address": "C/ Olzinelles 27, 08014 Barcelona",
-  "phone": null,
-  "web": null,
-  "email": null,
-  "notes": null,
-  "lat": 41.373731,
-  "lon": 2.138646,
-  "geo_quality": "address"
- },
- {
   "name": "Drobbit Hobby Store",
   "kind": "IND",
   "chain": null,
@@ -1041,21 +876,6 @@
   "ccaa": "Cataluña",
   "province": "Barcelona",
   "address": "C/ Sol i Padrís 118, Sabadell",
-  "phone": null,
-  "web": null,
-  "email": null,
-  "notes": null,
-  "lat": 41.38258,
-  "lon": 2.177073,
-  "geo_quality": "city"
- },
- {
-  "name": "Frikimarkt",
-  "kind": "IND",
-  "chain": null,
-  "ccaa": "Cataluña",
-  "province": "Barcelona",
-  "address": "C/ Major 10, El Prat de Llobregat",
   "phone": null,
   "web": null,
   "email": null,
@@ -1167,21 +987,6 @@
   "notes": null,
   "lat": 41.489388,
   "lon": 2.132669,
-  "geo_quality": "address"
- },
- {
-  "name": "Júpiter Juegos Barcelona",
-  "kind": "IND",
-  "chain": null,
-  "ccaa": "Cataluña",
-  "province": "Barcelona",
-  "address": "Barcelona",
-  "phone": null,
-  "web": null,
-  "email": null,
-  "notes": null,
-  "lat": 41.38258,
-  "lon": 2.177073,
   "geo_quality": "address"
  },
  {
@@ -1380,36 +1185,6 @@
   "geo_quality": "city"
  },
  {
-  "name": "La Maquina del Temps",
-  "kind": "IND",
-  "chain": null,
-  "ccaa": "Cataluña",
-  "province": "Lleida",
-  "address": "Av. Alcalde Porqueres 10 bajo, 25008 Lleida",
-  "phone": null,
-  "web": null,
-  "email": null,
-  "notes": null,
-  "lat": 41.623129,
-  "lon": 0.621656,
-  "geo_quality": "address"
- },
- {
-  "name": "Taleia Modelismo",
-  "kind": "IND",
-  "chain": null,
-  "ccaa": "Cataluña",
-  "province": "Lleida",
-  "address": "C/ Vallcalent 9, 25006 Lleida",
-  "phone": null,
-  "web": null,
-  "email": null,
-  "notes": null,
-  "lat": 41.619383,
-  "lon": 0.615231,
-  "geo_quality": "address"
- },
- {
   "name": "Hobby Miniatures",
   "kind": "IND",
   "chain": null,
@@ -1467,21 +1242,6 @@
   "notes": null,
   "lat": 42.806043,
   "lon": -1.65473,
-  "geo_quality": "address"
- },
- {
-  "name": "Wardogs Miniatures",
-  "kind": "IND",
-  "chain": null,
-  "ccaa": "Comunidad Foral de Navarra",
-  "province": "Navarra",
-  "address": "C/ San Juan Bosco 20, Pamplona",
-  "phone": null,
-  "web": null,
-  "email": null,
-  "notes": "Mesas, \"noche del veterano\" los viernes",
-  "lat": 42.804733,
-  "lon": -1.648973,
   "geo_quality": "address"
  },
  {
@@ -1650,21 +1410,6 @@
   "geo_quality": "address"
  },
  {
-  "name": "Avalon Catarroja",
-  "kind": "IND",
-  "chain": null,
-  "ccaa": "Comunidad Valenciana",
-  "province": "Valencia",
-  "address": "C/ Antonio Carpio 18 bajo, 46470 Catarroja",
-  "phone": null,
-  "web": null,
-  "email": null,
-  "notes": null,
-  "lat": 39.405515,
-  "lon": -0.401377,
-  "geo_quality": "address"
- },
- {
   "name": "Goblin Trader Valencia",
   "kind": "IND",
   "chain": "Goblin Trader",
@@ -1737,21 +1482,6 @@
   "notes": null,
   "lat": 39.469707,
   "lon": -0.376335,
-  "geo_quality": "address"
- },
- {
-  "name": "La Roca Wargames",
-  "kind": "IND",
-  "chain": null,
-  "ccaa": "Comunidad Valenciana",
-  "province": "Valencia",
-  "address": "C/ Brasil 42, Valencia",
-  "phone": null,
-  "web": null,
-  "email": null,
-  "notes": null,
-  "lat": 39.472315,
-  "lon": -0.399709,
   "geo_quality": "address"
  },
  {
@@ -1873,21 +1603,6 @@
   "lat": 40.482371,
   "lon": -3.713617,
   "geo_quality": "address"
- },
- {
-  "name": "Defiance Wargames",
-  "kind": "IND",
-  "chain": null,
-  "ccaa": "Comunidad de Madrid",
-  "province": "Madrid",
-  "address": "C.C. El Zoco de la Poveda, Arganda del Rey",
-  "phone": null,
-  "web": null,
-  "email": null,
-  "notes": null,
-  "lat": 40.524832,
-  "lon": -3.771563,
-  "geo_quality": "city"
  },
  {
   "name": "El Arca Negra",
@@ -2025,36 +1740,6 @@
   "geo_quality": "address"
  },
  {
-  "name": "Panzer Juegos",
-  "kind": "IND",
-  "chain": null,
-  "ccaa": "Comunidad de Madrid",
-  "province": "Madrid",
-  "address": "Pº de las Camelias s/n, Paracuellos de Jarama",
-  "phone": null,
-  "web": null,
-  "email": null,
-  "notes": null,
-  "lat": 40.524832,
-  "lon": -3.771563,
-  "geo_quality": "city"
- },
- {
-  "name": "Papelería La Ronda",
-  "kind": "IND",
-  "chain": null,
-  "ccaa": "Comunidad de Madrid",
-  "province": "Madrid",
-  "address": "Ronda de Atocha 26, 28012 Madrid",
-  "phone": null,
-  "web": null,
-  "email": null,
-  "notes": null,
-  "lat": 40.40633,
-  "lon": -3.698371,
-  "geo_quality": "address"
- },
- {
   "name": "Papelería Marisol",
   "kind": "IND",
   "chain": null,
@@ -2115,36 +1800,6 @@
   "geo_quality": "address"
  },
  {
-  "name": "Espina Hobbies",
-  "kind": "IND",
-  "chain": null,
-  "ccaa": "Extremadura",
-  "province": "Badajoz",
-  "address": "C/ Meléndez Valdés 26, 06001 Badajoz",
-  "phone": null,
-  "web": "espinahobbies.com",
-  "email": null,
-  "notes": "Modelismo + wargames",
-  "lat": 38.879425,
-  "lon": -6.971711,
-  "geo_quality": "address"
- },
- {
-  "name": "Ludus Belli",
-  "kind": "IND",
-  "chain": null,
-  "ccaa": "Extremadura",
-  "province": "Badajoz",
-  "address": "Badajoz",
-  "phone": null,
-  "web": "ludusbelli.com",
-  "email": null,
-  "notes": "Warhammer, TCG, mesas y eventos",
-  "lat": 38.878187,
-  "lon": -6.970111,
-  "geo_quality": "address"
- },
- {
   "name": "Ludus in Tabula",
   "kind": "IND",
   "chain": null,
@@ -2157,21 +1812,6 @@
   "notes": null,
   "lat": 38.866413,
   "lon": -6.982589,
-  "geo_quality": "address"
- },
- {
-  "name": "A Gata Tola",
-  "kind": "IND",
-  "chain": null,
-  "ccaa": "Galicia",
-  "province": "A Coruña",
-  "address": "Av. Romero Donalio 9, 15703 Santiago de Compostela",
-  "phone": null,
-  "web": null,
-  "email": null,
-  "notes": null,
-  "lat": 42.88337,
-  "lon": -8.53319,
   "geo_quality": "address"
  },
  {
@@ -2535,21 +2175,6 @@
   "geo_quality": "address"
  },
  {
-  "name": "Juguetecas Logroño",
-  "kind": "IND",
-  "chain": null,
-  "ccaa": "La Rioja",
-  "province": "La Rioja",
-  "address": "C/ Lérida 2, CC Berceo, Logroño",
-  "phone": null,
-  "web": null,
-  "email": null,
-  "notes": null,
-  "lat": 42.281464,
-  "lon": -2.482805,
-  "geo_quality": "city"
- },
- {
   "name": "Minas de Moria",
   "kind": "IND",
   "chain": null,
@@ -2652,21 +2277,6 @@
   "notes": null,
   "lat": 43.324191,
   "lon": -3.014124,
-  "geo_quality": "address"
- },
- {
-  "name": "Peters Land",
-  "kind": "IND",
-  "chain": null,
-  "ccaa": "País Vasco",
-  "province": "Bizkaia",
-  "address": "C/ Juan de Garay 5, 48003 Bilbao",
-  "phone": null,
-  "web": null,
-  "email": null,
-  "notes": null,
-  "lat": 43.256544,
-  "lon": -2.933248,
   "geo_quality": "address"
  },
  {
