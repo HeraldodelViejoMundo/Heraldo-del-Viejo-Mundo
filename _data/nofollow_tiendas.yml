@@ -1,4 +1,4 @@
-# Dominios de tiendas: todo enlace a ellos sale con rel="nofollow" (excepto El Arca Negra, que no figura aquí).
+# Dominios de tiendas: todo enlace a ellos sale con rel="nofollow". NUNCA añadir aquí elarcanegra.com ni impriwars.com: deben ser siempre follow.
 domains:
   - 2depiques.com
   - akarodice.com
