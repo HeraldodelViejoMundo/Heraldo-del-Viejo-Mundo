@@ -41,7 +41,18 @@
   {% include navbar.html %}
 
   <div class="page-content">
-    {{ content }}
+{%- comment -%} Enlaces a tiendas (excepto El Arca Negra): siempre rel="nofollow". Lista en _data/nofollow_tiendas.yml {%- endcomment -%}
+{%- assign cont = content -%}
+{%- for d in site.data.nofollow_tiendas.domains -%}
+{%- if cont contains d -%}
+{%- assign a1 = 'href="https://' | append: d -%}{%- assign b1 = 'rel="nofollow noopener" href="https://' | append: d -%}
+{%- assign a2 = 'href="https://www.' | append: d -%}{%- assign b2 = 'rel="nofollow noopener" href="https://www.' | append: d -%}
+{%- assign a3 = 'href="http://' | append: d -%}{%- assign b3 = 'rel="nofollow noopener" href="http://' | append: d -%}
+{%- assign a4 = 'href="http://www.' | append: d -%}{%- assign b4 = 'rel="nofollow noopener" href="http://www.' | append: d -%}
+{%- assign cont = cont | replace: a1, b1 | replace: a2, b2 | replace: a3, b3 | replace: a4, b4 -%}
+{%- endif -%}
+{%- endfor -%}
+    {{ cont }}
   </div>
 
   <!-- Aviso discreto de cookies anónimas -->

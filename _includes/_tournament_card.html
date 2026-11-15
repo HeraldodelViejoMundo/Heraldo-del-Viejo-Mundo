@@ -58,13 +58,18 @@
   <div class="tn-notas">{{ t.notas }}</div>
   {%- endif -%}
 
+{%- assign rel_i = 'noopener' -%}{%- assign rel_b = 'noopener' -%}
+{%- for d in site.data.nofollow_tiendas.domains -%}
+{%- if t.url_inscripcion contains d -%}{%- assign rel_i = 'noopener nofollow' -%}{%- endif -%}
+{%- if t.url_bases contains d -%}{%- assign rel_b = 'noopener nofollow' -%}{%- endif -%}
+{%- endfor -%}
   {%- if t.url_bases or t.url_inscripcion -%}
   <div class="tn-links">
     {%- if t.url_bases -%}
-    <a href="{{ t.url_bases }}" target="_blank" rel="noopener">📜 Bases</a>
+    <a href="{{ t.url_bases }}" target="_blank" rel="{{ rel_b }}">📜 Bases</a>
     {%- endif -%}
     {%- if t.url_inscripcion -%}
-    <a href="{{ t.url_inscripcion }}" target="_blank" rel="noopener" data-ga-inscripcion="{{ t.nombre | default: t.ciudad | escape }}">✍ Inscripción</a>
+    <a href="{{ t.url_inscripcion }}" target="_blank" rel="{{ rel_i }}" data-ga-inscripcion="{{ t.nombre | default: t.ciudad | escape }}">✍ Inscripción</a>
     {%- endif -%}
   </div>
   {%- endif -%}
