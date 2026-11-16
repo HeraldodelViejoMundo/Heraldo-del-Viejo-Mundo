@@ -11,14 +11,14 @@ duration_seconds: 5768
 duration_minutes: 96
 source: whitelist
 excerpt: >
-  Pícnic en Drakenhof dedica este largo vídeo a presentar la quinta edición de Warhammer Fantasy Villa de Navaridas, un encuentro planteado más como fin de semana de hobby que como torneo convencional. La pieza repasa trasfondo, formato, composición de listas, escenarios, horarios, inscripción y el enfoque narrativo del evento.
+  Pícnic en Drakenhof presenta la quinta edición de Warhammer Fantasy Villa de Navaridas, un evento planteado más como fin de semana de hobby que como torneo al uso. El vídeo repasa bases, reglas, composición de listas, escenarios, trasfondo, horarios e inscripción, con especial atención al formato narrativo de la campaña.
 ---
 
 ## El Ascenso desde el Abismo – V Edición | Warhammer Fantasy Villa de Navaridas
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/qYHLjtgr2wI" frameborder="0" allowfullscreen></iframe>
 
-Pícnic en Drakenhof dedica este largo vídeo a presentar la quinta edición de Warhammer Fantasy Villa de Navaridas, un encuentro planteado más como fin de semana de hobby que como torneo convencional. La pieza repasa trasfondo, formato, composición de listas, escenarios, horarios, inscripción y el enfoque narrativo del evento.
+Pícnic en Drakenhof presenta la quinta edición de Warhammer Fantasy Villa de Navaridas, un evento planteado más como fin de semana de hobby que como torneo al uso. El vídeo repasa bases, reglas, composición de listas, escenarios, trasfondo, horarios e inscripción, con especial atención al formato narrativo de la campaña.
 
 📅 Publicado el 24/08/2026 a las 15:00
 🔗 [Ver en YouTube](https://www.youtube.com/watch?v=qYHLjtgr2wI)

@@ -11,14 +11,14 @@ duration_seconds: 257
 duration_minutes: 4
 source: whitelist
 excerpt: >
-  13th warrior trae una pieza breve de noticias y especulación en torno a lo que podría asomar en la preview de otoño. La descripción no concreta contenidos, así que conviene tomarlo como un apunte rápido de actualidad y rumores para seguir el pulso de The Old World.
+  En una pieza breve de noticias y análisis, 13th warrior parece repasar las novedades y posibles rumores vinculados a una preview de otoño para The Old World. La descripción no concreta contenidos, así que conviene tomarlo como una cápsula rápida de actualidad más que como un desglose en profundidad.
 ---
 
 ## 🎲"NOTICIAS + RUMORES PREVIEW OTOÑO"🎲
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/WXvRfw0rBLY" frameborder="0" allowfullscreen></iframe>
 
-13th warrior trae una pieza breve de noticias y especulación en torno a lo que podría asomar en la preview de otoño. La descripción no concreta contenidos, así que conviene tomarlo como un apunte rápido de actualidad y rumores para seguir el pulso de The Old World.
+En una pieza breve de noticias y análisis, 13th warrior parece repasar las novedades y posibles rumores vinculados a una preview de otoño para The Old World. La descripción no concreta contenidos, así que conviene tomarlo como una cápsula rápida de actualidad más que como un desglose en profundidad.
 
 📅 Publicado el 16/09/2026 a las 21:28
 🔗 [Ver en YouTube](https://www.youtube.com/watch?v=WXvRfw0rBLY)

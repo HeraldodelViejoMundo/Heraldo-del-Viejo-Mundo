@@ -11,14 +11,14 @@ duration_seconds: 2805
 duration_minutes: 46
 source: whitelist
 excerpt: >
-  La Taberna del Enano ofrece una charla de corte entrevistado con Diego Gisbert, ilustrador vinculado a Games Workshop y Magic: The Gathering. El vídeo pone el foco en su trayectoria personal y profesional dentro del hobby, con espacio para anécdotas, experiencias compartidas y conversación distendida sobre ilustración y Warhammer.
+  La Taberna del Enano presenta una charla de corte hobbysta con Diego Gisbert, ilustrador vinculado a Games Workshop y Magic: The Gathering. El vídeo parece centrarse en su trayectoria personal y profesional, con espacio para anécdotas, batallitas y conversación distendida alrededor de la ilustración, Warhammer y el hobby.
 ---
 
 ## Diego Gisbert | Ilustrador de Games Workshop y Magic: The Gathering
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/WRTC1FmELRY" frameborder="0" allowfullscreen></iframe>
 
-La Taberna del Enano ofrece una charla de corte entrevistado con Diego Gisbert, ilustrador vinculado a Games Workshop y Magic: The Gathering. El vídeo pone el foco en su trayectoria personal y profesional dentro del hobby, con espacio para anécdotas, experiencias compartidas y conversación distendida sobre ilustración y Warhammer.
+La Taberna del Enano presenta una charla de corte hobbysta con Diego Gisbert, ilustrador vinculado a Games Workshop y Magic: The Gathering. El vídeo parece centrarse en su trayectoria personal y profesional, con espacio para anécdotas, batallitas y conversación distendida alrededor de la ilustración, Warhammer y el hobby.
 
 📅 Publicado el 09/08/2026 a las 09:20
 🔗 [Ver en YouTube](https://www.youtube.com/watch?v=WRTC1FmELRY)

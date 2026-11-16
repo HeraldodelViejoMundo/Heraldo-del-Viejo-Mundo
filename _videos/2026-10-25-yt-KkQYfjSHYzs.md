@@ -11,14 +11,14 @@ duration_seconds: 713
 duration_minutes: 11
 source: whitelist
 excerpt: >
-  Juegos y Dados se aparta aquí del campo de batalla para acercarse al terror gótico literario, con una pieza breve dedicada a una antología de Yeray Ediciones centrada en doce relatos, fantasmas y autoras olvidadas. Un contenido de contexto cultural y libresco para quienes disfruten de las sombras más clásicas del género.
+  Juegos y Dados dedica este vídeo breve a una antología literaria de terror gótico publicada por Yeray Ediciones, centrada en doce relatos de fantasmas y en autoras que la descripción presenta como merecedoras de redescubrimiento. Una pieza de contexto libresco, más cercana a la reseña cultural que al hobby de mesa.
 ---
 
 ## 👻 Ghost Ladies las escritoras olvidadas del terror gótico 🕯️📚 | Libros de terror
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/KkQYfjSHYzs" frameborder="0" allowfullscreen></iframe>
 
-Juegos y Dados se aparta aquí del campo de batalla para acercarse al terror gótico literario, con una pieza breve dedicada a una antología de Yeray Ediciones centrada en doce relatos, fantasmas y autoras olvidadas. Un contenido de contexto cultural y libresco para quienes disfruten de las sombras más clásicas del género.
+Juegos y Dados dedica este vídeo breve a una antología literaria de terror gótico publicada por Yeray Ediciones, centrada en doce relatos de fantasmas y en autoras que la descripción presenta como merecedoras de redescubrimiento. Una pieza de contexto libresco, más cercana a la reseña cultural que al hobby de mesa.
 
 📅 Publicado el 25/10/2026 a las 17:39
 🔗 [Ver en YouTube](https://www.youtube.com/watch?v=KkQYfjSHYzs)

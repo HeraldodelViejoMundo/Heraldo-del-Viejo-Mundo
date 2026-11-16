@@ -11,14 +11,14 @@ duration_seconds: 9814
 duration_minutes: 163
 source: whitelist
 excerpt: >
-  Leyendas en Miniatura dedica una charla extensa al I Martillo de Magritta, con foco en la lista ganadora de Elfos Oscuros, el desarrollo de sus tres rondas y las posibles adaptaciones posteriores. Un contenido entre podcast, análisis de torneo y revisión competitiva para seguir de cerca la escena de Warhammer Fantasy.
+  Leyendas en Miniatura dedica una charla extensa al I Martillo de Magritta, con foco en la lista ganadora de Elfos Oscuros y el desarrollo de sus tres rondas frente a Imperio, Sylvania y Ogros. Un vídeo de análisis de torneo que entra en fortalezas, debilidades y posibles ajustes tras el evento.
 ---
 
 ## I Torneo Martillo de Magritta de Warhammer Fantasy: De Elfos Oscuros y dobles martillos
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/jTJHOP4_HVU" frameborder="0" allowfullscreen></iframe>
 
-Leyendas en Miniatura dedica una charla extensa al I Martillo de Magritta, con foco en la lista ganadora de Elfos Oscuros, el desarrollo de sus tres rondas y las posibles adaptaciones posteriores. Un contenido entre podcast, análisis de torneo y revisión competitiva para seguir de cerca la escena de Warhammer Fantasy.
+Leyendas en Miniatura dedica una charla extensa al I Martillo de Magritta, con foco en la lista ganadora de Elfos Oscuros y el desarrollo de sus tres rondas frente a Imperio, Sylvania y Ogros. Un vídeo de análisis de torneo que entra en fortalezas, debilidades y posibles ajustes tras el evento.
 
 📅 Publicado el 28/07/2026 a las 15:00
 🔗 [Ver en YouTube](https://www.youtube.com/watch?v=jTJHOP4_HVU)

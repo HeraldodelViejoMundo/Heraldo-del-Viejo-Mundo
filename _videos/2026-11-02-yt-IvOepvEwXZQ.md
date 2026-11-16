@@ -11,14 +11,14 @@ duration_seconds: 4205
 duration_minutes: 70
 source: whitelist
 excerpt: >
-  La legion del Turia trae un vídeo informe de Middle-earth SBG a 500 puntos, con Arnor bajo el mando de Arvedui frente a las huestes de Minas Morgul lideradas por el Rey Brujo de Angmar. Una partida de algo más de una hora para cambiar de Viejo Mundo sin abandonar la fantasía bélica.
+  La legion del Turia trae un vídeo informe de Middle-earth SBG a 500 puntos, con Arnor bajo el mando de Arvedui frente a las huestes de Minas Morgul dirigidas por el Rey Brujo de Angmar. Una partida de una hora larga para quienes también siguen las batallas de la Tierra Media en mesa.
 ---
 
 ## Middle Earth SBG: 500 puntos - Arnor vs Minas Morgul.
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/IvOepvEwXZQ" frameborder="0" allowfullscreen></iframe>
 
-La legion del Turia trae un vídeo informe de Middle-earth SBG a 500 puntos, con Arnor bajo el mando de Arvedui frente a las huestes de Minas Morgul lideradas por el Rey Brujo de Angmar. Una partida de algo más de una hora para cambiar de Viejo Mundo sin abandonar la fantasía bélica.
+La legion del Turia trae un vídeo informe de Middle-earth SBG a 500 puntos, con Arnor bajo el mando de Arvedui frente a las huestes de Minas Morgul dirigidas por el Rey Brujo de Angmar. Una partida de una hora larga para quienes también siguen las batallas de la Tierra Media en mesa.
 
 📅 Publicado el 02/11/2026 a las 09:00
 🔗 [Ver en YouTube](https://www.youtube.com/watch?v=IvOepvEwXZQ)

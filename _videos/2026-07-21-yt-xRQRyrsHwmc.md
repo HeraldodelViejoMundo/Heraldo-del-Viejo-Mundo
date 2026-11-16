@@ -11,14 +11,14 @@ duration_seconds: 9886
 duration_minutes: 164
 source: whitelist
 excerpt: >
-  La Escotilla Estaliana Podcast recupera en versión editada su directo alrededor del Big Summer Preview de Games Workshop, con tertulia previa, predicciones y reacción a las novedades para The Old World. Un especial largo de noticias y análisis que pasa por la caja con Grand Cathay y Warriors of Chaos, nuevas miniaturas y expectativas de futuro.
+  La Escotilla Estaliana Podcast presenta un especial largo, en formato directo editado, dedicado al Big Summer Preview de Games Workshop y a las novedades anunciadas para The Old World, con especial atención a la nueva caja básica entre Grand Cathay y Guerreros del Caos, el Dragón del Caos y las primeras impresiones sobre el futuro del juego.
 ---
 
 ## ESPECIAL: The Big Summer Preview (Directo EDITADO).
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/xRQRyrsHwmc" frameborder="0" allowfullscreen></iframe>
 
-La Escotilla Estaliana Podcast recupera en versión editada su directo alrededor del Big Summer Preview de Games Workshop, con tertulia previa, predicciones y reacción a las novedades para The Old World. Un especial largo de noticias y análisis que pasa por la caja con Grand Cathay y Warriors of Chaos, nuevas miniaturas y expectativas de futuro.
+La Escotilla Estaliana Podcast presenta un especial largo, en formato directo editado, dedicado al Big Summer Preview de Games Workshop y a las novedades anunciadas para The Old World, con especial atención a la nueva caja básica entre Grand Cathay y Guerreros del Caos, el Dragón del Caos y las primeras impresiones sobre el futuro del juego.
 
 📅 Publicado el 21/07/2026 a las 15:55
 🔗 [Ver en YouTube](https://www.youtube.com/watch?v=xRQRyrsHwmc)

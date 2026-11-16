@@ -11,14 +11,14 @@ duration_seconds: 4664
 duration_minutes: 77
 source: whitelist
 excerpt: >
-  La Posada del Martillo recupera un análisis de trasfondo centrado en Lords of the Lance, la novela de Graham McNeill que abre el marco narrativo de The Old World. El vídeo la conecta con los Arcane Journals de Bretonia, Khemri y La Guerra de la furia de Settra, además de anticipar la continuación en El río de los Ecos.
+  La Posada del Martillo dedica algo más de una hora a un contenido de trasfondo y análisis centrado en la primera novela de The Old World, de Graham McNeill, y en cómo su hilo continúa a través de varios Arcane Journals, con Settra y los Reinos Fronterizos como eje de la campaña.
 ---
 
 ## Resumen y análisis de Lords of the lance y de la campaña de Settra sobre los Reinos Fronterizos
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/rTMLB1j4OLk" frameborder="0" allowfullscreen></iframe>
 
-La Posada del Martillo recupera un análisis de trasfondo centrado en Lords of the Lance, la novela de Graham McNeill que abre el marco narrativo de The Old World. El vídeo la conecta con los Arcane Journals de Bretonia, Khemri y La Guerra de la furia de Settra, además de anticipar la continuación en El río de los Ecos.
+La Posada del Martillo dedica algo más de una hora a un contenido de trasfondo y análisis centrado en la primera novela de The Old World, de Graham McNeill, y en cómo su hilo continúa a través de varios Arcane Journals, con Settra y los Reinos Fronterizos como eje de la campaña.
 
 📅 Publicado el 02/11/2026 a las 21:21
 🔗 [Ver en YouTube](https://www.youtube.com/watch?v=rTMLB1j4OLk)

@@ -11,14 +11,14 @@ duration_seconds: 3790
 duration_minutes: 63
 source: whitelist
 excerpt: >
-  La Escotilla Estaliana Podcast dedica una hora larga a una reflexión muy de aficionado veterano: cómo compartir miniaturas, dados y fantasía con los hijos a través de HeroQuest. El episodio mezcla mirada de padres y jugadores, con la promesa de escuchar también a los pequeños protagonistas.
+  La Escotilla Estaliana Podcast dedica algo más de una hora a una reflexión muy de hobby: cómo compartir dados, miniaturas y fantasía con los hijos a través de HeroQuest. Un episodio con mirada de jugadores y padres, que plantea si esa primera mazmorra puede acabar sembrando futuras partidas de Warhammer.
 ---
 
 ## 57. HeroQuest ¿La puerta de entrada a Warhammer para tus hijos?
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/ukNQBKCsyyE" frameborder="0" allowfullscreen></iframe>
 
-La Escotilla Estaliana Podcast dedica una hora larga a una reflexión muy de aficionado veterano: cómo compartir miniaturas, dados y fantasía con los hijos a través de HeroQuest. El episodio mezcla mirada de padres y jugadores, con la promesa de escuchar también a los pequeños protagonistas.
+La Escotilla Estaliana Podcast dedica algo más de una hora a una reflexión muy de hobby: cómo compartir dados, miniaturas y fantasía con los hijos a través de HeroQuest. Un episodio con mirada de jugadores y padres, que plantea si esa primera mazmorra puede acabar sembrando futuras partidas de Warhammer.
 
 📅 Publicado el 25/09/2026 a las 05:11
 🔗 [Ver en YouTube](https://www.youtube.com/watch?v=ukNQBKCsyyE)

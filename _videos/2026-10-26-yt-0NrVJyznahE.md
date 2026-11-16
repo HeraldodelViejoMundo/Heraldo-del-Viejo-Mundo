@@ -11,14 +11,14 @@ duration_seconds: 5530
 duration_minutes: 92
 source: whitelist
 excerpt: >
-  Moria Wargames dedica una entrega extensa de Teorihammer Hereje a comentar las FAQs de octubre de 2026, con el enfoque de análisis que sugiere el propio título. Una pieza de noticias y valoración de reglas pensada para situar los cambios antes de llevarlos a la mesa.
+  Moria Wargames plantea una entrega de Teorihammer Hereje centrada en las FAQs de octubre de 2026, con un formato amplio de comentario y análisis. La descripción no concreta los cambios tratados, así que queda como repaso general a las actualizaciones recientes.
 ---
 
 ## FAQs de Octubre 2026 | ¡Las comentamos y analizamos todas! | Teorihammer Hereje
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/0NrVJyznahE" frameborder="0" allowfullscreen></iframe>
 
-Moria Wargames dedica una entrega extensa de Teorihammer Hereje a comentar las FAQs de octubre de 2026, con el enfoque de análisis que sugiere el propio título. Una pieza de noticias y valoración de reglas pensada para situar los cambios antes de llevarlos a la mesa.
+Moria Wargames plantea una entrega de Teorihammer Hereje centrada en las FAQs de octubre de 2026, con un formato amplio de comentario y análisis. La descripción no concreta los cambios tratados, así que queda como repaso general a las actualizaciones recientes.
 
 📅 Publicado el 26/10/2026 a las 12:30
 🔗 [Ver en YouTube](https://www.youtube.com/watch?v=0NrVJyznahE)

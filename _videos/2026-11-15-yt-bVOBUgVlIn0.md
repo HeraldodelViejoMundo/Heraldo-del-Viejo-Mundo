@@ -11,14 +11,14 @@ duration_seconds: 849
 duration_minutes: 14
 source: whitelist
 excerpt: >
-  Juegos y Dados dedica una reseña breve a Tribus y Tribulaciones, suplemento de Warhammer Fantasy Roleplay centrado en orcos, goblins y otras amenazas poco amistosas del Viejo Mundo. Una pieza útil para quienes disfrutan explorando el trasfondo y el tono más aventurero del escenario clásico.
+  Juegos y Dados dedica esta reseña a un suplemento de Warhammer Fantasy Roleplay centrado en orcos, goblins y otras amenazas del Viejo Mundo. En unos 14 minutos, el vídeo parece poner el foco en cómo este material amplía el tono salvaje y peligroso de los viajes por sus caminos.
 ---
 
 ## Warhammer Fantasy RolePlay | Tribus y Tribulaciones | Reseña
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/bVOBUgVlIn0" frameborder="0" allowfullscreen></iframe>
 
-Juegos y Dados dedica una reseña breve a Tribus y Tribulaciones, suplemento de Warhammer Fantasy Roleplay centrado en orcos, goblins y otras amenazas poco amistosas del Viejo Mundo. Una pieza útil para quienes disfrutan explorando el trasfondo y el tono más aventurero del escenario clásico.
+Juegos y Dados dedica esta reseña a un suplemento de Warhammer Fantasy Roleplay centrado en orcos, goblins y otras amenazas del Viejo Mundo. En unos 14 minutos, el vídeo parece poner el foco en cómo este material amplía el tono salvaje y peligroso de los viajes por sus caminos.
 
 📅 Publicado el 15/11/2026 a las 19:31
 🔗 [Ver en YouTube](https://www.youtube.com/watch?v=bVOBUgVlIn0)

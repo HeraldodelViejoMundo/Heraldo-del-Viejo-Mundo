@@ -11,14 +11,14 @@ duration_seconds: 2843
 duration_minutes: 47
 source: whitelist
 excerpt: >
-  La legion del Turia presenta un vídeo informe de The Old World centrado en el choque directo: una hueste de Matadores enanos frente a una avanzada de Guerreros del Caos de Khorne. La descripción apunta a una partida muy orientada al combate cuerpo a cuerpo, dentro de su formato Battle March.
+  La legion del Turia presenta un vídeo informe de Battle March con dos fuerzas volcadas al cuerpo a cuerpo: una hueste enana de Matadores frente a una avanzada de Guerreros del Caos de Khorne. Un choque directo, de casi tres cuartos de hora, centrado en la fase de combate.
 ---
 
 ## WARHAMMER The Old World: Battle March - Hueste de Matadores vs Guerreros del Caos
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/GOcE1rsMkv4" frameborder="0" allowfullscreen></iframe>
 
-La legion del Turia presenta un vídeo informe de The Old World centrado en el choque directo: una hueste de Matadores enanos frente a una avanzada de Guerreros del Caos de Khorne. La descripción apunta a una partida muy orientada al combate cuerpo a cuerpo, dentro de su formato Battle March.
+La legion del Turia presenta un vídeo informe de Battle March con dos fuerzas volcadas al cuerpo a cuerpo: una hueste enana de Matadores frente a una avanzada de Guerreros del Caos de Khorne. Un choque directo, de casi tres cuartos de hora, centrado en la fase de combate.
 
 📅 Publicado el 09/11/2026 a las 09:00
 🔗 [Ver en YouTube](https://www.youtube.com/watch?v=GOcE1rsMkv4)

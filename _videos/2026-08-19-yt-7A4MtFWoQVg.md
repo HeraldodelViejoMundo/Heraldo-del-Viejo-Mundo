@@ -11,14 +11,14 @@ duration_seconds: 12036
 duration_minutes: 200
 source: whitelist
 excerpt: >
-  La Escotilla Estaliana Podcast dedica un extenso programa a la construcción de ejércitos desde la narrativa, con lecturas del trasfondo de Los Caballeros de Dun-Mhor y su fortaleza como eje. También hay espacio para crónica warhammeril en Finlandia, charla de hobby y lo pintado recientemente.
+  La Escotilla Estaliana Podcast dedica una entrega extensa a la construcción de ejércitos desde la narrativa, alejándose del enfoque competitivo para llevar trasfondo y literatura a la mesa. Entre crónicas de viaje, hobby y varieté, el programa incluye lecturas sobre los Caballeros de Dun-Mhor y su fortaleza.
 ---
 
 ## 55  ¡OLVIDA EL META! Así se construyen listas con NARRATIVA.
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/7A4MtFWoQVg" frameborder="0" allowfullscreen></iframe>
 
-La Escotilla Estaliana Podcast dedica un extenso programa a la construcción de ejércitos desde la narrativa, con lecturas del trasfondo de Los Caballeros de Dun-Mhor y su fortaleza como eje. También hay espacio para crónica warhammeril en Finlandia, charla de hobby y lo pintado recientemente.
+La Escotilla Estaliana Podcast dedica una entrega extensa a la construcción de ejércitos desde la narrativa, alejándose del enfoque competitivo para llevar trasfondo y literatura a la mesa. Entre crónicas de viaje, hobby y varieté, el programa incluye lecturas sobre los Caballeros de Dun-Mhor y su fortaleza.
 
 📅 Publicado el 19/08/2026 a las 04:00
 🔗 [Ver en YouTube](https://www.youtube.com/watch?v=7A4MtFWoQVg)

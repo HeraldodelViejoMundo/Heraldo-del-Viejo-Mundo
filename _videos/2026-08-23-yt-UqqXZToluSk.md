@@ -11,14 +11,14 @@ duration_seconds: 4632
 duration_minutes: 77
 source: whitelist
 excerpt: >
-  La Forja del Fénix abre una campaña ambientada en Lustria con un enfrentamiento entre Hombres Lagarto y Demonios del Caos, marcado por la aparición de portales y la irrupción de las huestes de los cuatro dioses. Un vídeo informe de larga duración para seguir el arranque narrativo de esta invasión.
+  La Forja del Fénix abre una campaña en Lustria con un enfrentamiento narrativo entre Hombres Lagarto y Demonios del Caos. La premisa sitúa a las huestes de Slaanesh, Khorne, Tzeentch y Nurgle irrumpiendo por portales abiertos por unos vientos de la magia anómalos, ante la respuesta armada de los defensores saurios.
 ---
 
 ## Campaña Lustria 8th: EP 1 Lagartos Vs Demonios "Los portales se abren"
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/UqqXZToluSk" frameborder="0" allowfullscreen></iframe>
 
-La Forja del Fénix abre una campaña ambientada en Lustria con un enfrentamiento entre Hombres Lagarto y Demonios del Caos, marcado por la aparición de portales y la irrupción de las huestes de los cuatro dioses. Un vídeo informe de larga duración para seguir el arranque narrativo de esta invasión.
+La Forja del Fénix abre una campaña en Lustria con un enfrentamiento narrativo entre Hombres Lagarto y Demonios del Caos. La premisa sitúa a las huestes de Slaanesh, Khorne, Tzeentch y Nurgle irrumpiendo por portales abiertos por unos vientos de la magia anómalos, ante la respuesta armada de los defensores saurios.
 
 📅 Publicado el 23/08/2026 a las 15:00
 🔗 [Ver en YouTube](https://www.youtube.com/watch?v=UqqXZToluSk)
