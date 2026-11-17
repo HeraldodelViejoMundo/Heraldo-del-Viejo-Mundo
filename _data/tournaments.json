@@ -252,6 +252,24 @@
     "es_madrid": false
   },
   {
+    "fecha": "2026-12-06",
+    "fecha_fin": null,
+    "nombre": "Jornada de mañanas TOW Monte Ronin Valencia - Diciembre 2026",
+    "ciudad": "Valencia (Valencia)",
+    "direccion": null,
+    "sistema": "The Old World",
+    "puntos": 750,
+    "plazas": null,
+    "precio": null,
+    "url_inscripcion": "https://www.bestcoastpairings.com/event/eYzImKbxCHwx?active_tab=overview&utm_source=torneoswarhammer&utm_medium=torneos&utm_campaign=ficha_torneo&utm_content=inscripcion&tw_origen=ficha&tw_tipo=torneo&tw_id=572",
+    "url_bases": "https://torneoswarhammer.com/wp-content/docsTW/bases/bases-the-old-world-ronin-valencia-2026-diciembre-bases.pdf",
+    "organizador": null,
+    "notas": null,
+    "fuente": "torneos_warhammer",
+    "destacado": false,
+    "es_madrid": false
+  },
+  {
     "fecha": "2026-12-12",
     "fecha_fin": "2026-12-13",
     "nombre": "Qualifs WTC Fr",
