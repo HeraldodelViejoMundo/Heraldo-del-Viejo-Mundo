@@ -1767,7 +1767,9 @@
   "notes": "Tienda de informática con punto de venta de Warhammer 40.000, Age of Sigmar y Citadel Colour.",
   "lat": 40.456885,
   "lon": -3.675641,
-  "geo_quality": "address"
+  "geo_quality": "address",
+  "colab": true,
+  "logo": "/assets/tiendas/pc-chamartin.png"
  },
  {
   "name": "Toy Planet Yupi",
