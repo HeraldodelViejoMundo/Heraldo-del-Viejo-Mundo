@@ -350,6 +350,10 @@
     .tn-filters select, .tn-filters input[type="text"] { min-width: 140px; flex: 1; }
     .tn-count { width: 100%; margin-left: 0; }
   }
+
+.tn-card-logo { display: block; max-height: 40px; max-width: 150px; margin: 0 0 0.35em; }
+.tn-popup-logo { display: block; max-height: 34px; max-width: 130px; margin: 0 0 0.3em; }
+.tn-card-meta a, .tn-popup-meta a { color: #8b5a2b; font-weight: 600; }
 </style>
 
 <p><a href="/">
@@ -446,14 +450,34 @@
             .replace(/"/g, '&quot;').replace(/'/g, '&#39;');
   }
 
+  // Tiendas colaboradoras (enlazan al Heraldo): su web es un enlace y llevan logo.
+  // Todas las tiendas en nofollow salvo El Arca Negra e ImpriWars (siempre follow).
+  function webUrl(w) {
+    if (!w) return '';
+    return /^https?:\/\//.test(w) ? w : 'https://' + w;
+  }
+  function webRel(w) {
+    return /(elarcanegra\.com|impriwars\.com)/i.test(w || '') ? 'noopener' : 'nofollow noopener';
+  }
+  function webHtml(s) {
+    if (!s.web) return '';
+    if (!s.colab) return '🌐 ' + escapeHtml(s.web);
+    return '🌐 <a href="' + escapeHtml(webUrl(s.web)) + '" target="_blank" rel="' + webRel(s.web) + '">' + escapeHtml(s.web) + '</a>';
+  }
+  function logoHtml(s, cls) {
+    if (!s.colab || !s.logo) return '';
+    const img = '<img src="' + escapeHtml(s.logo) + '" alt="' + escapeHtml(s.name) + '" class="' + cls + '" loading="lazy">';
+    return s.web ? '<a href="' + escapeHtml(webUrl(s.web)) + '" target="_blank" rel="' + webRel(s.web) + '">' + img + '</a>' : img;
+  }
+
   function popupHtml(s) {
-    let html = '<div class="tn-popup-name">' + escapeHtml(s.name) + '</div>';
+    let html = logoHtml(s, 'tn-popup-logo') + '<div class="tn-popup-name">' + escapeHtml(s.name) + '</div>';
     if (s.chain) html += '<div style="font-style:italic;color:#8b5a2b;font-size:0.85em;margin-bottom:0.3em;">Parte de ' + escapeHtml(s.chain) + '</div>';
     html += '<div class="tn-popup-addr">' + escapeHtml(s.address) + '</div>';
     let meta = [];
     if (s.phone) meta.push('☎ ' + escapeHtml(s.phone));
     if (s.web) {
-      meta.push('🌐 ' + escapeHtml(s.web));
+      meta.push(webHtml(s));
     }
     if (meta.length) html += '<div class="tn-popup-meta">' + meta.join(' · ') + '</div>';
     return html;
@@ -465,7 +489,7 @@
     const badgeTxt = s.kind === 'GW' ? 'Oficial GW' : 'Independiente';
     let html = '<div class="tn-card ' + kindCls + '">';
     html += '<div class="tn-card-head">';
-    html += '  <div class="tn-card-name">' + escapeHtml(s.name) + '</div>';
+    html += '  <div class="tn-card-name">' + logoHtml(s, 'tn-card-logo') + escapeHtml(s.name) + '</div>';
     html += '  <span class="tn-badge ' + badgeCls + '">' + badgeTxt + '</span>';
     html += '</div>';
     if (s.chain) html += '<div class="tn-card-chain">Parte de ' + escapeHtml(s.chain) + '</div>';
@@ -473,7 +497,7 @@
     let meta = [];
     if (s.phone) meta.push('☎ ' + escapeHtml(s.phone));
     if (s.web) {
-      meta.push('🌐 ' + escapeHtml(s.web));
+      meta.push(webHtml(s));
     }
     if (s.email) {
       const emails = s.email.split(/\s*[·,]\s*/).filter(e => e.trim());
