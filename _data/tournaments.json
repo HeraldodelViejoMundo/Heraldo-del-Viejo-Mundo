@@ -1,23 +1,5 @@
 [
   {
-    "fecha": "2026-11-20",
-    "fecha_fin": null,
-    "nombre": "Torneo The Old World GT Bilbohammer",
-    "ciudad": "Bilbao (Bizkaia)",
-    "direccion": null,
-    "sistema": "The Old World",
-    "puntos": null,
-    "plazas": null,
-    "precio": null,
-    "url_inscripcion": "https://torneoswarhammer.com/torneos/the-old-world-gt-bilbohammer/",
-    "url_bases": null,
-    "organizador": null,
-    "notas": null,
-    "fuente": "torneos_warhammer",
-    "destacado": false,
-    "es_madrid": false
-  },
-  {
     "fecha": "2026-11-21",
     "fecha_fin": null,
     "nombre": "I Torneo Mordheim Ciudad de Logroño",
@@ -394,6 +376,24 @@
     "fuente": "torneos_warhammer",
     "destacado": false,
     "es_madrid": true
+  },
+  {
+    "fecha": "2026-12-19",
+    "fecha_fin": "2026-12-20",
+    "nombre": "GT Zaragoza 2026 - Clasificatorio Naicional 2027",
+    "ciudad": "",
+    "direccion": null,
+    "sistema": "The Old World",
+    "puntos": null,
+    "plazas": null,
+    "precio": null,
+    "url_inscripcion": "https://www.newrecruit.eu/app/tournydetails/details?id=6af6d478c493535569dbc18f",
+    "url_bases": null,
+    "organizador": null,
+    "notas": null,
+    "fuente": "newrecruit",
+    "destacado": false,
+    "es_madrid": false
   },
   {
     "fecha": "2026-12-19",
